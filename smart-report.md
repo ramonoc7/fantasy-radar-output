@@ -1,7 +1,7 @@
 # Informe Inteligente Ligas Fantasy
 
-Generado: 18/8/26, 19:32
-Datos API: 18/8/26, 19:32
+Generado: 18/8/26, 21:50
+Datos API: 18/8/26, 21:50
 Semana actual: 1
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -117,12 +117,11 @@ Formacion: 5-3-2 | puntuacion interna 847
 - Liga: puesto 4/10, 23 puntos, a 27 del lider (Mynavo Kyiv)
 - Ranking por valor de plantilla: 5/10
 - Plantilla: 15 jugadores
-- Mercado jugable: 23
+- Mercado jugable: 21
 
 ### Alertas
 
 - Kumbulla en plantilla aparece como doubtful.
-- 2 jugador(es) jugables caducan en menos de 8 horas.
 - 1 entrenador(es) ignorados por Premium.
 
 ### Situacion
@@ -180,7 +179,7 @@ Formacion: 3-4-3 | puntuacion interna 809
 - SOLO SI ESTA BARATO: CEN Hugo Alvarez | score 70 | precio 2.873.602 EUR | valor 2.870.968 EUR | puja 2.879.350 EUR | max 2.916.707 EUR | pujas 0 | caduca 19/8/26, 10:53 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 112, valor 2.870.968 EUR | Interesante, pero conviene verificar titularidad
 - SOLO SI ESTA BARATO: CEN R. Terrats | score 68 | precio 3.123.155 EUR | valor 3.115.825 EUR | puja 3.310.545 EUR | max 3.427.408 EUR | pujas 1 | caduca 19/8/26, 10:53 | base: pts actuales 2 (peso bajo), media 2, pts temp ant 87, valor 3.115.825 EUR | Interesante, pero conviene verificar titularidad
 - SOLO SI ES CLARO: DEF Eric | score 67 | precio 44.561.543 EUR | valor 44.563.398 EUR | puja 45.229.967 EUR | max 46.344.005 EUR | ofertas 1 | vende alemois | caduca 20/8/26, 14:03 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 201, valor 44.563.398 EUR | Consume demasiado saldo para una recomendacion automatica
-- SOLO SI ES CLARO: DEF Grimaldo | score 56 | precio 46.428.597 EUR | valor 46.354.543 EUR | puja 46.521.455 EUR | max 47.125.026 EUR | pujas 0 | caduca 19/8/26, 10:53 | base: pts actuales 0 (peso bajo), media 0, valor 46.354.543 EUR | Consume demasiado saldo para una recomendacion automatica
+- SOLO SI ES CLARO: DEF Grimaldo | score 52 | precio 46.428.597 EUR | valor 46.354.543 EUR | puja 47.125.026 EUR | max 48.208.725 EUR | pujas 1 | caduca 19/8/26, 10:53 | base: pts actuales 0 (peso bajo), media 0, valor 46.354.543 EUR | Consume demasiado saldo para una recomendacion automatica
 
 ### Vigilar
 
@@ -198,8 +197,6 @@ Formacion: 3-4-3 | puntuacion interna 809
 - EVITAR: DEF R.P. Bigas | score 44 | precio 4.788.457 EUR | valor 4.785.492 EUR | No pujar salvo que lo revisemos manualmente | ofertas 1 | vende Dynamo de Maghreb FC | caduca 21/8/26, 0:50 | doubtful | base: pts actuales 0 (peso bajo), media 0, pts temp ant 131, valor 4.785.492 EUR, estado doubtful | Poco valor para esta plantilla
 - EVITAR: CEN Camavinga | score 43 | precio 15.000.000 EUR | valor 9.857.862 EUR | No pujar salvo que lo revisemos manualmente | ofertas 0 | vende West Jamon C.F.D. | caduca 21/8/26, 12:10 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 121, valor 9.857.862 EUR | Sobreprecio del 52%
 - EVITAR: DEL Isi | score 41 | precio 30.000.000 EUR | valor 20.144.326 EUR | No pujar salvo que lo revisemos manualmente | ofertas 0 | vende West Jamon C.F.D. | caduca 20/8/26, 23:32 | base: pts actuales 3 (peso bajo), media 3, pts temp ant 139, valor 20.144.326 EUR | Sobreprecio del 49%
-- EVITAR: DEF E. Militão | score 11 | precio 12.041.791 EUR | valor 11.096.141 EUR | No pujar: injured | ofertas 1 | vende Robinhoo | caduca 18/8/26, 19:59 | injured | base: pts actuales 0 (peso bajo), media 0, pts temp ant 103, valor 11.096.141 EUR, estado injured | Estado injured
-- EVITAR: DEF Purić | score 1 | precio 434.872 EUR | valor 434.872 EUR | No pujar: out_of_league | ofertas 1 | vende Robinhoo | caduca 18/8/26, 19:59 | out_of_league | base: pts actuales 0 (peso bajo), media 0, pts temp ant 3, valor 434.872 EUR, estado out_of_league | Estado out_of_league
 
 ### Vender O Liberar Hueco
 

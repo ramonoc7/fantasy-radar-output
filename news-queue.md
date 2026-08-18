@@ -1,7 +1,7 @@
 # Cola diaria de noticias y titularidad
 
-Generada: 18/8/26, 19:32
-Datos Fantasy: 18/8/26, 19:32
+Generada: 18/8/26, 21:50
+Datos Fantasy: 18/8/26, 21:50
 
 Uso: esta es la lista corta que ChatGPT/Codex debe verificar en internet antes de cerrar pujas fuertes o el once. El radar solo aconseja; Ramon ejecuta todo manualmente.
 
@@ -83,9 +83,9 @@ Situacion: puesto 4/10, a 27 del lider.
 - DEL Ejuke (sin equipo): VIGILAR por 2.604.353 EUR; Puede servir si mejora titularidad/precio.
   Precio: 2.604.353 EUR | valor: 2.602.265 EUR | score interno: 65.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Ejuke para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
-- DEF Iñigo (sin equipo): VIGILAR por 720.788 EUR; Puede servir si mejora titularidad/precio.
-  Precio: 720.788 EUR | valor: 720.175 EUR | score interno: 65.
-  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Iñigo para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
+- DEF Grimaldo (sin equipo): SOLO SI ES CLARO por 46.428.597 EUR; Consume demasiado saldo para una recomendacion automatica.
+  Precio: 46.428.597 EUR | valor: 46.354.543 EUR | score interno: 52.
+  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Grimaldo para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
 
 ## Los Mastuerzos
 
