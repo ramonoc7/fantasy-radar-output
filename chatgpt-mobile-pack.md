@@ -1,6 +1,6 @@
 # ChatGPT Mobile Pack - Ligas Fantasy
 
-Actualizado: 2026-08-18T16:29:44.386Z
+Actualizado: 2026-08-18T17:32:15.125Z
 
 ## Resumen movil de 10 minutos
 
@@ -9,7 +9,7 @@ Regla: el radar no ejecuta acciones. Los puntos actuales pesan poco; un 0 no es 
 
 ### Los Primacos
 
-Saldo 60.811.702 EUR | plantilla 19 | mercado 17 | puesto 7/12, a 25 del lider
+Saldo 60.811.702 EUR | plantilla 19 | mercado 19 | puesto 7/12, a 25 del lider
 Alertas: Rodrygo en plantilla aparece como injured. / 3 jugador(es) jugables caducan en menos de 8 horas. / 2 entrenador(es) ignorados por Premium.
 
 Once recomendado:
@@ -209,7 +209,7 @@ Prioridades:
 
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-18T16:29:44.386Z
+Datos API: 2026-08-18T17:32:15.125Z
 Semana actual: 1
 
 ## Objetivo
@@ -239,7 +239,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - Saldo: 60.811.702 EUR
 - Valor plantilla: 169.975.906 EUR
 - Jugadores plantilla: 19
-- Mercado jugable: 17
+- Mercado jugable: 19
 - Entrenadores ignorados: 2
 - Estrategia: Arreglar porteria y defensa sin desmontar activos caros; convertir dinero concentrado en titulares baratos utiles.
 
@@ -291,6 +291,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - DEF B. Sangare | precio 3.713.839 EUR | valor 3.709.671 EUR | machine | pujas 0 | caduca 19/8/26, 12:46
 - DEF Nuñez | precio 3.903.096 EUR | valor 3.892.358 EUR | machine | pujas 0 | caduca 19/8/26, 12:46
 - DEL Cala | precio 4.026.032 EUR | valor 4.019.532 EUR | machine | pujas 0 | caduca 19/8/26, 12:46
+- POR A. Ferllo | precio 4.483.208 EUR | valor 4.483.208 EUR | rival | ofertas 0 | vende Rubio 05 | caduca 21/8/26, 18:36
 - DEF Riedel | precio 4.582.772 EUR | valor 4.570.616 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 21/8/26, 1:11
 
 #### Premium a revisar
@@ -304,6 +305,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - Sorloth: estado injured en mercado.
 - Vivian: estado injured en mercado.
 - Rodrygo: estado injured en mercado.
+- Rioja: estado injured en mercado.
 - Hay 2 entrenadores en mercado: ignorar por funcion Premium bloqueada.
 
 ### Fantasmas League
@@ -446,8 +448,8 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 # Cola diaria de noticias y titularidad
 
-Generada: 18/8/26, 18:29
-Datos Fantasy: 18/8/26, 18:29
+Generada: 18/8/26, 19:32
+Datos Fantasy: 18/8/26, 19:32
 
 Uso: esta es la lista corta que ChatGPT/Codex debe verificar en internet antes de cerrar pujas fuertes o el once. El radar solo aconseja; Ramon ejecuta todo manualmente.
 
@@ -586,8 +588,8 @@ Usa esta cola. Busca en internet noticias recientes, onces probables, rol previs
 
 # Informe Inteligente Ligas Fantasy
 
-Generado: 18/8/26, 18:29
-Datos API: 18/8/26, 18:29
+Generado: 18/8/26, 19:32
+Datos API: 18/8/26, 19:32
 Semana actual: 1
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -602,7 +604,7 @@ Semana actual: 1
 - Liga: puesto 7/12, 0 puntos, a 25 del lider (leomaldonado10)
 - Ranking por valor de plantilla: 2/12
 - Plantilla: 19 jugadores
-- Mercado jugable: 17
+- Mercado jugable: 19
 
 ### Alertas
 
@@ -672,14 +674,16 @@ Formacion: 5-3-2 | puntuacion interna 847
 - VIGILAR: CEN Cheikh Thiam | score 60 | precio 975.924 EUR | valor 975.414 EUR | puja 977.876 EUR | max 990.563 EUR | pujas 0 | caduca 19/8/26, 12:46 | base: pts actuales 0 (peso bajo), media 0, valor 975.414 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: CEN Bauza | score 60 | precio 869.139 EUR | valor 868.629 EUR | puja 870.878 EUR | max 882.177 EUR | pujas 0 | caduca 19/8/26, 12:46 | base: pts actuales 0 (peso bajo), media 0, valor 868.629 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: POR Ferrer | score 59 | precio 676.301 EUR | valor 675.791 EUR | puja 677.654 EUR | max 686.446 EUR | pujas 0 | caduca 19/8/26, 12:46 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 0, valor 675.791 EUR | Puede servir si mejora titularidad/precio
+- VIGILAR: POR A. Ferllo | score 58 | precio 4.483.208 EUR | valor 4.483.208 EUR | puja 4.492.175 EUR | max 4.550.457 EUR | ofertas 0 | vende Rubio 05 | caduca 21/8/26, 18:36 | base: pts actuales 0 (peso bajo), media 0, valor 4.483.208 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: DEF Javi Galán | score 55 | precio 12.679.451 EUR | valor 11.764.087 EUR | puja 13.123.232 EUR | max 13.123.232 EUR | ofertas 1 | vende _israa_ | caduca 18/8/26, 21:50 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 110, valor 11.764.087 EUR | Puede servir si mejora titularidad/precio
 - MIRAR: DEF Cucurella | score 41 | precio 79.928.843 EUR | valor 79.855.234 EUR | puja 80.088.701 EUR | max 81.127.776 EUR | pujas 0 | caduca 19/8/26, 12:46 | base: pts actuales 0 (peso bajo), media 0, valor 79.855.234 EUR | No entra en saldo actual sin ventas
 
 ### Evitar
 
 - EVITAR: DEL Rodrygo | score 13 | precio 2.852.861 EUR | valor 2.850.525 EUR | No pujar: injured | ofertas 1 | vende Ramounsitou | caduca 21/8/26, 9:34 | injured | base: pts actuales 0 (peso bajo), media 0, pts temp ant 92, valor 2.850.525 EUR, estado injured | Estado injured
+- EVITAR: CEN Rioja | score 13 | precio 11.489.690 EUR | valor 11.489.690 EUR | No pujar: injured | ofertas 0 | vende Rubio 05 | caduca 21/8/26, 18:36 | injured | base: pts actuales 0 (peso bajo), media 0, pts temp ant 191, valor 11.489.690 EUR, estado injured | Estado injured
 - EVITAR: DEL Sorloth | score 12 | precio 23.345.449 EUR | valor 21.391.160 EUR | No pujar: injured | ofertas 1 | vende _israa_ | caduca 18/8/26, 21:51 | injured | base: pts actuales 0 (peso bajo), media 0, pts temp ant 157, valor 21.391.160 EUR, estado injured | Estado injured
-- EVITAR: DEF Vivian | score 10 | precio 10.512.541 EUR | valor 9.910.663 EUR | No pujar: injured | ofertas 1 | vende Rubio 05 | caduca 19/8/26, 20:35 | injured | base: pts actuales 0 (peso bajo), media 0, pts temp ant 124, valor 9.910.663 EUR, estado injured | Estado injured
+- EVITAR: DEF Vivian | score 11 | precio 10.512.541 EUR | valor 9.910.663 EUR | No pujar: injured | ofertas 0 | vende Rubio 05 | caduca 19/8/26, 20:35 | injured | base: pts actuales 0 (peso bajo), media 0, pts temp ant 124, valor 9.910.663 EUR, estado injured | Estado injured
 - EVITAR: CEN Dotor | score 9 | precio 3.647.240 EUR | valor 3.345.322 EUR | No pujar: injured | ofertas 1 | vende _israa_ | caduca 18/8/26, 21:51 | injured | base: pts actuales 0 (peso bajo), media 0, valor 3.345.322 EUR, estado injured | Estado injured
 
 ### Vender O Liberar Hueco
