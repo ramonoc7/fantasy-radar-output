@@ -1,6 +1,6 @@
 {
-  "publishedAt": "2026-08-20T19:39:19.229Z",
-  "apiSyncedAt": "2026-08-20T19:39:18.958Z",
+  "publishedAt": "2026-08-20T20:39:50.342Z",
+  "apiSyncedAt": "2026-08-20T20:39:50.059Z",
   "leagues": [
     {
       "id": "los-primacos",
@@ -17,7 +17,7 @@
     {
       "id": "los-mastuerzos",
       "name": "Los Mastuerzos",
-      "players": 15,
+      "players": 16,
       "marketPlayers": 16
     }
   ],

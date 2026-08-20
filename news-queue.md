@@ -1,13 +1,13 @@
 # Cola diaria de noticias y titularidad
 
-Generada: 20/8/26, 21:39
-Datos Fantasy: 20/8/26, 21:39
+Generada: 20/8/26, 22:39
+Datos Fantasy: 20/8/26, 22:39
 
 Uso: esta es la lista corta que ChatGPT/Codex debe verificar en internet antes de cerrar pujas fuertes o el once. El radar solo aconseja; Ramon ejecuta todo manualmente.
 
 ## Los Primacos
 
-Situacion: puesto 8/12, a 27 del lider.
+Situacion: puesto 8/12, a 26 del lider.
 
 - DEL Giuliano (sin equipo): MIRAR por 41.891.616 EUR; No entra en saldo actual sin ventas.
   Precio: 41.891.616 EUR | valor: 41.889.628 EUR | score interno: 73.
@@ -27,8 +27,8 @@ Situacion: puesto 8/12, a 27 del lider.
 - DEF Suazo (Sevilla FC): Entra en el once recomendado pero no esta guardado ahora.
   Precio: 5.148.334 EUR | valor: 5.148.334 EUR | score interno: 57.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Suazo Sevilla FC para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
-- CEN Mikel Rodriguez (sin equipo): VIGILAR por 932.862 EUR; Puede servir si mejora titularidad/precio.
-  Precio: 932.862 EUR | valor: 987.176 EUR | score interno: 65.
+- CEN Mikel Rodriguez (sin equipo): SOLO SI ESTA BARATO por 932.862 EUR; Interesante, pero conviene verificar titularidad.
+  Precio: 932.862 EUR | valor: 987.176 EUR | score interno: 67.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Mikel Rodriguez para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
 - DEL Sadiq (sin equipo): SOLO SI ESTA BARATO por 6.407.180 EUR; Interesante, pero conviene verificar titularidad.
   Precio: 6.407.180 EUR | valor: 6.406.902 EUR | score interno: 70.
@@ -42,9 +42,9 @@ Situacion: puesto 8/12, a 27 del lider.
 - DEL Miguel Rodríguez (sin equipo): VIGILAR por 2.873.004 EUR; Puede servir si mejora titularidad/precio.
   Precio: 2.873.004 EUR | valor: 2.792.822 EUR | score interno: 57.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Miguel Rodríguez para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
-- POR A. Fortuño (sin equipo): VIGILAR por 512.928 EUR; Puede servir si mejora titularidad/precio.
-  Precio: 512.928 EUR | valor: 512.903 EUR | score interno: 60.
-  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de A. Fortuño para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
+- DEL Lamine Yamal (sin equipo): MIRAR por 126.378.854 EUR; No entra en saldo actual sin ventas.
+  Precio: 126.378.854 EUR | valor: 126.370.350 EUR | score interno: 53.
+  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Lamine Yamal para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
 
 ## Fantasmas League
 
@@ -57,7 +57,7 @@ Situacion: puesto 4/10, a 26 del lider.
   Precio: 10.098.553 EUR | valor: 10.097.368 EUR | score interno: 68.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de El Hilali para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
 - DEF Koski (Deportivo Alavés): Entra en el once recomendado pero no esta guardado ahora.
-  Precio: 1.152.978 EUR | valor: 1.152.978 EUR | score interno: 61.
+  Precio: 1.152.978 EUR | valor: 1.152.978 EUR | score interno: 63.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Koski Deportivo Alavés para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
 - DEL Giuliano (sin equipo): MIRAR por 41.891.616 EUR; No entra en saldo actual sin ventas.
   Precio: 41.891.616 EUR | valor: 41.889.628 EUR | score interno: 69.
@@ -89,45 +89,44 @@ Situacion: puesto 4/10, a 26 del lider.
 
 ## Los Mastuerzos
 
-Situacion: puesto 8/10, a 21 del lider.
+Situacion: puesto 8/10, a 20 del lider.
 
-- POR A. Batalla (sin equipo): MIRAR por 38.760.030 EUR; Ya hay portero fiable; solo interesa si quieres segundo portero.
-  Precio: 38.760.030 EUR | valor: 38.529.992 EUR | score interno: 75.
-  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de A. Batalla para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Mastuerzos. No ejecutes acciones: solo aconseja.
-- DEF Abel Bretones (sin equipo): SOLO SI ESTA BARATO por 4.026.622 EUR; Interesante, pero conviene verificar titularidad.
-  Precio: 4.026.622 EUR | valor: 4.128.791 EUR | score interno: 80.
-  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Abel Bretones para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Mastuerzos. No ejecutes acciones: solo aconseja.
-- POR Agirrezabala (sin equipo): SOLO SI ESTA BARATO por 3.542.354 EUR; Interesante, pero conviene verificar titularidad.
-  Precio: 3.542.354 EUR | valor: 3.828.353 EUR | score interno: 79.
-  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Agirrezabala para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Mastuerzos. No ejecutes acciones: solo aconseja.
-- DEL Paco Cortes (sin equipo): SOLO SI ESTA BARATO por 753.220 EUR; Interesante, pero conviene verificar titularidad.
-  Precio: 753.220 EUR | valor: 742.867 EUR | score interno: 73.
-  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Paco Cortes para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Mastuerzos. No ejecutes acciones: solo aconseja.
-- DEF Hector Fort (sin equipo): SOLO SI ESTA BARATO por 3.116.810 EUR; Interesante, pero conviene verificar titularidad.
-  Precio: 3.116.810 EUR | valor: 3.054.643 EUR | score interno: 68.
-  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Hector Fort para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Mastuerzos. No ejecutes acciones: solo aconseja.
+- DEF Aramburu (sin equipo): SOLO SI ESTA BARATO por 18.139.034 EUR; Interesante, pero conviene verificar titularidad.
+  Precio: 18.139.034 EUR | valor: 18.139.034 EUR | score interno: 77.
+  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Aramburu para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Mastuerzos. No ejecutes acciones: solo aconseja.
+- DEF Bright Ede (sin equipo): SOLO SI ESTA BARATO por 2.983.840 EUR; Interesante, pero conviene verificar titularidad.
+  Precio: 2.983.840 EUR | valor: 2.983.840 EUR | score interno: 83.
+  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Bright Ede para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Mastuerzos. No ejecutes acciones: solo aconseja.
+- DEL Cala (sin equipo): SOLO SI ESTA BARATO por 4.082.439 EUR; Interesante, pero conviene verificar titularidad.
+  Precio: 4.082.439 EUR | valor: 4.082.439 EUR | score interno: 80.
+  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Cala para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Mastuerzos. No ejecutes acciones: solo aconseja.
+- CEN Óscar Valentín (sin equipo): SOLO SI ESTA BARATO por 4.032.015 EUR; Interesante, pero conviene verificar titularidad.
+  Precio: 4.032.015 EUR | valor: 4.032.015 EUR | score interno: 79.
+  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Óscar Valentín para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Mastuerzos. No ejecutes acciones: solo aconseja.
+- CEN Mangala (sin equipo): SOLO SI ESTA BARATO por 10.638.278 EUR; Interesante, pero conviene verificar titularidad.
+  Precio: 10.638.278 EUR | valor: 10.638.278 EUR | score interno: 67.
+  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Mangala para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Mastuerzos. No ejecutes acciones: solo aconseja.
+- CEN Valverde (sin equipo): MIRAR por 71.728.607 EUR; No entra en saldo actual sin ventas.
+  Precio: 71.728.607 EUR | valor: 71.728.607 EUR | score interno: 64.
+  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Valverde para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Mastuerzos. No ejecutes acciones: solo aconseja.
+- DEF De Las Sias (sin equipo): SOLO SI ESTA BARATO por 566.156 EUR; Interesante, pero conviene verificar titularidad.
+  Precio: 566.156 EUR | valor: 566.156 EUR | score interno: 71.
+  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de De Las Sias para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Mastuerzos. No ejecutes acciones: solo aconseja.
 - CEN Maguette (R. Racing Club): Entra en el once recomendado pero no esta guardado ahora.
   Precio: 3.720.017 EUR | valor: 3.720.017 EUR | score interno: 53.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Maguette R. Racing Club para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Mastuerzos. No ejecutes acciones: solo aconseja.
 - DEL Robbie Ure (sin equipo): VIGILAR por 14.036.064 EUR; Puede servir si mejora titularidad/precio.
-  Precio: 14.036.064 EUR | valor: 12.035.197 EUR | score interno: 61.
+  Precio: 14.036.064 EUR | valor: 12.035.197 EUR | score interno: 57.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Robbie Ure para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Mastuerzos. No ejecutes acciones: solo aconseja.
 - CEN Camavinga (sin equipo): VIGILAR por 9.480.579 EUR; Puede servir si mejora titularidad/precio.
   Precio: 9.480.579 EUR | valor: 9.480.129 EUR | score interno: 63.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Camavinga para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Mastuerzos. No ejecutes acciones: solo aconseja.
-- DEF M. Loureiro (sin equipo): SOLO SI ESTA BARATO por 3.469.235 EUR; Interesante, pero conviene verificar titularidad.
-  Precio: 3.469.235 EUR | valor: 3.379.674 EUR | score interno: 67.
-  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de M. Loureiro para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Mastuerzos. No ejecutes acciones: solo aconseja.
-- CEN Deossa (sin equipo): VIGILAR por 2.100.772 EUR; Puede servir si mejora titularidad/precio.
-  Precio: 2.100.772 EUR | valor: 2.082.278 EUR | score interno: 61.
-  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Deossa para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Mastuerzos. No ejecutes acciones: solo aconseja.
-- DEF Cuti Romero (sin equipo): SOLO SI ES CLARO por 49.120.885 EUR; Consume demasiado saldo para una recomendacion automatica.
-  Estado Fantasy: doubtful.
-  Precio: 49.120.885 EUR | valor: 47.545.944 EUR | score interno: 35.
-  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Cuti Romero para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Mastuerzos. No ejecutes acciones: solo aconseja.
-- POR Bayindir (sin equipo): VIGILAR por 2.240.016 EUR; Puede servir si mejora titularidad/precio.
-  Precio: 2.240.016 EUR | valor: 2.193.357 EUR | score interno: 55.
-  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Bayindir para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Mastuerzos. No ejecutes acciones: solo aconseja.
+- CEN Riquelme (sin equipo): SOLO SI ESTA BARATO por 4.376.894 EUR; Interesante, pero conviene verificar titularidad.
+  Precio: 4.376.894 EUR | valor: 4.376.894 EUR | score interno: 67.
+  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Riquelme para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Mastuerzos. No ejecutes acciones: solo aconseja.
+- CEN Herrera (sin equipo): VIGILAR por 2.945.641 EUR; Puede servir si mejora titularidad/precio.
+  Precio: 2.945.641 EUR | valor: 2.945.641 EUR | score interno: 63.
+  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Herrera para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Mastuerzos. No ejecutes acciones: solo aconseja.
 
 ## Prompt rapido
 
