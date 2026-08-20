@@ -1,0 +1,32 @@
+{
+  "publishedAt": "2026-08-20T17:03:36.048Z",
+  "apiSyncedAt": "2026-08-19T11:39:05.743Z",
+  "leagues": [
+    {
+      "id": "los-primacos",
+      "name": "Los Primacos",
+      "players": 20,
+      "marketPlayers": 17
+    },
+    {
+      "id": "fantasmas-league",
+      "name": "Fantasmas League",
+      "players": 19,
+      "marketPlayers": 22
+    },
+    {
+      "id": "los-mastuerzos",
+      "name": "Los Mastuerzos",
+      "players": 15,
+      "marketPlayers": 13
+    }
+  ],
+  "safeFiles": [
+    "chatgpt-mobile-pack.md",
+    "smart-report.md",
+    "news-queue.md",
+    "decision-brief.md",
+    "cloud-sync-status.md"
+  ],
+  "privacy": "Salida segura para ChatGPT. No incluye .local/api-session.json, cookies, tokens, capturas, latest-api.json ni marketRaw."
+}
