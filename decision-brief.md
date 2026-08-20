@@ -1,6 +1,6 @@
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-20T18:54:42.352Z
+Datos API: 2026-08-20T19:39:18.958Z
 Semana actual: 2
 
 ## Objetivo
@@ -120,7 +120,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - CEN Riquelme | Real Betis | 4.376.894 EUR
 - CEN R. Terrats | Getafe CF | 3.274.338 EUR
 - DEL Ángel Pérez | Deportivo Alavés | 6.395.423 EUR
-- DEL Isi | Rayo Vallecano | 20.789.204 EUR
+- DEL Isi | Rayo Vallecano | 20.789.204 EUR | estado injured
 - DEL T. Morente | Elche CF | 1.738.130 EUR
 - DEL Iñigo Vicente | R. Racing Club | 20.067.556 EUR
 
