@@ -1,6 +1,6 @@
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-20T22:46:51.978Z
+Datos API: 2026-08-20T23:35:33.565Z
 Semana actual: 2
 
 ## Objetivo
@@ -97,10 +97,10 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 ### Fantasmas League
 
-- Saldo: 4.158.068 EUR
-- Valor plantilla: 234.336.238 EUR
-- Jugadores plantilla: 17
-- Mercado jugable: 33
+- Saldo: 8.679.828 EUR
+- Valor plantilla: 229.874.998 EUR
+- Jugadores plantilla: 16
+- Mercado jugable: 32
 - Entrenadores ignorados: 1
 - Estrategia: Construir un equipo ganador priorizando 11 titulares reales, gangas de mercado y revalorizacion.
 
@@ -117,7 +117,6 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - CEN Izan M. | Málaga CF | 5.852.672 EUR
 - CEN Mario Soriano | RC Deportivo | 28.264.470 EUR
 - CEN D. Villares | RC Deportivo | 2.236.850 EUR
-- CEN Riquelme | Real Betis | 4.461.240 EUR
 - CEN R. Terrats | Getafe CF | 3.351.513 EUR
 - DEL Ángel Pérez | Deportivo Alavés | 6.402.369 EUR
 - DEL Isi | Rayo Vallecano | 20.993.105 EUR | estado injured
@@ -152,7 +151,6 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - CEN D. Villares | precio 2.329.238 EUR | valor 2.236.850 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 22/8/26, 14:41
 - DEL Tsitaishvili | precio 2.747.134 EUR | valor 2.685.880 EUR | machine | pujas 0 | caduca 21/8/26, 10:53
 - POR J. Musso | precio 4.056.137 EUR | valor 3.969.041 EUR | rival | ofertas 0 | vende Archiking | caduca 23/8/26, 11:01
-- CEN Riquelme | precio 4.303.296 EUR | valor 4.461.240 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 22/8/26, 14:41
 
 #### Premium a revisar
 
@@ -209,7 +207,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - DEF Aramburu | precio 18.139.034 EUR | valor 18.273.734 EUR | machine | pujas 0 | caduca 21/8/26, 22:10
 - CEN Mangala | precio 10.638.278 EUR | valor 10.656.112 EUR | machine | pujas 0 | caduca 21/8/26, 22:10
 - CEN Riquelme | precio 4.376.894 EUR | valor 4.461.240 EUR | machine | pujas 1 | caduca 21/8/26, 22:10
-- CEN Óscar Valentín | precio 4.032.015 EUR | valor 4.146.837 EUR | machine | pujas 1 | caduca 21/8/26, 22:10
+- CEN Óscar Valentín | precio 4.032.015 EUR | valor 4.146.837 EUR | machine | pujas 2 | caduca 21/8/26, 22:10
 - DEF Bright Ede | precio 2.983.840 EUR | valor 3.103.062 EUR | machine | pujas 0 | caduca 21/8/26, 22:10
 
 #### Baratos a revisar
@@ -219,7 +217,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - CEN Herrera | precio 2.945.641 EUR | valor 2.924.797 EUR | machine | pujas 0 | caduca 21/8/26, 22:10
 - DEF Bright Ede | precio 2.983.840 EUR | valor 3.103.062 EUR | machine | pujas 0 | caduca 21/8/26, 22:10
 - CEN Mella | precio 3.379.977 EUR | valor 3.349.617 EUR | machine | pujas 0 | caduca 21/8/26, 22:10
-- CEN Óscar Valentín | precio 4.032.015 EUR | valor 4.146.837 EUR | machine | pujas 1 | caduca 21/8/26, 22:10
+- CEN Óscar Valentín | precio 4.032.015 EUR | valor 4.146.837 EUR | machine | pujas 2 | caduca 21/8/26, 22:10
 - DEL Cala | precio 4.082.439 EUR | valor 4.101.867 EUR | machine | pujas 0 | caduca 21/8/26, 22:10
 - DEL Alemâo | precio 4.344.584 EUR | valor 3.287.840 EUR | rival | ofertas 1 | vende Erdeivis22 | caduca 23/8/26, 9:03
 - CEN Riquelme | precio 4.376.894 EUR | valor 4.461.240 EUR | machine | pujas 1 | caduca 21/8/26, 22:10
