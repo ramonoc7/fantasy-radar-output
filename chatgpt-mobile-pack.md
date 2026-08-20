@@ -1,6 +1,25 @@
 # ChatGPT Mobile Pack - Ligas Fantasy
 
-Actualizado: 2026-08-20T22:39:03.377Z
+Actualizado: 2026-08-20T22:46:51.978Z
+
+## Fuente de verdad para informes
+
+Datos Fantasy actuales: 2026-08-20T22:46:51.978Z
+
+Reglas obligatorias para ChatGPT:
+- Plantilla, saldo, mercado, pujas, actividad y once guardado actuales salen de este pack/radar, no de capturas antiguas ni memoria de conversaciones.
+- Si el usuario escribe `informe` en un chat de Fantasmas League, usa solo la liga `fantasmas-league`.
+- Si el usuario escribe `informe` en un chat de Los Mastuerzos, usa solo la liga `los-mastuerzos`.
+- Si el usuario escribe `informe` en un chat de Los Primacos, usa solo la liga `los-primacos`.
+- Si el usuario pide las tres ligas, separalas claramente y recalcula decisiones para cada una con su plantilla actual.
+- El contexto historico sirve solo para preferencias y estrategia; nunca para decidir quien esta ahora en plantilla o mercado.
+- Si un fichaje/venta nuevo cambia la plantilla, recalcula XI, ventas, fichajes y prioridades desde cero.
+- No ejecutes compras, ventas, pujas ni cambios de once. Solo aconseja.
+
+Estado actual detectado por liga:
+- Los Primacos (los-primacos): saldo 12.730.557 EUR | valor 219.295.525 EUR | plantilla 19 | mercado jugable 18 | ENT ignorados 2
+- Fantasmas League (fantasmas-league): saldo 4.158.068 EUR | valor 234.336.238 EUR | plantilla 17 | mercado jugable 33 | ENT ignorados 1
+- Los Mastuerzos (los-mastuerzos): saldo 58.014.963 EUR | valor 177.961.418 EUR | plantilla 16 | mercado jugable 16 | ENT ignorados 1
 
 ## Resumen movil de 10 minutos
 
@@ -45,9 +64,7 @@ Once recomendado:
 Cambios frente al once guardado:
 - Entra DEF Koski
 - Entra CEN Moi Gómez
-- Entra DEL T. Morente
 - Sale CEN R. Terrats
-- Sale DEL Isi
 - Sale DEL Iñigo Vicente
 
 Mercado, mirar primero:
@@ -212,7 +229,7 @@ Prioridades:
 
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-20T22:39:03.377Z
+Datos API: 2026-08-20T22:46:51.978Z
 Semana actual: 2
 
 ## Objetivo
@@ -450,8 +467,8 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 # Cola diaria de noticias y titularidad
 
-Generada: 21/8/26, 0:39
-Datos Fantasy: 21/8/26, 0:39
+Generada: 21/8/26, 0:46
+Datos Fantasy: 21/8/26, 0:46
 
 Uso: esta es la lista corta que ChatGPT/Codex debe verificar en internet antes de cerrar pujas fuertes o el once. El radar solo aconseja; Ramon ejecuta todo manualmente.
 
@@ -503,9 +520,6 @@ Situacion: puesto 4/10, a 21 del lider.
 - DEF Koski (Deportivo Alavés): Entra en el once recomendado pero no esta guardado ahora.
   Precio: 1.270.806 EUR | valor: 1.270.806 EUR | score interno: 67.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Koski Deportivo Alavés para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
-- DEL T. Morente (Elche CF): Entra en el once recomendado pero no esta guardado ahora.
-  Precio: 1.707.214 EUR | valor: 1.707.214 EUR | score interno: 64.
-  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de T. Morente Elche CF para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
 - DEF El Hilali (sin equipo): MIRAR por 10.098.553 EUR; No entra en saldo actual sin ventas.
   Precio: 10.098.553 EUR | valor: 10.451.843 EUR | score interno: 64.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de El Hilali para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
@@ -536,6 +550,9 @@ Situacion: puesto 4/10, a 21 del lider.
 - DEL Tsitaishvili (sin equipo): SOLO SI ES CLARO por 2.747.134 EUR; Consume demasiado saldo para una recomendacion automatica.
   Precio: 2.747.134 EUR | valor: 2.685.880 EUR | score interno: 55.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Tsitaishvili para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
+- CEN D. Villares (sin equipo): SOLO SI ES CLARO por 2.329.238 EUR; Consume demasiado saldo para una recomendacion automatica.
+  Precio: 2.329.238 EUR | valor: 2.236.850 EUR | score interno: 46.
+  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de D. Villares para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
 
 ## Los Mastuerzos
 
@@ -590,8 +607,8 @@ Usa esta cola. Busca en internet noticias recientes, onces probables, rol previs
 
 # Informe Inteligente Ligas Fantasy
 
-Generado: 21/8/26, 0:39
-Datos API: 21/8/26, 0:39
+Generado: 21/8/26, 0:46
+Datos API: 21/8/26, 0:46
 Semana actual: 2
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -728,7 +745,7 @@ Formacion guardada: 3-4-3
 - CEN Izan M.
 - CEN R. Terrats
 - DEL Ángel Pérez
-- DEL Isi
+- DEL T. Morente
 - DEL Iñigo Vicente
 
 ### Once Recomendado Preliminar
@@ -750,9 +767,7 @@ Formacion: 4-4-2 | puntuacion interna 799
 
 - Entra: DEF Koski
 - Entra: CEN Moi Gómez
-- Entra: DEL T. Morente
 - Sale: CEN R. Terrats
-- Sale: DEL Isi
 - Sale: DEL Iñigo Vicente
 
 ### Fichar Ya

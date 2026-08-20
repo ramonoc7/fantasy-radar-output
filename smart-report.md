@@ -1,7 +1,7 @@
 # Informe Inteligente Ligas Fantasy
 
-Generado: 21/8/26, 0:39
-Datos API: 21/8/26, 0:39
+Generado: 21/8/26, 0:46
+Datos API: 21/8/26, 0:46
 Semana actual: 2
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -138,7 +138,7 @@ Formacion guardada: 3-4-3
 - CEN Izan M.
 - CEN R. Terrats
 - DEL Ángel Pérez
-- DEL Isi
+- DEL T. Morente
 - DEL Iñigo Vicente
 
 ### Once Recomendado Preliminar
@@ -160,9 +160,7 @@ Formacion: 4-4-2 | puntuacion interna 799
 
 - Entra: DEF Koski
 - Entra: CEN Moi Gómez
-- Entra: DEL T. Morente
 - Sale: CEN R. Terrats
-- Sale: DEL Isi
 - Sale: DEL Iñigo Vicente
 
 ### Fichar Ya
