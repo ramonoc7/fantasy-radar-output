@@ -1,6 +1,6 @@
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-20T20:39:50.059Z
+Datos API: 2026-08-20T21:38:28.842Z
 Semana actual: 2
 
 ## Objetivo
@@ -100,7 +100,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - Saldo: 4.158.068 EUR
 - Valor plantilla: 233.317.949 EUR
 - Jugadores plantilla: 17
-- Mercado jugable: 30
+- Mercado jugable: 33
 - Entrenadores ignorados: 1
 - Estrategia: Construir un equipo ganador priorizando 11 titulares reales, gangas de mercado y revalorizacion.
 
@@ -133,11 +133,11 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - CEN Mangala | precio 10.638.969 EUR | valor 10.638.278 EUR | machine | pujas 0 | caduca 21/8/26, 10:53
 - DEL Tsitaishvili | precio 2.747.134 EUR | valor 2.747.098 EUR | machine | pujas 0 | caduca 21/8/26, 10:53
 - CEN A. Vallecillo | precio 630.413 EUR | valor 630.388 EUR | machine | pujas 0 | caduca 21/8/26, 10:53
-- CEN G. Villar | precio 6.565.088 EUR | valor 6.565.002 EUR | machine | pujas 1 | caduca 21/8/26, 10:53
+- CEN G. Villar | precio 6.565.088 EUR | valor 6.565.002 EUR | machine | pujas 2 | caduca 21/8/26, 10:53
 - DEL Cucho | precio 42.923.053 EUR | valor 42.920.800 EUR | machine | pujas 0 | caduca 21/8/26, 10:53
 - DEL Maroan | precio 415.138 EUR | valor 415.113 EUR | machine | pujas 0 | caduca 21/8/26, 10:53
 - DEF Marc Santos | precio 829.059 EUR | valor 829.034 EUR | machine | pujas 0 | caduca 21/8/26, 10:53
-- DEF El Hilali | precio 10.098.553 EUR | valor 10.097.368 EUR | machine | pujas 1 | caduca 21/8/26, 10:53
+- DEF El Hilali | precio 10.098.553 EUR | valor 10.097.368 EUR | machine | pujas 2 | caduca 21/8/26, 10:53
 
 #### Baratos a revisar
 
@@ -165,6 +165,8 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - Kumbulla: estado injured en mercado.
 - Ruggeri: estado out_of_league en mercado.
 - Lo Celso: estado injured en mercado.
+- Yeremay: estado doubtful en mercado.
+- R.P. Bigas: estado doubtful en mercado.
 - Hay 1 entrenadores en mercado: ignorar por funcion Premium bloqueada.
 
 ### Los Mastuerzos
