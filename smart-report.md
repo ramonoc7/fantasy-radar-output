@@ -1,7 +1,7 @@
 # Informe Inteligente Ligas Fantasy
 
-Generado: 21/8/26, 20:51
-Datos API: 21/8/26, 20:51
+Generado: 21/8/26, 21:32
+Datos API: 21/8/26, 21:32
 Semana actual: 2
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -13,7 +13,7 @@ Semana actual: 2
 - Saldo: 21.981.874 EUR
 - Valor plantilla: 209.990.332 EUR
 - Inversion/pujas comprometidas detectadas: 20.773.337 EUR
-- Liga: puesto 8/13, 9 puntos, a 31 del lider (leomaldonado10)
+- Liga: puesto 6/13, 12 puntos, a 28 del lider (leomaldonado10)
 - Ranking por valor de plantilla: 2/13
 - Plantilla: 16 jugadores
 - Mercado jugable: 41
@@ -45,15 +45,15 @@ Formacion guardada: 5-3-2
 
 ### Once Recomendado Preliminar
 
-Formacion: 5-3-2 | puntuacion interna 817
-- POR Á. Valles | Real Betis | score 87 | fuerte por memoria + datos | base: pts actuales 0 (peso bajo), media 0, pts temp ant 185, valor 33.821.088 EUR, memoria core
+Formacion: 5-3-2 | puntuacion interna 822
+- POR Á. Valles | Real Betis | score 89 | fuerte por memoria + datos | base: pts actuales 1 (peso bajo), media 1, pts temp ant 185, valor 33.821.088 EUR, memoria core
 - DEF Javi Rueda | Celta | score 75 | fuerte por memoria + datos | base: pts actuales 0 (peso bajo), media 0, pts temp ant 132, valor 4.421.896 EUR, memoria core
 - DEF Koski | Deportivo Alavés | score 67 | util por memoria | base: pts actuales 12 (peso bajo), media 6, pts temp ant 23, valor 1.270.836 EUR, memoria keep
 - DEF Nuñez | RCD Espanyol | score 62 | buen candidato | base: pts actuales 10 (peso bajo), media 10, pts temp ant 48, valor 4.719.283 EUR
 - DEF Javi Rodríguez | Celta | score 61 | util por memoria | base: pts actuales 0 (peso bajo), media 0, pts temp ant 132, valor 9.120.814 EUR, memoria keep
 - DEF Suazo | Sevilla FC | score 57 | util por memoria | base: pts actuales 0 (peso bajo), media 0, pts temp ant 94, valor 5.097.160 EUR, memoria keep
 - CEN Ibañez | Deportivo Alavés | score 90 | fuerte por memoria + datos | base: pts actuales 10 (peso bajo), media 5, pts temp ant 130, valor 3.552.319 EUR, memoria core
-- CEN Kubo | Real Sociedad | score 75 | fuerte por memoria + datos | base: pts actuales 0 (peso bajo), media 0, pts temp ant 122, valor 26.198.257 EUR, memoria core, venta protegida
+- CEN Kubo | Real Sociedad | score 78 | fuerte por memoria + datos | base: pts actuales 1 (peso bajo), media 1, pts temp ant 122, valor 26.198.257 EUR, memoria core, venta protegida
 - CEN Guido Rodríguez | Valencia CF | score 63 | fuerte por memoria + datos | base: pts actuales 0 (peso bajo), media 0, valor 23.907.269 EUR, memoria core, venta protegida
 - DEL Dolan | RCD Espanyol | score 100 | fuerte por memoria + datos | base: pts actuales 12 (peso bajo), media 12, pts temp ant 152, valor 7.468.559 EUR, memoria core
 - DEL Hugo Duro | Valencia CF | score 80 | fuerte por memoria + datos | base: pts actuales 0 (peso bajo), media 0, pts temp ant 134, valor 8.561.256 EUR, memoria core
@@ -98,8 +98,8 @@ Formacion: 5-3-2 | puntuacion interna 817
 ### Vender O Liberar Hueco
 
 - VENDER SI NO COMPENSA ESPERAR: CEN Gorrotxa | valor 5.498.888 EUR | score 9 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 117, valor 5.498.888 EUR, estado injured | estado injured, fuera del XI recomendado
-- VENDER/USAR COMO HUECO: DEF Fran García | valor 9.420.754 EUR | score 42 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 57, valor 9.420.754 EUR | fuera del XI recomendado
 - VENDER/USAR COMO HUECO: DEL Oyarzabal | valor 63.643.011 EUR | score 42 | base: pts actuales 0 (peso bajo), media 0, valor 63.643.011 EUR | fuera del XI recomendado, valor alto para poca seguridad
+- VIGILAR: DEF Fran García | valor 9.420.754 EUR | score 45 | base: pts actuales 1 (peso bajo), media 1, pts temp ant 57, valor 9.420.754 EUR | fuera del XI recomendado
 - VIGILAR: CEN D. Villares | valor 2.236.837 EUR | score 52 | base: pts actuales 2 (peso bajo), media 2, valor 2.236.837 EUR, memoria keep | fuera del XI recomendado, mantener salvo mejora clara
 - VIGILAR: CEN Mikel Rodriguez | valor 1.052.105 EUR | score 56 | base: pts actuales 14 (peso bajo), media 7, valor 1.052.105 EUR | fuera del XI recomendado
 
@@ -266,7 +266,7 @@ Formacion: 3-4-3 | puntuacion interna 774
 
 - SOLO SI ESTA BARATO: DEL Cala | score 80 | precio 4.082.439 EUR | valor 4.101.822 EUR | puja 4.090.604 EUR | max 4.143.676 EUR | pujas 0 | caduca 21/8/26, 22:10 | base: pts actuales 4 (peso bajo), media 4, valor 4.101.822 EUR | Interesante, pero conviene verificar titularidad
 - SOLO SI ESTA BARATO: DEF Bright Ede | score 79 | precio 2.983.840 EUR | valor 3.102.946 EUR | puja 3.162.871 EUR | max 3.401.578 EUR | pujas 1 | caduca 21/8/26, 22:10 | base: pts actuales 5 (peso bajo), media 5, valor 3.102.946 EUR | Interesante, pero conviene verificar titularidad
-- SOLO SI ESTA BARATO: DEF Aramburu | score 77 | precio 18.139.034 EUR | valor 18.273.519 EUR | puja 18.175.313 EUR | max 18.411.120 EUR | pujas 0 | caduca 21/8/26, 22:10 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 83, valor 18.273.519 EUR | Interesante, pero conviene verificar titularidad
+- SOLO SI ESTA BARATO: DEF Aramburu | score 77 | precio 18.139.034 EUR | valor 18.273.519 EUR | puja 18.175.313 EUR | max 18.411.120 EUR | pujas 0 | caduca 21/8/26, 22:10 | base: pts actuales -1 (peso bajo), media -1, pts temp ant 83, valor 18.273.519 EUR | Interesante, pero conviene verificar titularidad
 - SOLO SI ESTA BARATO: DEF Hector Fort | score 75 | precio 2.998.849 EUR | valor 2.998.849 EUR | puja 3.004.847 EUR | max 3.043.832 EUR | ofertas 0 | vende Ramounsitou | caduca 24/8/26, 19:12 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 55, valor 2.998.849 EUR | Interesante, pero conviene verificar titularidad
 - SOLO SI ESTA BARATO: DEF Pablo Ramón | score 75 | precio 611.592 EUR | valor 611.592 EUR | puja 612.816 EUR | max 620.766 EUR | ofertas 0 | vende Ramounsitou | caduca 24/8/26, 19:15 | base: pts actuales 3 (peso bajo), media 3, valor 611.592 EUR | Interesante, pero conviene verificar titularidad
 - SOLO SI ESTA BARATO: CEN Óscar Valentín | score 73 | precio 4.032.015 EUR | valor 4.147.058 EUR | puja 4.273.936 EUR | max 4.561.764 EUR | pujas 2 | caduca 21/8/26, 22:10 | base: pts actuales 7 (peso bajo), media 3.5, pts temp ant 134, valor 4.147.058 EUR | Interesante, pero conviene verificar titularidad

@@ -1,13 +1,13 @@
 # Cola diaria de noticias y titularidad
 
-Generada: 21/8/26, 20:51
-Datos Fantasy: 21/8/26, 20:51
+Generada: 21/8/26, 21:32
+Datos Fantasy: 21/8/26, 21:32
 
 Uso: esta es la lista corta que ChatGPT/Codex debe verificar en internet antes de cerrar pujas fuertes o el once. El radar solo aconseja; Ramon ejecuta todo manualmente.
 
 ## Los Primacos
 
-Situacion: puesto 8/13, a 31 del lider.
+Situacion: puesto 6/13, a 28 del lider.
 
 - DEL Mikautadze (sin equipo): MIRAR por 65.316.052 EUR; No entra en saldo actual sin ventas.
   Precio: 65.316.052 EUR | valor: 65.316.052 EUR | score interno: 87.
