@@ -1,7 +1,7 @@
 # Informe Inteligente Ligas Fantasy
 
-Generado: 21/8/26, 6:50
-Datos API: 21/8/26, 6:50
+Generado: 21/8/26, 7:43
+Datos API: 21/8/26, 7:43
 Semana actual: 2
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
