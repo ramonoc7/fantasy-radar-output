@@ -1,6 +1,6 @@
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-21T07:53:14.106Z
+Datos API: 2026-08-21T08:54:06.911Z
 Semana actual: 2
 
 ## Objetivo
@@ -92,7 +92,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 #### Alertas
 
 - Guliashvili: estado injured en mercado.
-- Rioja: estado injured en mercado.
+- Rioja: estado doubtful en mercado.
 - Hay 2 entrenadores en mercado: ignorar por funcion Premium bloqueada.
 
 ### Fantasmas League
@@ -100,8 +100,8 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - Saldo: 8.679.828 EUR
 - Valor plantilla: 229.874.998 EUR
 - Jugadores plantilla: 16
-- Mercado jugable: 32
-- Entrenadores ignorados: 1
+- Mercado jugable: 31
+- Entrenadores ignorados: 2
 - Estrategia: Construir un equipo ganador priorizando 11 titulares reales, gangas de mercado y revalorizacion.
 
 #### Plantilla
@@ -125,47 +125,47 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 #### Mercado que caduca antes
 
-- CEN H. González | precio 1.341.507 EUR | valor 1.338.423 EUR | machine | pujas 0 | caduca 21/8/26, 10:53
-- DEL Djalo | precio 940.313 EUR | valor 917.954 EUR | machine | pujas 0 | caduca 21/8/26, 10:53
-- DEL Giuliano | precio 41.891.616 EUR | valor 41.207.229 EUR | machine | pujas 0 | caduca 21/8/26, 10:53
-- DEF Catena | precio 32.769.715 EUR | valor 32.641.170 EUR | machine | pujas 1 | caduca 21/8/26, 10:53
-- CEN Mangala | precio 10.638.969 EUR | valor 10.656.112 EUR | machine | pujas 0 | caduca 21/8/26, 10:53
-- DEL Tsitaishvili | precio 2.747.134 EUR | valor 2.685.880 EUR | machine | pujas 0 | caduca 21/8/26, 10:53
-- CEN A. Vallecillo | precio 630.413 EUR | valor 620.450 EUR | machine | pujas 0 | caduca 21/8/26, 10:53
-- CEN G. Villar | precio 6.565.088 EUR | valor 6.764.600 EUR | machine | pujas 2 | caduca 21/8/26, 10:53
-- DEL Cucho | precio 42.923.053 EUR | valor 42.549.515 EUR | machine | pujas 0 | caduca 21/8/26, 10:53
-- DEL Maroan | precio 415.138 EUR | valor 413.786 EUR | machine | pujas 0 | caduca 21/8/26, 10:53
-- DEF Marc Santos | precio 829.059 EUR | valor 811.150 EUR | machine | pujas 0 | caduca 21/8/26, 10:53
-- DEF El Hilali | precio 10.098.553 EUR | valor 10.451.843 EUR | machine | pujas 2 | caduca 21/8/26, 10:53
+- DEF Pedro Felipe | precio 2.238.799 EUR | valor 2.238.799 EUR | machine | pujas 0 | caduca 22/8/26, 10:53 | estado injured
+- POR Courtois | precio 64.611.784 EUR | valor 64.611.784 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
+- DEF Juan Iglesias | precio 12.331.917 EUR | valor 12.331.917 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
+- POR P. Campos | precio 949.525 EUR | valor 949.525 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
+- DEF Jorge Salinas | precio 6.003.337 EUR | valor 6.003.337 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
+- DEL Á. Padilla | precio 1.069.903 EUR | valor 1.069.903 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
+- CEN Otu | precio 1.089.277 EUR | valor 1.089.277 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
+- CEN Kang-In Lee | precio 40.801.578 EUR | valor 40.801.578 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
+- CEN Gerenabarrena | precio 1.227.028 EUR | valor 1.227.028 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
+- DEL Miguel Rodríguez | precio 2.718.884 EUR | valor 2.718.884 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
+- DEL B. Mayoral | precio 2.708.402 EUR | valor 2.708.402 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
+- CEN Iker Muñoz | precio 1.293.450 EUR | valor 1.266.609 EUR | rival | ofertas 1 | vende Mynavo Kyiv | caduca 22/8/26, 11:09
 
 #### Baratos a revisar
 
-- DEL Maroan | precio 415.138 EUR | valor 413.786 EUR | machine | pujas 0 | caduca 21/8/26, 10:53
-- CEN A. Vallecillo | precio 630.413 EUR | valor 620.450 EUR | machine | pujas 0 | caduca 21/8/26, 10:53
-- DEF Marc Santos | precio 829.059 EUR | valor 811.150 EUR | machine | pujas 0 | caduca 21/8/26, 10:53
-- DEL Djalo | precio 940.313 EUR | valor 917.954 EUR | machine | pujas 0 | caduca 21/8/26, 10:53
-- DEF Pastor | precio 999.901 EUR | valor 375.740 EUR | rival | ofertas 0 | vende Gabriele28 | caduca 23/8/26, 11:37
-- CEN Iker Muñoz | precio 1.293.450 EUR | valor 1.266.609 EUR | rival | ofertas 0 | vende Mynavo Kyiv | caduca 22/8/26, 11:09
-- CEN H. González | precio 1.341.507 EUR | valor 1.338.423 EUR | machine | pujas 0 | caduca 21/8/26, 10:53
+- POR P. Campos | precio 949.525 EUR | valor 949.525 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
+- DEF Pastor | precio 999.901 EUR | valor 375.740 EUR | rival | ofertas 1 | vende Gabriele28 | caduca 23/8/26, 11:37
+- DEL Á. Padilla | precio 1.069.903 EUR | valor 1.069.903 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
+- CEN Otu | precio 1.089.277 EUR | valor 1.089.277 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
+- CEN Gerenabarrena | precio 1.227.028 EUR | valor 1.227.028 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
+- CEN Iker Muñoz | precio 1.293.450 EUR | valor 1.266.609 EUR | rival | ofertas 1 | vende Mynavo Kyiv | caduca 22/8/26, 11:09
 - CEN Moi Gómez | precio 1.875.959 EUR | valor 1.808.559 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 22/8/26, 14:41
 - CEN D. Villares | precio 2.329.238 EUR | valor 2.236.850 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 22/8/26, 14:41
-- DEL Tsitaishvili | precio 2.747.134 EUR | valor 2.685.880 EUR | machine | pujas 0 | caduca 21/8/26, 10:53
-- POR J. Musso | precio 4.056.137 EUR | valor 3.969.041 EUR | rival | ofertas 0 | vende Archiking | caduca 23/8/26, 11:01
+- DEL B. Mayoral | precio 2.708.402 EUR | valor 2.708.402 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
+- DEL Miguel Rodríguez | precio 2.718.884 EUR | valor 2.718.884 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
+- POR J. Musso | precio 4.056.137 EUR | valor 3.969.041 EUR | rival | ofertas 1 | vende Archiking | caduca 23/8/26, 11:01
 
 #### Premium a revisar
 
-- DEL Cucho | precio 42.923.053 EUR | valor 42.549.515 EUR | machine | pujas 0 | caduca 21/8/26, 10:53
-- DEL Giuliano | precio 41.891.616 EUR | valor 41.207.229 EUR | machine | pujas 0 | caduca 21/8/26, 10:53
-- DEF Catena | precio 32.769.715 EUR | valor 32.641.170 EUR | machine | pujas 1 | caduca 21/8/26, 10:53
+- POR Courtois | precio 64.611.784 EUR | valor 64.611.784 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
+- CEN Kang-In Lee | precio 40.801.578 EUR | valor 40.801.578 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
 
 #### Alertas
 
+- Pedro Felipe: estado injured en mercado.
 - Kumbulla: estado injured en mercado.
 - Ruggeri: estado out_of_league en mercado.
 - Lo Celso: estado injured en mercado.
 - Yeremay: estado doubtful en mercado.
 - R.P. Bigas: estado doubtful en mercado.
-- Hay 1 entrenadores en mercado: ignorar por funcion Premium bloqueada.
+- Hay 2 entrenadores en mercado: ignorar por funcion Premium bloqueada.
 
 ### Los Mastuerzos
 
