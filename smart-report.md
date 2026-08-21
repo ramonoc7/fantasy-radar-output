@@ -1,7 +1,7 @@
 # Informe Inteligente Ligas Fantasy
 
-Generado: 21/8/26, 1:35
-Datos API: 21/8/26, 1:35
+Generado: 21/8/26, 3:53
+Datos API: 21/8/26, 3:53
 Semana actual: 2
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -119,6 +119,7 @@ Formacion: 5-3-2 | puntuacion interna 817
 
 - Kumbulla en plantilla aparece como injured.
 - Isi en plantilla aparece como injured.
+- 12 jugador(es) jugables caducan en menos de 8 horas.
 - 1 entrenador(es) ignorados por Premium.
 
 ### Situacion

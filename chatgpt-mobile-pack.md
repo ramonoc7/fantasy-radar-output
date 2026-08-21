@@ -1,10 +1,10 @@
 # ChatGPT Mobile Pack - Ligas Fantasy
 
-Actualizado: 2026-08-20T23:35:33.565Z
+Actualizado: 2026-08-21T01:53:15.093Z
 
 ## Fuente de verdad para informes
 
-Datos Fantasy actuales: 2026-08-20T23:35:33.565Z
+Datos Fantasy actuales: 2026-08-21T01:53:15.093Z
 
 Reglas obligatorias para ChatGPT:
 - Plantilla, saldo, mercado, pujas, actividad y once guardado actuales salen de este pack/radar, no de capturas antiguas ni memoria de conversaciones.
@@ -56,7 +56,7 @@ Ventas / huecos:
 ### Fantasmas League
 
 Saldo 8.679.828 EUR | plantilla 16 | mercado 32 | puesto 4/10, a 21 del lider
-Alertas: Kumbulla en plantilla aparece como injured. / Isi en plantilla aparece como injured. / 1 entrenador(es) ignorados por Premium.
+Alertas: Kumbulla en plantilla aparece como injured. / Isi en plantilla aparece como injured. / 12 jugador(es) jugables caducan en menos de 8 horas.
 
 Once recomendado:
 4-4-2: POR Remiro / DEF Huijsen / DEF Álex Balde / DEF Koski / DEF Djene / CEN Mario Soriano / CEN Germán V. / CEN Izan M. / CEN Moi Gómez / DEL Ángel Pérez / DEL T. Morente
@@ -229,7 +229,7 @@ Prioridades:
 
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-20T23:35:33.565Z
+Datos API: 2026-08-21T01:53:15.093Z
 Semana actual: 2
 
 ## Objetivo
@@ -465,8 +465,8 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 # Cola diaria de noticias y titularidad
 
-Generada: 21/8/26, 1:35
-Datos Fantasy: 21/8/26, 1:35
+Generada: 21/8/26, 3:53
+Datos Fantasy: 21/8/26, 3:53
 
 Uso: esta es la lista corta que ChatGPT/Codex debe verificar en internet antes de cerrar pujas fuertes o el once. El radar solo aconseja; Ramon ejecuta todo manualmente.
 
@@ -605,8 +605,8 @@ Usa esta cola. Busca en internet noticias recientes, onces probables, rol previs
 
 # Informe Inteligente Ligas Fantasy
 
-Generado: 21/8/26, 1:35
-Datos API: 21/8/26, 1:35
+Generado: 21/8/26, 3:53
+Datos API: 21/8/26, 3:53
 Semana actual: 2
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -724,6 +724,7 @@ Formacion: 5-3-2 | puntuacion interna 817
 
 - Kumbulla en plantilla aparece como injured.
 - Isi en plantilla aparece como injured.
+- 12 jugador(es) jugables caducan en menos de 8 horas.
 - 1 entrenador(es) ignorados por Premium.
 
 ### Situacion
