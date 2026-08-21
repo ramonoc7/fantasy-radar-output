@@ -1,10 +1,10 @@
 # ChatGPT Mobile Pack - Ligas Fantasy
 
-Actualizado: 2026-08-21T16:47:29.147Z
+Actualizado: 2026-08-21T17:08:58.944Z
 
 ## Fuente de verdad para informes
 
-Datos Fantasy actuales: 2026-08-21T16:47:29.147Z
+Datos Fantasy actuales: 2026-08-21T17:08:58.944Z
 
 Reglas obligatorias para ChatGPT:
 - Plantilla, saldo, mercado, pujas, actividad y once guardado actuales salen de este pack/radar, no de capturas antiguas ni memoria de conversaciones.
@@ -31,7 +31,7 @@ Formato obligatorio de cada informe de liga:
 11. Bloque final `QUE HAGO HOY` con acciones en orden de prioridad.
 
 Estado actual detectado por liga:
-- Los Primacos (los-primacos): saldo 21.981.874 EUR | valor 209.990.332 EUR | plantilla 16 | mercado jugable 42 | pujas/inversion detectada 13.743.651 EUR | ENT ignorados 1
+- Los Primacos (los-primacos): saldo 21.981.874 EUR | valor 209.990.332 EUR | plantilla 16 | mercado jugable 41 | pujas/inversion detectada 20.773.337 EUR | ENT ignorados 1
 - Fantasmas League (fantasmas-league): saldo 13.470.699 EUR | valor 225.064.164 EUR | plantilla 15 | mercado jugable 31 | pujas/inversion detectada 12.900.258 EUR | ENT ignorados 2
 - Los Mastuerzos (los-mastuerzos): saldo 58.014.963 EUR | valor 177.958.853 EUR | plantilla 16 | mercado jugable 17 | pujas/inversion detectada 72.063.399 EUR | ENT ignorados 1
 
@@ -42,7 +42,7 @@ Regla: el radar no ejecuta acciones. Los puntos actuales pesan poco; un 0 no es 
 
 ### Los Primacos
 
-Saldo 21.981.874 EUR | plantilla 16 | mercado 42 | puesto 8/13, a 31 del lider
+Saldo 21.981.874 EUR | plantilla 16 | mercado 41 | puesto 8/13, a 31 del lider
 Alertas: Gorrotxa en plantilla aparece como injured. / 1 entrenador(es) ignorados por Premium.
 
 Once recomendado:
@@ -55,9 +55,9 @@ Cambios frente al once guardado:
 Mercado, mirar primero:
 - FICHAR YA: DEL Lucas Boyé | 10.819.966 EUR | 0 ofertas | puja 10.841.606 EUR, max 10.982.266 EUR
 - SOLO SI ESTA BARATO: CEN Urko | 5.027.436 EUR | 0 ofertas | puja 5.037.491 EUR, max 5.102.848 EUR
+- SOLO SI ESTA BARATO: DEF Le Normand | 11.391.438 EUR | 0 ofertas | puja 11.414.221 EUR, max 11.562.310 EUR
 - SOLO SI ESTA BARATO: DEL Iago Aspas | 6.801.790 EUR | 0 ofertas | puja 6.815.394 EUR, max 6.903.817 EUR
 - SOLO SI ESTA BARATO: CEN Martim Neto | 1.622.431 EUR | 1 pujas | puja 1.719.777 EUR, max 1.784.675 EUR
-- SOLO SI ESTA BARATO: DEF El Hilali | 10.450.818 EUR | 0 ofertas | puja 10.471.720 EUR, max 10.607.581 EUR
 
 Ventas / huecos:
 - VENDER SI NO COMPENSA ESPERAR: CEN Gorrotxa | 5.498.888 EUR
@@ -237,7 +237,7 @@ Prioridades:
 
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-21T16:47:29.147Z
+Datos API: 2026-08-21T17:08:58.944Z
 Semana actual: 2
 
 ## Objetivo
@@ -267,7 +267,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - Saldo: 21.981.874 EUR
 - Valor plantilla: 209.990.332 EUR
 - Jugadores plantilla: 16
-- Mercado jugable: 42
+- Mercado jugable: 41
 - Entrenadores ignorados: 1
 - Estrategia: Arreglar porteria y defensa sin desmontar activos caros; convertir dinero concentrado en titulares baratos utiles.
 
@@ -309,7 +309,6 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 - DEF Pastor | precio 375.736 EUR | valor 375.736 EUR | rival | ofertas 0 | vende Carlos___80 | caduca 24/8/26, 15:51
 - DEF Julio Díaz | precio 444.643 EUR | valor 444.643 EUR | rival | ofertas 0 | vende RauulCm_ | caduca 24/8/26, 15:51
-- CEN Mikel Rodriguez | precio 932.862 EUR | valor 1.052.105 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 22/8/26, 20:31
 - DEF Salinas | precio 987.263 EUR | valor 987.263 EUR | machine | pujas 0 | caduca 22/8/26, 12:46
 - DEL Jauregi | precio 1.147.245 EUR | valor 1.147.245 EUR | machine | pujas 0 | caduca 22/8/26, 12:46
 - CEN Martim Neto | precio 1.622.431 EUR | valor 1.622.431 EUR | machine | pujas 1 | caduca 22/8/26, 12:46
@@ -472,8 +471,8 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 # Cola diaria de noticias y titularidad
 
-Generada: 21/8/26, 18:47
-Datos Fantasy: 21/8/26, 18:47
+Generada: 21/8/26, 19:08
+Datos Fantasy: 21/8/26, 19:08
 
 Uso: esta es la lista corta que ChatGPT/Codex debe verificar en internet antes de cerrar pujas fuertes o el once. El radar solo aconseja; Ramon ejecuta todo manualmente.
 
@@ -488,17 +487,14 @@ Situacion: puesto 8/13, a 31 del lider.
   Precio: 10.819.966 EUR | valor: 10.819.966 EUR | score interno: 86.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Lucas Boyé para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
 - DEF Le Normand (sin equipo): SOLO SI ESTA BARATO por 11.391.438 EUR; Interesante, pero conviene verificar titularidad.
-  Precio: 11.391.438 EUR | valor: 11.391.438 EUR | score interno: 74.
+  Precio: 11.391.438 EUR | valor: 11.391.438 EUR | score interno: 78.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Le Normand para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
 - DEF El Hilali (sin equipo): SOLO SI ESTA BARATO por 10.450.818 EUR; Interesante, pero conviene verificar titularidad.
-  Precio: 10.450.818 EUR | valor: 10.450.818 EUR | score interno: 76.
+  Precio: 10.450.818 EUR | valor: 10.450.818 EUR | score interno: 72.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de El Hilali para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
 - CEN Martim Neto (sin equipo): SOLO SI ESTA BARATO por 1.622.431 EUR; Interesante, pero conviene verificar titularidad.
   Precio: 1.622.431 EUR | valor: 1.622.431 EUR | score interno: 76.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Martim Neto para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
-- CEN Mikel Rodriguez (sin equipo): SOLO SI ESTA BARATO por 932.862 EUR; Interesante, pero conviene verificar titularidad.
-  Precio: 932.862 EUR | valor: 1.052.105 EUR | score interno: 75.
-  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Mikel Rodriguez para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
 - DEF Nuñez (RCD Espanyol): Entra en el once recomendado pero no esta guardado ahora.
   Precio: 4.719.283 EUR | valor: 4.719.283 EUR | score interno: 62.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Nuñez RCD Espanyol para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
@@ -517,6 +513,9 @@ Situacion: puesto 8/13, a 31 del lider.
 - DEF Á. Carreras (sin equipo): VIGILAR por 11.261.649 EUR; Puede servir si mejora titularidad/precio.
   Precio: 11.261.649 EUR | valor: 11.261.649 EUR | score interno: 66.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Á. Carreras para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
+- POR M. Dituro (sin equipo): SOLO SI ESTA BARATO por 8.202.266 EUR; Interesante, pero conviene verificar titularidad.
+  Precio: 8.202.266 EUR | valor: 8.202.266 EUR | score interno: 74.
+  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de M. Dituro para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
 
 ## Fantasmas League
 
@@ -612,8 +611,8 @@ Usa esta cola. Busca en internet noticias recientes, onces probables, rol previs
 
 # Informe Inteligente Ligas Fantasy
 
-Generado: 21/8/26, 18:47
-Datos API: 21/8/26, 18:47
+Generado: 21/8/26, 19:08
+Datos API: 21/8/26, 19:08
 Semana actual: 2
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -624,11 +623,11 @@ Semana actual: 2
 
 - Saldo: 21.981.874 EUR
 - Valor plantilla: 209.990.332 EUR
-- Inversion/pujas comprometidas detectadas: 13.743.651 EUR
+- Inversion/pujas comprometidas detectadas: 20.773.337 EUR
 - Liga: puesto 8/13, 9 puntos, a 31 del lider (leomaldonado10)
 - Ranking por valor de plantilla: 2/13
 - Plantilla: 16 jugadores
-- Mercado jugable: 42
+- Mercado jugable: 41
 
 ### Alertas
 
@@ -682,13 +681,13 @@ Formacion: 5-3-2 | puntuacion interna 817
 ### Solo Si Esta Barato
 
 - SOLO SI ESTA BARATO: CEN Urko | score 79 | precio 5.027.436 EUR | valor 5.027.436 EUR | puja 5.037.491 EUR | max 5.102.848 EUR | ofertas 0 | vende RauulCm_ | caduca 24/8/26, 15:51 | base: pts actuales 6 (peso bajo), media 6, pts temp ant 114, valor 5.027.436 EUR | Interesante, pero conviene verificar titularidad
+- SOLO SI ESTA BARATO: DEF Le Normand | score 78 | precio 11.391.438 EUR | valor 11.391.438 EUR | puja 11.414.221 EUR | max 11.562.310 EUR | ofertas 0 | vende Carlos___80 | caduca 24/8/26, 15:51 | base: pts actuales 9 (peso bajo), media 9, pts temp ant 125, valor 11.391.438 EUR | Interesante, pero conviene verificar titularidad
 - SOLO SI ESTA BARATO: DEL Iago Aspas | score 78 | precio 6.801.790 EUR | valor 6.801.790 EUR | puja 6.815.394 EUR | max 6.903.817 EUR | ofertas 0 | vende RauulCm_ | caduca 24/8/26, 15:51 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 141, valor 6.801.790 EUR | Interesante, pero conviene verificar titularidad
 - SOLO SI ESTA BARATO: CEN Martim Neto | score 76 | precio 1.622.431 EUR | valor 1.622.431 EUR | puja 1.719.777 EUR | max 1.784.675 EUR | pujas 1 | caduca 22/8/26, 12:46 | base: pts actuales 4 (peso bajo), media 4, pts temp ant 125, valor 1.622.431 EUR | Interesante, pero conviene verificar titularidad
-- SOLO SI ESTA BARATO: DEF El Hilali | score 76 | precio 10.450.818 EUR | valor 10.450.818 EUR | puja 10.471.720 EUR | max 10.607.581 EUR | ofertas 0 | vende Carlos___80 | caduca 24/8/26, 15:51 | base: pts actuales 8 (peso bajo), media 8, pts temp ant 101, valor 10.450.818 EUR | Interesante, pero conviene verificar titularidad
-- SOLO SI ESTA BARATO: CEN Mikel Rodriguez | score 75 | precio 932.862 EUR | valor 1.052.105 EUR | puja 988.834 EUR | max 1.063.463 EUR | ofertas 1 | vende Ramounsitou | caduca 22/8/26, 20:31 | base: pts actuales 14 (peso bajo), media 7, valor 1.052.105 EUR | Interesante, pero conviene verificar titularidad
 - SOLO SI ESTA BARATO: DEL Ferran Jutglà | score 75 | precio 9.571.026 EUR | valor 9.571.026 EUR | puja 9.590.169 EUR | max 9.714.592 EUR | ofertas 0 | vende Carlos___80 | caduca 24/8/26, 15:50 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 142, valor 9.571.026 EUR | Interesante, pero conviene verificar titularidad
-- SOLO SI ESTA BARATO: DEF Le Normand | score 74 | precio 11.391.438 EUR | valor 11.391.438 EUR | puja 11.790.139 EUR | max 12.302.754 EUR | ofertas 1 | vende Carlos___80 | caduca 24/8/26, 15:51 | base: pts actuales 9 (peso bajo), media 9, pts temp ant 125, valor 11.391.438 EUR | Interesante, pero conviene verificar titularidad
 - SOLO SI ESTA BARATO: POR M. Dituro | score 74 | precio 8.202.266 EUR | valor 8.202.266 EUR | puja 8.218.671 EUR | max 8.325.300 EUR | ofertas 0 | vende Carlos___80 | caduca 24/8/26, 15:51 | base: pts actuales 5 (peso bajo), media 5, pts temp ant 137, valor 8.202.266 EUR | Interesante, pero conviene verificar titularidad
+- SOLO SI ESTA BARATO: DEL Jauregi | score 73 | precio 1.147.245 EUR | valor 1.147.245 EUR | puja 1.149.540 EUR | max 1.164.454 EUR | pujas 0 | caduca 22/8/26, 12:46 | base: pts actuales 1 (peso bajo), media 1, valor 1.147.245 EUR | Interesante, pero conviene verificar titularidad
+- SOLO SI ESTA BARATO: DEF El Hilali | score 72 | precio 10.450.818 EUR | valor 10.450.818 EUR | puja 10.816.597 EUR | max 11.286.884 EUR | ofertas 1 | vende Carlos___80 | caduca 24/8/26, 15:51 | base: pts actuales 8 (peso bajo), media 8, pts temp ant 101, valor 10.450.818 EUR | Interesante, pero conviene verificar titularidad
 
 ### Vigilar
 

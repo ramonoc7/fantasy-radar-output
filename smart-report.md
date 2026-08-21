@@ -1,7 +1,7 @@
 # Informe Inteligente Ligas Fantasy
 
-Generado: 21/8/26, 18:47
-Datos API: 21/8/26, 18:47
+Generado: 21/8/26, 19:08
+Datos API: 21/8/26, 19:08
 Semana actual: 2
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -12,11 +12,11 @@ Semana actual: 2
 
 - Saldo: 21.981.874 EUR
 - Valor plantilla: 209.990.332 EUR
-- Inversion/pujas comprometidas detectadas: 13.743.651 EUR
+- Inversion/pujas comprometidas detectadas: 20.773.337 EUR
 - Liga: puesto 8/13, 9 puntos, a 31 del lider (leomaldonado10)
 - Ranking por valor de plantilla: 2/13
 - Plantilla: 16 jugadores
-- Mercado jugable: 42
+- Mercado jugable: 41
 
 ### Alertas
 
@@ -70,13 +70,13 @@ Formacion: 5-3-2 | puntuacion interna 817
 ### Solo Si Esta Barato
 
 - SOLO SI ESTA BARATO: CEN Urko | score 79 | precio 5.027.436 EUR | valor 5.027.436 EUR | puja 5.037.491 EUR | max 5.102.848 EUR | ofertas 0 | vende RauulCm_ | caduca 24/8/26, 15:51 | base: pts actuales 6 (peso bajo), media 6, pts temp ant 114, valor 5.027.436 EUR | Interesante, pero conviene verificar titularidad
+- SOLO SI ESTA BARATO: DEF Le Normand | score 78 | precio 11.391.438 EUR | valor 11.391.438 EUR | puja 11.414.221 EUR | max 11.562.310 EUR | ofertas 0 | vende Carlos___80 | caduca 24/8/26, 15:51 | base: pts actuales 9 (peso bajo), media 9, pts temp ant 125, valor 11.391.438 EUR | Interesante, pero conviene verificar titularidad
 - SOLO SI ESTA BARATO: DEL Iago Aspas | score 78 | precio 6.801.790 EUR | valor 6.801.790 EUR | puja 6.815.394 EUR | max 6.903.817 EUR | ofertas 0 | vende RauulCm_ | caduca 24/8/26, 15:51 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 141, valor 6.801.790 EUR | Interesante, pero conviene verificar titularidad
 - SOLO SI ESTA BARATO: CEN Martim Neto | score 76 | precio 1.622.431 EUR | valor 1.622.431 EUR | puja 1.719.777 EUR | max 1.784.675 EUR | pujas 1 | caduca 22/8/26, 12:46 | base: pts actuales 4 (peso bajo), media 4, pts temp ant 125, valor 1.622.431 EUR | Interesante, pero conviene verificar titularidad
-- SOLO SI ESTA BARATO: DEF El Hilali | score 76 | precio 10.450.818 EUR | valor 10.450.818 EUR | puja 10.471.720 EUR | max 10.607.581 EUR | ofertas 0 | vende Carlos___80 | caduca 24/8/26, 15:51 | base: pts actuales 8 (peso bajo), media 8, pts temp ant 101, valor 10.450.818 EUR | Interesante, pero conviene verificar titularidad
-- SOLO SI ESTA BARATO: CEN Mikel Rodriguez | score 75 | precio 932.862 EUR | valor 1.052.105 EUR | puja 988.834 EUR | max 1.063.463 EUR | ofertas 1 | vende Ramounsitou | caduca 22/8/26, 20:31 | base: pts actuales 14 (peso bajo), media 7, valor 1.052.105 EUR | Interesante, pero conviene verificar titularidad
 - SOLO SI ESTA BARATO: DEL Ferran Jutglà | score 75 | precio 9.571.026 EUR | valor 9.571.026 EUR | puja 9.590.169 EUR | max 9.714.592 EUR | ofertas 0 | vende Carlos___80 | caduca 24/8/26, 15:50 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 142, valor 9.571.026 EUR | Interesante, pero conviene verificar titularidad
-- SOLO SI ESTA BARATO: DEF Le Normand | score 74 | precio 11.391.438 EUR | valor 11.391.438 EUR | puja 11.790.139 EUR | max 12.302.754 EUR | ofertas 1 | vende Carlos___80 | caduca 24/8/26, 15:51 | base: pts actuales 9 (peso bajo), media 9, pts temp ant 125, valor 11.391.438 EUR | Interesante, pero conviene verificar titularidad
 - SOLO SI ESTA BARATO: POR M. Dituro | score 74 | precio 8.202.266 EUR | valor 8.202.266 EUR | puja 8.218.671 EUR | max 8.325.300 EUR | ofertas 0 | vende Carlos___80 | caduca 24/8/26, 15:51 | base: pts actuales 5 (peso bajo), media 5, pts temp ant 137, valor 8.202.266 EUR | Interesante, pero conviene verificar titularidad
+- SOLO SI ESTA BARATO: DEL Jauregi | score 73 | precio 1.147.245 EUR | valor 1.147.245 EUR | puja 1.149.540 EUR | max 1.164.454 EUR | pujas 0 | caduca 22/8/26, 12:46 | base: pts actuales 1 (peso bajo), media 1, valor 1.147.245 EUR | Interesante, pero conviene verificar titularidad
+- SOLO SI ESTA BARATO: DEF El Hilali | score 72 | precio 10.450.818 EUR | valor 10.450.818 EUR | puja 10.816.597 EUR | max 11.286.884 EUR | ofertas 1 | vende Carlos___80 | caduca 24/8/26, 15:51 | base: pts actuales 8 (peso bajo), media 8, pts temp ant 101, valor 10.450.818 EUR | Interesante, pero conviene verificar titularidad
 
 ### Vigilar
 

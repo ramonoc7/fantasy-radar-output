@@ -1,6 +1,6 @@
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-21T16:47:29.147Z
+Datos API: 2026-08-21T17:08:58.944Z
 Semana actual: 2
 
 ## Objetivo
@@ -30,7 +30,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - Saldo: 21.981.874 EUR
 - Valor plantilla: 209.990.332 EUR
 - Jugadores plantilla: 16
-- Mercado jugable: 42
+- Mercado jugable: 41
 - Entrenadores ignorados: 1
 - Estrategia: Arreglar porteria y defensa sin desmontar activos caros; convertir dinero concentrado en titulares baratos utiles.
 
@@ -72,7 +72,6 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 - DEF Pastor | precio 375.736 EUR | valor 375.736 EUR | rival | ofertas 0 | vende Carlos___80 | caduca 24/8/26, 15:51
 - DEF Julio Díaz | precio 444.643 EUR | valor 444.643 EUR | rival | ofertas 0 | vende RauulCm_ | caduca 24/8/26, 15:51
-- CEN Mikel Rodriguez | precio 932.862 EUR | valor 1.052.105 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 22/8/26, 20:31
 - DEF Salinas | precio 987.263 EUR | valor 987.263 EUR | machine | pujas 0 | caduca 22/8/26, 12:46
 - DEL Jauregi | precio 1.147.245 EUR | valor 1.147.245 EUR | machine | pujas 0 | caduca 22/8/26, 12:46
 - CEN Martim Neto | precio 1.622.431 EUR | valor 1.622.431 EUR | machine | pujas 1 | caduca 22/8/26, 12:46
