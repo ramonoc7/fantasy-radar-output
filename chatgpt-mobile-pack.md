@@ -1,10 +1,10 @@
 # ChatGPT Mobile Pack - Ligas Fantasy
 
-Actualizado: 2026-08-21T11:36:02.697Z
+Actualizado: 2026-08-21T12:08:58.630Z
 
 ## Fuente de verdad para informes
 
-Datos Fantasy actuales: 2026-08-21T11:36:02.697Z
+Datos Fantasy actuales: 2026-08-21T12:08:58.630Z
 
 Reglas obligatorias para ChatGPT:
 - Plantilla, saldo, mercado, pujas, actividad y once guardado actuales salen de este pack/radar, no de capturas antiguas ni memoria de conversaciones.
@@ -14,7 +14,21 @@ Reglas obligatorias para ChatGPT:
 - Si el usuario pide las tres ligas, separalas claramente y recalcula decisiones para cada una con su plantilla actual.
 - El contexto historico sirve solo para preferencias y estrategia; nunca para decidir quien esta ahora en plantilla o mercado.
 - Si un fichaje/venta nuevo cambia la plantilla, recalcula XI, ventas, fichajes y prioridades desde cero.
+- `informe` significa sincronizar/comprobar datos primero y analizar despues. Si el radar esta viejo o la sesion Fantasy ha caducado, avisa antes de recomendar.
 - No ejecutes compras, ventas, pujas ni cambios de once. Solo aconseja.
+
+Formato obligatorio de cada informe de liga:
+1. Situacion de la liga y del equipo: saldo, valor, puesto, puntos debiles, urgencias y contexto.
+2. Plantilla completa: intocables, titulares, rotacion, vendibles y salidas si aparece una mejora.
+3. XI recomendado actualizado: recalculado con fichajes, ventas, lesiones, sanciones y cambios de rol.
+4. Titularidad de tus jugadores separando proxima jornada y largo plazo con esta escala: 90-100 fijo, 75-89 alto, 50-74 duda, 20-49 bajo, 0-19 casi nulo.
+5. Peso real en su club: pieza clave, importante, rotacion, suplente o apuesta, con techo Fantasy y riesgo.
+6. Mercado completo ordenado del mejor fichaje al peor, no solo cinco nombres.
+7. Para cada jugador relevante del mercado: titularidad proxima y largo plazo, peso, calidad Fantasy, precio, riesgo, competencia, caro/barato y puja maxima orientativa.
+8. Ranking de fichajes segun la plantilla concreta de esa liga.
+9. Que vender para financiar fichajes, si procede.
+10. Que evitar: lesionados, suplentes, sobreprecio, mala relacion coste/rol o entrenadores ENT.
+11. Bloque final `QUE HAGO HOY` con acciones en orden de prioridad.
 
 Estado actual detectado por liga:
 - Los Primacos (los-primacos): saldo 12.730.557 EUR | valor 219.293.917 EUR | plantilla 19 | mercado jugable 19 | ENT ignorados 1
@@ -106,7 +120,7 @@ Ventas / huecos:
 Prompt rapido para ChatGPT movil:
 
 ```text
-Con este pack, dime solo que me aconsejas hacer hoy en cada liga: pujas orientativas, ventas candidatas, once y 3 dudas maximas que verificar. No ejecutes acciones. No vendas a nadie solo por 0 puntos actuales. Ten en cuenta precio, titularidad presente/futura, minutos y titularidades de temporada pasada, rol y competencia. Nada de herramientas de pago.
+Informe. Usa el pack/radar como fuente de verdad actual: primero comprueba si esta actualizado y despues analiza. Si este chat es de una liga concreta, responde solo esa liga. Incluye situacion, plantilla completa, XI recalculado, titularidad proxima/largo plazo, peso real, techo Fantasy, riesgo, mercado completo ordenado, pujas maximas, ventas, evitar y bloque final QUE HAGO HOY. No ejecutes acciones.
 ```
 
 ## Como usar esto en ChatGPT movil
@@ -114,13 +128,9 @@ Con este pack, dime solo que me aconsejas hacer hoy en cada liga: pujas orientat
 Copia o adjunta este archivo en una conversacion de ChatGPT dentro del proyecto Ligas Fantasy y pide:
 
 ```text
-Usa este pack como contexto de mis tres ligas. Dame solo decisiones accionables para hoy:
-- fichar ya
-- puja maxima
-- evitar
-- vender
-- once recomendado
-- dudas que necesitan verificar titularidad/noticias
+Usa este pack como fuente de verdad actual. Si digo informe en una liga concreta, dame solo esa liga. Si pido las tres, separalas.
+Primero comprueba/sincroniza si el radar esta actualizado; despues analiza.
+Incluye siempre situacion de liga/equipo, plantilla completa, XI recalculado, titularidad proxima y largo plazo, peso real, techo Fantasy, riesgo, mercado completo ordenado, pujas maximas, ventas para financiar, jugadores a evitar y bloque final QUE HAGO HOY.
 
 Regla clave: no ejecutes compras, ventas, pujas ni cambios de once. Solo aconseja; yo confirmo manualmente en Fantasy.
 No vendas a nadie solo por tener 0 puntos actuales. Ten en cuenta precio, titularidad actual, titularidad futura, minutos/titularidades de la temporada pasada, rol, competencia y noticias.
@@ -227,7 +237,7 @@ Prioridades:
 
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-21T11:36:02.697Z
+Datos API: 2026-08-21T12:08:58.630Z
 Semana actual: 2
 
 ## Objetivo
@@ -465,8 +475,8 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 # Cola diaria de noticias y titularidad
 
-Generada: 21/8/26, 13:36
-Datos Fantasy: 21/8/26, 13:36
+Generada: 21/8/26, 14:08
+Datos Fantasy: 21/8/26, 14:08
 
 Uso: esta es la lista corta que ChatGPT/Codex debe verificar en internet antes de cerrar pujas fuertes o el once. El radar solo aconseja; Ramon ejecuta todo manualmente.
 
@@ -606,8 +616,8 @@ Usa esta cola. Busca en internet noticias recientes, onces probables, rol previs
 
 # Informe Inteligente Ligas Fantasy
 
-Generado: 21/8/26, 13:36
-Datos API: 21/8/26, 13:36
+Generado: 21/8/26, 14:08
+Datos API: 21/8/26, 14:08
 Semana actual: 2
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
