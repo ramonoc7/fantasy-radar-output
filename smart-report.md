@@ -1,7 +1,7 @@
 # Informe Inteligente Ligas Fantasy
 
-Generado: 21/8/26, 17:33
-Datos API: 21/8/26, 17:33
+Generado: 21/8/26, 17:44
+Datos API: 21/8/26, 17:44
 Semana actual: 2
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -212,7 +212,7 @@ Formacion: 4-4-2 | puntuacion interna 799
 - Liga: puesto 7/10, 17 puntos, a 21 del lider (Erdeivis22)
 - Ranking por valor de plantilla: 7/10
 - Plantilla: 16 jugadores
-- Mercado jugable: 14
+- Mercado jugable: 15
 
 ### Alertas
 
@@ -279,6 +279,7 @@ Formacion: 3-4-3 | puntuacion interna 774
 - VIGILAR: CEN Herrera | score 63 | precio 2.945.641 EUR | valor 2.924.705 EUR | puja 2.951.533 EUR | max 2.989.826 EUR | pujas 0 | caduca 21/8/26, 22:10 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 18, valor 2.924.705 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: CEN Mella | score 63 | precio 3.379.977 EUR | valor 3.349.591 EUR | puja 3.386.737 EUR | max 3.430.677 EUR | pujas 0 | caduca 21/8/26, 22:10 | base: pts actuales 1 (peso bajo), media 1, valor 3.349.591 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: CEN Riquelme | score 63 | precio 4.376.894 EUR | valor 4.461.060 EUR | puja 4.639.508 EUR | max 4.907.166 EUR | pujas 1 | caduca 21/8/26, 22:10 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 66, valor 4.461.060 EUR | Puede servir si mejora titularidad/precio
+- VIGILAR: CEN Maguette | score 63 | precio 3.645.696 EUR | valor 3.645.696 EUR | puja 3.652.988 EUR | max 3.700.382 EUR | ofertas 0 | vende Ramounsitou | caduca 24/8/26, 17:36 | base: pts actuales 2 (peso bajo), media 2, valor 3.645.696 EUR | Puede servir si mejora titularidad/precio
 - MIRAR: CEN Valverde | score 60 | precio 71.728.607 EUR | valor 72.063.324 EUR | puja 72.804.537 EUR | max 74.597.752 EUR | pujas 1 | caduca 21/8/26, 22:10 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 249, valor 72.063.324 EUR | No entra en saldo actual sin ventas
 - VIGILAR: CEN Protesoni | score 58 | precio 2.392.376 EUR | valor 2.328.094 EUR | puja 2.397.161 EUR | max 2.428.262 EUR | pujas 0 | caduca 21/8/26, 22:10 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 26, valor 2.328.094 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: DEL Robbie Ure | score 57 | precio 14.036.064 EUR | valor 12.146.361 EUR | puja 14.527.327 EUR | max 14.527.327 EUR | ofertas 1 | vende Erdeivis22 | caduca 23/8/26, 9:07 | base: pts actuales 4 (peso bajo), media 4, valor 12.146.361 EUR | Puede servir si mejora titularidad/precio

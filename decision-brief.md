@@ -1,6 +1,6 @@
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-21T15:33:49.089Z
+Datos API: 2026-08-21T15:44:04.045Z
 Semana actual: 2
 
 ## Objetivo
@@ -173,7 +173,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - Saldo: 58.014.963 EUR
 - Valor plantilla: 177.958.853 EUR
 - Jugadores plantilla: 16
-- Mercado jugable: 14
+- Mercado jugable: 15
 - Entrenadores ignorados: 1
 - Estrategia: Solucionar porteria y tercer defensa, manteniendo un centro del campo barato y muy util; cazar gangas antes que perseguir nombres caros.
 
@@ -218,6 +218,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - CEN Herrera | precio 2.945.641 EUR | valor 2.924.705 EUR | machine | pujas 0 | caduca 21/8/26, 22:10
 - DEF Bright Ede | precio 2.983.840 EUR | valor 3.102.946 EUR | machine | pujas 1 | caduca 21/8/26, 22:10
 - CEN Mella | precio 3.379.977 EUR | valor 3.349.591 EUR | machine | pujas 0 | caduca 21/8/26, 22:10
+- CEN Maguette | precio 3.645.696 EUR | valor 3.645.696 EUR | rival | ofertas 0 | vende Ramounsitou | caduca 24/8/26, 17:36
 - CEN Óscar Valentín | precio 4.032.015 EUR | valor 4.147.058 EUR | machine | pujas 2 | caduca 21/8/26, 22:10
 - DEL Cala | precio 4.082.439 EUR | valor 4.101.822 EUR | machine | pujas 0 | caduca 21/8/26, 22:10
 - CEN Riquelme | precio 4.376.894 EUR | valor 4.461.060 EUR | machine | pujas 1 | caduca 21/8/26, 22:10
