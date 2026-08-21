@@ -1,6 +1,6 @@
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-21T15:44:04.045Z
+Datos API: 2026-08-21T16:47:29.147Z
 Semana actual: 2
 
 ## Objetivo
@@ -27,10 +27,10 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 ### Los Primacos
 
-- Saldo: 18.502.116 EUR
-- Valor plantilla: 213.636.028 EUR
-- Jugadores plantilla: 17
-- Mercado jugable: 45
+- Saldo: 21.981.874 EUR
+- Valor plantilla: 209.990.332 EUR
+- Jugadores plantilla: 16
+- Mercado jugable: 42
 - Entrenadores ignorados: 1
 - Estrategia: Arreglar porteria y defensa sin desmontar activos caros; convertir dinero concentrado en titulares baratos utiles.
 
@@ -43,7 +43,6 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - DEF Javi Rueda | Celta | 4.421.896 EUR
 - DEF Fran García | Real Betis | 9.420.754 EUR
 - DEF Javi Rodríguez | Celta | 9.120.814 EUR
-- CEN Maguette | R. Racing Club | 3.645.696 EUR
 - CEN D. Villares | RC Deportivo | 2.236.837 EUR
 - CEN Guido Rodríguez | Valencia CF | 23.907.269 EUR
 - CEN Mikel Rodriguez | Deportivo Alavés | 1.052.105 EUR
@@ -56,8 +55,6 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 #### Mercado que caduca antes
 
-- POR A. Ferllo | precio 4.483.208 EUR | valor 4.130.785 EUR | rival | ofertas 1 | vende Rubio 05 | caduca 21/8/26, 18:36
-- CEN Rioja | precio 11.489.690 EUR | valor 10.481.692 EUR | rival | ofertas 1 | vende Rubio 05 | caduca 21/8/26, 18:36 | estado doubtful
 - CEN Javi Hernández | precio 9.720.017 EUR | valor 9.720.017 EUR | machine | pujas 0 | caduca 22/8/26, 12:46
 - DEL Jauregi | precio 1.147.245 EUR | valor 1.147.245 EUR | machine | pujas 0 | caduca 22/8/26, 12:46
 - DEF Paredes | precio 5.577.844 EUR | valor 5.577.844 EUR | machine | pujas 0 | caduca 22/8/26, 12:46
@@ -68,18 +65,18 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - CEN Martim Neto | precio 1.622.431 EUR | valor 1.622.431 EUR | machine | pujas 1 | caduca 22/8/26, 12:46
 - DEL Mikautadze | precio 65.316.052 EUR | valor 65.316.052 EUR | machine | pujas 0 | caduca 22/8/26, 12:46
 - DEF Copete | precio 1.600.786 EUR | valor 1.600.786 EUR | machine | pujas 0 | caduca 22/8/26, 12:46 | estado injured
+- CEN Hjulmand | precio 35.565.352 EUR | valor 35.565.352 EUR | machine | pujas 0 | caduca 22/8/26, 12:46
+- DEF Salinas | precio 987.263 EUR | valor 987.263 EUR | machine | pujas 0 | caduca 22/8/26, 12:46
 
 #### Baratos a revisar
 
 - DEF Pastor | precio 375.736 EUR | valor 375.736 EUR | rival | ofertas 0 | vende Carlos___80 | caduca 24/8/26, 15:51
 - DEF Julio Díaz | precio 444.643 EUR | valor 444.643 EUR | rival | ofertas 0 | vende RauulCm_ | caduca 24/8/26, 15:51
 - CEN Mikel Rodriguez | precio 932.862 EUR | valor 1.052.105 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 22/8/26, 20:31
-- DEF Salinas | precio 987.263 EUR | valor 987.263 EUR | machine | pujas 1 | caduca 22/8/26, 12:46
+- DEF Salinas | precio 987.263 EUR | valor 987.263 EUR | machine | pujas 0 | caduca 22/8/26, 12:46
 - DEL Jauregi | precio 1.147.245 EUR | valor 1.147.245 EUR | machine | pujas 0 | caduca 22/8/26, 12:46
 - CEN Martim Neto | precio 1.622.431 EUR | valor 1.622.431 EUR | machine | pujas 1 | caduca 22/8/26, 12:46
 - CEN Carlos Martín | precio 2.006.245 EUR | valor 2.006.245 EUR | machine | pujas 0 | caduca 22/8/26, 12:46
-- CEN Maguette | precio 3.805.623 EUR | valor 3.645.696 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 22/8/26, 20:27
-- POR A. Ferllo | precio 4.483.208 EUR | valor 4.130.785 EUR | rival | ofertas 1 | vende Rubio 05 | caduca 21/8/26, 18:36
 - DEF Rafita | precio 4.694.679 EUR | valor 4.694.679 EUR | machine | pujas 0 | caduca 22/8/26, 12:46
 
 #### Premium a revisar
@@ -94,7 +91,6 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 - Diego López: estado injured en mercado.
 - Copete: estado injured en mercado.
-- Rioja: estado doubtful en mercado.
 - Gorrotxa: estado injured en mercado.
 - Hay 1 entrenadores en mercado: ignorar por funcion Premium bloqueada.
 
@@ -173,7 +169,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - Saldo: 58.014.963 EUR
 - Valor plantilla: 177.958.853 EUR
 - Jugadores plantilla: 16
-- Mercado jugable: 15
+- Mercado jugable: 17
 - Entrenadores ignorados: 1
 - Estrategia: Solucionar porteria y tercer defensa, manteniendo un centro del campo barato y muy util; cazar gangas antes que perseguir nombres caros.
 
@@ -229,5 +225,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 #### Alertas
 
+- Ruggeri: estado out_of_league en mercado.
+- Cabrera: estado suspended en mercado.
 - Hay 1 entrenadores en mercado: ignorar por funcion Premium bloqueada.
 
