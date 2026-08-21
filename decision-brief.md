@@ -1,6 +1,6 @@
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-21T17:08:58.944Z
+Datos API: 2026-08-21T17:38:48.803Z
 Semana actual: 2
 
 ## Objetivo
@@ -168,7 +168,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - Saldo: 58.014.963 EUR
 - Valor plantilla: 177.958.853 EUR
 - Jugadores plantilla: 16
-- Mercado jugable: 17
+- Mercado jugable: 22
 - Entrenadores ignorados: 1
 - Estrategia: Solucionar porteria y tercer defensa, manteniendo un centro del campo barato y muy util; cazar gangas antes que perseguir nombres caros.
 
@@ -209,14 +209,17 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 #### Baratos a revisar
 
 - DEF De Las Sias | precio 566.156 EUR | valor 558.784 EUR | machine | pujas 0 | caduca 21/8/26, 22:10
+- DEF Pablo Ramón | precio 611.592 EUR | valor 611.592 EUR | rival | ofertas 0 | vende Ramounsitou | caduca 24/8/26, 19:15
+- CEN Iker Muñoz | precio 1.266.586 EUR | valor 1.266.586 EUR | rival | ofertas 0 | vende Ramounsitou | caduca 24/8/26, 19:15
+- CEN D. Villares | precio 2.236.837 EUR | valor 2.236.837 EUR | rival | ofertas 0 | vende Ramounsitou | caduca 24/8/26, 19:15
 - CEN Protesoni | precio 2.392.376 EUR | valor 2.328.094 EUR | machine | pujas 0 | caduca 21/8/26, 22:10
 - CEN Herrera | precio 2.945.641 EUR | valor 2.924.705 EUR | machine | pujas 0 | caduca 21/8/26, 22:10
 - DEF Bright Ede | precio 2.983.840 EUR | valor 3.102.946 EUR | machine | pujas 1 | caduca 21/8/26, 22:10
+- DEF Hector Fort | precio 2.998.849 EUR | valor 2.998.849 EUR | rival | ofertas 0 | vende Ramounsitou | caduca 24/8/26, 19:12
 - CEN Mella | precio 3.379.977 EUR | valor 3.349.591 EUR | machine | pujas 0 | caduca 21/8/26, 22:10
 - CEN Maguette | precio 3.645.696 EUR | valor 3.645.696 EUR | rival | ofertas 0 | vende Ramounsitou | caduca 24/8/26, 17:36
 - CEN Óscar Valentín | precio 4.032.015 EUR | valor 4.147.058 EUR | machine | pujas 2 | caduca 21/8/26, 22:10
 - DEL Cala | precio 4.082.439 EUR | valor 4.101.822 EUR | machine | pujas 0 | caduca 21/8/26, 22:10
-- CEN Riquelme | precio 4.376.894 EUR | valor 4.461.060 EUR | machine | pujas 1 | caduca 21/8/26, 22:10
 
 #### Premium a revisar
 

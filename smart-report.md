@@ -1,7 +1,7 @@
 # Informe Inteligente Ligas Fantasy
 
-Generado: 21/8/26, 19:08
-Datos API: 21/8/26, 19:08
+Generado: 21/8/26, 19:38
+Datos API: 21/8/26, 19:38
 Semana actual: 2
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -210,7 +210,7 @@ Formacion: 4-4-2 | puntuacion interna 799
 - Liga: puesto 7/10, 17 puntos, a 21 del lider (Erdeivis22)
 - Ranking por valor de plantilla: 7/10
 - Plantilla: 16 jugadores
-- Mercado jugable: 17
+- Mercado jugable: 22
 
 ### Alertas
 
@@ -267,10 +267,11 @@ Formacion: 3-4-3 | puntuacion interna 774
 - SOLO SI ESTA BARATO: DEL Cala | score 80 | precio 4.082.439 EUR | valor 4.101.822 EUR | puja 4.090.604 EUR | max 4.143.676 EUR | pujas 0 | caduca 21/8/26, 22:10 | base: pts actuales 4 (peso bajo), media 4, valor 4.101.822 EUR | Interesante, pero conviene verificar titularidad
 - SOLO SI ESTA BARATO: DEF Bright Ede | score 79 | precio 2.983.840 EUR | valor 3.102.946 EUR | puja 3.162.871 EUR | max 3.401.578 EUR | pujas 1 | caduca 21/8/26, 22:10 | base: pts actuales 5 (peso bajo), media 5, valor 3.102.946 EUR | Interesante, pero conviene verificar titularidad
 - SOLO SI ESTA BARATO: DEF Aramburu | score 77 | precio 18.139.034 EUR | valor 18.273.519 EUR | puja 18.175.313 EUR | max 18.411.120 EUR | pujas 0 | caduca 21/8/26, 22:10 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 83, valor 18.273.519 EUR | Interesante, pero conviene verificar titularidad
+- SOLO SI ESTA BARATO: DEF Hector Fort | score 75 | precio 2.998.849 EUR | valor 2.998.849 EUR | puja 3.004.847 EUR | max 3.043.832 EUR | ofertas 0 | vende Ramounsitou | caduca 24/8/26, 19:12 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 55, valor 2.998.849 EUR | Interesante, pero conviene verificar titularidad
+- SOLO SI ESTA BARATO: DEF Pablo Ramón | score 75 | precio 611.592 EUR | valor 611.592 EUR | puja 612.816 EUR | max 620.766 EUR | ofertas 0 | vende Ramounsitou | caduca 24/8/26, 19:15 | base: pts actuales 3 (peso bajo), media 3, valor 611.592 EUR | Interesante, pero conviene verificar titularidad
 - SOLO SI ESTA BARATO: CEN Óscar Valentín | score 73 | precio 4.032.015 EUR | valor 4.147.058 EUR | puja 4.273.936 EUR | max 4.561.764 EUR | pujas 2 | caduca 21/8/26, 22:10 | base: pts actuales 7 (peso bajo), media 3.5, pts temp ant 134, valor 4.147.058 EUR | Interesante, pero conviene verificar titularidad
 - SOLO SI ESTA BARATO: DEF De Las Sias | score 71 | precio 566.156 EUR | valor 558.784 EUR | puja 567.289 EUR | max 574.649 EUR | pujas 0 | caduca 21/8/26, 22:10 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 0, valor 558.784 EUR | Interesante, pero conviene verificar titularidad
-- SOLO SI ESTA BARATO: CEN Mangala | score 67 | precio 10.638.278 EUR | valor 10.655.864 EUR | puja 10.659.555 EUR | max 10.797.853 EUR | pujas 0 | caduca 21/8/26, 22:10 | base: pts actuales 4 (peso bajo), media 4, valor 10.655.864 EUR | Interesante, pero conviene verificar titularidad
-- SOLO SI ESTA BARATO: CEN Camavinga | score 67 | precio 9.480.579 EUR | valor 9.333.573 EUR | puja 9.499.541 EUR | max 9.622.788 EUR | ofertas 0 | vende riberegui98 | caduca 23/8/26, 16:51 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 121, valor 9.333.573 EUR | Interesante, pero conviene verificar titularidad
+- SOLO SI ESTA BARATO: DEL Villalibre | score 69 | precio 6.988.387 EUR | valor 6.988.387 EUR | puja 7.002.364 EUR | max 7.093.213 EUR | ofertas 0 | vende Ramounsitou | caduca 24/8/26, 19:16 | base: pts actuales 1 (peso bajo), media 1, valor 6.988.387 EUR | Interesante, pero conviene verificar titularidad
 
 ### Vigilar
 
@@ -278,10 +279,10 @@ Formacion: 3-4-3 | puntuacion interna 774
 - VIGILAR: CEN Mella | score 63 | precio 3.379.977 EUR | valor 3.349.591 EUR | puja 3.386.737 EUR | max 3.430.677 EUR | pujas 0 | caduca 21/8/26, 22:10 | base: pts actuales 1 (peso bajo), media 1, valor 3.349.591 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: CEN Riquelme | score 63 | precio 4.376.894 EUR | valor 4.461.060 EUR | puja 4.639.508 EUR | max 4.907.166 EUR | pujas 1 | caduca 21/8/26, 22:10 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 66, valor 4.461.060 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: CEN Maguette | score 63 | precio 3.645.696 EUR | valor 3.645.696 EUR | puja 3.652.988 EUR | max 3.700.382 EUR | ofertas 0 | vende Ramounsitou | caduca 24/8/26, 17:36 | base: pts actuales 2 (peso bajo), media 2, valor 3.645.696 EUR | Puede servir si mejora titularidad/precio
+- VIGILAR: CEN Iker Muñoz | score 63 | precio 1.266.586 EUR | valor 1.266.586 EUR | puja 1.269.120 EUR | max 1.285.585 EUR | ofertas 0 | vende Ramounsitou | caduca 24/8/26, 19:15 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 55, valor 1.266.586 EUR | Puede servir si mejora titularidad/precio
+- VIGILAR: CEN D. Villares | score 63 | precio 2.236.837 EUR | valor 2.236.837 EUR | puja 2.241.311 EUR | max 2.270.390 EUR | ofertas 0 | vende Ramounsitou | caduca 24/8/26, 19:15 | base: pts actuales 2 (peso bajo), media 2, valor 2.236.837 EUR | Puede servir si mejora titularidad/precio
 - MIRAR: CEN Valverde | score 60 | precio 71.728.607 EUR | valor 72.063.324 EUR | puja 72.804.537 EUR | max 74.597.752 EUR | pujas 1 | caduca 21/8/26, 22:10 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 249, valor 72.063.324 EUR | No entra en saldo actual sin ventas
 - VIGILAR: CEN Protesoni | score 58 | precio 2.392.376 EUR | valor 2.328.094 EUR | puja 2.397.161 EUR | max 2.428.262 EUR | pujas 0 | caduca 21/8/26, 22:10 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 26, valor 2.328.094 EUR | Puede servir si mejora titularidad/precio
-- VIGILAR: DEL Robbie Ure | score 57 | precio 14.036.064 EUR | valor 12.146.361 EUR | puja 14.527.327 EUR | max 14.527.327 EUR | ofertas 1 | vende Erdeivis22 | caduca 23/8/26, 9:07 | base: pts actuales 4 (peso bajo), media 4, valor 12.146.361 EUR | Puede servir si mejora titularidad/precio
-- VIGILAR: CEN Rafa Rodríguez | score 56 | precio 5.735.307 EUR | valor 5.589.355 EUR | puja 5.746.778 EUR | max 5.821.337 EUR | pujas 0 | caduca 21/8/26, 22:10 | base: pts actuales 0 (peso bajo), media 0, valor 5.589.355 EUR | Puede servir si mejora titularidad/precio
 
 ### Evitar
 
