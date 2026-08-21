@@ -1,7 +1,7 @@
 # Informe Inteligente Ligas Fantasy
 
-Generado: 21/8/26, 21:32
-Datos API: 21/8/26, 21:32
+Generado: 21/8/26, 22:36
+Datos API: 21/8/26, 22:36
 Semana actual: 2
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -13,7 +13,7 @@ Semana actual: 2
 - Saldo: 21.981.874 EUR
 - Valor plantilla: 209.990.332 EUR
 - Inversion/pujas comprometidas detectadas: 20.773.337 EUR
-- Liga: puesto 6/13, 12 puntos, a 28 del lider (leomaldonado10)
+- Liga: puesto 6/13, 14 puntos, a 26 del lider (leomaldonado10)
 - Ranking por valor de plantilla: 2/13
 - Plantilla: 16 jugadores
 - Mercado jugable: 41
@@ -45,8 +45,8 @@ Formacion guardada: 5-3-2
 
 ### Once Recomendado Preliminar
 
-Formacion: 5-3-2 | puntuacion interna 822
-- POR Á. Valles | Real Betis | score 89 | fuerte por memoria + datos | base: pts actuales 1 (peso bajo), media 1, pts temp ant 185, valor 33.821.088 EUR, memoria core
+Formacion: 5-3-2 | puntuacion interna 828
+- POR Á. Valles | Real Betis | score 95 | fuerte por memoria + datos | base: pts actuales 3 (peso bajo), media 3, pts temp ant 185, valor 33.821.088 EUR, memoria core
 - DEF Javi Rueda | Celta | score 75 | fuerte por memoria + datos | base: pts actuales 0 (peso bajo), media 0, pts temp ant 132, valor 4.421.896 EUR, memoria core
 - DEF Koski | Deportivo Alavés | score 67 | util por memoria | base: pts actuales 12 (peso bajo), media 6, pts temp ant 23, valor 1.270.836 EUR, memoria keep
 - DEF Nuñez | RCD Espanyol | score 62 | buen candidato | base: pts actuales 10 (peso bajo), media 10, pts temp ant 48, valor 4.719.283 EUR
@@ -108,10 +108,10 @@ Formacion: 5-3-2 | puntuacion interna 822
 - Saldo: 13.470.699 EUR
 - Valor plantilla: 225.064.164 EUR
 - Inversion/pujas comprometidas detectadas: 12.900.258 EUR
-- Liga: puesto 4/10, 34 puntos, a 21 del lider (Archiking)
+- Liga: puesto 4/10, 34 puntos, a 21 del lider (Mynavo Kyiv)
 - Ranking por valor de plantilla: 4/10
 - Plantilla: 15 jugadores
-- Mercado jugable: 31
+- Mercado jugable: 29
 
 ### Alertas
 
@@ -193,7 +193,6 @@ Formacion: 4-4-2 | puntuacion interna 799
 - EVITAR: DEF Ximo Navarro | score 30 | precio 10.000.000 EUR | valor 5.489.120 EUR | No pujar salvo que lo revisemos manualmente | ofertas 1 | vende West Jamon C.F.D. | caduca 23/8/26, 12:07 | base: pts actuales 2 (peso bajo), media 2, valor 5.489.120 EUR | Sobreprecio del 82%
 - EVITAR: DEF Pedro Felipe | score 12 | precio 2.238.799 EUR | valor 2.238.792 EUR | No pujar: injured | pujas 0 | caduca 22/8/26, 10:53 | injured | base: pts actuales 2 (peso bajo), media 2, valor 2.238.792 EUR, estado injured | Estado injured
 - EVITAR: DEL Yeremay | score 12 | precio 65.000.000 EUR | valor 46.129.077 EUR | No pujar salvo que lo revisemos manualmente | ofertas 1 | vende West Jamon C.F.D. | caduca 23/8/26, 22:56 | doubtful | base: pts actuales 0 (peso bajo), media 0, valor 46.129.077 EUR, estado doubtful | Sobreprecio del 41%
-- EVITAR: DEF Ruggeri | score 1 | precio 5.846.056 EUR | valor 5.846.056 EUR | No pujar: out_of_league | ofertas 1 | vende Archiking | caduca 23/8/26, 11:02 | out_of_league | base: pts actuales 0 (peso bajo), media 0, pts temp ant 128, valor 5.846.056 EUR, estado out_of_league | Estado out_of_league
 
 ### Vender O Liberar Hueco
 
@@ -204,23 +203,22 @@ Formacion: 4-4-2 | puntuacion interna 799
 
 ## Los Mastuerzos
 
-- Saldo: 58.014.963 EUR
-- Valor plantilla: 177.958.853 EUR
-- Inversion/pujas comprometidas detectadas: 72.063.399 EUR
-- Liga: puesto 7/10, 17 puntos, a 21 del lider (Erdeivis22)
-- Ranking por valor de plantilla: 7/10
-- Plantilla: 16 jugadores
-- Mercado jugable: 22
+- Saldo: -14.048.436 EUR
+- Valor plantilla: 250.022.177 EUR
+- Inversion/pujas comprometidas detectadas: 0 EUR
+- Liga: puesto 7/10, 16 puntos, a 22 del lider (Erdeivis22)
+- Ranking por valor de plantilla: 2/10
+- Plantilla: 17 jugadores
+- Mercado jugable: 21
 
 ### Alertas
 
-- 12 jugador(es) jugables caducan en menos de 8 horas.
-- 1 entrenador(es) ignorados por Premium.
+- Saldo negativo: hay que vender antes del inicio de jornada.
+- 2 entrenador(es) ignorados por Premium.
 
 ### Situacion
 
 - Porteria: tener solo un portero deja poco margen.
-- XI: 1 puesto(s) del once salen con puntuacion baja y son mejorables.
 - Estrategia recordada: Solucionar porteria y tercer defensa, manteniendo un centro del campo barato y muy util; cazar gangas antes que perseguir nombres caros.
 
 ### Once Actual Detectado
@@ -233,29 +231,29 @@ Formacion guardada: 4-3-3
 - DEF Javi Rodríguez
 - CEN Germán V.
 - CEN Javi Guerra
-- CEN R. Terrats
+- CEN Valverde
 - DEL Hugo Duro
 - DEL Villalibre
 - DEL Chupe
 
 ### Once Recomendado Preliminar
 
-Formacion: 3-4-3 | puntuacion interna 774
+Formacion: 3-4-3 | puntuacion interna 784
 - POR David Soria | Getafe CF | score 100 | fuerte por memoria + datos | base: pts actuales 4 (peso bajo), media 4, pts temp ant 249, valor 22.577.754 EUR, memoria core
-- DEF Sergio Gómez | Real Sociedad | score 80 | fuerte por memoria + datos | base: pts actuales 0 (peso bajo), media 0, pts temp ant 173, valor 17.551.962 EUR, memoria core
+- DEF Sergio Gómez | Real Sociedad | score 80 | fuerte por memoria + datos | base: pts actuales -1 (peso bajo), media -1, pts temp ant 173, valor 17.551.962 EUR, memoria core
 - DEF C. Puga | Málaga CF | score 72 | fuerte por memoria + datos | base: pts actuales 4 (peso bajo), media 4, valor 4.981.968 EUR, memoria core, venta protegida
 - DEF Koski | Deportivo Alavés | score 67 | util por memoria | base: pts actuales 12 (peso bajo), media 6, pts temp ant 23, valor 1.270.836 EUR, memoria keep
 - CEN Germán V. | Elche CF | score 73 | fuerte por memoria + datos | base: pts actuales 4 (peso bajo), media 4, valor 21.884.622 EUR, memoria core
+- CEN Valverde | Real Madrid | score 63 | buen candidato | base: pts actuales 0 (peso bajo), media 0, pts temp ant 249, valor 72.063.324 EUR
 - CEN Javi Guerra | Valencia CF | score 63 | fuerte por memoria + datos | base: pts actuales 0 (peso bajo), media 0, valor 24.754.192 EUR, memoria core, venta protegida
 - CEN R. Terrats | Getafe CF | score 61 | util por memoria | base: pts actuales 2 (peso bajo), media 2, pts temp ant 87, valor 3.351.404 EUR, memoria keep
-- CEN Maguette | R. Racing Club | score 53 | util por memoria | base: pts actuales 2 (peso bajo), media 2, valor 3.645.696 EUR, memoria keep
 - DEL Hugo Duro | Valencia CF | score 80 | fuerte por memoria + datos | base: pts actuales 0 (peso bajo), media 0, pts temp ant 134, valor 8.561.256 EUR, memoria core
 - DEL Chupe | Málaga CF | score 70 | fuerte por memoria + datos | base: pts actuales 1 (peso bajo), media 1, valor 46.156.098 EUR, memoria core, venta protegida
 - DEL Villalibre | R. Racing Club | score 55 | util por memoria | base: pts actuales 1 (peso bajo), media 1, valor 6.988.387 EUR, memoria keep
 
 ### Cambios De Once
 
-- Entra: CEN Maguette
+- Entra: CEN R. Terrats
 - Sale: DEF Javi Rodríguez
 
 ### Fichar Ya
@@ -264,38 +262,33 @@ Formacion: 3-4-3 | puntuacion interna 774
 
 ### Solo Si Esta Barato
 
-- SOLO SI ESTA BARATO: DEL Cala | score 80 | precio 4.082.439 EUR | valor 4.101.822 EUR | puja 4.090.604 EUR | max 4.143.676 EUR | pujas 0 | caduca 21/8/26, 22:10 | base: pts actuales 4 (peso bajo), media 4, valor 4.101.822 EUR | Interesante, pero conviene verificar titularidad
-- SOLO SI ESTA BARATO: DEF Bright Ede | score 79 | precio 2.983.840 EUR | valor 3.102.946 EUR | puja 3.162.871 EUR | max 3.401.578 EUR | pujas 1 | caduca 21/8/26, 22:10 | base: pts actuales 5 (peso bajo), media 5, valor 3.102.946 EUR | Interesante, pero conviene verificar titularidad
-- SOLO SI ESTA BARATO: DEF Aramburu | score 77 | precio 18.139.034 EUR | valor 18.273.519 EUR | puja 18.175.313 EUR | max 18.411.120 EUR | pujas 0 | caduca 21/8/26, 22:10 | base: pts actuales -1 (peso bajo), media -1, pts temp ant 83, valor 18.273.519 EUR | Interesante, pero conviene verificar titularidad
-- SOLO SI ESTA BARATO: DEF Hector Fort | score 75 | precio 2.998.849 EUR | valor 2.998.849 EUR | puja 3.004.847 EUR | max 3.043.832 EUR | ofertas 0 | vende Ramounsitou | caduca 24/8/26, 19:12 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 55, valor 2.998.849 EUR | Interesante, pero conviene verificar titularidad
-- SOLO SI ESTA BARATO: DEF Pablo Ramón | score 75 | precio 611.592 EUR | valor 611.592 EUR | puja 612.816 EUR | max 620.766 EUR | ofertas 0 | vende Ramounsitou | caduca 24/8/26, 19:15 | base: pts actuales 3 (peso bajo), media 3, valor 611.592 EUR | Interesante, pero conviene verificar titularidad
-- SOLO SI ESTA BARATO: CEN Óscar Valentín | score 73 | precio 4.032.015 EUR | valor 4.147.058 EUR | puja 4.273.936 EUR | max 4.561.764 EUR | pujas 2 | caduca 21/8/26, 22:10 | base: pts actuales 7 (peso bajo), media 3.5, pts temp ant 134, valor 4.147.058 EUR | Interesante, pero conviene verificar titularidad
-- SOLO SI ESTA BARATO: DEF De Las Sias | score 71 | precio 566.156 EUR | valor 558.784 EUR | puja 567.289 EUR | max 574.649 EUR | pujas 0 | caduca 21/8/26, 22:10 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 0, valor 558.784 EUR | Interesante, pero conviene verificar titularidad
-- SOLO SI ESTA BARATO: DEL Villalibre | score 69 | precio 6.988.387 EUR | valor 6.988.387 EUR | puja 7.002.364 EUR | max 7.093.213 EUR | ofertas 0 | vende Ramounsitou | caduca 24/8/26, 19:16 | base: pts actuales 1 (peso bajo), media 1, valor 6.988.387 EUR | Interesante, pero conviene verificar titularidad
+- SOLO SI ES CLARO: DEL Arnau Ortiz | score 59 | precio 1.224.576 EUR | valor 1.224.576 EUR | puja 1.227.026 EUR | max 1.242.945 EUR | pujas 0 | caduca 22/8/26, 22:10 | base: pts actuales 4 (peso bajo), media 4, valor 1.224.576 EUR | Consume demasiado saldo para una recomendacion automatica
+- SOLO SI ES CLARO: DEL Fer Niño | score 58 | precio 13.543.677 EUR | valor 13.543.677 EUR | puja 13.570.765 EUR | max 13.746.833 EUR | pujas 0 | caduca 22/8/26, 22:10 | base: pts actuales 3 (peso bajo), media 3, valor 13.543.677 EUR | Consume demasiado saldo para una recomendacion automatica
+- SOLO SI ES CLARO: CEN Denis Suárez | score 58 | precio 2.345.839 EUR | valor 2.345.839 EUR | puja 2.350.531 EUR | max 2.381.027 EUR | pujas 0 | caduca 22/8/26, 22:10 | base: pts actuales 7 (peso bajo), media 3.5, pts temp ant 97, valor 2.345.839 EUR | Consume demasiado saldo para una recomendacion automatica
+- SOLO SI ES CLARO: DEF Diakhaby | score 56 | precio 5.228.660 EUR | valor 5.228.660 EUR | puja 5.239.118 EUR | max 5.307.090 EUR | pujas 0 | caduca 22/8/26, 22:10 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 38, valor 5.228.660 EUR | Consume demasiado saldo para una recomendacion automatica
+- SOLO SI ES CLARO: DEF J. Berrocal | score 52 | precio 1.389.303 EUR | valor 1.389.303 EUR | puja 1.392.082 EUR | max 1.410.143 EUR | pujas 0 | caduca 22/8/26, 22:10 | base: pts actuales 0 (peso bajo), media 0, valor 1.389.303 EUR | Consume demasiado saldo para una recomendacion automatica
+- SOLO SI ES CLARO: DEF Jose Angel | score 51 | precio 622.196 EUR | valor 622.196 EUR | puja 623.441 EUR | max 631.529 EUR | pujas 0 | caduca 22/8/26, 22:10 | base: pts actuales 0 (peso bajo), media 0, valor 622.196 EUR | Consume demasiado saldo para una recomendacion automatica
+- SOLO SI ES CLARO: DEF Hector Fort | score 51 | precio 2.998.849 EUR | valor 2.998.849 EUR | puja 3.178.780 EUR | max 3.298.734 EUR | ofertas 1 | vende Ramounsitou | caduca 24/8/26, 19:12 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 55, valor 2.998.849 EUR | Consume demasiado saldo para una recomendacion automatica
+- SOLO SI ES CLARO: DEF Pablo Ramón | score 51 | precio 611.592 EUR | valor 611.592 EUR | puja 648.288 EUR | max 672.752 EUR | ofertas 1 | vende Ramounsitou | caduca 24/8/26, 19:15 | base: pts actuales 3 (peso bajo), media 3, valor 611.592 EUR | Consume demasiado saldo para una recomendacion automatica
 
 ### Vigilar
 
-- VIGILAR: CEN Herrera | score 63 | precio 2.945.641 EUR | valor 2.924.705 EUR | puja 2.951.533 EUR | max 2.989.826 EUR | pujas 0 | caduca 21/8/26, 22:10 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 18, valor 2.924.705 EUR | Puede servir si mejora titularidad/precio
-- VIGILAR: CEN Mella | score 63 | precio 3.379.977 EUR | valor 3.349.591 EUR | puja 3.386.737 EUR | max 3.430.677 EUR | pujas 0 | caduca 21/8/26, 22:10 | base: pts actuales 1 (peso bajo), media 1, valor 3.349.591 EUR | Puede servir si mejora titularidad/precio
-- VIGILAR: CEN Riquelme | score 63 | precio 4.376.894 EUR | valor 4.461.060 EUR | puja 4.639.508 EUR | max 4.907.166 EUR | pujas 1 | caduca 21/8/26, 22:10 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 66, valor 4.461.060 EUR | Puede servir si mejora titularidad/precio
-- VIGILAR: CEN Maguette | score 63 | precio 3.645.696 EUR | valor 3.645.696 EUR | puja 3.652.988 EUR | max 3.700.382 EUR | ofertas 0 | vende Ramounsitou | caduca 24/8/26, 17:36 | base: pts actuales 2 (peso bajo), media 2, valor 3.645.696 EUR | Puede servir si mejora titularidad/precio
-- VIGILAR: CEN Iker Muñoz | score 63 | precio 1.266.586 EUR | valor 1.266.586 EUR | puja 1.269.120 EUR | max 1.285.585 EUR | ofertas 0 | vende Ramounsitou | caduca 24/8/26, 19:15 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 55, valor 1.266.586 EUR | Puede servir si mejora titularidad/precio
-- VIGILAR: CEN D. Villares | score 63 | precio 2.236.837 EUR | valor 2.236.837 EUR | puja 2.241.311 EUR | max 2.270.390 EUR | ofertas 0 | vende Ramounsitou | caduca 24/8/26, 19:15 | base: pts actuales 2 (peso bajo), media 2, valor 2.236.837 EUR | Puede servir si mejora titularidad/precio
-- MIRAR: CEN Valverde | score 60 | precio 71.728.607 EUR | valor 72.063.324 EUR | puja 72.804.537 EUR | max 74.597.752 EUR | pujas 1 | caduca 21/8/26, 22:10 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 249, valor 72.063.324 EUR | No entra en saldo actual sin ventas
-- VIGILAR: CEN Protesoni | score 58 | precio 2.392.376 EUR | valor 2.328.094 EUR | puja 2.397.161 EUR | max 2.428.262 EUR | pujas 0 | caduca 21/8/26, 22:10 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 26, valor 2.328.094 EUR | Puede servir si mejora titularidad/precio
+- Nada claro por datos.
 
 ### Evitar
 
-- EVITAR: DEF Cabrera | score 12 | precio 15.085.835 EUR | valor 15.085.835 EUR | No pujar: suspended | ofertas 0 | vende Dariguti | caduca 24/8/26, 18:00 | suspended | base: pts actuales 0 (peso bajo), media 0, valor 15.085.835 EUR, estado suspended | Estado suspended
-- EVITAR: DEF Ruggeri | score 2 | precio 5.846.056 EUR | valor 5.846.056 EUR | No pujar: out_of_league | ofertas 0 | vende Dariguti | caduca 24/8/26, 18:00 | out_of_league | base: pts actuales 0 (peso bajo), media 0, pts temp ant 128, valor 5.846.056 EUR, estado out_of_league | Estado out_of_league
+- EVITAR: DEF Cabrera | score 8 | precio 15.085.835 EUR | valor 15.085.835 EUR | No pujar: suspended | ofertas 1 | vende Dariguti | caduca 24/8/26, 18:00 | suspended | base: pts actuales 0 (peso bajo), media 0, valor 15.085.835 EUR, estado suspended | Estado suspended
+- EVITAR: DEF Ruggeri | score 1 | precio 5.846.056 EUR | valor 5.846.056 EUR | No pujar: out_of_league | ofertas 1 | vende Dariguti | caduca 24/8/26, 18:00 | out_of_league | base: pts actuales 0 (peso bajo), media 0, pts temp ant 128, valor 5.846.056 EUR, estado out_of_league | Estado out_of_league
 
 ### Vender O Liberar Hueco
 
+- VENDER PARA SALIR DE ROJO: POS0 Saldo negativo | valor 14.048.436 EUR | score 0 | base: pts actuales 0 (peso bajo), valor 14.048.436 EUR | si empieza jornada en negativo, no puntuas
 - VENDER/USAR COMO HUECO: CEN Iker Muñoz | valor 1.266.586 EUR | score 40 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 55, valor 1.266.586 EUR | fuera del XI recomendado
 - VENDER/USAR COMO HUECO: DEF Hector Fort | valor 2.998.849 EUR | score 41 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 55, valor 2.998.849 EUR | fuera del XI recomendado
 - VENDER/USAR COMO HUECO: DEF Pablo Ramón | valor 611.592 EUR | score 42 | base: pts actuales 3 (peso bajo), media 3, valor 611.592 EUR | fuera del XI recomendado, relleno barato
 - VIGILAR: DEF Javi Rodríguez | valor 9.120.814 EUR | score 49 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 132, valor 9.120.814 EUR | fuera del XI recomendado
 - VIGILAR: CEN D. Villares | valor 2.236.837 EUR | score 52 | base: pts actuales 2 (peso bajo), media 2, valor 2.236.837 EUR, memoria keep | fuera del XI recomendado, mantener salvo mejora clara
+- VIGILAR: CEN Maguette | valor 3.645.696 EUR | score 53 | base: pts actuales 2 (peso bajo), media 2, valor 3.645.696 EUR, memoria keep | fuera del XI recomendado, mantener salvo mejora clara
 
 ## Rutina diaria
 

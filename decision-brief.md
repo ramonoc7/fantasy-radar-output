@@ -1,6 +1,6 @@
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-21T19:32:54.874Z
+Datos API: 2026-08-21T20:36:20.313Z
 Semana actual: 2
 
 ## Objetivo
@@ -98,7 +98,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - Saldo: 13.470.699 EUR
 - Valor plantilla: 225.064.164 EUR
 - Jugadores plantilla: 15
-- Mercado jugable: 31
+- Mercado jugable: 29
 - Entrenadores ignorados: 2
 - Estrategia: Construir un equipo ganador priorizando 11 titulares reales, gangas de mercado y revalorizacion.
 
@@ -147,7 +147,6 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - CEN D. Villares | precio 2.329.238 EUR | valor 2.236.837 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 22/8/26, 14:41
 - DEL B. Mayoral | precio 2.708.402 EUR | valor 2.708.386 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
 - DEL Miguel Rodríguez | precio 2.718.884 EUR | valor 2.718.871 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
-- POR J. Musso | precio 4.056.137 EUR | valor 3.969.391 EUR | rival | ofertas 1 | vende Archiking | caduca 23/8/26, 11:01
 
 #### Premium a revisar
 
@@ -158,34 +157,34 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 #### Alertas
 
 - Pedro Felipe: estado injured en mercado.
-- Ruggeri: estado out_of_league en mercado.
 - Yeremay: estado doubtful en mercado.
 - R.P. Bigas: estado doubtful en mercado.
 - Hay 2 entrenadores en mercado: ignorar por funcion Premium bloqueada.
 
 ### Los Mastuerzos
 
-- Saldo: 58.014.963 EUR
-- Valor plantilla: 177.958.853 EUR
-- Jugadores plantilla: 16
-- Mercado jugable: 22
-- Entrenadores ignorados: 1
+- Saldo: -14.048.436 EUR
+- Valor plantilla: 250.022.177 EUR
+- Jugadores plantilla: 17
+- Mercado jugable: 21
+- Entrenadores ignorados: 2
 - Estrategia: Solucionar porteria y tercer defensa, manteniendo un centro del campo barato y muy util; cazar gangas antes que perseguir nombres caros.
 
 #### Plantilla
 
 - POR David Soria | Getafe CF | 22.577.754 EUR
+- DEF Sergio Gómez | Real Sociedad | 17.551.962 EUR
+- DEF Javi Rodríguez | Celta | 9.120.814 EUR
 - DEF C. Puga | Málaga CF | 4.981.968 EUR
 - DEF Pablo Ramón | R. Racing Club | 611.592 EUR
-- DEF Koski | Deportivo Alavés | 1.270.836 EUR
 - DEF Hector Fort | FC Barcelona | 2.998.849 EUR
-- DEF Javi Rodríguez | Celta | 9.120.814 EUR
-- DEF Sergio Gómez | Real Sociedad | 17.551.962 EUR
-- CEN R. Terrats | Getafe CF | 3.351.404 EUR
-- CEN Javi Guerra | Valencia CF | 24.754.192 EUR
-- CEN D. Villares | RC Deportivo | 2.236.837 EUR
-- CEN Maguette | R. Racing Club | 3.645.696 EUR
+- DEF Koski | Deportivo Alavés | 1.270.836 EUR
 - CEN Germán V. | Elche CF | 21.884.622 EUR
+- CEN Javi Guerra | Valencia CF | 24.754.192 EUR
+- CEN Maguette | R. Racing Club | 3.645.696 EUR
+- CEN D. Villares | RC Deportivo | 2.236.837 EUR
+- CEN R. Terrats | Getafe CF | 3.351.404 EUR
+- CEN Valverde | Real Madrid | 72.063.324 EUR
 - CEN Iker Muñoz | C.A. Osasuna | 1.266.586 EUR
 - DEL Chupe | Málaga CF | 46.156.098 EUR
 - DEL Villalibre | R. Racing Club | 6.988.387 EUR
@@ -193,41 +192,42 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 #### Mercado que caduca antes
 
-- CEN Herrera | precio 2.945.641 EUR | valor 2.924.705 EUR | machine | pujas 0 | caduca 21/8/26, 22:10
-- CEN Valverde | precio 71.728.607 EUR | valor 72.063.324 EUR | machine | pujas 1 | caduca 21/8/26, 22:10
-- DEL Cala | precio 4.082.439 EUR | valor 4.101.822 EUR | machine | pujas 0 | caduca 21/8/26, 22:10
-- CEN Rafa Rodríguez | precio 5.735.307 EUR | valor 5.589.355 EUR | machine | pujas 0 | caduca 21/8/26, 22:10
-- DEF De Las Sias | precio 566.156 EUR | valor 558.784 EUR | machine | pujas 0 | caduca 21/8/26, 22:10
-- CEN Protesoni | precio 2.392.376 EUR | valor 2.328.094 EUR | machine | pujas 0 | caduca 21/8/26, 22:10
-- CEN Mella | precio 3.379.977 EUR | valor 3.349.591 EUR | machine | pujas 0 | caduca 21/8/26, 22:10
-- DEF Aramburu | precio 18.139.034 EUR | valor 18.273.519 EUR | machine | pujas 0 | caduca 21/8/26, 22:10
-- CEN Mangala | precio 10.638.278 EUR | valor 10.655.864 EUR | machine | pujas 0 | caduca 21/8/26, 22:10
-- CEN Riquelme | precio 4.376.894 EUR | valor 4.461.060 EUR | machine | pujas 1 | caduca 21/8/26, 22:10
-- CEN Óscar Valentín | precio 4.032.015 EUR | valor 4.147.058 EUR | machine | pujas 2 | caduca 21/8/26, 22:10
-- DEF Bright Ede | precio 2.983.840 EUR | valor 3.102.946 EUR | machine | pujas 1 | caduca 21/8/26, 22:10
+- DEL Fer Niño | precio 13.543.677 EUR | valor 13.543.677 EUR | machine | pujas 0 | caduca 22/8/26, 22:10
+- POR Letacek | precio 635.904 EUR | valor 635.904 EUR | machine | pujas 0 | caduca 22/8/26, 22:10
+- CEN Denis Suárez | precio 2.345.839 EUR | valor 2.345.839 EUR | machine | pujas 0 | caduca 22/8/26, 22:10
+- DEF Jose Angel | precio 622.196 EUR | valor 622.196 EUR | machine | pujas 0 | caduca 22/8/26, 22:10
+- CEN Lemar | precio 4.549.837 EUR | valor 4.549.837 EUR | machine | pujas 0 | caduca 22/8/26, 22:10
+- CEN Isco | precio 52.648.042 EUR | valor 52.648.042 EUR | machine | pujas 0 | caduca 22/8/26, 22:10
+- CEN Goti | precio 2.165.086 EUR | valor 2.165.086 EUR | machine | pujas 0 | caduca 22/8/26, 22:10
+- DEL Nordin Al-Lal | precio 481.126 EUR | valor 481.126 EUR | machine | pujas 0 | caduca 22/8/26, 22:10
+- DEL Arnau Ortiz | precio 1.224.576 EUR | valor 1.224.576 EUR | machine | pujas 0 | caduca 22/8/26, 22:10
+- DEF Diakhaby | precio 5.228.660 EUR | valor 5.228.660 EUR | machine | pujas 0 | caduca 22/8/26, 22:10
+- DEF J. Berrocal | precio 1.389.303 EUR | valor 1.389.303 EUR | machine | pujas 0 | caduca 22/8/26, 22:10
+- DEL Robbie Ure | precio 14.036.064 EUR | valor 12.146.361 EUR | rival | ofertas 1 | vende Erdeivis22 | caduca 23/8/26, 9:07
 
 #### Baratos a revisar
 
-- DEF De Las Sias | precio 566.156 EUR | valor 558.784 EUR | machine | pujas 0 | caduca 21/8/26, 22:10
-- DEF Pablo Ramón | precio 611.592 EUR | valor 611.592 EUR | rival | ofertas 0 | vende Ramounsitou | caduca 24/8/26, 19:15
-- CEN Iker Muñoz | precio 1.266.586 EUR | valor 1.266.586 EUR | rival | ofertas 0 | vende Ramounsitou | caduca 24/8/26, 19:15
-- CEN D. Villares | precio 2.236.837 EUR | valor 2.236.837 EUR | rival | ofertas 0 | vende Ramounsitou | caduca 24/8/26, 19:15
-- CEN Protesoni | precio 2.392.376 EUR | valor 2.328.094 EUR | machine | pujas 0 | caduca 21/8/26, 22:10
-- CEN Herrera | precio 2.945.641 EUR | valor 2.924.705 EUR | machine | pujas 0 | caduca 21/8/26, 22:10
-- DEF Bright Ede | precio 2.983.840 EUR | valor 3.102.946 EUR | machine | pujas 1 | caduca 21/8/26, 22:10
-- DEF Hector Fort | precio 2.998.849 EUR | valor 2.998.849 EUR | rival | ofertas 0 | vende Ramounsitou | caduca 24/8/26, 19:12
-- CEN Mella | precio 3.379.977 EUR | valor 3.349.591 EUR | machine | pujas 0 | caduca 21/8/26, 22:10
-- CEN Maguette | precio 3.645.696 EUR | valor 3.645.696 EUR | rival | ofertas 0 | vende Ramounsitou | caduca 24/8/26, 17:36
-- CEN Óscar Valentín | precio 4.032.015 EUR | valor 4.147.058 EUR | machine | pujas 2 | caduca 21/8/26, 22:10
-- DEL Cala | precio 4.082.439 EUR | valor 4.101.822 EUR | machine | pujas 0 | caduca 21/8/26, 22:10
+- DEL Nordin Al-Lal | precio 481.126 EUR | valor 481.126 EUR | machine | pujas 0 | caduca 22/8/26, 22:10
+- DEF Pablo Ramón | precio 611.592 EUR | valor 611.592 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 24/8/26, 19:15
+- DEF Jose Angel | precio 622.196 EUR | valor 622.196 EUR | machine | pujas 0 | caduca 22/8/26, 22:10
+- POR Letacek | precio 635.904 EUR | valor 635.904 EUR | machine | pujas 0 | caduca 22/8/26, 22:10
+- DEL Arnau Ortiz | precio 1.224.576 EUR | valor 1.224.576 EUR | machine | pujas 0 | caduca 22/8/26, 22:10
+- CEN Iker Muñoz | precio 1.266.586 EUR | valor 1.266.586 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 24/8/26, 19:15
+- DEF J. Berrocal | precio 1.389.303 EUR | valor 1.389.303 EUR | machine | pujas 0 | caduca 22/8/26, 22:10
+- CEN Goti | precio 2.165.086 EUR | valor 2.165.086 EUR | machine | pujas 0 | caduca 22/8/26, 22:10
+- CEN D. Villares | precio 2.236.837 EUR | valor 2.236.837 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 24/8/26, 19:15
+- CEN Denis Suárez | precio 2.345.839 EUR | valor 2.345.839 EUR | machine | pujas 0 | caduca 22/8/26, 22:10
+- DEF Hector Fort | precio 2.998.849 EUR | valor 2.998.849 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 24/8/26, 19:12
+- CEN Maguette | precio 3.645.696 EUR | valor 3.645.696 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 24/8/26, 17:36
 
 #### Premium a revisar
 
-- CEN Valverde | precio 71.728.607 EUR | valor 72.063.324 EUR | machine | pujas 1 | caduca 21/8/26, 22:10
+- CEN Isco | precio 52.648.042 EUR | valor 52.648.042 EUR | machine | pujas 0 | caduca 22/8/26, 22:10
 
 #### Alertas
 
+- Saldo negativo: hay que volver a positivo antes del inicio de jornada.
 - Ruggeri: estado out_of_league en mercado.
 - Cabrera: estado suspended en mercado.
-- Hay 1 entrenadores en mercado: ignorar por funcion Premium bloqueada.
+- Hay 2 entrenadores en mercado: ignorar por funcion Premium bloqueada.
 
