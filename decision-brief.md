@@ -1,6 +1,6 @@
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-21T20:36:20.313Z
+Datos API: 2026-08-21T21:35:04.027Z
 Semana actual: 2
 
 ## Objetivo
@@ -163,10 +163,10 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 ### Los Mastuerzos
 
-- Saldo: -14.048.436 EUR
-- Valor plantilla: 250.022.177 EUR
-- Jugadores plantilla: 17
-- Mercado jugable: 21
+- Saldo: -6.243.534 EUR
+- Valor plantilla: 242.111.046 EUR
+- Jugadores plantilla: 14
+- Mercado jugable: 17
 - Entrenadores ignorados: 2
 - Estrategia: Solucionar porteria y tercer defensa, manteniendo un centro del campo barato y muy util; cazar gangas antes que perseguir nombres caros.
 
@@ -177,15 +177,12 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - DEF Javi Rodríguez | Celta | 9.120.814 EUR
 - DEF C. Puga | Málaga CF | 4.981.968 EUR
 - DEF Pablo Ramón | R. Racing Club | 611.592 EUR
-- DEF Hector Fort | FC Barcelona | 2.998.849 EUR
 - DEF Koski | Deportivo Alavés | 1.270.836 EUR
 - CEN Germán V. | Elche CF | 21.884.622 EUR
 - CEN Javi Guerra | Valencia CF | 24.754.192 EUR
-- CEN Maguette | R. Racing Club | 3.645.696 EUR
 - CEN D. Villares | RC Deportivo | 2.236.837 EUR
 - CEN R. Terrats | Getafe CF | 3.351.404 EUR
 - CEN Valverde | Real Madrid | 72.063.324 EUR
-- CEN Iker Muñoz | C.A. Osasuna | 1.266.586 EUR
 - DEL Chupe | Málaga CF | 46.156.098 EUR
 - DEL Villalibre | R. Racing Club | 6.988.387 EUR
 - DEL Hugo Duro | Valencia CF | 8.561.256 EUR
@@ -194,7 +191,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 - DEL Fer Niño | precio 13.543.677 EUR | valor 13.543.677 EUR | machine | pujas 0 | caduca 22/8/26, 22:10
 - POR Letacek | precio 635.904 EUR | valor 635.904 EUR | machine | pujas 0 | caduca 22/8/26, 22:10
-- CEN Denis Suárez | precio 2.345.839 EUR | valor 2.345.839 EUR | machine | pujas 0 | caduca 22/8/26, 22:10
+- CEN Denis Suárez | precio 2.345.839 EUR | valor 2.345.839 EUR | machine | pujas 2 | caduca 22/8/26, 22:10
 - DEF Jose Angel | precio 622.196 EUR | valor 622.196 EUR | machine | pujas 0 | caduca 22/8/26, 22:10
 - CEN Lemar | precio 4.549.837 EUR | valor 4.549.837 EUR | machine | pujas 0 | caduca 22/8/26, 22:10
 - CEN Isco | precio 52.648.042 EUR | valor 52.648.042 EUR | machine | pujas 0 | caduca 22/8/26, 22:10
@@ -208,17 +205,14 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 #### Baratos a revisar
 
 - DEL Nordin Al-Lal | precio 481.126 EUR | valor 481.126 EUR | machine | pujas 0 | caduca 22/8/26, 22:10
-- DEF Pablo Ramón | precio 611.592 EUR | valor 611.592 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 24/8/26, 19:15
 - DEF Jose Angel | precio 622.196 EUR | valor 622.196 EUR | machine | pujas 0 | caduca 22/8/26, 22:10
 - POR Letacek | precio 635.904 EUR | valor 635.904 EUR | machine | pujas 0 | caduca 22/8/26, 22:10
 - DEL Arnau Ortiz | precio 1.224.576 EUR | valor 1.224.576 EUR | machine | pujas 0 | caduca 22/8/26, 22:10
-- CEN Iker Muñoz | precio 1.266.586 EUR | valor 1.266.586 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 24/8/26, 19:15
 - DEF J. Berrocal | precio 1.389.303 EUR | valor 1.389.303 EUR | machine | pujas 0 | caduca 22/8/26, 22:10
 - CEN Goti | precio 2.165.086 EUR | valor 2.165.086 EUR | machine | pujas 0 | caduca 22/8/26, 22:10
 - CEN D. Villares | precio 2.236.837 EUR | valor 2.236.837 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 24/8/26, 19:15
-- CEN Denis Suárez | precio 2.345.839 EUR | valor 2.345.839 EUR | machine | pujas 0 | caduca 22/8/26, 22:10
-- DEF Hector Fort | precio 2.998.849 EUR | valor 2.998.849 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 24/8/26, 19:12
-- CEN Maguette | precio 3.645.696 EUR | valor 3.645.696 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 24/8/26, 17:36
+- CEN Denis Suárez | precio 2.345.839 EUR | valor 2.345.839 EUR | machine | pujas 2 | caduca 22/8/26, 22:10
+- CEN Lemar | precio 4.549.837 EUR | valor 4.549.837 EUR | machine | pujas 0 | caduca 22/8/26, 22:10
 
 #### Premium a revisar
 
