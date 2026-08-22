@@ -1,6 +1,6 @@
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-22T10:35:17.472Z
+Datos API: 2026-08-22T11:31:02.482Z
 Semana actual: 2
 
 ## Objetivo
@@ -27,20 +27,20 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 ### Los Primacos
 
-- Saldo: 21.981.874 EUR
-- Valor plantilla: 211.795.724 EUR
-- Jugadores plantilla: 16
-- Mercado jugable: 42
-- Entrenadores ignorados: 1
+- Saldo: 20.359.435 EUR
+- Valor plantilla: 213.438.437 EUR
+- Jugadores plantilla: 17
+- Mercado jugable: 43
+- Entrenadores ignorados: 2
 - Estrategia: Arreglar porteria y defensa sin desmontar activos caros; convertir dinero concentrado en titulares baratos utiles.
 
 #### Plantilla
 
 - POR Á. Valles | Real Betis | 33.911.105 EUR
-- DEF Koski | Deportivo Alavés | 1.427.042 EUR
 - DEF Nuñez | RCD Espanyol | 5.048.751 EUR
 - DEF Suazo | Sevilla FC | 5.000.863 EUR
 - DEF Javi Rueda | Celta | 4.407.631 EUR
+- DEF Koski | Deportivo Alavés | 1.427.042 EUR
 - DEF Fran García | Real Betis | 9.915.219 EUR
 - DEF Javi Rodríguez | Celta | 9.095.395 EUR
 - CEN D. Villares | RC Deportivo | 2.184.470 EUR
@@ -48,6 +48,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - CEN Mikel Rodriguez | Deportivo Alavés | 1.178.881 EUR
 - CEN Kubo | Real Sociedad | 26.742.806 EUR
 - CEN Gorrotxa | Real Sociedad | 5.334.012 EUR | estado injured
+- CEN Martim Neto | Elche CF | 1.642.713 EUR
 - CEN Ibañez | Deportivo Alavés | 3.696.817 EUR
 - DEL Dolan | RCD Espanyol | 7.946.055 EUR
 - DEL Oyarzabal | Real Sociedad | 63.786.340 EUR
@@ -55,44 +56,45 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 #### Mercado que caduca antes
 
-- CEN Javi Hernández | precio 9.720.017 EUR | valor 9.534.275 EUR | machine | pujas 0 | caduca 22/8/26, 12:46
-- DEL Jauregi | precio 1.147.245 EUR | valor 1.117.835 EUR | machine | pujas 0 | caduca 22/8/26, 12:46
-- DEF Paredes | precio 5.577.844 EUR | valor 5.583.671 EUR | machine | pujas 0 | caduca 22/8/26, 12:46
-- DEF Rafita | precio 4.694.679 EUR | valor 4.641.938 EUR | machine | pujas 0 | caduca 22/8/26, 12:46
-- DEL Diego López | precio 1.779.142 EUR | valor 1.726.754 EUR | machine | pujas 0 | caduca 22/8/26, 12:46 | estado injured
-- CEN Carlos Martín | precio 2.006.245 EUR | valor 1.967.016 EUR | machine | pujas 0 | caduca 22/8/26, 12:46
-- DEL Aubameyang | precio 39.711.492 EUR | valor 41.669.589 EUR | machine | pujas 1 | caduca 22/8/26, 12:46
-- CEN Martim Neto | precio 1.622.431 EUR | valor 1.642.713 EUR | machine | pujas 1 | caduca 22/8/26, 12:46
-- DEL Mikautadze | precio 65.316.052 EUR | valor 66.127.609 EUR | machine | pujas 0 | caduca 22/8/26, 12:46
-- DEF Copete | precio 1.600.786 EUR | valor 1.553.234 EUR | machine | pujas 0 | caduca 22/8/26, 12:46 | estado injured
-- CEN Hjulmand | precio 35.565.352 EUR | valor 34.780.563 EUR | machine | pujas 0 | caduca 22/8/26, 12:46
-- DEF Salinas | precio 987.263 EUR | valor 967.013 EUR | machine | pujas 0 | caduca 22/8/26, 12:46
+- DEF Diaby | precio 922.230 EUR | valor 922.230 EUR | machine | pujas 0 | caduca 23/8/26, 12:46
+- CEN Iker Muñoz | precio 1.239.652 EUR | valor 1.239.652 EUR | machine | pujas 0 | caduca 23/8/26, 12:46
+- DEL Pablo Durán | precio 891.804 EUR | valor 891.804 EUR | machine | pujas 0 | caduca 23/8/26, 12:46
+- DEF Mandi | precio 8.448.662 EUR | valor 8.448.662 EUR | machine | pujas 0 | caduca 23/8/26, 12:46
+- DEF Manu Hernando | precio 1.956.182 EUR | valor 1.956.182 EUR | machine | pujas 0 | caduca 23/8/26, 12:46
+- CEN Marco Román | precio 704.484 EUR | valor 704.484 EUR | machine | pujas 0 | caduca 23/8/26, 12:46
+- DEF Pedro Felipe | precio 2.172.457 EUR | valor 2.172.457 EUR | machine | pujas 0 | caduca 23/8/26, 12:46 | estado injured
+- CEN Pedro Díaz | precio 1.707.024 EUR | valor 1.707.024 EUR | machine | pujas 0 | caduca 23/8/26, 12:46
+- DEL Mañas | precio 502.470 EUR | valor 502.470 EUR | machine | pujas 0 | caduca 23/8/26, 12:46
+- DEL Iker Losada | precio 2.279.336 EUR | valor 2.279.336 EUR | machine | pujas 0 | caduca 23/8/26, 12:46
+- DEL Raphinha | precio 94.944.407 EUR | valor 94.944.407 EUR | machine | pujas 0 | caduca 23/8/26, 12:46
+- CEN Gorrotxa | precio 5.498.888 EUR | valor 5.334.012 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 24/8/26, 14:13 | estado injured
 
 #### Baratos a revisar
 
-- DEF Pastor | precio 375.736 EUR | valor 377.186 EUR | rival | ofertas 0 | vende Carlos___80 | caduca 24/8/26, 15:51
-- DEF Julio Díaz | precio 444.643 EUR | valor 443.337 EUR | rival | ofertas 0 | vende RauulCm_ | caduca 24/8/26, 15:51
-- DEF Salinas | precio 987.263 EUR | valor 967.013 EUR | machine | pujas 0 | caduca 22/8/26, 12:46
-- DEL Jauregi | precio 1.147.245 EUR | valor 1.117.835 EUR | machine | pujas 0 | caduca 22/8/26, 12:46
-- CEN Martim Neto | precio 1.622.431 EUR | valor 1.642.713 EUR | machine | pujas 1 | caduca 22/8/26, 12:46
-- CEN Carlos Martín | precio 2.006.245 EUR | valor 1.967.016 EUR | machine | pujas 0 | caduca 22/8/26, 12:46
-- CEN D. Villares | precio 2.184.470 EUR | valor 2.184.470 EUR | rival | ofertas 0 | vende Ramounsitou | caduca 25/8/26, 10:02
-- DEF Rafita | precio 4.694.679 EUR | valor 4.641.938 EUR | machine | pujas 0 | caduca 22/8/26, 12:46
+- DEF Pastor | precio 375.736 EUR | valor 377.186 EUR | rival | ofertas 1 | vende Carlos___80 | caduca 24/8/26, 15:51
+- DEF Julio Díaz | precio 444.643 EUR | valor 443.337 EUR | rival | ofertas 1 | vende RauulCm_ | caduca 24/8/26, 15:51
+- DEL Mañas | precio 502.470 EUR | valor 502.470 EUR | machine | pujas 0 | caduca 23/8/26, 12:46
+- CEN Marco Román | precio 704.484 EUR | valor 704.484 EUR | machine | pujas 0 | caduca 23/8/26, 12:46
+- DEL Pablo Durán | precio 891.804 EUR | valor 891.804 EUR | machine | pujas 0 | caduca 23/8/26, 12:46
+- DEF Diaby | precio 922.230 EUR | valor 922.230 EUR | machine | pujas 0 | caduca 23/8/26, 12:46
+- CEN Iker Muñoz | precio 1.239.652 EUR | valor 1.239.652 EUR | machine | pujas 0 | caduca 23/8/26, 12:46
+- CEN Pedro Díaz | precio 1.707.024 EUR | valor 1.707.024 EUR | machine | pujas 0 | caduca 23/8/26, 12:46
+- DEF Manu Hernando | precio 1.956.182 EUR | valor 1.956.182 EUR | machine | pujas 0 | caduca 23/8/26, 12:46
+- CEN D. Villares | precio 2.184.470 EUR | valor 2.184.470 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 25/8/26, 10:02
+- DEL Iker Losada | precio 2.279.336 EUR | valor 2.279.336 EUR | machine | pujas 0 | caduca 23/8/26, 12:46
 
 #### Premium a revisar
 
-- DEL Mikautadze | precio 65.316.052 EUR | valor 66.127.609 EUR | machine | pujas 0 | caduca 22/8/26, 12:46
-- CEN Bernardo Silva | precio 60.074.100 EUR | valor 61.355.545 EUR | rival | ofertas 0 | vende Carlos___80 | caduca 24/8/26, 15:51
-- DEL Aubameyang | precio 39.711.492 EUR | valor 41.669.589 EUR | machine | pujas 1 | caduca 22/8/26, 12:46
-- CEN Hjulmand | precio 35.565.352 EUR | valor 34.780.563 EUR | machine | pujas 0 | caduca 22/8/26, 12:46
-- DEF Bartra | precio 26.687.165 EUR | valor 26.442.330 EUR | rival | ofertas 0 | vende Carlos___80 | caduca 24/8/26, 15:51
+- DEL Raphinha | precio 94.944.407 EUR | valor 94.944.407 EUR | machine | pujas 0 | caduca 23/8/26, 12:46
+- CEN Bernardo Silva | precio 60.074.100 EUR | valor 61.355.545 EUR | rival | ofertas 1 | vende Carlos___80 | caduca 24/8/26, 15:51
+- POR Á. Valles | precio 33.911.105 EUR | valor 33.911.105 EUR | rival | ofertas 0 | vende Ramounsitou | caduca 25/8/26, 13:07
+- DEF Bartra | precio 26.687.165 EUR | valor 26.442.330 EUR | rival | ofertas 1 | vende Carlos___80 | caduca 24/8/26, 15:51
 
 #### Alertas
 
-- Diego López: estado injured en mercado.
-- Copete: estado injured en mercado.
+- Pedro Felipe: estado injured en mercado.
 - Gorrotxa: estado injured en mercado.
-- Hay 1 entrenadores en mercado: ignorar por funcion Premium bloqueada.
+- Hay 2 entrenadores en mercado: ignorar por funcion Premium bloqueada.
 
 ### Fantasmas League
 
