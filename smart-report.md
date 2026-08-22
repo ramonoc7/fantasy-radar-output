@@ -1,7 +1,7 @@
 # Informe Inteligente Ligas Fantasy
 
-Generado: 22/8/26, 13:31
-Datos API: 22/8/26, 13:31
+Generado: 22/8/26, 14:56
+Datos API: 22/8/26, 14:56
 Semana actual: 2
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -112,12 +112,12 @@ Formacion: 5-3-2 | puntuacion interna 845
 - Liga: puesto 4/10, 42 puntos, a 20 del lider (Mynavo Kyiv)
 - Ranking por valor de plantilla: 4/10
 - Plantilla: 14 jugadores
-- Mercado jugable: 27
+- Mercado jugable: 26
 
 ### Alertas
 
 - Isi en plantilla aparece como injured.
-- 2 jugador(es) jugables caducan en menos de 8 horas.
+- 1 jugador(es) jugables caducan en menos de 8 horas.
 - 1 entrenador(es) ignorados por Premium.
 
 ### Situacion
@@ -215,6 +215,7 @@ Formacion: 4-3-3 | puntuacion interna 812
 
 ### Alertas
 
+- 11 jugador(es) jugables caducan en menos de 8 horas.
 - 2 entrenador(es) ignorados por Premium.
 
 ### Situacion

@@ -1,10 +1,10 @@
 # ChatGPT Mobile Pack - Ligas Fantasy
 
-Actualizado: 2026-08-22T11:31:02.482Z
+Actualizado: 2026-08-22T12:56:51.936Z
 
 ## Fuente de verdad para informes
 
-Datos Fantasy actuales: 2026-08-22T11:31:02.482Z
+Datos Fantasy actuales: 2026-08-22T12:56:51.936Z
 
 Reglas obligatorias para ChatGPT:
 - Plantilla, saldo, mercado, pujas, actividad y once guardado actuales salen de este pack/radar, no de capturas antiguas ni memoria de conversaciones.
@@ -32,7 +32,7 @@ Formato obligatorio de cada informe de liga:
 
 Estado actual detectado por liga:
 - Los Primacos (los-primacos): saldo 20.359.435 EUR | valor 213.438.437 EUR | plantilla 17 | mercado jugable 43 | pujas/inversion detectada 19.551.909 EUR | ENT ignorados 2
-- Fantasmas League (fantasmas-league): saldo 15.280.235 EUR | valor 223.972.251 EUR | plantilla 14 | mercado jugable 27 | pujas/inversion detectada 12.900.258 EUR | ENT ignorados 1
+- Fantasmas League (fantasmas-league): saldo 15.280.235 EUR | valor 223.972.251 EUR | plantilla 14 | mercado jugable 26 | pujas/inversion detectada 12.900.258 EUR | ENT ignorados 1
 - Los Mastuerzos (los-mastuerzos): saldo 3.390.829 EUR | valor 232.644.420 EUR | plantilla 12 | mercado jugable 15 | pujas/inversion detectada 3.101.010 EUR | ENT ignorados 2
 
 ## Resumen movil de 10 minutos
@@ -67,8 +67,8 @@ Ventas / huecos:
 
 ### Fantasmas League
 
-Saldo 15.280.235 EUR | plantilla 14 | mercado 27 | puesto 4/10, a 20 del lider
-Alertas: Isi en plantilla aparece como injured. / 2 jugador(es) jugables caducan en menos de 8 horas. / 1 entrenador(es) ignorados por Premium.
+Saldo 15.280.235 EUR | plantilla 14 | mercado 26 | puesto 4/10, a 20 del lider
+Alertas: Isi en plantilla aparece como injured. / 1 jugador(es) jugables caducan en menos de 8 horas. / 1 entrenador(es) ignorados por Premium.
 
 Once recomendado:
 4-3-3: POR Remiro / DEF Huijsen / DEF Álex Balde / DEF Koski / DEF Djene / CEN Mario Soriano / CEN Germán V. / CEN Izan M. / DEL Ángel Pérez / DEL T. Morente / DEL Iñigo Vicente
@@ -92,7 +92,7 @@ Ventas / huecos:
 ### Los Mastuerzos
 
 Saldo 3.390.829 EUR | plantilla 12 | mercado 15 | puesto 8/10, a 21 del lider
-Alertas: 2 entrenador(es) ignorados por Premium.
+Alertas: 11 jugador(es) jugables caducan en menos de 8 horas. / 2 entrenador(es) ignorados por Premium.
 
 Once recomendado:
 4-4-2: POR David Soria / DEF Sergio Gómez / DEF C. Puga / DEF Koski / DEF Javi Rodríguez / CEN Germán V. / CEN Valverde / CEN Javi Guerra / CEN R. Terrats / DEL Hugo Duro / DEL Chupe
@@ -231,7 +231,7 @@ Prioridades:
 
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-22T11:31:02.482Z
+Datos API: 2026-08-22T12:56:51.936Z
 Semana actual: 2
 
 ## Objetivo
@@ -332,7 +332,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - Saldo: 15.280.235 EUR
 - Valor plantilla: 223.972.251 EUR
 - Jugadores plantilla: 14
-- Mercado jugable: 27
+- Mercado jugable: 26
 - Entrenadores ignorados: 1
 - Estrategia: Construir un equipo ganador priorizando 11 titulares reales, gangas de mercado y revalorizacion.
 
@@ -355,7 +355,6 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 #### Mercado que caduca antes
 
-- CEN D. Villares | precio 2.329.238 EUR | valor 2.184.470 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 22/8/26, 14:41
 - DEF Pau Navarro | precio 8.398.607 EUR | valor 7.795.382 EUR | rival | ofertas 1 | vende Rafishh | caduca 22/8/26, 20:14
 - DEF Saba Sazonov | precio 1.041.227 EUR | valor 1.041.227 EUR | machine | pujas 0 | caduca 23/8/26, 10:53
 - DEF Einar | precio 3.740.735 EUR | valor 3.740.735 EUR | machine | pujas 0 | caduca 23/8/26, 10:53
@@ -367,6 +366,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - CEN Puado | precio 5.240.261 EUR | valor 5.240.261 EUR | machine | pujas 1 | caduca 23/8/26, 10:53 | estado injured
 - DEL Diego López | precio 1.726.754 EUR | valor 1.726.754 EUR | machine | pujas 0 | caduca 23/8/26, 10:53 | estado injured
 - CEN Tchouaméni | precio 38.562.545 EUR | valor 38.562.545 EUR | machine | pujas 0 | caduca 23/8/26, 10:53 | estado injured
+- DEF Pacheco | precio 3.651.333 EUR | valor 3.651.333 EUR | machine | pujas 0 | caduca 23/8/26, 10:53
 
 #### Baratos a revisar
 
@@ -374,7 +374,6 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - DEF J. Vertrouwd | precio 888.365 EUR | valor 888.365 EUR | machine | pujas 0 | caduca 23/8/26, 10:53
 - DEF Pastor | precio 999.901 EUR | valor 377.186 EUR | rival | ofertas 1 | vende Gabriele28 | caduca 23/8/26, 11:37
 - DEF Saba Sazonov | precio 1.041.227 EUR | valor 1.041.227 EUR | machine | pujas 0 | caduca 23/8/26, 10:53
-- CEN D. Villares | precio 2.329.238 EUR | valor 2.184.470 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 22/8/26, 14:41
 - DEF Pacheco | precio 3.651.333 EUR | valor 3.651.333 EUR | machine | pujas 0 | caduca 23/8/26, 10:53
 - DEF Einar | precio 3.740.735 EUR | valor 3.740.735 EUR | machine | pujas 0 | caduca 23/8/26, 10:53
 
@@ -459,8 +458,8 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 # Cola diaria de noticias y titularidad
 
-Generada: 22/8/26, 13:31
-Datos Fantasy: 22/8/26, 13:31
+Generada: 22/8/26, 14:56
+Datos Fantasy: 22/8/26, 14:56
 
 Uso: esta es la lista corta que ChatGPT/Codex debe verificar en internet antes de cerrar pujas fuertes o el once. El radar solo aconseja; Ramon ejecuta todo manualmente.
 
@@ -599,8 +598,8 @@ Usa esta cola. Busca en internet noticias recientes, onces probables, rol previs
 
 # Informe Inteligente Ligas Fantasy
 
-Generado: 22/8/26, 13:31
-Datos API: 22/8/26, 13:31
+Generado: 22/8/26, 14:56
+Datos API: 22/8/26, 14:56
 Semana actual: 2
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -711,12 +710,12 @@ Formacion: 5-3-2 | puntuacion interna 845
 - Liga: puesto 4/10, 42 puntos, a 20 del lider (Mynavo Kyiv)
 - Ranking por valor de plantilla: 4/10
 - Plantilla: 14 jugadores
-- Mercado jugable: 27
+- Mercado jugable: 26
 
 ### Alertas
 
 - Isi en plantilla aparece como injured.
-- 2 jugador(es) jugables caducan en menos de 8 horas.
+- 1 jugador(es) jugables caducan en menos de 8 horas.
 - 1 entrenador(es) ignorados por Premium.
 
 ### Situacion
@@ -814,6 +813,7 @@ Formacion: 4-3-3 | puntuacion interna 812
 
 ### Alertas
 
+- 11 jugador(es) jugables caducan en menos de 8 horas.
 - 2 entrenador(es) ignorados por Premium.
 
 ### Situacion
