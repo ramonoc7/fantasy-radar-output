@@ -1,7 +1,7 @@
 # Informe Inteligente Ligas Fantasy
 
-Generado: 22/8/26, 3:46
-Datos API: 22/8/26, 3:46
+Generado: 22/8/26, 5:03
+Datos API: 22/8/26, 5:03
 Semana actual: 2
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -21,6 +21,7 @@ Semana actual: 2
 ### Alertas
 
 - Gorrotxa en plantilla aparece como injured.
+- 12 jugador(es) jugables caducan en menos de 8 horas.
 - 1 entrenador(es) ignorados por Premium.
 
 ### Situacion

@@ -1,10 +1,10 @@
 # ChatGPT Mobile Pack - Ligas Fantasy
 
-Actualizado: 2026-08-22T01:46:37.628Z
+Actualizado: 2026-08-22T03:03:43.315Z
 
 ## Fuente de verdad para informes
 
-Datos Fantasy actuales: 2026-08-22T01:46:37.628Z
+Datos Fantasy actuales: 2026-08-22T03:03:43.315Z
 
 Reglas obligatorias para ChatGPT:
 - Plantilla, saldo, mercado, pujas, actividad y once guardado actuales salen de este pack/radar, no de capturas antiguas ni memoria de conversaciones.
@@ -43,7 +43,7 @@ Regla: el radar no ejecuta acciones. Los puntos actuales pesan poco; un 0 no es 
 ### Los Primacos
 
 Saldo 21.981.874 EUR | plantilla 16 | mercado 41 | puesto 2/13, a 4 del lider
-Alertas: Gorrotxa en plantilla aparece como injured. / 1 entrenador(es) ignorados por Premium.
+Alertas: Gorrotxa en plantilla aparece como injured. / 12 jugador(es) jugables caducan en menos de 8 horas. / 1 entrenador(es) ignorados por Premium.
 
 Once recomendado:
 5-3-2: POR Á. Valles / DEF Javi Rueda / DEF Koski / DEF Nuñez / DEF Javi Rodríguez / DEF Fran García / CEN Ibañez / CEN Kubo / CEN Guido Rodríguez / DEL Dolan / DEL Hugo Duro
@@ -237,7 +237,7 @@ Prioridades:
 
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-22T01:46:37.628Z
+Datos API: 2026-08-22T03:03:43.315Z
 Semana actual: 2
 
 ## Objetivo
@@ -470,8 +470,8 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 # Cola diaria de noticias y titularidad
 
-Generada: 22/8/26, 3:46
-Datos Fantasy: 22/8/26, 3:46
+Generada: 22/8/26, 5:03
+Datos Fantasy: 22/8/26, 5:03
 
 Uso: esta es la lista corta que ChatGPT/Codex debe verificar en internet antes de cerrar pujas fuertes o el once. El radar solo aconseja; Ramon ejecuta todo manualmente.
 
@@ -601,8 +601,8 @@ Usa esta cola. Busca en internet noticias recientes, onces probables, rol previs
 
 # Informe Inteligente Ligas Fantasy
 
-Generado: 22/8/26, 3:46
-Datos API: 22/8/26, 3:46
+Generado: 22/8/26, 5:03
+Datos API: 22/8/26, 5:03
 Semana actual: 2
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -622,6 +622,7 @@ Semana actual: 2
 ### Alertas
 
 - Gorrotxa en plantilla aparece como injured.
+- 12 jugador(es) jugables caducan en menos de 8 horas.
 - 1 entrenador(es) ignorados por Premium.
 
 ### Situacion
