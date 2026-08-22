@@ -1,6 +1,6 @@
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-22T07:40:03.756Z
+Datos API: 2026-08-22T08:42:56.551Z
 Semana actual: 2
 
 ## Objetivo
@@ -30,7 +30,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - Saldo: 21.981.874 EUR
 - Valor plantilla: 211.795.724 EUR
 - Jugadores plantilla: 16
-- Mercado jugable: 41
+- Mercado jugable: 42
 - Entrenadores ignorados: 1
 - Estrategia: Arreglar porteria y defensa sin desmontar activos caros; convertir dinero concentrado en titulares baratos utiles.
 
@@ -76,6 +76,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - DEL Jauregi | precio 1.147.245 EUR | valor 1.117.835 EUR | machine | pujas 0 | caduca 22/8/26, 12:46
 - CEN Martim Neto | precio 1.622.431 EUR | valor 1.642.713 EUR | machine | pujas 1 | caduca 22/8/26, 12:46
 - CEN Carlos Martín | precio 2.006.245 EUR | valor 1.967.016 EUR | machine | pujas 0 | caduca 22/8/26, 12:46
+- CEN D. Villares | precio 2.184.470 EUR | valor 2.184.470 EUR | rival | ofertas 0 | vende Ramounsitou | caduca 25/8/26, 10:02
 - DEF Rafita | precio 4.694.679 EUR | valor 4.641.938 EUR | machine | pujas 0 | caduca 22/8/26, 12:46
 
 #### Premium a revisar
@@ -95,10 +96,10 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 ### Fantasmas League
 
-- Saldo: 13.470.699 EUR
-- Valor plantilla: 225.743.051 EUR
-- Jugadores plantilla: 15
-- Mercado jugable: 32
+- Saldo: 15.280.235 EUR
+- Valor plantilla: 223.972.251 EUR
+- Jugadores plantilla: 14
+- Mercado jugable: 30
 - Entrenadores ignorados: 2
 - Estrategia: Construir un equipo ganador priorizando 11 titulares reales, gangas de mercado y revalorizacion.
 
@@ -109,7 +110,6 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - DEF Koski | Deportivo Alavés | 1.427.042 EUR
 - DEF Huijsen | Real Madrid | 37.565.619 EUR
 - DEF Álex Balde | FC Barcelona | 24.015.427 EUR
-- CEN Moi Gómez | C.A. Osasuna | 1.770.800 EUR
 - CEN Germán V. | Elche CF | 21.573.797 EUR
 - CEN Izan M. | Málaga CF | 5.728.328 EUR
 - CEN Mario Soriano | RC Deportivo | 28.577.856 EUR
@@ -124,12 +124,12 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 - DEF Pedro Felipe | precio 2.238.799 EUR | valor 2.172.457 EUR | machine | pujas 0 | caduca 22/8/26, 10:53 | estado injured
 - POR Courtois | precio 64.611.784 EUR | valor 65.333.270 EUR | machine | pujas 1 | caduca 22/8/26, 10:53
-- DEF Juan Iglesias | precio 12.331.917 EUR | valor 12.433.356 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
+- DEF Juan Iglesias | precio 12.331.917 EUR | valor 12.433.356 EUR | machine | pujas 1 | caduca 22/8/26, 10:53
 - POR P. Campos | precio 949.525 EUR | valor 928.020 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
 - DEF Jorge Salinas | precio 6.003.337 EUR | valor 6.099.762 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
 - DEL Á. Padilla | precio 1.069.903 EUR | valor 1.043.583 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
 - CEN Otu Jr | precio 1.089.277 EUR | valor 1.062.182 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
-- CEN Kang-In Lee | precio 40.801.578 EUR | valor 42.692.360 EUR | machine | pujas 1 | caduca 22/8/26, 10:53
+- CEN Kang-In Lee | precio 40.801.578 EUR | valor 42.692.360 EUR | machine | pujas 2 | caduca 22/8/26, 10:53
 - CEN Gerenabarrena | precio 1.227.028 EUR | valor 1.198.536 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
 - DEL Miguel Rodríguez | precio 2.718.884 EUR | valor 2.638.081 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
 - DEL B. Mayoral | precio 2.708.402 EUR | valor 2.661.846 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
@@ -144,7 +144,6 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - CEN Otu Jr | precio 1.089.277 EUR | valor 1.062.182 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
 - CEN Gerenabarrena | precio 1.227.028 EUR | valor 1.198.536 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
 - CEN Iker Muñoz | precio 1.293.450 EUR | valor 1.239.652 EUR | rival | ofertas 1 | vende Mynavo Kyiv | caduca 22/8/26, 11:09
-- CEN Moi Gómez | precio 1.875.959 EUR | valor 1.770.800 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 22/8/26, 14:41
 - CEN D. Villares | precio 2.329.238 EUR | valor 2.184.470 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 22/8/26, 14:41
 - DEL B. Mayoral | precio 2.708.402 EUR | valor 2.661.846 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
 - DEL Miguel Rodríguez | precio 2.718.884 EUR | valor 2.638.081 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
@@ -153,7 +152,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 - POR Courtois | precio 64.611.784 EUR | valor 65.333.270 EUR | machine | pujas 1 | caduca 22/8/26, 10:53
 - DEF Grimaldo | precio 45.818.609 EUR | valor 45.218.561 EUR | rival | ofertas 0 | vende Mynavo Kyiv | caduca 24/8/26, 16:10
-- CEN Kang-In Lee | precio 40.801.578 EUR | valor 42.692.360 EUR | machine | pujas 1 | caduca 22/8/26, 10:53
+- CEN Kang-In Lee | precio 40.801.578 EUR | valor 42.692.360 EUR | machine | pujas 2 | caduca 22/8/26, 10:53
 
 #### Alertas
 
@@ -165,10 +164,10 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 ### Los Mastuerzos
 
-- Saldo: -6.243.534 EUR
-- Valor plantilla: 241.703.622 EUR
-- Jugadores plantilla: 14
-- Mercado jugable: 17
+- Saldo: 3.390.829 EUR
+- Valor plantilla: 232.644.420 EUR
+- Jugadores plantilla: 12
+- Mercado jugable: 15
 - Entrenadores ignorados: 2
 - Estrategia: Solucionar porteria y tercer defensa, manteniendo un centro del campo barato y muy util; cazar gangas antes que perseguir nombres caros.
 
@@ -182,11 +181,9 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - DEF Koski | Deportivo Alavés | 1.427.042 EUR
 - CEN Germán V. | Elche CF | 21.573.797 EUR
 - CEN Javi Guerra | Valencia CF | 24.792.599 EUR
-- CEN D. Villares | RC Deportivo | 2.184.470 EUR
 - CEN R. Terrats | Getafe CF | 3.425.997 EUR
 - CEN Valverde | Real Madrid | 72.420.699 EUR
 - DEL Chupe | Málaga CF | 45.077.421 EUR
-- DEL Villalibre | R. Racing Club | 6.874.732 EUR
 - DEL Hugo Duro | Valencia CF | 8.552.160 EUR
 
 #### Mercado que caduca antes
@@ -212,7 +209,6 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - DEL Arnau Ortiz | precio 1.224.576 EUR | valor 1.250.234 EUR | machine | pujas 0 | caduca 22/8/26, 22:10
 - DEF J. Berrocal | precio 1.389.303 EUR | valor 1.350.211 EUR | machine | pujas 0 | caduca 22/8/26, 22:10
 - CEN Goti | precio 2.165.086 EUR | valor 2.099.491 EUR | machine | pujas 0 | caduca 22/8/26, 22:10
-- CEN D. Villares | precio 2.236.837 EUR | valor 2.184.470 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 24/8/26, 19:15
 - CEN Denis Suárez | precio 2.345.839 EUR | valor 2.371.784 EUR | machine | pujas 2 | caduca 22/8/26, 22:10
 - CEN Lemar | precio 4.549.837 EUR | valor 4.423.322 EUR | machine | pujas 0 | caduca 22/8/26, 22:10
 
@@ -222,7 +218,6 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 #### Alertas
 
-- Saldo negativo: hay que volver a positivo antes del inicio de jornada.
 - Ruggeri: estado out_of_league en mercado.
 - Cabrera: estado suspended en mercado.
 - Hay 2 entrenadores en mercado: ignorar por funcion Premium bloqueada.
