@@ -1,7 +1,7 @@
 # Informe Inteligente Ligas Fantasy
 
-Generado: 22/8/26, 10:42
-Datos API: 22/8/26, 10:42
+Generado: 22/8/26, 11:36
+Datos API: 22/8/26, 11:36
 Semana actual: 2
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -117,8 +117,8 @@ Formacion: 5-3-2 | puntuacion interna 845
 ### Alertas
 
 - Isi en plantilla aparece como injured.
-- 13 jugador(es) jugables caducan en menos de 8 horas.
-- 2 entrenador(es) ignorados por Premium.
+- 1 jugador(es) jugables caducan en menos de 8 horas.
+- 1 entrenador(es) ignorados por Premium.
 
 ### Situacion
 
@@ -167,21 +167,22 @@ Formacion: 4-3-3 | puntuacion interna 812
 
 ### Solo Si Esta Barato
 
-- SOLO SI ES CLARO: DEF Juan Iglesias | score 73 | precio 12.331.917 EUR | valor 12.433.356 EUR | puja 12.763.535 EUR | max 13.318.471 EUR | pujas 1 | caduca 22/8/26, 10:53 | base: pts actuales 4 (peso bajo), media 4, pts temp ant 161, valor 12.433.356 EUR | Consume demasiado saldo para una recomendacion automatica
-- SOLO SI ESTA BARATO: DEL B. Mayoral | score 70 | precio 2.708.402 EUR | valor 2.661.846 EUR | puja 2.713.819 EUR | max 2.749.029 EUR | pujas 0 | caduca 22/8/26, 10:53 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 71, valor 2.661.846 EUR | Interesante, pero conviene verificar titularidad
-- SOLO SI ESTA BARATO: DEL Oskarsson | score 68 | precio 7.245.871 EUR | valor 7.199.686 EUR | puja 7.260.363 EUR | max 7.354.560 EUR | ofertas 0 | vende alemois | caduca 24/8/26, 23:42 | base: pts actuales 1 (peso bajo), media 1, pts temp ant 85, valor 7.199.686 EUR | Interesante, pero conviene verificar titularidad
+- SOLO SI ESTA BARATO: DEF Einar | score 72 | precio 3.740.735 EUR | valor 3.740.735 EUR | puja 3.748.217 EUR | max 3.796.847 EUR | pujas 0 | caduca 23/8/26, 10:53 | base: pts actuales 4 (peso bajo), media 4, valor 3.740.735 EUR | Interesante, pero conviene verificar titularidad
+- SOLO SI ESTA BARATO: DEF J. Vertrouwd | score 71 | precio 888.365 EUR | valor 888.365 EUR | puja 890.142 EUR | max 901.691 EUR | pujas 0 | caduca 23/8/26, 10:53 | base: pts actuales 3 (peso bajo), media 1.5, pts temp ant 24, valor 888.365 EUR | Interesante, pero conviene verificar titularidad
+- SOLO SI ESTA BARATO: DEF Pacheco | score 69 | precio 3.651.333 EUR | valor 3.651.333 EUR | puja 3.658.636 EUR | max 3.706.103 EUR | pujas 0 | caduca 23/8/26, 10:53 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 71, valor 3.651.333 EUR | Interesante, pero conviene verificar titularidad
+- SOLO SI ES CLARO: CEN G. Puerta | score 59 | precio 14.159.811 EUR | valor 14.159.811 EUR | puja 14.188.131 EUR | max 14.372.209 EUR | pujas 0 | caduca 23/8/26, 10:53 | base: pts actuales 5 (peso bajo), media 5, valor 14.159.811 EUR | Consume demasiado saldo para una recomendacion automatica
 - SOLO SI ES CLARO: CEN Blanco | score 54 | precio 14.590.188 EUR | valor 14.588.917 EUR | puja 15.100.845 EUR | max 15.757.404 EUR | ofertas 1 | vende Archiking | caduca 23/8/26, 11:03 | base: pts actuales 9 (peso bajo), media 4.5, valor 14.588.917 EUR | Consume demasiado saldo para una recomendacion automatica
 
 ### Vigilar
 
-- VIGILAR: DEF Jorge Salinas | score 66 | precio 6.003.337 EUR | valor 6.099.762 EUR | puja 6.015.344 EUR | max 6.093.388 EUR | pujas 0 | caduca 22/8/26, 10:53 | base: pts actuales 3 (peso bajo), media 3, valor 6.099.762 EUR | Puede servir si mejora titularidad/precio
-- VIGILAR: DEL Á. Padilla | score 62 | precio 1.069.903 EUR | valor 1.043.583 EUR | puja 1.072.043 EUR | max 1.085.952 EUR | pujas 0 | caduca 22/8/26, 10:53 | base: pts actuales 0 (peso bajo), media 0, valor 1.043.583 EUR | Puede servir si mejora titularidad/precio
+- VIGILAR: DEF Saba Sazonov | score 66 | precio 1.041.227 EUR | valor 1.041.227 EUR | puja 1.043.310 EUR | max 1.056.846 EUR | pujas 0 | caduca 23/8/26, 10:53 | base: pts actuales -1 (peso bajo), media -1, valor 1.041.227 EUR | Puede servir si mejora titularidad/precio
+- VIGILAR: DEL Oskarsson | score 64 | precio 7.245.871 EUR | valor 7.199.686 EUR | puja 7.499.477 EUR | max 7.825.541 EUR | ofertas 1 | vende alemois | caduca 24/8/26, 23:42 | base: pts actuales 1 (peso bajo), media 1, pts temp ant 85, valor 7.199.686 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: DEL Iago Aspas | score 61 | precio 6.863.893 EUR | valor 6.720.178 EUR | puja 7.104.130 EUR | max 7.392.196 EUR | ofertas 1 | vende Rafishh | caduca 23/8/26, 14:33 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 141, valor 6.720.178 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: CEN Agoumé | score 61 | precio 5.638.486 EUR | valor 5.550.051 EUR | puja 5.835.834 EUR | max 6.089.565 EUR | ofertas 2 | vende Archiking | caduca 23/8/26, 11:02 | base: pts actuales 3 (peso bajo), media 3, pts temp ant 133, valor 5.550.051 EUR | Puede servir si mejora titularidad/precio
-- VIGILAR: DEL Miguel Rodríguez | score 59 | precio 2.718.884 EUR | valor 2.638.081 EUR | puja 2.724.322 EUR | max 2.759.668 EUR | pujas 0 | caduca 22/8/26, 10:53 | base: pts actuales 0 (peso bajo), media 0, valor 2.638.081 EUR | Puede servir si mejora titularidad/precio
-- VIGILAR: POR Marrero | score 58 | precio 1.005.123 EUR | valor 986.925 EUR | puja 1.007.134 EUR | max 1.020.200 EUR | ofertas 0 | vende alemois | caduca 24/8/26, 23:42 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 8, valor 986.925 EUR | Puede servir si mejora titularidad/precio
+- VIGILAR: POR Owono | score 59 | precio 805.433 EUR | valor 805.433 EUR | puja 807.044 EUR | max 817.515 EUR | pujas 0 | caduca 23/8/26, 10:53 | base: pts actuales 0 (peso bajo), media 0, valor 805.433 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: CEN Moncayola | score 57 | precio 6.901.465 EUR | valor 6.844.403 EUR | puja 7.143.017 EUR | max 7.453.583 EUR | ofertas 2 | vende Archiking | caduca 23/8/26, 11:02 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 159, valor 6.844.403 EUR | Puede servir si mejora titularidad/precio
-- MIRAR: POR Courtois | score 56 | precio 64.611.784 EUR | valor 65.333.270 EUR | puja 65.580.961 EUR | max 67.196.256 EUR | pujas 1 | caduca 22/8/26, 10:53 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 212, valor 65.333.270 EUR | Ya hay portero fiable; solo interesa si quieres segundo portero
+- VIGILAR: DEF Pau Navarro | score 56 | precio 8.398.607 EUR | valor 7.795.382 EUR | puja 8.692.559 EUR | max 8.692.559 EUR | ofertas 1 | vende Rafishh | caduca 22/8/26, 20:14 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 89, valor 7.795.382 EUR | Puede servir si mejora titularidad/precio
+- VIGILAR: CEN Iván Martín | score 54 | precio 8.230.041 EUR | valor 8.230.041 EUR | puja 8.246.502 EUR | max 8.353.492 EUR | pujas 0 | caduca 23/8/26, 10:53 | base: pts actuales 0 (peso bajo), media 0, valor 8.230.041 EUR | Puede servir si mejora titularidad/precio
 
 ### Evitar
 
@@ -190,9 +191,11 @@ Formacion: 4-3-3 | puntuacion interna 812
 - EVITAR: CEN Pepelu | score 36 | precio 10.000.000 EUR | valor 7.738.924 EUR | No pujar salvo que lo revisemos manualmente | ofertas 1 | vende West Jamon C.F.D. | caduca 23/8/26, 23:04 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 135, valor 7.738.924 EUR | Sobreprecio del 29%
 - EVITAR: DEF Ximo Navarro | score 35 | precio 10.000.000 EUR | valor 5.417.894 EUR | No pujar salvo que lo revisemos manualmente | ofertas 1 | vende West Jamon C.F.D. | caduca 23/8/26, 12:07 | base: pts actuales 2 (peso bajo), media 2, valor 5.417.894 EUR | Sobreprecio del 85%
 - EVITAR: DEF R.P. Bigas | score 26 | precio 5.500.000 EUR | valor 4.277.690 EUR | No pujar salvo que lo revisemos manualmente | ofertas 1 | vende West Jamon C.F.D. | caduca 23/8/26, 22:59 | doubtful | base: pts actuales 0 (peso bajo), media 0, pts temp ant 131, valor 4.277.690 EUR, estado doubtful | Sobreprecio del 29%
-- EVITAR: DEL Yeremay | score 15 | precio 65.000.000 EUR | valor 45.007.820 EUR | No pujar salvo que lo revisemos manualmente | ofertas 0 | vende West Jamon C.F.D. | caduca 23/8/26, 22:56 | doubtful | base: pts actuales 0 (peso bajo), media 0, valor 45.007.820 EUR, estado doubtful | Sobreprecio del 44%
-- EVITAR: DEF Pedro Felipe | score 11 | precio 2.238.799 EUR | valor 2.172.457 EUR | No pujar: injured | pujas 0 | caduca 22/8/26, 10:53 | injured | base: pts actuales 2 (peso bajo), media 2, valor 2.172.457 EUR, estado injured | Estado injured
-- EVITAR: CEN Marín | score 11 | precio 1.354.720 EUR | valor 1.317.011 EUR | No pujar: injured | ofertas 0 | vende alemois | caduca 24/8/26, 23:42 | injured | base: pts actuales 0 (peso bajo), media 0, pts temp ant 74, valor 1.317.011 EUR, estado injured | Estado injured
+- EVITAR: DEL Diego López | score 13 | precio 1.726.754 EUR | valor 1.726.754 EUR | No pujar: injured | pujas 0 | caduca 23/8/26, 10:53 | injured | base: pts actuales 0 (peso bajo), media 0, pts temp ant 121, valor 1.726.754 EUR, estado injured | Estado injured
+- EVITAR: DEF Egiluz | score 12 | precio 406.051 EUR | valor 406.051 EUR | No pujar: injured | pujas 0 | caduca 23/8/26, 10:53 | injured | base: pts actuales 0 (peso bajo), media 0, pts temp ant 0, valor 406.051 EUR, estado injured | Estado injured
+- EVITAR: DEL Yeremay | score 12 | precio 65.000.000 EUR | valor 45.007.820 EUR | No pujar salvo que lo revisemos manualmente | ofertas 1 | vende West Jamon C.F.D. | caduca 23/8/26, 22:56 | doubtful | base: pts actuales 0 (peso bajo), media 0, valor 45.007.820 EUR, estado doubtful | Sobreprecio del 44%
+- EVITAR: CEN Puado | score 11 | precio 5.240.261 EUR | valor 5.240.261 EUR | No pujar: injured | pujas 0 | caduca 23/8/26, 10:53 | injured | base: pts actuales 0 (peso bajo), media 0, pts temp ant 42, valor 5.240.261 EUR, estado injured | Estado injured
+- EVITAR: CEN Tchouaméni | score 10 | precio 38.562.545 EUR | valor 38.562.545 EUR | No pujar: injured | pujas 0 | caduca 23/8/26, 10:53 | injured | base: pts actuales 0 (peso bajo), media 0, pts temp ant 181, valor 38.562.545 EUR, estado injured | Estado injured
 
 ### Vender O Liberar Hueco
 

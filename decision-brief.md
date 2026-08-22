@@ -1,6 +1,6 @@
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-22T08:42:56.551Z
+Datos API: 2026-08-22T09:36:39.689Z
 Semana actual: 2
 
 ## Objetivo
@@ -100,7 +100,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - Valor plantilla: 223.972.251 EUR
 - Jugadores plantilla: 14
 - Mercado jugable: 30
-- Entrenadores ignorados: 2
+- Entrenadores ignorados: 1
 - Estrategia: Construir un equipo ganador priorizando 11 titulares reales, gangas de mercado y revalorizacion.
 
 #### Plantilla
@@ -122,45 +122,45 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 #### Mercado que caduca antes
 
-- DEF Pedro Felipe | precio 2.238.799 EUR | valor 2.172.457 EUR | machine | pujas 0 | caduca 22/8/26, 10:53 | estado injured
-- POR Courtois | precio 64.611.784 EUR | valor 65.333.270 EUR | machine | pujas 1 | caduca 22/8/26, 10:53
-- DEF Juan Iglesias | precio 12.331.917 EUR | valor 12.433.356 EUR | machine | pujas 1 | caduca 22/8/26, 10:53
-- POR P. Campos | precio 949.525 EUR | valor 928.020 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
-- DEF Jorge Salinas | precio 6.003.337 EUR | valor 6.099.762 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
-- DEL Á. Padilla | precio 1.069.903 EUR | valor 1.043.583 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
-- CEN Otu Jr | precio 1.089.277 EUR | valor 1.062.182 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
-- CEN Kang-In Lee | precio 40.801.578 EUR | valor 42.692.360 EUR | machine | pujas 2 | caduca 22/8/26, 10:53
-- CEN Gerenabarrena | precio 1.227.028 EUR | valor 1.198.536 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
-- DEL Miguel Rodríguez | precio 2.718.884 EUR | valor 2.638.081 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
-- DEL B. Mayoral | precio 2.708.402 EUR | valor 2.661.846 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
-- CEN Iker Muñoz | precio 1.293.450 EUR | valor 1.239.652 EUR | rival | ofertas 1 | vende Mynavo Kyiv | caduca 22/8/26, 11:09
+- CEN D. Villares | precio 2.329.238 EUR | valor 2.184.470 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 22/8/26, 14:41
+- DEF Pau Navarro | precio 8.398.607 EUR | valor 7.795.382 EUR | rival | ofertas 1 | vende Rafishh | caduca 22/8/26, 20:14
+- DEF Saba Sazonov | precio 1.041.227 EUR | valor 1.041.227 EUR | machine | pujas 0 | caduca 23/8/26, 10:53
+- DEF Einar | precio 3.740.735 EUR | valor 3.740.735 EUR | machine | pujas 0 | caduca 23/8/26, 10:53
+- CEN G. Puerta | precio 14.159.811 EUR | valor 14.159.811 EUR | machine | pujas 0 | caduca 23/8/26, 10:53
+- CEN Isco | precio 52.232.161 EUR | valor 52.232.161 EUR | machine | pujas 0 | caduca 23/8/26, 10:53
+- DEF Egiluz | precio 406.051 EUR | valor 406.051 EUR | machine | pujas 0 | caduca 23/8/26, 10:53 | estado injured
+- CEN Iván Martín | precio 8.230.041 EUR | valor 8.230.041 EUR | machine | pujas 0 | caduca 23/8/26, 10:53
+- POR Owono | precio 805.433 EUR | valor 805.433 EUR | machine | pujas 0 | caduca 23/8/26, 10:53
+- CEN Puado | precio 5.240.261 EUR | valor 5.240.261 EUR | machine | pujas 0 | caduca 23/8/26, 10:53 | estado injured
+- DEL Diego López | precio 1.726.754 EUR | valor 1.726.754 EUR | machine | pujas 0 | caduca 23/8/26, 10:53 | estado injured
+- CEN Tchouaméni | precio 38.562.545 EUR | valor 38.562.545 EUR | machine | pujas 0 | caduca 23/8/26, 10:53 | estado injured
 
 #### Baratos a revisar
 
-- POR P. Campos | precio 949.525 EUR | valor 928.020 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
+- POR Owono | precio 805.433 EUR | valor 805.433 EUR | machine | pujas 0 | caduca 23/8/26, 10:53
+- DEF J. Vertrouwd | precio 888.365 EUR | valor 888.365 EUR | machine | pujas 0 | caduca 23/8/26, 10:53
 - DEF Pastor | precio 999.901 EUR | valor 377.186 EUR | rival | ofertas 1 | vende Gabriele28 | caduca 23/8/26, 11:37
-- POR Marrero | precio 1.005.123 EUR | valor 986.925 EUR | rival | ofertas 0 | vende alemois | caduca 24/8/26, 23:42
-- DEL Á. Padilla | precio 1.069.903 EUR | valor 1.043.583 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
-- CEN Otu Jr | precio 1.089.277 EUR | valor 1.062.182 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
-- CEN Gerenabarrena | precio 1.227.028 EUR | valor 1.198.536 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
-- CEN Iker Muñoz | precio 1.293.450 EUR | valor 1.239.652 EUR | rival | ofertas 1 | vende Mynavo Kyiv | caduca 22/8/26, 11:09
+- POR Marrero | precio 1.005.123 EUR | valor 986.925 EUR | rival | ofertas 1 | vende alemois | caduca 24/8/26, 23:42
+- DEF Saba Sazonov | precio 1.041.227 EUR | valor 1.041.227 EUR | machine | pujas 0 | caduca 23/8/26, 10:53
 - CEN D. Villares | precio 2.329.238 EUR | valor 2.184.470 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 22/8/26, 14:41
-- DEL B. Mayoral | precio 2.708.402 EUR | valor 2.661.846 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
-- DEL Miguel Rodríguez | precio 2.718.884 EUR | valor 2.638.081 EUR | machine | pujas 0 | caduca 22/8/26, 10:53
+- DEF Pacheco | precio 3.651.333 EUR | valor 3.651.333 EUR | machine | pujas 0 | caduca 23/8/26, 10:53
+- DEF Einar | precio 3.740.735 EUR | valor 3.740.735 EUR | machine | pujas 0 | caduca 23/8/26, 10:53
 
 #### Premium a revisar
 
-- POR Courtois | precio 64.611.784 EUR | valor 65.333.270 EUR | machine | pujas 1 | caduca 22/8/26, 10:53
-- DEF Grimaldo | precio 45.818.609 EUR | valor 45.218.561 EUR | rival | ofertas 0 | vende Mynavo Kyiv | caduca 24/8/26, 16:10
-- CEN Kang-In Lee | precio 40.801.578 EUR | valor 42.692.360 EUR | machine | pujas 2 | caduca 22/8/26, 10:53
+- CEN Isco | precio 52.232.161 EUR | valor 52.232.161 EUR | machine | pujas 0 | caduca 23/8/26, 10:53
+- DEF Grimaldo | precio 45.818.609 EUR | valor 45.218.561 EUR | rival | ofertas 1 | vende Mynavo Kyiv | caduca 24/8/26, 16:10
 
 #### Alertas
 
-- Pedro Felipe: estado injured en mercado.
+- Egiluz: estado injured en mercado.
+- Puado: estado injured en mercado.
+- Diego López: estado injured en mercado.
+- Tchouaméni: estado injured en mercado.
 - Yeremay: estado doubtful en mercado.
 - R.P. Bigas: estado doubtful en mercado.
 - Marín: estado injured en mercado.
-- Hay 2 entrenadores en mercado: ignorar por funcion Premium bloqueada.
+- Hay 1 entrenadores en mercado: ignorar por funcion Premium bloqueada.
 
 ### Los Mastuerzos
 
