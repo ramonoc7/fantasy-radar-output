@@ -1,10 +1,10 @@
 # ChatGPT Mobile Pack - Ligas Fantasy
 
-Actualizado: 2026-08-22T09:36:39.689Z
+Actualizado: 2026-08-22T10:35:17.472Z
 
 ## Fuente de verdad para informes
 
-Datos Fantasy actuales: 2026-08-22T09:36:39.689Z
+Datos Fantasy actuales: 2026-08-22T10:35:17.472Z
 
 Reglas obligatorias para ChatGPT:
 - Plantilla, saldo, mercado, pujas, actividad y once guardado actuales salen de este pack/radar, no de capturas antiguas ni memoria de conversaciones.
@@ -32,7 +32,7 @@ Formato obligatorio de cada informe de liga:
 
 Estado actual detectado por liga:
 - Los Primacos (los-primacos): saldo 21.981.874 EUR | valor 211.795.724 EUR | plantilla 16 | mercado jugable 42 | pujas/inversion detectada 20.773.337 EUR | ENT ignorados 1
-- Fantasmas League (fantasmas-league): saldo 15.280.235 EUR | valor 223.972.251 EUR | plantilla 14 | mercado jugable 30 | pujas/inversion detectada 12.900.258 EUR | ENT ignorados 1
+- Fantasmas League (fantasmas-league): saldo 15.280.235 EUR | valor 223.972.251 EUR | plantilla 14 | mercado jugable 27 | pujas/inversion detectada 12.900.258 EUR | ENT ignorados 1
 - Los Mastuerzos (los-mastuerzos): saldo 3.390.829 EUR | valor 232.644.420 EUR | plantilla 12 | mercado jugable 15 | pujas/inversion detectada 3.101.010 EUR | ENT ignorados 2
 
 ## Resumen movil de 10 minutos
@@ -67,8 +67,8 @@ Ventas / huecos:
 
 ### Fantasmas League
 
-Saldo 15.280.235 EUR | plantilla 14 | mercado 30 | puesto 4/10, a 20 del lider
-Alertas: Isi en plantilla aparece como injured. / 1 jugador(es) jugables caducan en menos de 8 horas. / 1 entrenador(es) ignorados por Premium.
+Saldo 15.280.235 EUR | plantilla 14 | mercado 27 | puesto 4/10, a 20 del lider
+Alertas: Isi en plantilla aparece como injured. / 2 jugador(es) jugables caducan en menos de 8 horas. / 1 entrenador(es) ignorados por Premium.
 
 Once recomendado:
 4-3-3: POR Remiro / DEF Huijsen / DEF Álex Balde / DEF Koski / DEF Djene / CEN Mario Soriano / CEN Germán V. / CEN Izan M. / DEL Ángel Pérez / DEL T. Morente / DEL Iñigo Vicente
@@ -231,7 +231,7 @@ Prioridades:
 
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-22T09:36:39.689Z
+Datos API: 2026-08-22T10:35:17.472Z
 Semana actual: 2
 
 ## Objetivo
@@ -330,7 +330,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - Saldo: 15.280.235 EUR
 - Valor plantilla: 223.972.251 EUR
 - Jugadores plantilla: 14
-- Mercado jugable: 30
+- Mercado jugable: 27
 - Entrenadores ignorados: 1
 - Estrategia: Construir un equipo ganador priorizando 11 titulares reales, gangas de mercado y revalorizacion.
 
@@ -362,7 +362,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - DEF Egiluz | precio 406.051 EUR | valor 406.051 EUR | machine | pujas 0 | caduca 23/8/26, 10:53 | estado injured
 - CEN Iván Martín | precio 8.230.041 EUR | valor 8.230.041 EUR | machine | pujas 0 | caduca 23/8/26, 10:53
 - POR Owono | precio 805.433 EUR | valor 805.433 EUR | machine | pujas 0 | caduca 23/8/26, 10:53
-- CEN Puado | precio 5.240.261 EUR | valor 5.240.261 EUR | machine | pujas 0 | caduca 23/8/26, 10:53 | estado injured
+- CEN Puado | precio 5.240.261 EUR | valor 5.240.261 EUR | machine | pujas 1 | caduca 23/8/26, 10:53 | estado injured
 - DEL Diego López | precio 1.726.754 EUR | valor 1.726.754 EUR | machine | pujas 0 | caduca 23/8/26, 10:53 | estado injured
 - CEN Tchouaméni | precio 38.562.545 EUR | valor 38.562.545 EUR | machine | pujas 0 | caduca 23/8/26, 10:53 | estado injured
 
@@ -371,7 +371,6 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - POR Owono | precio 805.433 EUR | valor 805.433 EUR | machine | pujas 0 | caduca 23/8/26, 10:53
 - DEF J. Vertrouwd | precio 888.365 EUR | valor 888.365 EUR | machine | pujas 0 | caduca 23/8/26, 10:53
 - DEF Pastor | precio 999.901 EUR | valor 377.186 EUR | rival | ofertas 1 | vende Gabriele28 | caduca 23/8/26, 11:37
-- POR Marrero | precio 1.005.123 EUR | valor 986.925 EUR | rival | ofertas 1 | vende alemois | caduca 24/8/26, 23:42
 - DEF Saba Sazonov | precio 1.041.227 EUR | valor 1.041.227 EUR | machine | pujas 0 | caduca 23/8/26, 10:53
 - CEN D. Villares | precio 2.329.238 EUR | valor 2.184.470 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 22/8/26, 14:41
 - DEF Pacheco | precio 3.651.333 EUR | valor 3.651.333 EUR | machine | pujas 0 | caduca 23/8/26, 10:53
@@ -380,7 +379,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 #### Premium a revisar
 
 - CEN Isco | precio 52.232.161 EUR | valor 52.232.161 EUR | machine | pujas 0 | caduca 23/8/26, 10:53
-- DEF Grimaldo | precio 45.818.609 EUR | valor 45.218.561 EUR | rival | ofertas 1 | vende Mynavo Kyiv | caduca 24/8/26, 16:10
+- DEF Grimaldo | precio 45.818.609 EUR | valor 45.218.561 EUR | rival | ofertas 0 | vende Mynavo Kyiv | caduca 24/8/26, 16:10
 
 #### Alertas
 
@@ -390,7 +389,6 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - Tchouaméni: estado injured en mercado.
 - Yeremay: estado doubtful en mercado.
 - R.P. Bigas: estado doubtful en mercado.
-- Marín: estado injured en mercado.
 - Hay 1 entrenadores en mercado: ignorar por funcion Premium bloqueada.
 
 ### Los Mastuerzos
@@ -459,8 +457,8 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 # Cola diaria de noticias y titularidad
 
-Generada: 22/8/26, 11:36
-Datos Fantasy: 22/8/26, 11:36
+Generada: 22/8/26, 12:35
+Datos Fantasy: 22/8/26, 12:35
 
 Uso: esta es la lista corta que ChatGPT/Codex debe verificar en internet antes de cerrar pujas fuertes o el once. El radar solo aconseja; Ramon ejecuta todo manualmente.
 
@@ -518,9 +516,6 @@ Situacion: puesto 4/10, a 20 del lider.
 - DEF J. Vertrouwd (sin equipo): SOLO SI ESTA BARATO por 888.365 EUR; Interesante, pero conviene verificar titularidad.
   Precio: 888.365 EUR | valor: 888.365 EUR | score interno: 71.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de J. Vertrouwd para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
-- DEL Oskarsson (sin equipo): VIGILAR por 7.245.871 EUR; Puede servir si mejora titularidad/precio.
-  Precio: 7.245.871 EUR | valor: 7.199.686 EUR | score interno: 64.
-  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Oskarsson para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
 - DEF Pacheco (sin equipo): SOLO SI ESTA BARATO por 3.651.333 EUR; Interesante, pero conviene verificar titularidad.
   Precio: 3.651.333 EUR | valor: 3.651.333 EUR | score interno: 69.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Pacheco para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
@@ -545,6 +540,9 @@ Situacion: puesto 4/10, a 20 del lider.
 - DEF Pau Navarro (sin equipo): VIGILAR por 8.398.607 EUR; Puede servir si mejora titularidad/precio.
   Precio: 8.398.607 EUR | valor: 7.795.382 EUR | score interno: 56.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Pau Navarro para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
+- POR Owono (sin equipo): VIGILAR por 805.433 EUR; Puede servir si mejora titularidad/precio.
+  Precio: 805.433 EUR | valor: 805.433 EUR | score interno: 59.
+  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Owono para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
 
 ## Los Mastuerzos
 
@@ -599,8 +597,8 @@ Usa esta cola. Busca en internet noticias recientes, onces probables, rol previs
 
 # Informe Inteligente Ligas Fantasy
 
-Generado: 22/8/26, 11:36
-Datos API: 22/8/26, 11:36
+Generado: 22/8/26, 12:35
+Datos API: 22/8/26, 12:35
 Semana actual: 2
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -711,12 +709,12 @@ Formacion: 5-3-2 | puntuacion interna 845
 - Liga: puesto 4/10, 42 puntos, a 20 del lider (Mynavo Kyiv)
 - Ranking por valor de plantilla: 4/10
 - Plantilla: 14 jugadores
-- Mercado jugable: 30
+- Mercado jugable: 27
 
 ### Alertas
 
 - Isi en plantilla aparece como injured.
-- 1 jugador(es) jugables caducan en menos de 8 horas.
+- 2 jugador(es) jugables caducan en menos de 8 horas.
 - 1 entrenador(es) ignorados por Premium.
 
 ### Situacion
@@ -775,13 +773,13 @@ Formacion: 4-3-3 | puntuacion interna 812
 ### Vigilar
 
 - VIGILAR: DEF Saba Sazonov | score 66 | precio 1.041.227 EUR | valor 1.041.227 EUR | puja 1.043.310 EUR | max 1.056.846 EUR | pujas 0 | caduca 23/8/26, 10:53 | base: pts actuales -1 (peso bajo), media -1, valor 1.041.227 EUR | Puede servir si mejora titularidad/precio
-- VIGILAR: DEL Oskarsson | score 64 | precio 7.245.871 EUR | valor 7.199.686 EUR | puja 7.499.477 EUR | max 7.825.541 EUR | ofertas 1 | vende alemois | caduca 24/8/26, 23:42 | base: pts actuales 1 (peso bajo), media 1, pts temp ant 85, valor 7.199.686 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: DEL Iago Aspas | score 61 | precio 6.863.893 EUR | valor 6.720.178 EUR | puja 7.104.130 EUR | max 7.392.196 EUR | ofertas 1 | vende Rafishh | caduca 23/8/26, 14:33 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 141, valor 6.720.178 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: CEN Agoumé | score 61 | precio 5.638.486 EUR | valor 5.550.051 EUR | puja 5.835.834 EUR | max 6.089.565 EUR | ofertas 2 | vende Archiking | caduca 23/8/26, 11:02 | base: pts actuales 3 (peso bajo), media 3, pts temp ant 133, valor 5.550.051 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: POR Owono | score 59 | precio 805.433 EUR | valor 805.433 EUR | puja 807.044 EUR | max 817.515 EUR | pujas 0 | caduca 23/8/26, 10:53 | base: pts actuales 0 (peso bajo), media 0, valor 805.433 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: CEN Moncayola | score 57 | precio 6.901.465 EUR | valor 6.844.403 EUR | puja 7.143.017 EUR | max 7.453.583 EUR | ofertas 2 | vende Archiking | caduca 23/8/26, 11:02 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 159, valor 6.844.403 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: DEF Pau Navarro | score 56 | precio 8.398.607 EUR | valor 7.795.382 EUR | puja 8.692.559 EUR | max 8.692.559 EUR | ofertas 1 | vende Rafishh | caduca 22/8/26, 20:14 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 89, valor 7.795.382 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: CEN Iván Martín | score 54 | precio 8.230.041 EUR | valor 8.230.041 EUR | puja 8.246.502 EUR | max 8.353.492 EUR | pujas 0 | caduca 23/8/26, 10:53 | base: pts actuales 0 (peso bajo), media 0, valor 8.230.041 EUR | Puede servir si mejora titularidad/precio
+- MIRAR: CEN Isco | score 50 | precio 52.232.161 EUR | valor 52.232.161 EUR | puja 52.336.626 EUR | max 53.015.644 EUR | pujas 0 | caduca 23/8/26, 10:53 | base: pts actuales 4 (peso bajo), media 4, valor 52.232.161 EUR | No entra en saldo actual sin ventas
 
 ### Evitar
 
@@ -793,7 +791,7 @@ Formacion: 4-3-3 | puntuacion interna 812
 - EVITAR: DEL Diego López | score 13 | precio 1.726.754 EUR | valor 1.726.754 EUR | No pujar: injured | pujas 0 | caduca 23/8/26, 10:53 | injured | base: pts actuales 0 (peso bajo), media 0, pts temp ant 121, valor 1.726.754 EUR, estado injured | Estado injured
 - EVITAR: DEF Egiluz | score 12 | precio 406.051 EUR | valor 406.051 EUR | No pujar: injured | pujas 0 | caduca 23/8/26, 10:53 | injured | base: pts actuales 0 (peso bajo), media 0, pts temp ant 0, valor 406.051 EUR, estado injured | Estado injured
 - EVITAR: DEL Yeremay | score 12 | precio 65.000.000 EUR | valor 45.007.820 EUR | No pujar salvo que lo revisemos manualmente | ofertas 1 | vende West Jamon C.F.D. | caduca 23/8/26, 22:56 | doubtful | base: pts actuales 0 (peso bajo), media 0, valor 45.007.820 EUR, estado doubtful | Sobreprecio del 44%
-- EVITAR: CEN Puado | score 11 | precio 5.240.261 EUR | valor 5.240.261 EUR | No pujar: injured | pujas 0 | caduca 23/8/26, 10:53 | injured | base: pts actuales 0 (peso bajo), media 0, pts temp ant 42, valor 5.240.261 EUR, estado injured | Estado injured
+- EVITAR: CEN Puado | score 10 | precio 5.240.261 EUR | valor 5.240.261 EUR | No pujar: injured | pujas 1 | caduca 23/8/26, 10:53 | injured | base: pts actuales 0 (peso bajo), media 0, pts temp ant 42, valor 5.240.261 EUR, estado injured | Estado injured
 - EVITAR: CEN Tchouaméni | score 10 | precio 38.562.545 EUR | valor 38.562.545 EUR | No pujar: injured | pujas 0 | caduca 23/8/26, 10:53 | injured | base: pts actuales 0 (peso bajo), media 0, pts temp ant 181, valor 38.562.545 EUR, estado injured | Estado injured
 
 ### Vender O Liberar Hueco

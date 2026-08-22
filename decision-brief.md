@@ -1,6 +1,6 @@
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-22T09:36:39.689Z
+Datos API: 2026-08-22T10:35:17.472Z
 Semana actual: 2
 
 ## Objetivo
@@ -99,7 +99,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - Saldo: 15.280.235 EUR
 - Valor plantilla: 223.972.251 EUR
 - Jugadores plantilla: 14
-- Mercado jugable: 30
+- Mercado jugable: 27
 - Entrenadores ignorados: 1
 - Estrategia: Construir un equipo ganador priorizando 11 titulares reales, gangas de mercado y revalorizacion.
 
@@ -131,7 +131,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - DEF Egiluz | precio 406.051 EUR | valor 406.051 EUR | machine | pujas 0 | caduca 23/8/26, 10:53 | estado injured
 - CEN Iván Martín | precio 8.230.041 EUR | valor 8.230.041 EUR | machine | pujas 0 | caduca 23/8/26, 10:53
 - POR Owono | precio 805.433 EUR | valor 805.433 EUR | machine | pujas 0 | caduca 23/8/26, 10:53
-- CEN Puado | precio 5.240.261 EUR | valor 5.240.261 EUR | machine | pujas 0 | caduca 23/8/26, 10:53 | estado injured
+- CEN Puado | precio 5.240.261 EUR | valor 5.240.261 EUR | machine | pujas 1 | caduca 23/8/26, 10:53 | estado injured
 - DEL Diego López | precio 1.726.754 EUR | valor 1.726.754 EUR | machine | pujas 0 | caduca 23/8/26, 10:53 | estado injured
 - CEN Tchouaméni | precio 38.562.545 EUR | valor 38.562.545 EUR | machine | pujas 0 | caduca 23/8/26, 10:53 | estado injured
 
@@ -140,7 +140,6 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - POR Owono | precio 805.433 EUR | valor 805.433 EUR | machine | pujas 0 | caduca 23/8/26, 10:53
 - DEF J. Vertrouwd | precio 888.365 EUR | valor 888.365 EUR | machine | pujas 0 | caduca 23/8/26, 10:53
 - DEF Pastor | precio 999.901 EUR | valor 377.186 EUR | rival | ofertas 1 | vende Gabriele28 | caduca 23/8/26, 11:37
-- POR Marrero | precio 1.005.123 EUR | valor 986.925 EUR | rival | ofertas 1 | vende alemois | caduca 24/8/26, 23:42
 - DEF Saba Sazonov | precio 1.041.227 EUR | valor 1.041.227 EUR | machine | pujas 0 | caduca 23/8/26, 10:53
 - CEN D. Villares | precio 2.329.238 EUR | valor 2.184.470 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 22/8/26, 14:41
 - DEF Pacheco | precio 3.651.333 EUR | valor 3.651.333 EUR | machine | pujas 0 | caduca 23/8/26, 10:53
@@ -149,7 +148,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 #### Premium a revisar
 
 - CEN Isco | precio 52.232.161 EUR | valor 52.232.161 EUR | machine | pujas 0 | caduca 23/8/26, 10:53
-- DEF Grimaldo | precio 45.818.609 EUR | valor 45.218.561 EUR | rival | ofertas 1 | vende Mynavo Kyiv | caduca 24/8/26, 16:10
+- DEF Grimaldo | precio 45.818.609 EUR | valor 45.218.561 EUR | rival | ofertas 0 | vende Mynavo Kyiv | caduca 24/8/26, 16:10
 
 #### Alertas
 
@@ -159,7 +158,6 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - Tchouaméni: estado injured en mercado.
 - Yeremay: estado doubtful en mercado.
 - R.P. Bigas: estado doubtful en mercado.
-- Marín: estado injured en mercado.
 - Hay 1 entrenadores en mercado: ignorar por funcion Premium bloqueada.
 
 ### Los Mastuerzos

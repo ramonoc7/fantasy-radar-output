@@ -1,7 +1,7 @@
 # Informe Inteligente Ligas Fantasy
 
-Generado: 22/8/26, 11:36
-Datos API: 22/8/26, 11:36
+Generado: 22/8/26, 12:35
+Datos API: 22/8/26, 12:35
 Semana actual: 2
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -112,12 +112,12 @@ Formacion: 5-3-2 | puntuacion interna 845
 - Liga: puesto 4/10, 42 puntos, a 20 del lider (Mynavo Kyiv)
 - Ranking por valor de plantilla: 4/10
 - Plantilla: 14 jugadores
-- Mercado jugable: 30
+- Mercado jugable: 27
 
 ### Alertas
 
 - Isi en plantilla aparece como injured.
-- 1 jugador(es) jugables caducan en menos de 8 horas.
+- 2 jugador(es) jugables caducan en menos de 8 horas.
 - 1 entrenador(es) ignorados por Premium.
 
 ### Situacion
@@ -176,13 +176,13 @@ Formacion: 4-3-3 | puntuacion interna 812
 ### Vigilar
 
 - VIGILAR: DEF Saba Sazonov | score 66 | precio 1.041.227 EUR | valor 1.041.227 EUR | puja 1.043.310 EUR | max 1.056.846 EUR | pujas 0 | caduca 23/8/26, 10:53 | base: pts actuales -1 (peso bajo), media -1, valor 1.041.227 EUR | Puede servir si mejora titularidad/precio
-- VIGILAR: DEL Oskarsson | score 64 | precio 7.245.871 EUR | valor 7.199.686 EUR | puja 7.499.477 EUR | max 7.825.541 EUR | ofertas 1 | vende alemois | caduca 24/8/26, 23:42 | base: pts actuales 1 (peso bajo), media 1, pts temp ant 85, valor 7.199.686 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: DEL Iago Aspas | score 61 | precio 6.863.893 EUR | valor 6.720.178 EUR | puja 7.104.130 EUR | max 7.392.196 EUR | ofertas 1 | vende Rafishh | caduca 23/8/26, 14:33 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 141, valor 6.720.178 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: CEN Agoumé | score 61 | precio 5.638.486 EUR | valor 5.550.051 EUR | puja 5.835.834 EUR | max 6.089.565 EUR | ofertas 2 | vende Archiking | caduca 23/8/26, 11:02 | base: pts actuales 3 (peso bajo), media 3, pts temp ant 133, valor 5.550.051 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: POR Owono | score 59 | precio 805.433 EUR | valor 805.433 EUR | puja 807.044 EUR | max 817.515 EUR | pujas 0 | caduca 23/8/26, 10:53 | base: pts actuales 0 (peso bajo), media 0, valor 805.433 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: CEN Moncayola | score 57 | precio 6.901.465 EUR | valor 6.844.403 EUR | puja 7.143.017 EUR | max 7.453.583 EUR | ofertas 2 | vende Archiking | caduca 23/8/26, 11:02 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 159, valor 6.844.403 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: DEF Pau Navarro | score 56 | precio 8.398.607 EUR | valor 7.795.382 EUR | puja 8.692.559 EUR | max 8.692.559 EUR | ofertas 1 | vende Rafishh | caduca 22/8/26, 20:14 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 89, valor 7.795.382 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: CEN Iván Martín | score 54 | precio 8.230.041 EUR | valor 8.230.041 EUR | puja 8.246.502 EUR | max 8.353.492 EUR | pujas 0 | caduca 23/8/26, 10:53 | base: pts actuales 0 (peso bajo), media 0, valor 8.230.041 EUR | Puede servir si mejora titularidad/precio
+- MIRAR: CEN Isco | score 50 | precio 52.232.161 EUR | valor 52.232.161 EUR | puja 52.336.626 EUR | max 53.015.644 EUR | pujas 0 | caduca 23/8/26, 10:53 | base: pts actuales 4 (peso bajo), media 4, valor 52.232.161 EUR | No entra en saldo actual sin ventas
 
 ### Evitar
 
@@ -194,7 +194,7 @@ Formacion: 4-3-3 | puntuacion interna 812
 - EVITAR: DEL Diego López | score 13 | precio 1.726.754 EUR | valor 1.726.754 EUR | No pujar: injured | pujas 0 | caduca 23/8/26, 10:53 | injured | base: pts actuales 0 (peso bajo), media 0, pts temp ant 121, valor 1.726.754 EUR, estado injured | Estado injured
 - EVITAR: DEF Egiluz | score 12 | precio 406.051 EUR | valor 406.051 EUR | No pujar: injured | pujas 0 | caduca 23/8/26, 10:53 | injured | base: pts actuales 0 (peso bajo), media 0, pts temp ant 0, valor 406.051 EUR, estado injured | Estado injured
 - EVITAR: DEL Yeremay | score 12 | precio 65.000.000 EUR | valor 45.007.820 EUR | No pujar salvo que lo revisemos manualmente | ofertas 1 | vende West Jamon C.F.D. | caduca 23/8/26, 22:56 | doubtful | base: pts actuales 0 (peso bajo), media 0, valor 45.007.820 EUR, estado doubtful | Sobreprecio del 44%
-- EVITAR: CEN Puado | score 11 | precio 5.240.261 EUR | valor 5.240.261 EUR | No pujar: injured | pujas 0 | caduca 23/8/26, 10:53 | injured | base: pts actuales 0 (peso bajo), media 0, pts temp ant 42, valor 5.240.261 EUR, estado injured | Estado injured
+- EVITAR: CEN Puado | score 10 | precio 5.240.261 EUR | valor 5.240.261 EUR | No pujar: injured | pujas 1 | caduca 23/8/26, 10:53 | injured | base: pts actuales 0 (peso bajo), media 0, pts temp ant 42, valor 5.240.261 EUR, estado injured | Estado injured
 - EVITAR: CEN Tchouaméni | score 10 | precio 38.562.545 EUR | valor 38.562.545 EUR | No pujar: injured | pujas 0 | caduca 23/8/26, 10:53 | injured | base: pts actuales 0 (peso bajo), media 0, pts temp ant 181, valor 38.562.545 EUR, estado injured | Estado injured
 
 ### Vender O Liberar Hueco

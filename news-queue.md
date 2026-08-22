@@ -1,7 +1,7 @@
 # Cola diaria de noticias y titularidad
 
-Generada: 22/8/26, 11:36
-Datos Fantasy: 22/8/26, 11:36
+Generada: 22/8/26, 12:35
+Datos Fantasy: 22/8/26, 12:35
 
 Uso: esta es la lista corta que ChatGPT/Codex debe verificar en internet antes de cerrar pujas fuertes o el once. El radar solo aconseja; Ramon ejecuta todo manualmente.
 
@@ -59,9 +59,6 @@ Situacion: puesto 4/10, a 20 del lider.
 - DEF J. Vertrouwd (sin equipo): SOLO SI ESTA BARATO por 888.365 EUR; Interesante, pero conviene verificar titularidad.
   Precio: 888.365 EUR | valor: 888.365 EUR | score interno: 71.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de J. Vertrouwd para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
-- DEL Oskarsson (sin equipo): VIGILAR por 7.245.871 EUR; Puede servir si mejora titularidad/precio.
-  Precio: 7.245.871 EUR | valor: 7.199.686 EUR | score interno: 64.
-  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Oskarsson para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
 - DEF Pacheco (sin equipo): SOLO SI ESTA BARATO por 3.651.333 EUR; Interesante, pero conviene verificar titularidad.
   Precio: 3.651.333 EUR | valor: 3.651.333 EUR | score interno: 69.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Pacheco para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
@@ -86,6 +83,9 @@ Situacion: puesto 4/10, a 20 del lider.
 - DEF Pau Navarro (sin equipo): VIGILAR por 8.398.607 EUR; Puede servir si mejora titularidad/precio.
   Precio: 8.398.607 EUR | valor: 7.795.382 EUR | score interno: 56.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Pau Navarro para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
+- POR Owono (sin equipo): VIGILAR por 805.433 EUR; Puede servir si mejora titularidad/precio.
+  Precio: 805.433 EUR | valor: 805.433 EUR | score interno: 59.
+  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Owono para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
 
 ## Los Mastuerzos
 
