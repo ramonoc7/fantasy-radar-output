@@ -1,6 +1,6 @@
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-24T19:38:16.728Z
+Datos API: 2026-08-24T20:42:58.778Z
 Semana actual: 2
 
 ## Objetivo
@@ -123,7 +123,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - DEF Kounde | precio 39.058.979 EUR | valor 38.992.764 EUR | machine | pujas 0 | caduca 25/8/26, 10:53
 - DEF Javi Rueda | precio 4.281.263 EUR | valor 4.277.283 EUR | machine | pujas 0 | caduca 25/8/26, 10:53
 - DEF Barzic | precio 691.575 EUR | valor 690.831 EUR | machine | pujas 0 | caduca 25/8/26, 10:53
-- DEL Robbie Ure | precio 12.471.439 EUR | valor 12.445.215 EUR | machine | pujas 1 | caduca 25/8/26, 10:53
+- DEL Robbie Ure | precio 12.471.439 EUR | valor 12.445.215 EUR | machine | pujas 2 | caduca 25/8/26, 10:53
 - POR Joan García | precio 71.467.652 EUR | valor 71.347.095 EUR | machine | pujas 0 | caduca 25/8/26, 10:53
 - POR Padilla | precio 1.253.700 EUR | valor 1.252.923 EUR | machine | pujas 0 | caduca 25/8/26, 10:53
 - POR Ryan | precio 13.397.730 EUR | valor 13.369.964 EUR | machine | pujas 2 | caduca 25/8/26, 10:53
@@ -164,8 +164,8 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - Saldo: 3.390.829 EUR
 - Valor plantilla: 230.736.483 EUR
 - Jugadores plantilla: 12
-- Mercado jugable: 12
-- Entrenadores ignorados: 1
+- Mercado jugable: 11
+- Entrenadores ignorados: 2
 - Estrategia: Solucionar porteria y tercer defensa, manteniendo un centro del campo barato y muy util; cazar gangas antes que perseguir nombres caros.
 
 #### Plantilla
@@ -185,36 +185,32 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 #### Mercado que caduca antes
 
-- DEF Rego | precio 4.224.065 EUR | valor 4.099.763 EUR | machine | pujas 0 | caduca 24/8/26, 22:10
-- DEF Sangante | precio 9.304.485 EUR | valor 9.590.798 EUR | machine | pujas 1 | caduca 24/8/26, 22:10
-- DEF Cabrera | precio 14.250.177 EUR | valor 13.843.544 EUR | machine | pujas 0 | caduca 24/8/26, 22:10 | estado suspended
-- DEL Oyarzabal | precio 63.687.464 EUR | valor 63.018.935 EUR | machine | pujas 0 | caduca 24/8/26, 22:10
-- CEN Lo Celso | precio 29.938.299 EUR | valor 29.029.236 EUR | machine | pujas 0 | caduca 24/8/26, 22:10 | estado injured
-- CEN Barrenetxea | precio 30.770.667 EUR | valor 30.037.782 EUR | machine | pujas 0 | caduca 24/8/26, 22:10 | estado doubtful
-- DEF Faye | precio 3.954.593 EUR | valor 3.837.380 EUR | machine | pujas 0 | caduca 24/8/26, 22:10
-- CEN Asp Jensen | precio 6.256.201 EUR | valor 6.239.024 EUR | machine | pujas 0 | caduca 24/8/26, 22:10
-- DEF Junior | precio 3.006.142 EUR | valor 2.926.867 EUR | machine | pujas 0 | caduca 24/8/26, 22:10
-- DEF Iñigo | precio 660.021 EUR | valor 649.881 EUR | machine | pujas 0 | caduca 24/8/26, 22:10
-- DEF Julio Díaz | precio 443.297 EUR | valor 441.826 EUR | machine | pujas 1 | caduca 24/8/26, 22:10
-- DEF J. M. Giménez | precio 4.005.307 EUR | valor 3.912.084 EUR | machine | pujas 1 | caduca 24/8/26, 22:10
+- DEL Bardghji | precio 2.267.159 EUR | valor 2.267.159 EUR | machine | pujas 0 | caduca 25/8/26, 22:10 | estado injured
+- CEN P. Martínez | precio 7.813.597 EUR | valor 7.813.597 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
+- DEF Cardoso | precio 711.418 EUR | valor 711.418 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
+- DEL Dubasin | precio 12.784.410 EUR | valor 12.784.410 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
+- DEF Barzic | precio 690.831 EUR | valor 690.831 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
+- CEN F. De Jong | precio 20.285.760 EUR | valor 20.285.760 EUR | machine | pujas 0 | caduca 25/8/26, 22:10 | estado injured
+- DEF Nuñez | precio 5.606.954 EUR | valor 5.606.954 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
+- DEL Alexis Ciria | precio 898.091 EUR | valor 898.091 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
+- DEL Iñaki Williams | precio 26.965.234 EUR | valor 26.965.234 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
+- DEF V. Chust | precio 5.620.791 EUR | valor 5.620.791 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
+- DEF Bartra | precio 27.720.326 EUR | valor 27.720.326 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
 
 #### Baratos a revisar
 
-- DEF Julio Díaz | precio 443.297 EUR | valor 441.826 EUR | machine | pujas 1 | caduca 24/8/26, 22:10
-- DEF Iñigo | precio 660.021 EUR | valor 649.881 EUR | machine | pujas 0 | caduca 24/8/26, 22:10
-- DEF Junior | precio 3.006.142 EUR | valor 2.926.867 EUR | machine | pujas 0 | caduca 24/8/26, 22:10
-- DEF Faye | precio 3.954.593 EUR | valor 3.837.380 EUR | machine | pujas 0 | caduca 24/8/26, 22:10
-- DEF J. M. Giménez | precio 4.005.307 EUR | valor 3.912.084 EUR | machine | pujas 1 | caduca 24/8/26, 22:10
-- DEF Rego | precio 4.224.065 EUR | valor 4.099.763 EUR | machine | pujas 0 | caduca 24/8/26, 22:10
+- DEF Barzic | precio 690.831 EUR | valor 690.831 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
+- DEF Cardoso | precio 711.418 EUR | valor 711.418 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
+- DEL Alexis Ciria | precio 898.091 EUR | valor 898.091 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
 
 #### Premium a revisar
 
-- DEL Oyarzabal | precio 63.687.464 EUR | valor 63.018.935 EUR | machine | pujas 0 | caduca 24/8/26, 22:10
+- DEF Bartra | precio 27.720.326 EUR | valor 27.720.326 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
+- DEL Iñaki Williams | precio 26.965.234 EUR | valor 26.965.234 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
 
 #### Alertas
 
-- Cabrera: estado suspended en mercado.
-- Lo Celso: estado injured en mercado.
-- Barrenetxea: estado doubtful en mercado.
-- Hay 1 entrenadores en mercado: ignorar por funcion Premium bloqueada.
+- Bardghji: estado injured en mercado.
+- F. De Jong: estado injured en mercado.
+- Hay 2 entrenadores en mercado: ignorar por funcion Premium bloqueada.
 
