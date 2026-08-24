@@ -1,6 +1,6 @@
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-24T17:40:10.967Z
+Datos API: 2026-08-24T18:54:30.746Z
 Semana actual: 2
 
 ## Objetivo
@@ -91,17 +91,16 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 ### Fantasmas League
 
-- Saldo: 9.270.126 EUR
-- Valor plantilla: 229.930.335 EUR
-- Jugadores plantilla: 15
-- Mercado jugable: 26
+- Saldo: 34.504.117 EUR
+- Valor plantilla: 206.516.392 EUR
+- Jugadores plantilla: 14
+- Mercado jugable: 24
 - Entrenadores ignorados: 1
 - Estrategia: Construir un equipo ganador priorizando 11 titulares reales, gangas de mercado y revalorizacion.
 
 #### Plantilla
 
 - POR Remiro | Real Sociedad | 40.355.184 EUR
-- DEF Álex Balde | FC Barcelona | 23.413.943 EUR | estado injured
 - DEF Koski | Deportivo Alavés | 1.690.987 EUR
 - DEF Huijsen | Real Madrid | 39.252.353 EUR
 - DEF Djene | Getafe CF | 9.889.886 EUR
@@ -157,8 +156,6 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - De Haas: estado injured en mercado.
 - Yeremay: estado doubtful en mercado.
 - Yuri: estado suspended en mercado.
-- Álex Balde: estado injured en mercado.
-- Le Normand: estado suspended en mercado.
 - Hay 1 entrenadores en mercado: ignorar por funcion Premium bloqueada.
 
 ### Los Mastuerzos
