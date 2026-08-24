@@ -1,6 +1,6 @@
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-24T16:51:36.708Z
+Datos API: 2026-08-24T17:40:10.967Z
 Semana actual: 2
 
 ## Objetivo
@@ -27,18 +27,16 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 ### Los Primacos
 
-- Saldo: 24.955.567 EUR
-- Valor plantilla: 213.353.944 EUR
-- Jugadores plantilla: 17
-- Mercado jugable: 15
+- Saldo: 34.111.397 EUR
+- Valor plantilla: 204.173.521 EUR
+- Jugadores plantilla: 15
+- Mercado jugable: 13
 - Entrenadores ignorados: 1
 - Estrategia: Arreglar porteria y defensa sin desmontar activos caros; convertir dinero concentrado en titulares baratos utiles.
 
 #### Plantilla
 
 - POR Á. Valles | Real Betis | 35.417.272 EUR
-- DEF Suazo | Sevilla FC | 4.903.140 EUR
-- DEF Javi Rueda | Celta | 4.277.283 EUR
 - DEF Nuñez | RCD Espanyol | 5.606.954 EUR
 - DEF Koski | Deportivo Alavés | 1.690.987 EUR
 - DEF Fran García | Real Betis | 10.975.391 EUR
@@ -66,7 +64,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - DEF Rüdiger | precio 29.476.040 EUR | valor 29.469.157 EUR | machine | pujas 0 | caduca 25/8/26, 12:46
 - CEN Moleiro | precio 62.002.118 EUR | valor 61.989.445 EUR | machine | pujas 0 | caduca 25/8/26, 12:46
 - DEF Xanet Olaiz | precio 543.485 EUR | valor 543.347 EUR | machine | pujas 0 | caduca 25/8/26, 12:46
-- CEN Valverde | precio 72.882.912 EUR | valor 72.857.790 EUR | machine | pujas 0 | caduca 25/8/26, 12:46
+- CEN Valverde | precio 72.882.912 EUR | valor 72.857.790 EUR | machine | pujas 1 | caduca 25/8/26, 12:46
 - DEF J. Ives Valou | precio 542.949 EUR | valor 542.810 EUR | machine | pujas 0 | caduca 25/8/26, 12:46
 
 #### Baratos a revisar
@@ -77,11 +75,10 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - POR Marrero | precio 943.972 EUR | valor 943.828 EUR | machine | pujas 0 | caduca 25/8/26, 12:46
 - CEN D. Villares | precio 2.079.968 EUR | valor 2.079.694 EUR | machine | pujas 0 | caduca 25/8/26, 12:46
 - CEN Francho | precio 2.641.403 EUR | valor 2.640.935 EUR | machine | pujas 0 | caduca 25/8/26, 12:46
-- DEF Javi Rueda | precio 4.281.442 EUR | valor 4.277.283 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 27/8/26, 1:05
 
 #### Premium a revisar
 
-- CEN Valverde | precio 72.882.912 EUR | valor 72.857.790 EUR | machine | pujas 0 | caduca 25/8/26, 12:46
+- CEN Valverde | precio 72.882.912 EUR | valor 72.857.790 EUR | machine | pujas 1 | caduca 25/8/26, 12:46
 - CEN Moleiro | precio 62.002.118 EUR | valor 61.989.445 EUR | machine | pujas 0 | caduca 25/8/26, 12:46
 - DEF Gerard Martín | precio 39.508.746 EUR | valor 39.492.824 EUR | machine | pujas 1 | caduca 25/8/26, 12:46
 - POR Sergio Herrera | precio 36.946.516 EUR | valor 36.938.296 EUR | machine | pujas 0 | caduca 25/8/26, 12:46
