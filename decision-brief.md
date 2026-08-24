@@ -1,6 +1,6 @@
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-24T18:54:30.746Z
+Datos API: 2026-08-24T19:38:16.728Z
 Semana actual: 2
 
 ## Objetivo
@@ -94,7 +94,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - Saldo: 34.504.117 EUR
 - Valor plantilla: 206.516.392 EUR
 - Jugadores plantilla: 14
-- Mercado jugable: 24
+- Mercado jugable: 26
 - Entrenadores ignorados: 1
 - Estrategia: Construir un equipo ganador priorizando 11 titulares reales, gangas de mercado y revalorizacion.
 
@@ -144,6 +144,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 #### Premium a revisar
 
 - DEL Mbappé | precio 130.241.056 EUR | valor 130.457.709 EUR | rival | ofertas 1 | vende Dynamo de Maghreb FC | caduca 25/8/26, 19:53
+- POR Courtois | precio 79.000.000 EUR | valor 66.160.365 EUR | rival | ofertas 0 | vende alemois | caduca 27/8/26, 21:21
 - POR Joan García | precio 71.467.652 EUR | valor 71.347.095 EUR | machine | pujas 0 | caduca 25/8/26, 10:53
 - DEF Dumfries | precio 50.094.713 EUR | valor 50.039.536 EUR | machine | pujas 0 | caduca 25/8/26, 10:53
 - DEF Kounde | precio 39.058.979 EUR | valor 38.992.764 EUR | machine | pujas 0 | caduca 25/8/26, 10:53

@@ -1,10 +1,10 @@
 # ChatGPT Mobile Pack - Ligas Fantasy
 
-Actualizado: 2026-08-24T18:54:30.746Z
+Actualizado: 2026-08-24T19:38:16.728Z
 
 ## Fuente de verdad para informes
 
-Datos Fantasy actuales: 2026-08-24T18:54:30.746Z
+Datos Fantasy actuales: 2026-08-24T19:38:16.728Z
 
 Reglas obligatorias para ChatGPT:
 - Plantilla, saldo, mercado, pujas, actividad y once guardado actuales salen de este pack/radar, no de capturas antiguas ni memoria de conversaciones.
@@ -32,7 +32,7 @@ Formato obligatorio de cada informe de liga:
 
 Estado actual detectado por liga:
 - Los Primacos (los-primacos): saldo 34.111.397 EUR | valor 204.173.521 EUR | plantilla 15 | mercado jugable 13 | pujas/inversion detectada 72.857.799 EUR | ENT ignorados 1
-- Fantasmas League (fantasmas-league): saldo 34.504.117 EUR | valor 206.516.392 EUR | plantilla 14 | mercado jugable 24 | ENT ignorados 1
+- Fantasmas League (fantasmas-league): saldo 34.504.117 EUR | valor 206.516.392 EUR | plantilla 14 | mercado jugable 26 | ENT ignorados 1
 - Los Mastuerzos (los-mastuerzos): saldo 3.390.829 EUR | valor 230.736.483 EUR | plantilla 12 | mercado jugable 12 | ENT ignorados 1
 
 ## Resumen movil de 10 minutos
@@ -56,18 +56,18 @@ Mercado, mirar primero:
 - FICHAR YA: CEN Marc Roca | 5.609.002 EUR | 0 pujas | puja 5.620.221 EUR, max 5.693.138 EUR
 - SOLO SI ESTA BARATO: CEN Francho | 2.641.403 EUR | 0 pujas | puja 2.646.686 EUR, max 2.681.025 EUR
 - SOLO SI ES CLARO: DEF Rüdiger | 29.476.040 EUR | 0 pujas | puja 29.534.993 EUR, max 29.918.181 EUR
+- MIRAR: POR Sergio Herrera | 36.946.516 EUR | 0 pujas | puja 37.020.410 EUR, max 37.500.714 EUR
 - MIRAR: CEN Valverde | 72.882.912 EUR | 1 pujas | puja 73.976.156 EUR, max 75.772.102 EUR
-- MIRAR: DEF Gerard Martín | 39.508.746 EUR | 1 pujas | puja 40.101.378 EUR, max 41.072.537 EUR
 
 Ventas / huecos:
-- VENDER/USAR COMO HUECO: CEN Iker Muñoz | 1.187.249 EUR
-- VENDER/USAR COMO HUECO: DEL R. Brugué | 1.763.949 EUR
 - VIGILAR: DEL Oyarzabal | 63.018.935 EUR
 - VIGILAR: CEN Martim Neto | 1.653.565 EUR
+- VIGILAR: DEL R. Brugué | 1.763.949 EUR
+- VIGILAR: CEN Iker Muñoz | 1.187.249 EUR
 
 ### Fantasmas League
 
-Saldo 34.504.117 EUR | plantilla 14 | mercado 24 | puesto 3/10, a 35 del lider
+Saldo 34.504.117 EUR | plantilla 14 | mercado 26 | puesto 3/10, a 35 del lider
 Alertas: Isi en plantilla aparece como injured. / 1 entrenador(es) ignorados por Premium.
 
 Once recomendado:
@@ -79,10 +79,10 @@ Cambios frente al once guardado:
 
 Mercado, mirar primero:
 - SOLO SI ESTA BARATO: DEL Iago Aspas | 6.529.303 EUR | 0 ofertas | puja 6.542.362 EUR, max 6.627.243 EUR
+- SOLO SI ESTA BARATO: DEL Hugo Duro | 8.291.774 EUR | 0 ofertas | puja 8.308.358 EUR, max 8.416.151 EUR
 - SOLO SI ESTA BARATO: DEF Javi Rueda | 4.281.263 EUR | 0 pujas | puja 4.289.826 EUR, max 4.345.482 EUR
 - SOLO SI ES CLARO: DEL Etta Eyong | 22.549.120 EUR | 0 ofertas | puja 22.594.219 EUR, max 22.887.357 EUR
 - SOLO SI ESTA BARATO: DEF Pau Navarro | 7.383.917 EUR | 0 ofertas | puja 7.398.685 EUR, max 7.494.676 EUR
-- SOLO SI ES CLARO: DEL B. Iglesias | 24.731.038 EUR | 0 pujas | puja 24.780.501 EUR, max 25.102.004 EUR
 
 Ventas / huecos:
 - VENDER SI NO COMPENSA ESPERAR: DEL Isi | 19.332.322 EUR
@@ -91,11 +91,11 @@ Ventas / huecos:
 
 ### Los Mastuerzos
 
-Saldo 3.390.829 EUR | plantilla 12 | mercado 12 | puesto 5/10, a 31 del lider
+Saldo 3.390.829 EUR | plantilla 12 | mercado 12 | puesto 6/10, a 31 del lider
 Alertas: 12 jugador(es) jugables caducan en menos de 8 horas. / 1 entrenador(es) ignorados por Premium.
 
 Once recomendado:
-4-4-2: POR David Soria / DEF Sergio Gómez / DEF C. Puga / DEF Javi Rodríguez / DEF Koski / CEN Valverde / CEN Javi Guerra / CEN R. Terrats / CEN Germán V. / DEL Hugo Duro / DEL Chupe
+4-4-2: POR David Soria / DEF Sergio Gómez / DEF Javi Rodríguez / DEF C. Puga / DEF Koski / CEN Valverde / CEN Javi Guerra / CEN R. Terrats / CEN Germán V. / DEL Hugo Duro / DEL Chupe
 
 Cambios frente al once guardado:
 - Nada urgente.
@@ -228,7 +228,7 @@ Prioridades:
 
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-24T18:54:30.746Z
+Datos API: 2026-08-24T19:38:16.728Z
 Semana actual: 2
 
 ## Objetivo
@@ -322,7 +322,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - Saldo: 34.504.117 EUR
 - Valor plantilla: 206.516.392 EUR
 - Jugadores plantilla: 14
-- Mercado jugable: 24
+- Mercado jugable: 26
 - Entrenadores ignorados: 1
 - Estrategia: Construir un equipo ganador priorizando 11 titulares reales, gangas de mercado y revalorizacion.
 
@@ -372,6 +372,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 #### Premium a revisar
 
 - DEL Mbappé | precio 130.241.056 EUR | valor 130.457.709 EUR | rival | ofertas 1 | vende Dynamo de Maghreb FC | caduca 25/8/26, 19:53
+- POR Courtois | precio 79.000.000 EUR | valor 66.160.365 EUR | rival | ofertas 0 | vende alemois | caduca 27/8/26, 21:21
 - POR Joan García | precio 71.467.652 EUR | valor 71.347.095 EUR | machine | pujas 0 | caduca 25/8/26, 10:53
 - DEF Dumfries | precio 50.094.713 EUR | valor 50.039.536 EUR | machine | pujas 0 | caduca 25/8/26, 10:53
 - DEF Kounde | precio 39.058.979 EUR | valor 38.992.764 EUR | machine | pujas 0 | caduca 25/8/26, 10:53
@@ -451,8 +452,8 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 # Cola diaria de noticias y titularidad
 
-Generada: 24/8/26, 20:54
-Datos Fantasy: 24/8/26, 20:54
+Generada: 24/8/26, 21:38
+Datos Fantasy: 24/8/26, 21:38
 
 Uso: esta es la lista corta que ChatGPT/Codex debe verificar en internet antes de cerrar pujas fuertes o el once. El radar solo aconseja; Ramon ejecuta todo manualmente.
 
@@ -466,6 +467,9 @@ Situacion: puesto 3/12, a 3 del lider.
 - CEN Valverde (sin equipo): MIRAR por 72.882.912 EUR; No entra en saldo actual sin ventas.
   Precio: 72.882.912 EUR | valor: 72.857.790 EUR | score interno: 72.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Valverde para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
+- POR Sergio Herrera (sin equipo): MIRAR por 36.946.516 EUR; Ya hay portero fiable; solo interesa si quieres segundo portero.
+  Precio: 36.946.516 EUR | valor: 36.938.296 EUR | score interno: 76.
+  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Sergio Herrera para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
 - DEF Gerard Martín (sin equipo): MIRAR por 39.508.746 EUR; No entra en saldo actual sin ventas.
   Precio: 39.508.746 EUR | valor: 39.492.824 EUR | score interno: 67.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Gerard Martín para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
@@ -475,15 +479,12 @@ Situacion: puesto 3/12, a 3 del lider.
 - CEN Mikel Rodriguez (Deportivo Alavés): Entra en el once recomendado pero no esta guardado ahora.
   Precio: 1.456.096 EUR | valor: 1.456.096 EUR | score interno: 56.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Mikel Rodriguez Deportivo Alavés para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
-- POR Sergio Herrera (sin equipo): MIRAR por 36.946.516 EUR; Ya hay portero fiable; solo interesa si quieres segundo portero.
-  Precio: 36.946.516 EUR | valor: 36.938.296 EUR | score interno: 62.
-  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Sergio Herrera para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
-- CEN D. Villares (sin equipo): VIGILAR por 2.079.968 EUR; Puede servir si mejora titularidad/precio.
-  Precio: 2.079.968 EUR | valor: 2.079.694 EUR | score interno: 65.
-  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de D. Villares para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
 - DEF Rüdiger (sin equipo): SOLO SI ES CLARO por 29.476.040 EUR; Consume demasiado saldo para una recomendacion automatica.
   Precio: 29.476.040 EUR | valor: 29.469.157 EUR | score interno: 56.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Rüdiger para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
+- CEN D. Villares (sin equipo): VIGILAR por 2.079.968 EUR; Puede servir si mejora titularidad/precio.
+  Precio: 2.079.968 EUR | valor: 2.079.694 EUR | score interno: 63.
+  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de D. Villares para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
 - POR Marrero (sin equipo): VIGILAR por 943.972 EUR; Puede servir si mejora titularidad/precio.
   Precio: 943.972 EUR | valor: 943.828 EUR | score interno: 60.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Marrero para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
@@ -501,14 +502,14 @@ Situacion: puesto 3/12, a 3 del lider.
 
 Situacion: puesto 3/10, a 35 del lider.
 
+- POR Ryan (sin equipo): MIRAR por 13.397.730 EUR; Ya hay portero fiable; solo interesa si quieres segundo portero.
+  Precio: 13.397.730 EUR | valor: 13.369.964 EUR | score interno: 84.
+  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Ryan para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
 - POR Joan García (sin equipo): MIRAR por 71.467.652 EUR; Ya hay portero fiable; solo interesa si quieres segundo portero.
   Precio: 71.467.652 EUR | valor: 71.347.095 EUR | score interno: 82.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Joan García para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
-- POR Ryan (sin equipo): MIRAR por 13.397.730 EUR; Ya hay portero fiable; solo interesa si quieres segundo portero.
-  Precio: 13.397.730 EUR | valor: 13.369.964 EUR | score interno: 75.
-  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Ryan para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
 - DEL Etta Eyong (sin equipo): SOLO SI ES CLARO por 22.549.120 EUR; Consume demasiado saldo para una recomendacion automatica.
-  Precio: 22.549.120 EUR | valor: 22.549.120 EUR | score interno: 72.
+  Precio: 22.549.120 EUR | valor: 22.549.120 EUR | score interno: 73.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Etta Eyong para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
 - DEL Iago Aspas (sin equipo): SOLO SI ESTA BARATO por 6.529.303 EUR; Interesante, pero conviene verificar titularidad.
   Precio: 6.529.303 EUR | valor: 6.529.303 EUR | score interno: 79.
@@ -519,6 +520,9 @@ Situacion: puesto 3/10, a 35 del lider.
 - DEL Robbie Ure (sin equipo): VIGILAR por 12.471.439 EUR; Puede servir si mejora titularidad/precio.
   Precio: 12.471.439 EUR | valor: 12.445.215 EUR | score interno: 64.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Robbie Ure para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
+- DEL Hugo Duro (sin equipo): SOLO SI ESTA BARATO por 8.291.774 EUR; Interesante, pero conviene verificar titularidad.
+  Precio: 8.291.774 EUR | valor: 8.291.774 EUR | score interno: 76.
+  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Hugo Duro para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
 - DEF Javi Rueda (sin equipo): SOLO SI ESTA BARATO por 4.281.263 EUR; Interesante, pero conviene verificar titularidad.
   Precio: 4.281.263 EUR | valor: 4.277.283 EUR | score interno: 74.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Javi Rueda para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
@@ -528,19 +532,16 @@ Situacion: puesto 3/10, a 35 del lider.
 - DEF Pau Navarro (sin equipo): SOLO SI ESTA BARATO por 7.383.917 EUR; Interesante, pero conviene verificar titularidad.
   Precio: 7.383.917 EUR | valor: 7.383.917 EUR | score interno: 69.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Pau Navarro para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
+- CEN Bardeli (sin equipo): VIGILAR por 3.357.629 EUR; Puede servir si mejora titularidad/precio.
+  Precio: 3.357.629 EUR | valor: 3.355.940 EUR | score interno: 66.
+  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Bardeli para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
 - DEL Ibra Drj (sin equipo): VIGILAR por 599.658 EUR; Puede servir si mejora titularidad/precio.
   Precio: 599.658 EUR | valor: 598.914 EUR | score interno: 66.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Ibra Drj para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
-- DEF Barzic (sin equipo): VIGILAR por 691.575 EUR; Puede servir si mejora titularidad/precio.
-  Precio: 691.575 EUR | valor: 690.831 EUR | score interno: 65.
-  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Barzic para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
-- DEL B. Iglesias (sin equipo): SOLO SI ES CLARO por 24.731.038 EUR; Consume demasiado saldo para una recomendacion automatica.
-  Precio: 24.731.038 EUR | valor: 24.703.127 EUR | score interno: 56.
-  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de B. Iglesias para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
 
 ## Los Mastuerzos
 
-Situacion: puesto 5/10, a 31 del lider.
+Situacion: puesto 6/10, a 31 del lider.
 
 - DEL Oyarzabal (sin equipo): MIRAR por 63.687.464 EUR; No entra en saldo actual sin ventas.
   Precio: 63.687.464 EUR | valor: 63.018.935 EUR | score interno: 57.
@@ -555,7 +556,7 @@ Situacion: puesto 5/10, a 31 del lider.
   Precio: 660.021 EUR | valor: 649.881 EUR | score interno: 55.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Iñigo para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Mastuerzos. No ejecutes acciones: solo aconseja.
 - CEN Asp Jensen (sin equipo): MIRAR por 6.256.201 EUR; No entra en saldo actual sin ventas.
-  Precio: 6.256.201 EUR | valor: 6.239.024 EUR | score interno: 52.
+  Precio: 6.256.201 EUR | valor: 6.239.024 EUR | score interno: 48.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Asp Jensen para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Mastuerzos. No ejecutes acciones: solo aconseja.
 - DEF Junior (sin equipo): SOLO SI ES CLARO por 3.006.142 EUR; Consume demasiado saldo para una recomendacion automatica.
   Precio: 3.006.142 EUR | valor: 2.926.867 EUR | score interno: 45.
@@ -582,8 +583,8 @@ Usa esta cola. Busca en internet noticias recientes, onces probables, rol previs
 
 # Informe Inteligente Ligas Fantasy
 
-Generado: 24/8/26, 20:54
-Datos API: 24/8/26, 20:54
+Generado: 24/8/26, 21:38
+Datos API: 24/8/26, 21:38
 Semana actual: 2
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -595,7 +596,7 @@ Semana actual: 2
 - Saldo: 34.111.397 EUR
 - Valor plantilla: 204.173.521 EUR
 - Inversion/pujas comprometidas detectadas: 72.857.799 EUR
-- Liga: puesto 3/12, 58 puntos, a 3 del lider (Rubio 05)
+- Liga: puesto 3/12, 58 puntos, a 3 del lider (diegomalmol12)
 - Ranking por valor de plantilla: 2/12
 - Plantilla: 15 jugadores
 - Mercado jugable: 13
@@ -656,10 +657,10 @@ Formacion: 4-4-2 | puntuacion interna 870
 
 ### Vigilar
 
+- MIRAR: POR Sergio Herrera | score 76 | precio 36.946.516 EUR | valor 36.938.296 EUR | puja 37.020.410 EUR | max 37.500.714 EUR | pujas 0 | caduca 25/8/26, 12:46 | base: pts actuales 8 (peso bajo), media 8, pts temp ant 217, valor 36.938.296 EUR | Ya hay portero fiable; solo interesa si quieres segundo portero
 - MIRAR: CEN Valverde | score 72 | precio 72.882.912 EUR | valor 72.857.790 EUR | puja 73.976.156 EUR | max 75.772.102 EUR | pujas 1 | caduca 25/8/26, 12:46 | base: pts actuales 6 (peso bajo), media 6, pts temp ant 249, valor 72.857.790 EUR | No entra en saldo actual sin ventas
 - MIRAR: DEF Gerard Martín | score 67 | precio 39.508.746 EUR | valor 39.492.824 EUR | puja 40.101.378 EUR | max 41.072.537 EUR | pujas 1 | caduca 25/8/26, 12:46 | base: pts actuales 10 (peso bajo), media 10, pts temp ant 161, valor 39.492.824 EUR | No entra en saldo actual sin ventas
-- VIGILAR: CEN D. Villares | score 65 | precio 2.079.968 EUR | valor 2.079.694 EUR | puja 2.084.128 EUR | max 2.111.168 EUR | pujas 0 | caduca 25/8/26, 12:46 | base: pts actuales 2 (peso bajo), media 2, valor 2.079.694 EUR | Puede servir si mejora titularidad/precio
-- MIRAR: POR Sergio Herrera | score 62 | precio 36.946.516 EUR | valor 36.938.296 EUR | puja 37.020.410 EUR | max 37.500.714 EUR | pujas 0 | caduca 25/8/26, 12:46 | base: pts actuales 1 (peso bajo), media 1, pts temp ant 217, valor 36.938.296 EUR | Ya hay portero fiable; solo interesa si quieres segundo portero
+- VIGILAR: CEN D. Villares | score 63 | precio 2.079.968 EUR | valor 2.079.694 EUR | puja 2.084.128 EUR | max 2.111.168 EUR | pujas 0 | caduca 25/8/26, 12:46 | base: pts actuales 2 (peso bajo), media 1, valor 2.079.694 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: POR Marrero | score 60 | precio 943.972 EUR | valor 943.828 EUR | puja 945.860 EUR | max 958.132 EUR | pujas 0 | caduca 25/8/26, 12:46 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 8, valor 943.828 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: POR Swiderski | score 59 | precio 543.485 EUR | valor 543.347 EUR | puja 544.572 EUR | max 551.638 EUR | pujas 0 | caduca 25/8/26, 12:46 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 0, valor 543.347 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: DEF Xanet Olaiz | score 58 | precio 543.485 EUR | valor 543.347 EUR | puja 544.572 EUR | max 551.638 EUR | pujas 0 | caduca 25/8/26, 12:46 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 0, valor 543.347 EUR | Puede servir si mejora titularidad/precio
@@ -671,10 +672,10 @@ Formacion: 4-4-2 | puntuacion interna 870
 
 ### Vender O Liberar Hueco
 
-- VENDER/USAR COMO HUECO: CEN Iker Muñoz | valor 1.187.249 EUR | score 40 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 55, valor 1.187.249 EUR | fuera del XI recomendado
-- VENDER/USAR COMO HUECO: DEL R. Brugué | valor 1.763.949 EUR | score 44 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 53, valor 1.763.949 EUR | fuera del XI recomendado
 - VIGILAR: DEL Oyarzabal | valor 63.018.935 EUR | score 47 | base: pts actuales 2 (peso bajo), media 2, valor 63.018.935 EUR | fuera del XI recomendado, valor alto para poca seguridad
 - VIGILAR: CEN Martim Neto | valor 1.653.565 EUR | score 55 | base: pts actuales 5 (peso bajo), media 2.5, pts temp ant 125, valor 1.653.565 EUR | fuera del XI recomendado
+- VIGILAR: DEL R. Brugué | valor 1.763.949 EUR | score 55 | base: pts actuales 4 (peso bajo), media 4, pts temp ant 53, valor 1.763.949 EUR | fuera del XI recomendado
+- VIGILAR: CEN Iker Muñoz | valor 1.187.249 EUR | score 56 | base: pts actuales 6 (peso bajo), media 6, pts temp ant 55, valor 1.187.249 EUR | fuera del XI recomendado
 
 ## Fantasmas League
 
@@ -684,7 +685,7 @@ Formacion: 4-4-2 | puntuacion interna 870
 - Liga: puesto 3/10, 73 puntos, a 35 del lider (Archiking)
 - Ranking por valor de plantilla: 6/10
 - Plantilla: 14 jugadores
-- Mercado jugable: 24
+- Mercado jugable: 26
 
 ### Alertas
 
@@ -714,14 +715,14 @@ Formacion guardada: 3-5-2
 
 ### Once Recomendado Preliminar
 
-Formacion: 3-5-2 | puntuacion interna 825
+Formacion: 3-5-2 | puntuacion interna 816
 - POR Remiro | Real Sociedad | score 100 | fuerte por memoria + datos | base: pts actuales 8 (peso bajo), media 8, pts temp ant 188, valor 40.355.184 EUR, memoria core
 - DEF Huijsen | Real Madrid | score 93 | fuerte por memoria + datos | base: pts actuales 5 (peso bajo), media 5, pts temp ant 169, valor 39.252.353 EUR, memoria core
 - DEF Djene | Getafe CF | score 72 | buen candidato | base: pts actuales 14 (peso bajo), media 7, pts temp ant 142, valor 9.889.886 EUR
 - DEF Koski | Deportivo Alavés | score 67 | util por memoria | base: pts actuales 12 (peso bajo), media 6, pts temp ant 23, valor 1.690.987 EUR, memoria keep
-- CEN Mario Soriano | RC Deportivo | score 79 | fuerte por memoria + datos | base: pts actuales 6 (peso bajo), media 6, valor 28.955.408 EUR, memoria core, venta protegida
+- CEN Mario Soriano | RC Deportivo | score 72 | fuerte por memoria + datos | base: pts actuales 6 (peso bajo), media 3, valor 28.955.408 EUR, memoria core, venta protegida
 - CEN Germán V. | Elche CF | score 69 | fuerte por memoria + datos | base: pts actuales 4 (peso bajo), media 2, valor 20.938.838 EUR, memoria core, venta protegida
-- CEN Izan M. | Málaga CF | score 67 | fuerte por memoria + datos | base: pts actuales 2 (peso bajo), media 2, valor 5.492.332 EUR, memoria core, venta protegida
+- CEN Izan M. | Málaga CF | score 65 | fuerte por memoria + datos | base: pts actuales 2 (peso bajo), media 1, valor 5.492.332 EUR, memoria core, venta protegida
 - CEN Agoumé | Sevilla FC | score 64 | buen candidato | base: pts actuales 10 (peso bajo), media 5, pts temp ant 133, valor 5.688.045 EUR
 - CEN R. Terrats | Getafe CF | score 61 | duda/rotacion | base: pts actuales 11 (peso bajo), media 5.5, pts temp ant 87, valor 3.512.950 EUR
 - DEL Ángel Pérez | Deportivo Alavés | score 92 | fuerte por memoria + datos | base: pts actuales 12 (peso bajo), media 6, pts temp ant 80, valor 7.030.249 EUR, memoria core, venta protegida
@@ -739,25 +740,26 @@ Formacion: 3-5-2 | puntuacion interna 825
 ### Solo Si Esta Barato
 
 - SOLO SI ESTA BARATO: DEL Iago Aspas | score 79 | precio 6.529.303 EUR | valor 6.529.303 EUR | puja 6.542.362 EUR | max 6.627.243 EUR | ofertas 0 | vende Rafishh | caduca 27/8/26, 16:01 | base: pts actuales 2 (peso bajo), media 2, pts temp ant 141, valor 6.529.303 EUR | Interesante, pero conviene verificar titularidad
+- SOLO SI ESTA BARATO: DEL Hugo Duro | score 76 | precio 8.291.774 EUR | valor 8.291.774 EUR | puja 8.308.358 EUR | max 8.416.151 EUR | ofertas 0 | vende alemois | caduca 27/8/26, 21:16 | base: pts actuales 1 (peso bajo), media 1, pts temp ant 134, valor 8.291.774 EUR | Interesante, pero conviene verificar titularidad
 - SOLO SI ESTA BARATO: DEF Javi Rueda | score 74 | precio 4.281.263 EUR | valor 4.277.283 EUR | puja 4.289.826 EUR | max 4.345.482 EUR | pujas 0 | caduca 25/8/26, 10:53 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 132, valor 4.277.283 EUR | Interesante, pero conviene verificar titularidad
-- SOLO SI ES CLARO: DEL Etta Eyong | score 72 | precio 22.549.120 EUR | valor 22.549.120 EUR | puja 22.594.219 EUR | max 22.887.357 EUR | ofertas 0 | vende Rafishh | caduca 27/8/26, 16:01 | base: pts actuales 1 (peso bajo), media 0.5, pts temp ant 133, valor 22.549.120 EUR | Consume demasiado saldo para una recomendacion automatica
+- SOLO SI ES CLARO: DEL Etta Eyong | score 73 | precio 22.549.120 EUR | valor 22.549.120 EUR | puja 22.594.219 EUR | max 22.887.357 EUR | ofertas 0 | vende Rafishh | caduca 27/8/26, 16:01 | base: pts actuales 2 (peso bajo), media 1, pts temp ant 133, valor 22.549.120 EUR | Consume demasiado saldo para una recomendacion automatica
 - SOLO SI ESTA BARATO: DEF Pau Navarro | score 69 | precio 7.383.917 EUR | valor 7.383.917 EUR | puja 7.398.685 EUR | max 7.494.676 EUR | ofertas 0 | vende Rafishh | caduca 27/8/26, 16:01 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 89, valor 7.383.917 EUR | Interesante, pero conviene verificar titularidad
 - SOLO SI ES CLARO: DEL B. Iglesias | score 56 | precio 24.731.038 EUR | valor 24.703.127 EUR | puja 24.780.501 EUR | max 25.102.004 EUR | pujas 0 | caduca 25/8/26, 10:53 | base: pts actuales 0 (peso bajo), media 0, valor 24.703.127 EUR | Consume demasiado saldo para una recomendacion automatica
 
 ### Vigilar
 
+- MIRAR: POR Ryan | score 84 | precio 13.397.730 EUR | valor 13.369.964 EUR | puja 13.866.651 EUR | max 14.469.549 EUR | pujas 2 | caduca 25/8/26, 10:53 | base: pts actuales 19 (peso bajo), media 9.5, pts temp ant 229, valor 13.369.964 EUR | Ya hay portero fiable; solo interesa si quieres segundo portero
 - MIRAR: POR Joan García | score 82 | precio 71.467.652 EUR | valor 71.347.095 EUR | puja 71.610.588 EUR | max 72.539.667 EUR | pujas 0 | caduca 25/8/26, 10:53 | base: pts actuales 12 (peso bajo), media 12, pts temp ant 258, valor 71.347.095 EUR | Ya hay portero fiable; solo interesa si quieres segundo portero
-- MIRAR: POR Ryan | score 75 | precio 13.397.730 EUR | valor 13.369.964 EUR | puja 13.866.651 EUR | max 14.469.549 EUR | pujas 2 | caduca 25/8/26, 10:53 | base: pts actuales 8 (peso bajo), media 4, pts temp ant 229, valor 13.369.964 EUR | Ya hay portero fiable; solo interesa si quieres segundo portero
 - VIGILAR: DEL Ibra Drj | score 66 | precio 599.658 EUR | valor 598.914 EUR | puja 600.858 EUR | max 608.653 EUR | pujas 0 | caduca 25/8/26, 10:53 | base: pts actuales 0 (peso bajo), media 0, valor 598.914 EUR | Puede servir si mejora titularidad/precio
+- VIGILAR: CEN Bardeli | score 66 | precio 3.357.629 EUR | valor 3.355.940 EUR | puja 3.364.345 EUR | max 3.407.994 EUR | pujas 0 | caduca 25/8/26, 10:53 | base: pts actuales 6 (peso bajo), media 6, valor 3.355.940 EUR | Puede servir si mejora titularidad/precio
 - MIRAR: DEF Kounde | score 65 | precio 39.058.979 EUR | valor 38.992.764 EUR | puja 39.137.097 EUR | max 39.644.864 EUR | pujas 0 | caduca 25/8/26, 10:53 | base: pts actuales 2 (peso bajo), media 2, pts temp ant 154, valor 38.992.764 EUR | No entra en saldo actual sin ventas
 - VIGILAR: DEF Barzic | score 65 | precio 691.575 EUR | valor 690.831 EUR | puja 692.959 EUR | max 701.949 EUR | pujas 0 | caduca 25/8/26, 10:53 | base: pts actuales 0 (peso bajo), media 0, valor 690.831 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: DEL Robbie Ure | score 64 | precio 12.471.439 EUR | valor 12.445.215 EUR | puja 12.907.940 EUR | max 13.469.155 EUR | pujas 1 | caduca 25/8/26, 10:53 | base: pts actuales 6 (peso bajo), media 3, valor 12.445.215 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: POR Szczesny | score 61 | precio 1.942.994 EUR | valor 1.942.994 EUR | puja 1.946.880 EUR | max 1.972.139 EUR | ofertas 0 | vende Rafishh | caduca 27/8/26, 15:33 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 41, valor 1.942.994 EUR | Puede servir si mejora titularidad/precio
-- VIGILAR: POR Lunin | score 61 | precio 1.872.911 EUR | valor 1.872.911 EUR | puja 1.876.657 EUR | max 1.901.005 EUR | ofertas 0 | vende Rafishh | caduca 27/8/26, 15:33 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 39, valor 1.872.911 EUR | Puede servir si mejora titularidad/precio
 
 ### Evitar
 
-- EVITAR: DEF Ximo Navarro | score 39 | precio 10.000.000 EUR | valor 5.258.464 EUR | No pujar salvo que lo revisemos manualmente | ofertas 1 | vende West Jamon C.F.D. | caduca 26/8/26, 22:54 | base: pts actuales 2 (peso bajo), media 2, valor 5.258.464 EUR | Sobreprecio del 90%
+- EVITAR: DEF Ximo Navarro | score 37 | precio 10.000.000 EUR | valor 5.258.464 EUR | No pujar salvo que lo revisemos manualmente | ofertas 1 | vende West Jamon C.F.D. | caduca 26/8/26, 22:54 | base: pts actuales 2 (peso bajo), media 1, valor 5.258.464 EUR | Sobreprecio del 90%
 - EVITAR: DEF Pastor | score 36 | precio 800.000 EUR | valor 380.861 EUR | No pujar salvo que lo revisemos manualmente | ofertas 1 | vende Gabriele28 | caduca 26/8/26, 12:25 | base: pts actuales 0 (peso bajo), media 0, valor 380.861 EUR | Poco valor para esta plantilla
 - EVITAR: DEL Yeremay | score 15 | precio 60.000.000 EUR | valor 42.842.468 EUR | No pujar salvo que lo revisemos manualmente | ofertas 0 | vende West Jamon C.F.D. | caduca 27/8/26, 12:41 | doubtful | base: pts actuales 0 (peso bajo), media 0, valor 42.842.468 EUR, estado doubtful | Sobreprecio del 40%
 - EVITAR: DEF Yuri | score 12 | precio 12.326.369 EUR | valor 11.818.500 EUR | No pujar: suspended | ofertas 0 | vende Mynavo Kyiv | caduca 25/8/26, 19:39 | suspended | base: pts actuales -2 (peso bajo), media -2, pts temp ant 163, valor 11.818.500 EUR, estado suspended | Estado suspended
@@ -767,7 +769,7 @@ Formacion: 3-5-2 | puntuacion interna 825
 ### Vender O Liberar Hueco
 
 - VENDER SI NO COMPENSA ESPERAR: DEL Isi | valor 19.332.322 EUR | score 11 | base: pts actuales 5 (peso bajo), media 2.5, pts temp ant 139, valor 19.332.322 EUR, estado injured | estado injured, fuera del XI recomendado, valor alto para poca seguridad
-- VIGILAR: CEN D. Villares | valor 2.079.694 EUR | score 52 | base: pts actuales 2 (peso bajo), media 2, valor 2.079.694 EUR, memoria keep | fuera del XI recomendado, mantener salvo mejora clara
+- VIGILAR: CEN D. Villares | valor 2.079.694 EUR | score 50 | base: pts actuales 2 (peso bajo), media 1, valor 2.079.694 EUR, memoria keep | fuera del XI recomendado, mantener salvo mejora clara
 - VIGILAR: DEL Iñigo Vicente | valor 20.696.780 EUR | score 59 | base: pts actuales 12 (peso bajo), media 6, valor 20.696.780 EUR | fuera del XI recomendado
 
 ## Los Mastuerzos
@@ -775,7 +777,7 @@ Formacion: 3-5-2 | puntuacion interna 825
 - Saldo: 3.390.829 EUR
 - Valor plantilla: 230.736.483 EUR
 - Inversion/pujas comprometidas detectadas: 0 EUR
-- Liga: puesto 5/10, 62 puntos, a 31 del lider (Tomy2302)
+- Liga: puesto 6/10, 62 puntos, a 31 del lider (Tomy2302)
 - Ranking por valor de plantilla: 2/10
 - Plantilla: 12 jugadores
 - Mercado jugable: 12
@@ -808,18 +810,18 @@ Formacion guardada: 4-4-2
 
 ### Once Recomendado Preliminar
 
-Formacion: 4-4-2 | puntuacion interna 844
+Formacion: 4-4-2 | puntuacion interna 839
 - POR David Soria | Getafe CF | score 100 | fuerte por memoria + datos | base: pts actuales 19 (peso bajo), media 9.5, pts temp ant 249, valor 24.103.158 EUR, memoria core
 - DEF Sergio Gómez | Real Sociedad | score 85 | fuerte por memoria + datos | base: pts actuales 2 (peso bajo), media 2, pts temp ant 173, valor 16.949.363 EUR, memoria core
-- DEF C. Puga | Málaga CF | score 72 | fuerte por memoria + datos | base: pts actuales 4 (peso bajo), media 4, valor 4.941.328 EUR, memoria core, venta protegida
 - DEF Javi Rodríguez | Celta | score 71 | buen candidato | base: pts actuales 9 (peso bajo), media 9, pts temp ant 132, valor 9.237.650 EUR
+- DEF C. Puga | Málaga CF | score 68 | fuerte por memoria + datos | base: pts actuales 4 (peso bajo), media 2, valor 4.941.328 EUR, memoria core, venta protegida
 - DEF Koski | Deportivo Alavés | score 67 | util por memoria | base: pts actuales 12 (peso bajo), media 6, pts temp ant 23, valor 1.690.987 EUR, memoria keep
 - CEN Valverde | Real Madrid | score 79 | muy fuerte por datos | base: pts actuales 6 (peso bajo), media 6, pts temp ant 249, valor 72.857.790 EUR
 - CEN Javi Guerra | Valencia CF | score 76 | fuerte por memoria + datos | base: pts actuales 5 (peso bajo), media 5, valor 24.586.243 EUR, memoria core, venta protegida
 - CEN R. Terrats | Getafe CF | score 73 | util por memoria | base: pts actuales 11 (peso bajo), media 5.5, pts temp ant 87, valor 3.512.950 EUR, memoria keep
 - CEN Germán V. | Elche CF | score 69 | fuerte por memoria + datos | base: pts actuales 4 (peso bajo), media 2, valor 20.938.838 EUR, memoria core
 - DEL Hugo Duro | Valencia CF | score 82 | fuerte por memoria + datos | base: pts actuales 1 (peso bajo), media 1, pts temp ant 134, valor 8.291.774 EUR, memoria core
-- DEL Chupe | Málaga CF | score 70 | fuerte por memoria + datos | base: pts actuales 1 (peso bajo), media 1, valor 42.960.128 EUR, memoria core, venta protegida
+- DEL Chupe | Málaga CF | score 69 | fuerte por memoria + datos | base: pts actuales 1 (peso bajo), media 0.5, valor 42.960.128 EUR, memoria core, venta protegida
 
 ### Cambios De Once
 
@@ -838,8 +840,8 @@ Formacion: 4-4-2 | puntuacion interna 844
 - MIRAR: DEL Oyarzabal | score 57 | precio 63.687.464 EUR | valor 63.018.935 EUR | puja 63.814.839 EUR | max 64.642.776 EUR | pujas 0 | caduca 24/8/26, 22:10 | base: pts actuales 2 (peso bajo), media 2, valor 63.018.935 EUR | No entra en saldo actual sin ventas
 - VIGILAR: DEF Iñigo | score 55 | precio 660.021 EUR | valor 649.881 EUR | puja 661.342 EUR | max 669.922 EUR | pujas 0 | caduca 24/8/26, 22:10 | base: pts actuales 0 (peso bajo), media 0, valor 649.881 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: DEF Julio Díaz | score 55 | precio 443.297 EUR | valor 441.826 EUR | puja 469.895 EUR | max 486.009 EUR | pujas 1 | caduca 24/8/26, 22:10 | base: pts actuales 2 (peso bajo), media 1, pts temp ant 22, valor 441.826 EUR | Puede servir si mejora titularidad/precio
-- MIRAR: CEN Asp Jensen | score 52 | precio 6.256.201 EUR | valor 6.239.024 EUR | puja 6.268.714 EUR | max 6.350.045 EUR | pujas 0 | caduca 24/8/26, 22:10 | base: pts actuales 5 (peso bajo), media 5, valor 6.239.024 EUR | No entra en saldo actual sin ventas
 - MIRAR: DEF Sangante | score 51 | precio 9.304.485 EUR | valor 9.590.798 EUR | puja 9.630.142 EUR | max 10.048.844 EUR | pujas 1 | caduca 24/8/26, 22:10 | base: pts actuales 13 (peso bajo), media 6.5, valor 9.590.798 EUR | No entra en saldo actual sin ventas
+- MIRAR: CEN Asp Jensen | score 48 | precio 6.256.201 EUR | valor 6.239.024 EUR | puja 6.268.714 EUR | max 6.350.045 EUR | pujas 0 | caduca 24/8/26, 22:10 | base: pts actuales 5 (peso bajo), media 2.5, valor 6.239.024 EUR | No entra en saldo actual sin ventas
 - MIRAR: DEF Rego | score 40 | precio 4.224.065 EUR | valor 4.099.763 EUR | puja 4.232.514 EUR | max 4.287.426 EUR | pujas 0 | caduca 24/8/26, 22:10 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 69, valor 4.099.763 EUR | No entra en saldo actual sin ventas
 - MIRAR: DEF J. M. Giménez | score 38 | precio 4.005.307 EUR | valor 3.912.084 EUR | puja 4.245.626 EUR | max 4.303.293 EUR | pujas 1 | caduca 24/8/26, 22:10 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 89, valor 3.912.084 EUR | No entra en saldo actual sin ventas
 - MIRAR: DEF Faye | score 34 | precio 3.954.593 EUR | valor 3.837.380 EUR | puja 3.962.503 EUR | max 4.013.912 EUR | pujas 0 | caduca 24/8/26, 22:10 | base: pts actuales 0 (peso bajo), media 0, valor 3.837.380 EUR | No entra en saldo actual sin ventas

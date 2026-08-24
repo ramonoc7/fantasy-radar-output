@@ -1,7 +1,7 @@
 # Cola diaria de noticias y titularidad
 
-Generada: 24/8/26, 20:54
-Datos Fantasy: 24/8/26, 20:54
+Generada: 24/8/26, 21:38
+Datos Fantasy: 24/8/26, 21:38
 
 Uso: esta es la lista corta que ChatGPT/Codex debe verificar en internet antes de cerrar pujas fuertes o el once. El radar solo aconseja; Ramon ejecuta todo manualmente.
 
@@ -15,6 +15,9 @@ Situacion: puesto 3/12, a 3 del lider.
 - CEN Valverde (sin equipo): MIRAR por 72.882.912 EUR; No entra en saldo actual sin ventas.
   Precio: 72.882.912 EUR | valor: 72.857.790 EUR | score interno: 72.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Valverde para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
+- POR Sergio Herrera (sin equipo): MIRAR por 36.946.516 EUR; Ya hay portero fiable; solo interesa si quieres segundo portero.
+  Precio: 36.946.516 EUR | valor: 36.938.296 EUR | score interno: 76.
+  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Sergio Herrera para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
 - DEF Gerard Martín (sin equipo): MIRAR por 39.508.746 EUR; No entra en saldo actual sin ventas.
   Precio: 39.508.746 EUR | valor: 39.492.824 EUR | score interno: 67.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Gerard Martín para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
@@ -24,15 +27,12 @@ Situacion: puesto 3/12, a 3 del lider.
 - CEN Mikel Rodriguez (Deportivo Alavés): Entra en el once recomendado pero no esta guardado ahora.
   Precio: 1.456.096 EUR | valor: 1.456.096 EUR | score interno: 56.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Mikel Rodriguez Deportivo Alavés para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
-- POR Sergio Herrera (sin equipo): MIRAR por 36.946.516 EUR; Ya hay portero fiable; solo interesa si quieres segundo portero.
-  Precio: 36.946.516 EUR | valor: 36.938.296 EUR | score interno: 62.
-  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Sergio Herrera para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
-- CEN D. Villares (sin equipo): VIGILAR por 2.079.968 EUR; Puede servir si mejora titularidad/precio.
-  Precio: 2.079.968 EUR | valor: 2.079.694 EUR | score interno: 65.
-  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de D. Villares para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
 - DEF Rüdiger (sin equipo): SOLO SI ES CLARO por 29.476.040 EUR; Consume demasiado saldo para una recomendacion automatica.
   Precio: 29.476.040 EUR | valor: 29.469.157 EUR | score interno: 56.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Rüdiger para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
+- CEN D. Villares (sin equipo): VIGILAR por 2.079.968 EUR; Puede servir si mejora titularidad/precio.
+  Precio: 2.079.968 EUR | valor: 2.079.694 EUR | score interno: 63.
+  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de D. Villares para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
 - POR Marrero (sin equipo): VIGILAR por 943.972 EUR; Puede servir si mejora titularidad/precio.
   Precio: 943.972 EUR | valor: 943.828 EUR | score interno: 60.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Marrero para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
@@ -50,14 +50,14 @@ Situacion: puesto 3/12, a 3 del lider.
 
 Situacion: puesto 3/10, a 35 del lider.
 
+- POR Ryan (sin equipo): MIRAR por 13.397.730 EUR; Ya hay portero fiable; solo interesa si quieres segundo portero.
+  Precio: 13.397.730 EUR | valor: 13.369.964 EUR | score interno: 84.
+  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Ryan para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
 - POR Joan García (sin equipo): MIRAR por 71.467.652 EUR; Ya hay portero fiable; solo interesa si quieres segundo portero.
   Precio: 71.467.652 EUR | valor: 71.347.095 EUR | score interno: 82.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Joan García para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
-- POR Ryan (sin equipo): MIRAR por 13.397.730 EUR; Ya hay portero fiable; solo interesa si quieres segundo portero.
-  Precio: 13.397.730 EUR | valor: 13.369.964 EUR | score interno: 75.
-  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Ryan para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
 - DEL Etta Eyong (sin equipo): SOLO SI ES CLARO por 22.549.120 EUR; Consume demasiado saldo para una recomendacion automatica.
-  Precio: 22.549.120 EUR | valor: 22.549.120 EUR | score interno: 72.
+  Precio: 22.549.120 EUR | valor: 22.549.120 EUR | score interno: 73.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Etta Eyong para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
 - DEL Iago Aspas (sin equipo): SOLO SI ESTA BARATO por 6.529.303 EUR; Interesante, pero conviene verificar titularidad.
   Precio: 6.529.303 EUR | valor: 6.529.303 EUR | score interno: 79.
@@ -68,6 +68,9 @@ Situacion: puesto 3/10, a 35 del lider.
 - DEL Robbie Ure (sin equipo): VIGILAR por 12.471.439 EUR; Puede servir si mejora titularidad/precio.
   Precio: 12.471.439 EUR | valor: 12.445.215 EUR | score interno: 64.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Robbie Ure para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
+- DEL Hugo Duro (sin equipo): SOLO SI ESTA BARATO por 8.291.774 EUR; Interesante, pero conviene verificar titularidad.
+  Precio: 8.291.774 EUR | valor: 8.291.774 EUR | score interno: 76.
+  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Hugo Duro para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
 - DEF Javi Rueda (sin equipo): SOLO SI ESTA BARATO por 4.281.263 EUR; Interesante, pero conviene verificar titularidad.
   Precio: 4.281.263 EUR | valor: 4.277.283 EUR | score interno: 74.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Javi Rueda para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
@@ -77,19 +80,16 @@ Situacion: puesto 3/10, a 35 del lider.
 - DEF Pau Navarro (sin equipo): SOLO SI ESTA BARATO por 7.383.917 EUR; Interesante, pero conviene verificar titularidad.
   Precio: 7.383.917 EUR | valor: 7.383.917 EUR | score interno: 69.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Pau Navarro para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
+- CEN Bardeli (sin equipo): VIGILAR por 3.357.629 EUR; Puede servir si mejora titularidad/precio.
+  Precio: 3.357.629 EUR | valor: 3.355.940 EUR | score interno: 66.
+  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Bardeli para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
 - DEL Ibra Drj (sin equipo): VIGILAR por 599.658 EUR; Puede servir si mejora titularidad/precio.
   Precio: 599.658 EUR | valor: 598.914 EUR | score interno: 66.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Ibra Drj para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
-- DEF Barzic (sin equipo): VIGILAR por 691.575 EUR; Puede servir si mejora titularidad/precio.
-  Precio: 691.575 EUR | valor: 690.831 EUR | score interno: 65.
-  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Barzic para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
-- DEL B. Iglesias (sin equipo): SOLO SI ES CLARO por 24.731.038 EUR; Consume demasiado saldo para una recomendacion automatica.
-  Precio: 24.731.038 EUR | valor: 24.703.127 EUR | score interno: 56.
-  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de B. Iglesias para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
 
 ## Los Mastuerzos
 
-Situacion: puesto 5/10, a 31 del lider.
+Situacion: puesto 6/10, a 31 del lider.
 
 - DEL Oyarzabal (sin equipo): MIRAR por 63.687.464 EUR; No entra en saldo actual sin ventas.
   Precio: 63.687.464 EUR | valor: 63.018.935 EUR | score interno: 57.
@@ -104,7 +104,7 @@ Situacion: puesto 5/10, a 31 del lider.
   Precio: 660.021 EUR | valor: 649.881 EUR | score interno: 55.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Iñigo para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Mastuerzos. No ejecutes acciones: solo aconseja.
 - CEN Asp Jensen (sin equipo): MIRAR por 6.256.201 EUR; No entra en saldo actual sin ventas.
-  Precio: 6.256.201 EUR | valor: 6.239.024 EUR | score interno: 52.
+  Precio: 6.256.201 EUR | valor: 6.239.024 EUR | score interno: 48.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Asp Jensen para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Mastuerzos. No ejecutes acciones: solo aconseja.
 - DEF Junior (sin equipo): SOLO SI ES CLARO por 3.006.142 EUR; Consume demasiado saldo para una recomendacion automatica.
   Precio: 3.006.142 EUR | valor: 2.926.867 EUR | score interno: 45.
