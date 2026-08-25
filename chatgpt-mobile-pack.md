@@ -1,10 +1,10 @@
 # ChatGPT Mobile Pack - Ligas Fantasy
 
-Actualizado: 2026-08-25T04:49:23.953Z
+Actualizado: 2026-08-25T05:41:39.351Z
 
 ## Fuente de verdad para informes
 
-Datos Fantasy actuales: 2026-08-25T04:49:23.953Z
+Datos Fantasy actuales: 2026-08-25T05:41:39.351Z
 
 Reglas obligatorias para ChatGPT:
 - Plantilla, saldo, mercado, pujas, actividad y once guardado actuales salen de este pack/radar, no de capturas antiguas ni memoria de conversaciones.
@@ -230,7 +230,7 @@ Prioridades:
 
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-25T04:49:23.953Z
+Datos API: 2026-08-25T05:41:39.351Z
 Semana actual: 3
 
 ## Objetivo
@@ -450,8 +450,8 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 # Cola diaria de noticias y titularidad
 
-Generada: 25/8/26, 6:49
-Datos Fantasy: 25/8/26, 6:49
+Generada: 25/8/26, 7:41
+Datos Fantasy: 25/8/26, 7:41
 
 Uso: esta es la lista corta que ChatGPT/Codex debe verificar en internet antes de cerrar pujas fuertes o el once. El radar solo aconseja; Ramon ejecuta todo manualmente.
 
@@ -581,8 +581,8 @@ Usa esta cola. Busca en internet noticias recientes, onces probables, rol previs
 
 # Informe Inteligente Ligas Fantasy
 
-Generado: 25/8/26, 6:49
-Datos API: 25/8/26, 6:49
+Generado: 25/8/26, 7:41
+Datos API: 25/8/26, 7:41
 Semana actual: 3
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
