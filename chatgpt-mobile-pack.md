@@ -1,10 +1,10 @@
 # ChatGPT Mobile Pack - Ligas Fantasy
 
-Actualizado: 2026-08-25T19:06:54.841Z
+Actualizado: 2026-08-25T19:10:16.869Z
 
 ## Fuente de verdad para informes
 
-Datos Fantasy actuales: 2026-08-25T19:06:54.841Z
+Datos Fantasy actuales: 2026-08-25T19:10:16.869Z
 
 Reglas obligatorias para ChatGPT:
 - Plantilla, saldo, mercado, pujas, actividad y once guardado actuales salen de este pack/radar, no de capturas antiguas ni memoria de conversaciones.
@@ -23,7 +23,7 @@ Formato obligatorio de cada informe de liga:
 3. XI recomendado actualizado: recalculado con fichajes, ventas, lesiones, sanciones y cambios de rol.
 4. Titularidad de tus jugadores separando proxima jornada y largo plazo con esta escala: 90-100 fijo, 75-89 alto, 50-74 duda, 20-49 bajo, 0-19 casi nulo.
 5. Peso real en su club: pieza clave, importante, rotacion, suplente o apuesta, con techo Fantasy y riesgo.
-6. Mercado completo ordenado del mejor fichaje al peor, no solo cinco nombres.
+6. Mercado completo ordenado del mejor fichaje al peor, mencionando literalmente todos los jugadores jugables nuevos/detectados en mercado, no solo cinco nombres.
 7. Para cada jugador relevante del mercado: titularidad proxima y largo plazo, peso, calidad Fantasy, precio, riesgo, competencia, caro/barato y puja maxima orientativa.
 8. Ranking de fichajes segun la plantilla concreta de esa liga.
 9. Que vender para financiar fichajes, si procede.
@@ -61,6 +61,23 @@ Mercado, mirar primero:
 - SOLO SI ES CLARO: DEL Peque | 2.628.990 EUR | 0 pujas | puja 2.634.248 EUR, max 2.668.425 EUR
 - SOLO SI ES CLARO: CEN Bellingham | 94.508.594 EUR | 0 pujas | puja 94.697.612 EUR, max 95.926.223 EUR
 
+Mercado completo detectado:
+- DEF Eric | precio 49.036.895 EUR | valor 48.988.995 EUR | SOLO SI ES CLARO | 1 pujas | estado ok | max 50.948.555 EUR
+- DEF Carreira | precio 6.426.769 EUR | valor 6.421.453 EUR | SOLO SI ES CLARO | 1 pujas | estado ok | max 6.940.911 EUR
+- DEL Pepe | precio 63.583.559 EUR | valor 63.526.855 EUR | SOLO SI ES CLARO | 0 pujas | estado ok | max 64.537.313 EUR
+- DEL Peque | precio 2.628.990 EUR | valor 2.626.538 EUR | SOLO SI ES CLARO | 0 pujas | estado ok | max 2.668.425 EUR
+- CEN Bellingham | precio 94.508.594 EUR | valor 94.432.072 EUR | SOLO SI ES CLARO | 0 pujas | estado ok | max 95.926.223 EUR
+- DEF Saba Sazonov | precio 994.889 EUR | valor 994.326 EUR | SOLO SI ES CLARO | 0 pujas | estado ok | max 1.009.813 EUR
+- CEN Rioja | precio 9.458.824 EUR | valor 9.458.824 EUR | SOLO SI ES CLARO | 0 ofertas | estado ok | max 9.600.707 EUR
+- CEN Sergio | precio 1.314.482 EUR | valor 1.312.515 EUR | SOLO SI ES CLARO | 1 pujas | estado ok | max 1.443.767 EUR
+- DEF Valentini | precio 965.525 EUR | valor 965.300 EUR | SOLO SI ES CLARO | 0 pujas | estado ok | max 980.008 EUR
+- DEL Umaru | precio 678.390 EUR | valor 678.166 EUR | SOLO SI ES CLARO | 0 pujas | estado ok | max 688.566 EUR
+- CEN H. González | precio 1.245.640 EUR | valor 1.245.342 EUR | SOLO SI ES CLARO | 0 pujas | estado ok | max 1.264.325 EUR
+- DEL Kike García | precio 2.637.726 EUR | valor 2.637.366 EUR | EVITAR | 0 pujas | estado injured
+- DEF Vivian | precio 8.100.597 EUR | valor 8.100.597 EUR | EVITAR | 0 ofertas | estado injured
+- DEF V. Rosier | precio 5.000.000 EUR | valor 4.233.482 EUR | EVITAR | 1 ofertas | estado injured
+- DEF Manuel Fernández | precio 396.748 EUR | valor 396.748 EUR | EVITAR | 0 ofertas | estado out_of_league
+
 Ventas / huecos:
 - VENDER PARA SALIR DE ROJO: POS0 Saldo negativo | 32.946.402 EUR
 - VIGILAR: DEL Oyarzabal | 62.106.491 EUR
@@ -86,6 +103,32 @@ Mercado, mirar primero:
 - SOLO SI ESTA BARATO: CEN Iker Muñoz | 1.167.383 EUR | 0 ofertas | puja 1.169.718 EUR, max 1.184.894 EUR
 - SOLO SI ES CLARO: DEL Etta Eyong | 22.549.120 EUR | 1 ofertas | puja 23.338.340 EUR, max 24.188.420 EUR
 
+Mercado completo detectado:
+- POR Ionut Radu | precio 35.842.835 EUR | valor 35.821.261 EUR | MIRAR | 1 pujas | estado ok | max 37.254.112 EUR
+- DEL Mikautadze | precio 68.270.452 EUR | valor 68.270.452 EUR | MIRAR | 0 ofertas | estado ok | max 69.294.509 EUR
+- DEL Iago Aspas | precio 6.529.303 EUR | valor 6.402.051 EUR | SOLO SI ESTA BARATO | 1 ofertas | estado ok | max 7.042.257 EUR
+- DEL Arnau Ortiz | precio 1.257.953 EUR | valor 1.257.387 EUR | SOLO SI ESTA BARATO | 0 pujas | estado ok | max 1.276.823 EUR
+- DEF D. Martínez | precio 532.266 EUR | valor 531.695 EUR | SOLO SI ESTA BARATO | 1 pujas | estado ok | max 584.865 EUR
+- CEN Iker Muñoz | precio 1.167.383 EUR | valor 1.167.383 EUR | SOLO SI ESTA BARATO | 0 ofertas | estado ok | max 1.184.894 EUR
+- DEF Johaneko | precio 1.308.444 EUR | valor 1.308.219 EUR | VIGILAR | 0 pujas | estado ok | max 1.328.071 EUR
+- DEL Nordin Al-Lal | precio 470.333 EUR | valor 470.108 EUR | VIGILAR | 0 pujas | estado ok | max 477.388 EUR
+- DEF Fran García | precio 11.671.750 EUR | valor 11.655.177 EUR | VIGILAR | 3 pujas | estado ok | max 12.605.490 EUR
+- DEL Sato | precio 12.491.735 EUR | valor 12.490.283 EUR | VIGILAR | 0 pujas | estado ok | max 12.679.112 EUR
+- DEL Etta Eyong | precio 22.549.120 EUR | valor 21.989.472 EUR | SOLO SI ES CLARO | 1 ofertas | estado ok | max 24.188.420 EUR
+- POR Marrero | precio 922.063 EUR | valor 921.826 EUR | VIGILAR | 0 pujas | estado ok | max 935.894 EUR
+- DEF Pau Navarro | precio 7.383.917 EUR | valor 7.164.926 EUR | VIGILAR | 1 ofertas | estado ok | max 7.881.419 EUR
+- POR Galdin | precio 590.150 EUR | valor 589.925 EUR | VIGILAR | 0 pujas | estado ok | max 599.003 EUR
+- POR Lunin | precio 1.872.911 EUR | valor 1.839.896 EUR | VIGILAR | 1 ofertas | estado ok | max 2.023.886 EUR
+- POR Courtois | precio 79.000.000 EUR | valor 66.285.191 EUR | MIRAR | 0 ofertas | estado ok | max 79.158.000 EUR
+- POR Szczesny | precio 1.942.994 EUR | valor 1.901.904 EUR | VIGILAR | 1 ofertas | estado ok | max 2.092.095 EUR
+- DEL Gordon | precio 66.803.630 EUR | valor 66.795.866 EUR | MIRAR | 0 pujas | estado ok | max 67.805.685 EUR
+- CEN G. Puerta | precio 14.504.993 EUR | valor 14.494.965 EUR | VIGILAR | 1 ofertas | estado ok | max 15.665.393 EUR
+- DEF Pastor | precio 800.000 EUR | valor 380.594 EUR | EVITAR | 1 ofertas | estado ok
+- DEL Lamine Yamal | precio 160.000.000 EUR | valor 127.169.397 EUR | MIRAR | 1 ofertas | estado ok | max 162.400.000 EUR
+- DEL Yeremay | precio 60.000.000 EUR | valor 41.761.399 EUR | EVITAR | 0 ofertas | estado ok
+- DEF F. Calero | precio 2.177.410 EUR | valor 2.177.084 EUR | EVITAR | 0 pujas | estado injured
+- DEF De Haas | precio 8.362.260 EUR | valor 8.095.417 EUR | EVITAR | 1 ofertas | estado injured
+
 Ventas / huecos:
 - VENDER SI NO COMPENSA ESPERAR: DEL Isi | 18.753.529 EUR
 - VIGILAR: CEN D. Villares | 2.026.972 EUR
@@ -108,6 +151,19 @@ Mercado, mirar primero:
 - SOLO SI ES CLARO: CEN P. Martínez | 7.813.597 EUR | 0 pujas | puja 7.829.225 EUR, max 7.930.801 EUR
 - MIRAR: DEL Iñaki Williams | 26.965.234 EUR | 0 pujas | puja 27.019.165 EUR, max 27.369.713 EUR
 - VIGILAR: DEL Alexis Ciria | 898.091 EUR | 0 pujas | puja 899.888 EUR, max 911.563 EUR
+
+Mercado completo detectado:
+- DEL Iñaki Williams | precio 26.965.234 EUR | valor 26.680.359 EUR | MIRAR | 0 pujas | estado ok | max 27.369.713 EUR
+- DEL Alexis Ciria | precio 898.091 EUR | valor 877.135 EUR | VIGILAR | 0 pujas | estado ok | max 911.563 EUR
+- DEF Nuñez | precio 5.606.954 EUR | valor 5.925.483 EUR | SOLO SI ES CLARO | 2 pujas | estado ok | max 6.055.511 EUR
+- DEF V. Chust | precio 5.620.791 EUR | valor 5.691.155 EUR | SOLO SI ES CLARO | 0 pujas | estado ok | max 5.705.103 EUR
+- DEF Cardoso | precio 711.418 EUR | valor 697.929 EUR | VIGILAR | 0 pujas | estado ok | max 722.090 EUR
+- DEF Bartra | precio 27.720.326 EUR | valor 28.485.752 EUR | MIRAR | 1 pujas | estado ok | max 29.937.953 EUR
+- DEF Barzic | precio 690.831 EUR | valor 678.166 EUR | VIGILAR | 0 pujas | estado ok | max 701.194 EUR
+- DEL Dubasin | precio 12.784.410 EUR | valor 12.432.713 EUR | MIRAR | 0 pujas | estado ok | max 12.976.177 EUR
+- CEN P. Martínez | precio 7.813.597 EUR | valor 7.608.711 EUR | SOLO SI ES CLARO | 0 pujas | estado ok | max 7.930.801 EUR
+- DEL Bardghji | precio 2.267.159 EUR | valor 2.197.205 EUR | EVITAR | 0 pujas | estado injured
+- CEN F. De Jong | precio 20.285.760 EUR | valor 19.651.386 EUR | EVITAR | 0 pujas | estado injured
 
 Ventas / huecos:
 - VIGILAR: DEF Pablo Ramón | 761.366 EUR
@@ -232,7 +288,7 @@ Prioridades:
 
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-25T19:06:54.841Z
+Datos API: 2026-08-25T19:10:16.869Z
 Semana actual: 3
 
 ## Objetivo
@@ -455,8 +511,8 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 # Cola diaria de noticias y titularidad
 
-Generada: 25/8/26, 21:06
-Datos Fantasy: 25/8/26, 21:06
+Generada: 25/8/26, 21:10
+Datos Fantasy: 25/8/26, 21:10
 
 Uso: esta es la lista corta que ChatGPT/Codex debe verificar en internet antes de cerrar pujas fuertes o el once. El radar solo aconseja; Ramon ejecuta todo manualmente.
 
@@ -577,8 +633,8 @@ Usa esta cola. Busca en internet noticias recientes, onces probables, rol previs
 
 # Informe Inteligente Ligas Fantasy
 
-Generado: 25/8/26, 21:06
-Datos API: 25/8/26, 21:06
+Generado: 25/8/26, 21:10
+Datos API: 25/8/26, 21:10
 Semana actual: 3
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
