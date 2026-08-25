@@ -1,6 +1,6 @@
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-25T01:48:08.305Z
+Datos API: 2026-08-25T03:08:55.552Z
 Semana actual: 3
 
 ## Objetivo
@@ -27,7 +27,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 ### Los Primacos
 
-- Saldo: 34.111.397 EUR
+- Saldo: 39.911.397 EUR
 - Valor plantilla: 207.029.221 EUR
 - Jugadores plantilla: 15
 - Mercado jugable: 13
@@ -91,7 +91,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 ### Fantasmas League
 
-- Saldo: 34.504.117 EUR
+- Saldo: 39.904.117 EUR
 - Valor plantilla: 207.764.192 EUR
 - Jugadores plantilla: 14
 - Mercado jugable: 26
@@ -161,7 +161,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 ### Los Mastuerzos
 
-- Saldo: 3.390.829 EUR
+- Saldo: 9.590.829 EUR
 - Valor plantilla: 230.293.575 EUR
 - Jugadores plantilla: 12
 - Mercado jugable: 11
