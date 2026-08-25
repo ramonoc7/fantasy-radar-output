@@ -1,6 +1,6 @@
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-25T09:47:30.855Z
+Datos API: 2026-08-25T10:44:42.892Z
 Semana actual: 3
 
 ## Objetivo
@@ -196,7 +196,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - DEL Alexis Ciria | precio 898.091 EUR | valor 877.360 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
 - DEL Iñaki Williams | precio 26.965.234 EUR | valor 26.691.201 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
 - DEF V. Chust | precio 5.620.791 EUR | valor 5.695.688 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
-- DEF Bartra | precio 27.720.326 EUR | valor 28.514.361 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
+- DEF Bartra | precio 27.720.326 EUR | valor 28.514.361 EUR | machine | pujas 1 | caduca 25/8/26, 22:10
 
 #### Baratos a revisar
 
@@ -206,7 +206,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 #### Premium a revisar
 
-- DEF Bartra | precio 27.720.326 EUR | valor 28.514.361 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
+- DEF Bartra | precio 27.720.326 EUR | valor 28.514.361 EUR | machine | pujas 1 | caduca 25/8/26, 22:10
 - DEL Iñaki Williams | precio 26.965.234 EUR | valor 26.691.201 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
 
 #### Alertas
