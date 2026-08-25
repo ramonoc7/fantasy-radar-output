@@ -1,7 +1,7 @@
 # Informe Inteligente Ligas Fantasy
 
-Generado: 25/8/26, 16:58
-Datos API: 25/8/26, 16:58
+Generado: 25/8/26, 17:54
+Datos API: 25/8/26, 17:54
 Semana actual: 3
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -106,12 +106,12 @@ Formacion: 4-4-2 | puntuacion interna 894
 - Liga: puesto 3/10, 79 puntos, a 34 del lider (Mynavo Kyiv)
 - Ranking por valor de plantilla: 6/10
 - Plantilla: 14 jugadores
-- Mercado jugable: 24
+- Mercado jugable: 25
 
 ### Alertas
 
 - Isi en plantilla aparece como injured.
-- 2 jugador(es) jugables caducan en menos de 8 horas.
+- 1 jugador(es) jugables caducan en menos de 8 horas.
 - 2 entrenador(es) ignorados por Premium.
 
 ### Situacion
@@ -161,29 +161,29 @@ Formacion: 3-5-2 | puntuacion interna 826
 
 ### Solo Si Esta Barato
 
-- SOLO SI ESTA BARATO: DEF Fran García | score 75 | precio 11.671.750 EUR | valor 11.655.177 EUR | puja 12.080.262 EUR | max 12.605.490 EUR | pujas 2 | caduca 26/8/26, 10:53 | base: pts actuales 7 (peso bajo), media 7, pts temp ant 57, valor 11.655.177 EUR | Interesante, pero conviene verificar titularidad
 - SOLO SI ESTA BARATO: DEL Iago Aspas | score 75 | precio 6.529.303 EUR | valor 6.402.051 EUR | puja 6.757.829 EUR | max 7.042.257 EUR | ofertas 1 | vende Rafishh | caduca 27/8/26, 16:01 | base: pts actuales 2 (peso bajo), media 2, pts temp ant 141, valor 6.402.051 EUR | Interesante, pero conviene verificar titularidad
+- SOLO SI ESTA BARATO: DEF Fran García | score 71 | precio 11.671.750 EUR | valor 11.655.177 EUR | puja 12.080.262 EUR | max 12.605.490 EUR | pujas 3 | caduca 26/8/26, 10:53 | base: pts actuales 7 (peso bajo), media 7, pts temp ant 57, valor 11.655.177 EUR | Interesante, pero conviene verificar titularidad
 - SOLO SI ESTA BARATO: DEL Arnau Ortiz | score 71 | precio 1.257.953 EUR | valor 1.257.387 EUR | puja 1.260.469 EUR | max 1.276.823 EUR | pujas 0 | caduca 26/8/26, 10:53 | base: pts actuales 4 (peso bajo), media 2, valor 1.257.387 EUR | Interesante, pero conviene verificar titularidad
 - SOLO SI ESTA BARATO: DEF D. Martínez | score 71 | precio 532.266 EUR | valor 531.695 EUR | puja 564.202 EUR | max 584.865 EUR | pujas 1 | caduca 26/8/26, 10:53 | base: pts actuales 8 (peso bajo), media 4, pts temp ant -1, valor 531.695 EUR | Interesante, pero conviene verificar titularidad
+- SOLO SI ESTA BARATO: CEN Iker Muñoz | score 68 | precio 1.167.383 EUR | valor 1.167.383 EUR | puja 1.169.718 EUR | max 1.184.894 EUR | ofertas 0 | vende Mynavo Kyiv | caduca 28/8/26, 17:03 | base: pts actuales 6 (peso bajo), media 6, pts temp ant 55, valor 1.167.383 EUR | Interesante, pero conviene verificar titularidad
 - SOLO SI ES CLARO: DEL Etta Eyong | score 64 | precio 22.549.120 EUR | valor 21.989.472 EUR | puja 23.338.340 EUR | max 24.188.420 EUR | ofertas 1 | vende Rafishh | caduca 27/8/26, 16:01 | base: pts actuales 2 (peso bajo), media 1, pts temp ant 133, valor 21.989.472 EUR | Consume demasiado saldo para una recomendacion automatica
 
 ### Vigilar
 
 - MIRAR: POR Ionut Radu | score 84 | precio 35.842.835 EUR | valor 35.821.261 EUR | puja 36.380.478 EUR | max 37.254.112 EUR | pujas 1 | caduca 26/8/26, 10:53 | base: pts actuales 9 (peso bajo), media 9, pts temp ant 254, valor 35.821.261 EUR | Ya hay portero fiable; solo interesa si quieres segundo portero
+- MIRAR: DEL Mikautadze | score 83 | precio 68.270.452 EUR | valor 68.270.452 EUR | puja 68.406.993 EUR | max 69.294.509 EUR | ofertas 0 | vende Mynavo Kyiv | caduca 28/8/26, 17:05 | base: pts actuales 23 (peso bajo), media 11.5, pts temp ant 207, valor 68.270.452 EUR | No entra en saldo actual sin ventas
 - VIGILAR: DEF Johaneko | score 66 | precio 1.308.444 EUR | valor 1.308.219 EUR | puja 1.311.061 EUR | max 1.328.071 EUR | pujas 0 | caduca 26/8/26, 10:53 | base: pts actuales 0 (peso bajo), media 0, valor 1.308.219 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: DEL Nordin Al-Lal | score 66 | precio 470.333 EUR | valor 470.108 EUR | puja 471.274 EUR | max 477.388 EUR | pujas 0 | caduca 26/8/26, 10:53 | base: pts actuales 0 (peso bajo), media 0, valor 470.108 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: DEL Sato | score 65 | precio 12.491.735 EUR | valor 12.490.283 EUR | puja 12.516.719 EUR | max 12.679.112 EUR | pujas 0 | caduca 26/8/26, 10:53 | base: pts actuales 0 (peso bajo), media 0, valor 12.490.283 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: POR Marrero | score 60 | precio 922.063 EUR | valor 921.826 EUR | puja 923.908 EUR | max 935.894 EUR | pujas 0 | caduca 26/8/26, 10:53 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 8, valor 921.826 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: DEF Pau Navarro | score 60 | precio 7.383.917 EUR | valor 7.164.926 EUR | puja 7.642.355 EUR | max 7.881.419 EUR | ofertas 1 | vende Rafishh | caduca 27/8/26, 16:01 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 89, valor 7.164.926 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: POR Galdin | score 59 | precio 590.150 EUR | valor 589.925 EUR | puja 591.331 EUR | max 599.003 EUR | pujas 0 | caduca 26/8/26, 10:53 | base: pts actuales 0 (peso bajo), media 0, valor 589.925 EUR | Puede servir si mejora titularidad/precio
-- VIGILAR: POR Lunin | score 57 | precio 1.872.911 EUR | valor 1.839.896 EUR | puja 1.985.286 EUR | max 2.023.886 EUR | ofertas 1 | vende Rafishh | caduca 27/8/26, 15:33 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 39, valor 1.839.896 EUR | Puede servir si mejora titularidad/precio
 
 ### Evitar
 
 - EVITAR: DEF Pastor | score 36 | precio 800.000 EUR | valor 380.594 EUR | No pujar salvo que lo revisemos manualmente | ofertas 1 | vende Gabriele28 | caduca 26/8/26, 12:25 | base: pts actuales 0 (peso bajo), media 0, valor 380.594 EUR | Poco valor para esta plantilla
 - EVITAR: DEL Yeremay | score 24 | precio 60.000.000 EUR | valor 41.761.399 EUR | No pujar salvo que lo revisemos manualmente | ofertas 1 | vende West Jamon C.F.D. | caduca 27/8/26, 12:41 | base: pts actuales 2 (peso bajo), media 2, valor 41.761.399 EUR | Sobreprecio del 44%
 - EVITAR: DEF F. Calero | score 14 | precio 2.177.410 EUR | valor 2.177.084 EUR | No pujar: injured | pujas 0 | caduca 26/8/26, 10:53 | injured | base: pts actuales 0 (peso bajo), media 0, pts temp ant 121, valor 2.177.084 EUR, estado injured | Estado injured
-- EVITAR: DEF Yuri | score 12 | precio 12.326.369 EUR | valor 11.452.278 EUR | No pujar: suspended | ofertas 1 | vende Mynavo Kyiv | caduca 25/8/26, 19:39 | suspended | base: pts actuales -2 (peso bajo), media -2, pts temp ant 163, valor 11.452.278 EUR, estado suspended | Estado suspended
 - EVITAR: DEF De Haas | score 10 | precio 8.362.260 EUR | valor 8.095.417 EUR | No pujar: injured | ofertas 1 | vende Rafishh | caduca 27/8/26, 15:31 | injured | base: pts actuales 1 (peso bajo), media 1, valor 8.095.417 EUR, estado injured | Estado injured
 
 ### Vender O Liberar Hueco

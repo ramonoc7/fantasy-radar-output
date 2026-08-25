@@ -1,6 +1,6 @@
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-25T14:58:27.703Z
+Datos API: 2026-08-25T15:54:38.397Z
 Semana actual: 3
 
 ## Objetivo
@@ -96,7 +96,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - Saldo: 39.904.117 EUR
 - Valor plantilla: 207.624.873 EUR
 - Jugadores plantilla: 14
-- Mercado jugable: 24
+- Mercado jugable: 25
 - Entrenadores ignorados: 2
 - Estrategia: Construir un equipo ganador priorizando 11 titulares reales, gangas de mercado y revalorizacion.
 
@@ -119,11 +119,10 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 #### Mercado que caduca antes
 
-- DEF Yuri | precio 12.326.369 EUR | valor 11.452.278 EUR | rival | ofertas 1 | vende Mynavo Kyiv | caduca 25/8/26, 19:39 | estado suspended
 - DEL Mbappé | precio 130.241.056 EUR | valor 130.006.520 EUR | rival | ofertas 1 | vende Dynamo de Maghreb FC | caduca 25/8/26, 19:53
 - DEL Gordon | precio 66.803.630 EUR | valor 66.795.866 EUR | machine | pujas 0 | caduca 26/8/26, 10:53
 - POR Galdin | precio 590.150 EUR | valor 589.925 EUR | machine | pujas 0 | caduca 26/8/26, 10:53
-- DEF Fran García | precio 11.671.750 EUR | valor 11.655.177 EUR | machine | pujas 2 | caduca 26/8/26, 10:53
+- DEF Fran García | precio 11.671.750 EUR | valor 11.655.177 EUR | machine | pujas 3 | caduca 26/8/26, 10:53
 - DEF Johaneko | precio 1.308.444 EUR | valor 1.308.219 EUR | machine | pujas 0 | caduca 26/8/26, 10:53
 - POR Marrero | precio 922.063 EUR | valor 921.826 EUR | machine | pujas 0 | caduca 26/8/26, 10:53
 - DEL Arnau Ortiz | precio 1.257.953 EUR | valor 1.257.387 EUR | machine | pujas 0 | caduca 26/8/26, 10:53
@@ -131,6 +130,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - POR Ionut Radu | precio 35.842.835 EUR | valor 35.821.261 EUR | machine | pujas 1 | caduca 26/8/26, 10:53
 - DEL Sato | precio 12.491.735 EUR | valor 12.490.283 EUR | machine | pujas 0 | caduca 26/8/26, 10:53
 - DEL Nordin Al-Lal | precio 470.333 EUR | valor 470.108 EUR | machine | pujas 0 | caduca 26/8/26, 10:53
+- DEF F. Calero | precio 2.177.410 EUR | valor 2.177.084 EUR | machine | pujas 0 | caduca 26/8/26, 10:53 | estado injured
 
 #### Baratos a revisar
 
@@ -139,6 +139,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - POR Galdin | precio 590.150 EUR | valor 589.925 EUR | machine | pujas 0 | caduca 26/8/26, 10:53
 - DEF Pastor | precio 800.000 EUR | valor 380.594 EUR | rival | ofertas 1 | vende Gabriele28 | caduca 26/8/26, 12:25
 - POR Marrero | precio 922.063 EUR | valor 921.826 EUR | machine | pujas 0 | caduca 26/8/26, 10:53
+- CEN Iker Muñoz | precio 1.167.383 EUR | valor 1.167.383 EUR | rival | ofertas 0 | vende Mynavo Kyiv | caduca 28/8/26, 17:03
 - DEL Arnau Ortiz | precio 1.257.953 EUR | valor 1.257.387 EUR | machine | pujas 0 | caduca 26/8/26, 10:53
 - DEF Johaneko | precio 1.308.444 EUR | valor 1.308.219 EUR | machine | pujas 0 | caduca 26/8/26, 10:53
 - POR Lunin | precio 1.872.911 EUR | valor 1.839.896 EUR | rival | ofertas 1 | vende Rafishh | caduca 27/8/26, 15:33
@@ -149,6 +150,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - DEL Lamine Yamal | precio 160.000.000 EUR | valor 127.169.397 EUR | rival | ofertas 1 | vende West Jamon C.F.D. | caduca 28/8/26, 0:28
 - DEL Mbappé | precio 130.241.056 EUR | valor 130.006.520 EUR | rival | ofertas 1 | vende Dynamo de Maghreb FC | caduca 25/8/26, 19:53
 - POR Courtois | precio 79.000.000 EUR | valor 66.285.191 EUR | rival | ofertas 0 | vende alemois | caduca 27/8/26, 21:21
+- DEL Mikautadze | precio 68.270.452 EUR | valor 68.270.452 EUR | rival | ofertas 0 | vende Mynavo Kyiv | caduca 28/8/26, 17:05
 - DEL Gordon | precio 66.803.630 EUR | valor 66.795.866 EUR | machine | pujas 0 | caduca 26/8/26, 10:53
 - DEL Yeremay | precio 60.000.000 EUR | valor 41.761.399 EUR | rival | ofertas 1 | vende West Jamon C.F.D. | caduca 27/8/26, 12:41
 - POR Ionut Radu | precio 35.842.835 EUR | valor 35.821.261 EUR | machine | pujas 1 | caduca 26/8/26, 10:53
@@ -158,7 +160,6 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 - F. Calero: estado injured en mercado.
 - De Haas: estado injured en mercado.
-- Yuri: estado suspended en mercado.
 - Hay 2 entrenadores en mercado: ignorar por funcion Premium bloqueada.
 
 ### Los Mastuerzos

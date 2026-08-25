@@ -1,6 +1,6 @@
 # Estado radar cloud
 
 - Estado: ok
-- Momento: 2026-08-25T14:58:28Z
+- Momento: 2026-08-25T15:54:38Z
 - Datos privados Fantasy: actualizados correctamente desde GitHub Actions.
 - Acción necesaria: ninguna.
