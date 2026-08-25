@@ -1,7 +1,7 @@
 # Informe Inteligente Ligas Fantasy
 
-Generado: 25/8/26, 21:10
-Datos API: 25/8/26, 21:10
+Generado: 25/8/26, 21:41
+Datos API: 25/8/26, 21:40
 Semana actual: 3
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -46,15 +46,15 @@ Formacion guardada: 4-3-3
 
 ### Once Recomendado Preliminar
 
-Formacion: 3-5-2 | puntuacion interna 881
-- POR Á. Valles | Real Betis | score 100 | fuerte por memoria + datos | base: pts actuales 14 (peso bajo), media 7, pts temp ant 185, valor 36.306.255 EUR, memoria core
+Formacion: 3-5-2 | puntuacion interna 883
+- POR Á. Valles | Real Betis | score 100 | fuerte por memoria + datos | base: pts actuales 15 (peso bajo), media 7.5, pts temp ant 185, valor 36.306.255 EUR, memoria core
 - DEF Javi Rodríguez | Celta | score 83 | util por memoria | base: pts actuales 9 (peso bajo), media 9, pts temp ant 132, valor 9.582.510 EUR, memoria keep
 - DEF Koski | Deportivo Alavés | score 68 | util por memoria | base: pts actuales 12 (peso bajo), media 6, pts temp ant 23, valor 1.846.512 EUR, memoria keep
 - DEF Nuñez | RCD Espanyol | score 60 | duda/rotacion | base: pts actuales 13 (peso bajo), media 6.5, pts temp ant 48, valor 5.925.483 EUR
 - CEN Ibañez | Deportivo Alavés | score 90 | fuerte por memoria + datos | base: pts actuales 10 (peso bajo), media 5, pts temp ant 130, valor 4.225.407 EUR, memoria core
 - CEN Kubo | Real Sociedad | score 86 | fuerte por memoria + datos | base: pts actuales 4 (peso bajo), media 4, pts temp ant 122, valor 27.842.322 EUR, memoria core, venta protegida
+- CEN Guido Rodríguez | Valencia CF | score 80 | fuerte por memoria + datos | base: pts actuales 11 (peso bajo), media 5.5, valor 24.019.590 EUR, memoria core, venta protegida
 - CEN Valverde | Real Madrid | score 79 | muy fuerte por datos | base: pts actuales 6 (peso bajo), media 6, pts temp ant 249, valor 72.799.916 EUR
-- CEN Guido Rodríguez | Valencia CF | score 78 | fuerte por memoria + datos | base: pts actuales 10 (peso bajo), media 5, valor 24.019.590 EUR, memoria core, venta protegida
 - CEN Mikel Rodriguez | Deportivo Alavés | score 56 | duda/rotacion | base: pts actuales 14 (peso bajo), media 7, valor 1.593.363 EUR
 - DEL Dolan | RCD Espanyol | score 100 | fuerte por memoria + datos | base: pts actuales 14 (peso bajo), media 7, pts temp ant 152, valor 9.157.381 EUR, memoria core
 - DEL Hugo Duro | Valencia CF | score 81 | fuerte por memoria + datos | base: pts actuales 1 (peso bajo), media 0.5, pts temp ant 134, valor 8.076.253 EUR, memoria core
@@ -176,7 +176,7 @@ Formacion: 3-5-2 | puntuacion interna 826
 - VIGILAR: DEF Johaneko | score 66 | precio 1.308.444 EUR | valor 1.308.219 EUR | puja 1.311.061 EUR | max 1.328.071 EUR | pujas 0 | caduca 26/8/26, 10:53 | base: pts actuales 0 (peso bajo), media 0, valor 1.308.219 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: DEL Nordin Al-Lal | score 66 | precio 470.333 EUR | valor 470.108 EUR | puja 471.274 EUR | max 477.388 EUR | pujas 0 | caduca 26/8/26, 10:53 | base: pts actuales 0 (peso bajo), media 0, valor 470.108 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: DEF Fran García | score 65 | precio 11.671.750 EUR | valor 11.655.177 EUR | puja 12.080.262 EUR | max 12.605.490 EUR | pujas 3 | caduca 26/8/26, 10:53 | base: pts actuales 7 (peso bajo), media 3.5, pts temp ant 57, valor 11.655.177 EUR | Puede servir si mejora titularidad/precio
-- VIGILAR: DEL Sato | score 65 | precio 12.491.735 EUR | valor 12.490.283 EUR | puja 12.516.719 EUR | max 12.679.112 EUR | pujas 0 | caduca 26/8/26, 10:53 | base: pts actuales 0 (peso bajo), media 0, valor 12.490.283 EUR | Puede servir si mejora titularidad/precio
+- VIGILAR: DEL Sato | score 65 | precio 12.491.735 EUR | valor 12.490.283 EUR | puja 12.516.719 EUR | max 12.679.112 EUR | pujas 0 | caduca 26/8/26, 10:53 | base: pts actuales -1 (peso bajo), media -1, valor 12.490.283 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: POR Marrero | score 60 | precio 922.063 EUR | valor 921.826 EUR | puja 923.908 EUR | max 935.894 EUR | pujas 0 | caduca 26/8/26, 10:53 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 8, valor 921.826 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: DEF Pau Navarro | score 60 | precio 7.383.917 EUR | valor 7.164.926 EUR | puja 7.642.355 EUR | max 7.881.419 EUR | ofertas 1 | vende Rafishh | caduca 27/8/26, 16:01 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 89, valor 7.164.926 EUR | Puede servir si mejora titularidad/precio
 
