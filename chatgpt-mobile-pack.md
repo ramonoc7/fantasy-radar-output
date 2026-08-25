@@ -1,10 +1,10 @@
 # ChatGPT Mobile Pack - Ligas Fantasy
 
-Actualizado: 2026-08-25T08:54:48.895Z
+Actualizado: 2026-08-25T09:47:30.855Z
 
 ## Fuente de verdad para informes
 
-Datos Fantasy actuales: 2026-08-25T08:54:48.895Z
+Datos Fantasy actuales: 2026-08-25T09:47:30.855Z
 
 Reglas obligatorias para ChatGPT:
 - Plantilla, saldo, mercado, pujas, actividad y once guardado actuales salen de este pack/radar, no de capturas antiguas ni memoria de conversaciones.
@@ -68,7 +68,7 @@ Ventas / huecos:
 ### Fantasmas League
 
 Saldo 39.904.117 EUR | plantilla 14 | mercado 25 | puesto 3/10, a 34 del lider
-Alertas: Isi en plantilla aparece como injured. / 2 entrenador(es) ignorados por Premium.
+Alertas: Isi en plantilla aparece como injured. / 1 jugador(es) jugables caducan en menos de 8 horas. / 2 entrenador(es) ignorados por Premium.
 
 Once recomendado:
 3-5-2: POR Remiro / DEF Huijsen / DEF Djene / DEF Koski / CEN Mario Soriano / CEN Izan M. / CEN Germán V. / CEN Agoumé / CEN R. Terrats / DEL Ángel Pérez / DEL T. Morente
@@ -230,7 +230,7 @@ Prioridades:
 
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-25T08:54:48.895Z
+Datos API: 2026-08-25T09:47:30.855Z
 Semana actual: 3
 
 ## Objetivo
@@ -451,8 +451,8 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 # Cola diaria de noticias y titularidad
 
-Generada: 25/8/26, 10:54
-Datos Fantasy: 25/8/26, 10:54
+Generada: 25/8/26, 11:47
+Datos Fantasy: 25/8/26, 11:47
 
 Uso: esta es la lista corta que ChatGPT/Codex debe verificar en internet antes de cerrar pujas fuertes o el once. El radar solo aconseja; Ramon ejecuta todo manualmente.
 
@@ -582,8 +582,8 @@ Usa esta cola. Busca en internet noticias recientes, onces probables, rol previs
 
 # Informe Inteligente Ligas Fantasy
 
-Generado: 25/8/26, 10:54
-Datos API: 25/8/26, 10:54
+Generado: 25/8/26, 11:47
+Datos API: 25/8/26, 11:47
 Semana actual: 3
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -692,6 +692,7 @@ Formacion: 4-4-2 | puntuacion interna 871
 ### Alertas
 
 - Isi en plantilla aparece como injured.
+- 1 jugador(es) jugables caducan en menos de 8 horas.
 - 2 entrenador(es) ignorados por Premium.
 
 ### Situacion
@@ -763,7 +764,7 @@ Formacion: 3-5-2 | puntuacion interna 826
 
 - EVITAR: DEF Pastor | score 36 | precio 800.000 EUR | valor 380.819 EUR | No pujar salvo que lo revisemos manualmente | ofertas 1 | vende Gabriele28 | caduca 26/8/26, 12:25 | base: pts actuales 0 (peso bajo), media 0, valor 380.819 EUR | Poco valor para esta plantilla
 - EVITAR: DEL Yeremay | score 24 | precio 60.000.000 EUR | valor 41.770.905 EUR | No pujar salvo que lo revisemos manualmente | ofertas 1 | vende West Jamon C.F.D. | caduca 27/8/26, 12:41 | base: pts actuales 2 (peso bajo), media 2, valor 41.770.905 EUR | Sobreprecio del 44%
-- EVITAR: DEF F. Calero | score 14 | precio 2.177.410 EUR | valor 2.177.410 EUR | No pujar: injured | pujas 0 | caduca 26/8/26, 10:53 | injured | base: pts actuales 0 (peso bajo), media 0, pts temp ant 121, valor 2.177.410 EUR, estado injured | Estado injured
+- EVITAR: DEF F. Calero | score 13 | precio 2.177.410 EUR | valor 2.177.410 EUR | No pujar: injured | pujas 1 | caduca 26/8/26, 10:53 | injured | base: pts actuales 0 (peso bajo), media 0, pts temp ant 121, valor 2.177.410 EUR, estado injured | Estado injured
 - EVITAR: DEF Yuri | score 12 | precio 12.326.369 EUR | valor 11.453.879 EUR | No pujar: suspended | ofertas 1 | vende Mynavo Kyiv | caduca 25/8/26, 19:39 | suspended | base: pts actuales -2 (peso bajo), media -2, pts temp ant 163, valor 11.453.879 EUR, estado suspended | Estado suspended
 - EVITAR: DEF De Haas | score 10 | precio 8.362.260 EUR | valor 8.096.433 EUR | No pujar: injured | ofertas 1 | vende Rafishh | caduca 27/8/26, 15:31 | injured | base: pts actuales 1 (peso bajo), media 1, valor 8.096.433 EUR, estado injured | Estado injured
 
