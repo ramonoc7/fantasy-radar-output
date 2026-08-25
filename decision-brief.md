@@ -1,6 +1,6 @@
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-25T11:37:53.208Z
+Datos API: 2026-08-25T13:06:38.811Z
 Semana actual: 3
 
 ## Objetivo
@@ -193,7 +193,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - DEL Dubasin | precio 12.784.410 EUR | valor 12.435.123 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
 - DEF Barzic | precio 690.831 EUR | valor 678.390 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
 - CEN F. De Jong | precio 20.285.760 EUR | valor 19.654.046 EUR | machine | pujas 0 | caduca 25/8/26, 22:10 | estado injured
-- DEF Nuñez | precio 5.606.954 EUR | valor 5.933.780 EUR | machine | pujas 1 | caduca 25/8/26, 22:10
+- DEF Nuñez | precio 5.606.954 EUR | valor 5.933.780 EUR | machine | pujas 2 | caduca 25/8/26, 22:10
 - DEL Alexis Ciria | precio 898.091 EUR | valor 877.360 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
 - DEL Iñaki Williams | precio 26.965.234 EUR | valor 26.691.201 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
 - DEF V. Chust | precio 5.620.791 EUR | valor 5.695.688 EUR | machine | pujas 0 | caduca 25/8/26, 22:10

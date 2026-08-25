@@ -1,10 +1,10 @@
 # ChatGPT Mobile Pack - Ligas Fantasy
 
-Actualizado: 2026-08-25T11:37:53.208Z
+Actualizado: 2026-08-25T13:06:38.811Z
 
 ## Fuente de verdad para informes
 
-Datos Fantasy actuales: 2026-08-25T11:37:53.208Z
+Datos Fantasy actuales: 2026-08-25T13:06:38.811Z
 
 Reglas obligatorias para ChatGPT:
 - Plantilla, saldo, mercado, pujas, actividad y once guardado actuales salen de este pack/radar, no de capturas antiguas ni memoria de conversaciones.
@@ -92,7 +92,7 @@ Ventas / huecos:
 ### Los Mastuerzos
 
 Saldo 9.590.829 EUR | plantilla 12 | mercado 11 | puesto 4/10, a 20 del lider
-Alertas: 2 entrenador(es) ignorados por Premium.
+Alertas: 11 jugador(es) jugables caducan en menos de 8 horas. / 2 entrenador(es) ignorados por Premium.
 
 Once recomendado:
 4-4-2: POR David Soria / DEF Sergio Gómez / DEF C. Puga / DEF Javi Rodríguez / DEF Koski / CEN Valverde / CEN Javi Guerra / CEN R. Terrats / CEN Germán V. / DEL Chupe / DEL Hugo Duro
@@ -101,7 +101,7 @@ Cambios frente al once guardado:
 - Nada urgente.
 
 Mercado, mirar primero:
-- SOLO SI ES CLARO: DEF Nuñez | 5.606.954 EUR | 1 pujas | puja 5.803.198 EUR, max 6.055.511 EUR
+- SOLO SI ES CLARO: DEF Nuñez | 5.606.954 EUR | 2 pujas | puja 5.803.198 EUR, max 6.055.511 EUR
 - SOLO SI ES CLARO: DEF V. Chust | 5.620.791 EUR | 0 pujas | puja 5.632.033 EUR, max 5.705.103 EUR
 - SOLO SI ES CLARO: CEN P. Martínez | 7.813.597 EUR | 0 pujas | puja 7.829.225 EUR, max 7.930.801 EUR
 - MIRAR: DEL Iñaki Williams | 26.965.234 EUR | 0 pujas | puja 27.019.165 EUR, max 27.369.713 EUR
@@ -230,7 +230,7 @@ Prioridades:
 
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-25T11:37:53.208Z
+Datos API: 2026-08-25T13:06:38.811Z
 Semana actual: 3
 
 ## Objetivo
@@ -423,7 +423,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - DEL Dubasin | precio 12.784.410 EUR | valor 12.435.123 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
 - DEF Barzic | precio 690.831 EUR | valor 678.390 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
 - CEN F. De Jong | precio 20.285.760 EUR | valor 19.654.046 EUR | machine | pujas 0 | caduca 25/8/26, 22:10 | estado injured
-- DEF Nuñez | precio 5.606.954 EUR | valor 5.933.780 EUR | machine | pujas 1 | caduca 25/8/26, 22:10
+- DEF Nuñez | precio 5.606.954 EUR | valor 5.933.780 EUR | machine | pujas 2 | caduca 25/8/26, 22:10
 - DEL Alexis Ciria | precio 898.091 EUR | valor 877.360 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
 - DEL Iñaki Williams | precio 26.965.234 EUR | valor 26.691.201 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
 - DEF V. Chust | precio 5.620.791 EUR | valor 5.695.688 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
@@ -452,8 +452,8 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 # Cola diaria de noticias y titularidad
 
-Generada: 25/8/26, 13:37
-Datos Fantasy: 25/8/26, 13:37
+Generada: 25/8/26, 15:06
+Datos Fantasy: 25/8/26, 15:06
 
 Uso: esta es la lista corta que ChatGPT/Codex debe verificar en internet antes de cerrar pujas fuertes o el once. El radar solo aconseja; Ramon ejecuta todo manualmente.
 
@@ -541,7 +541,7 @@ Situacion: puesto 4/10, a 20 del lider.
   Precio: 27.720.326 EUR | valor: 28.514.361 EUR | score interno: 65.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Bartra para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Mastuerzos. No ejecutes acciones: solo aconseja.
 - DEF Nuñez (sin equipo): SOLO SI ES CLARO por 5.606.954 EUR; Consume demasiado saldo para una recomendacion automatica.
-  Precio: 5.606.954 EUR | valor: 5.933.780 EUR | score interno: 68.
+  Precio: 5.606.954 EUR | valor: 5.933.780 EUR | score interno: 64.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Nuñez para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Mastuerzos. No ejecutes acciones: solo aconseja.
 - DEL Alexis Ciria (sin equipo): VIGILAR por 898.091 EUR; Puede servir si mejora titularidad/precio.
   Precio: 898.091 EUR | valor: 877.360 EUR | score interno: 65.
@@ -574,8 +574,8 @@ Usa esta cola. Busca en internet noticias recientes, onces probables, rol previs
 
 # Informe Inteligente Ligas Fantasy
 
-Generado: 25/8/26, 13:37
-Datos API: 25/8/26, 13:37
+Generado: 25/8/26, 15:06
+Datos API: 25/8/26, 15:06
 Semana actual: 3
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -778,6 +778,7 @@ Formacion: 3-5-2 | puntuacion interna 826
 
 ### Alertas
 
+- 11 jugador(es) jugables caducan en menos de 8 horas.
 - 2 entrenador(es) ignorados por Premium.
 
 ### Situacion
@@ -826,7 +827,7 @@ Formacion: 4-4-2 | puntuacion interna 860
 
 ### Solo Si Esta Barato
 
-- SOLO SI ES CLARO: DEF Nuñez | score 68 | precio 5.606.954 EUR | valor 5.933.780 EUR | puja 5.803.198 EUR | max 6.055.511 EUR | pujas 1 | caduca 25/8/26, 22:10 | base: pts actuales 13 (peso bajo), media 6.5, pts temp ant 48, valor 5.933.780 EUR | Consume demasiado saldo para una recomendacion automatica
+- SOLO SI ES CLARO: DEF Nuñez | score 64 | precio 5.606.954 EUR | valor 5.933.780 EUR | puja 5.803.198 EUR | max 6.055.511 EUR | pujas 2 | caduca 25/8/26, 22:10 | base: pts actuales 13 (peso bajo), media 6.5, pts temp ant 48, valor 5.933.780 EUR | Consume demasiado saldo para una recomendacion automatica
 - SOLO SI ES CLARO: DEF V. Chust | score 64 | precio 5.620.791 EUR | valor 5.695.688 EUR | puja 5.632.033 EUR | max 5.705.103 EUR | pujas 0 | caduca 25/8/26, 22:10 | base: pts actuales 3 (peso bajo), media 1.5, pts temp ant 96, valor 5.695.688 EUR | Consume demasiado saldo para una recomendacion automatica
 - SOLO SI ES CLARO: CEN P. Martínez | score 45 | precio 7.813.597 EUR | valor 7.610.328 EUR | puja 7.829.225 EUR | max 7.930.801 EUR | pujas 0 | caduca 25/8/26, 22:10 | base: pts actuales 0 (peso bajo), media 0, valor 7.610.328 EUR | Consume demasiado saldo para una recomendacion automatica
 

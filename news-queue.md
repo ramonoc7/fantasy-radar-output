@@ -1,7 +1,7 @@
 # Cola diaria de noticias y titularidad
 
-Generada: 25/8/26, 13:37
-Datos Fantasy: 25/8/26, 13:37
+Generada: 25/8/26, 15:06
+Datos Fantasy: 25/8/26, 15:06
 
 Uso: esta es la lista corta que ChatGPT/Codex debe verificar en internet antes de cerrar pujas fuertes o el once. El radar solo aconseja; Ramon ejecuta todo manualmente.
 
@@ -89,7 +89,7 @@ Situacion: puesto 4/10, a 20 del lider.
   Precio: 27.720.326 EUR | valor: 28.514.361 EUR | score interno: 65.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Bartra para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Mastuerzos. No ejecutes acciones: solo aconseja.
 - DEF Nuñez (sin equipo): SOLO SI ES CLARO por 5.606.954 EUR; Consume demasiado saldo para una recomendacion automatica.
-  Precio: 5.606.954 EUR | valor: 5.933.780 EUR | score interno: 68.
+  Precio: 5.606.954 EUR | valor: 5.933.780 EUR | score interno: 64.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Nuñez para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Mastuerzos. No ejecutes acciones: solo aconseja.
 - DEL Alexis Ciria (sin equipo): VIGILAR por 898.091 EUR; Puede servir si mejora titularidad/precio.
   Precio: 898.091 EUR | valor: 877.360 EUR | score interno: 65.

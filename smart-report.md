@@ -1,7 +1,7 @@
 # Informe Inteligente Ligas Fantasy
 
-Generado: 25/8/26, 13:37
-Datos API: 25/8/26, 13:37
+Generado: 25/8/26, 15:06
+Datos API: 25/8/26, 15:06
 Semana actual: 3
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -204,6 +204,7 @@ Formacion: 3-5-2 | puntuacion interna 826
 
 ### Alertas
 
+- 11 jugador(es) jugables caducan en menos de 8 horas.
 - 2 entrenador(es) ignorados por Premium.
 
 ### Situacion
@@ -252,7 +253,7 @@ Formacion: 4-4-2 | puntuacion interna 860
 
 ### Solo Si Esta Barato
 
-- SOLO SI ES CLARO: DEF Nuñez | score 68 | precio 5.606.954 EUR | valor 5.933.780 EUR | puja 5.803.198 EUR | max 6.055.511 EUR | pujas 1 | caduca 25/8/26, 22:10 | base: pts actuales 13 (peso bajo), media 6.5, pts temp ant 48, valor 5.933.780 EUR | Consume demasiado saldo para una recomendacion automatica
+- SOLO SI ES CLARO: DEF Nuñez | score 64 | precio 5.606.954 EUR | valor 5.933.780 EUR | puja 5.803.198 EUR | max 6.055.511 EUR | pujas 2 | caduca 25/8/26, 22:10 | base: pts actuales 13 (peso bajo), media 6.5, pts temp ant 48, valor 5.933.780 EUR | Consume demasiado saldo para una recomendacion automatica
 - SOLO SI ES CLARO: DEF V. Chust | score 64 | precio 5.620.791 EUR | valor 5.695.688 EUR | puja 5.632.033 EUR | max 5.705.103 EUR | pujas 0 | caduca 25/8/26, 22:10 | base: pts actuales 3 (peso bajo), media 1.5, pts temp ant 96, valor 5.695.688 EUR | Consume demasiado saldo para una recomendacion automatica
 - SOLO SI ES CLARO: CEN P. Martínez | score 45 | precio 7.813.597 EUR | valor 7.610.328 EUR | puja 7.829.225 EUR | max 7.930.801 EUR | pujas 0 | caduca 25/8/26, 22:10 | base: pts actuales 0 (peso bajo), media 0, valor 7.610.328 EUR | Consume demasiado saldo para una recomendacion automatica
 
