@@ -1,6 +1,6 @@
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-25T19:40:59.987Z
+Datos API: 2026-08-25T20:40:06.621Z
 Semana actual: 3
 
 ## Objetivo
@@ -55,13 +55,13 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 #### Mercado que caduca antes
 
-- CEN Sergio | precio 1.314.482 EUR | valor 1.312.515 EUR | machine | pujas 1 | caduca 26/8/26, 12:46
+- CEN Sergio | precio 1.314.482 EUR | valor 1.312.515 EUR | machine | pujas 2 | caduca 26/8/26, 12:46
 - CEN H. González | precio 1.245.640 EUR | valor 1.245.342 EUR | machine | pujas 0 | caduca 26/8/26, 12:46
 - CEN Bellingham | precio 94.508.594 EUR | valor 94.432.072 EUR | machine | pujas 0 | caduca 26/8/26, 12:46
 - DEF Carreira | precio 6.426.769 EUR | valor 6.421.453 EUR | machine | pujas 1 | caduca 26/8/26, 12:46
 - DEF Saba Sazonov | precio 994.889 EUR | valor 994.326 EUR | machine | pujas 0 | caduca 26/8/26, 12:46
 - DEL Pepe | precio 63.583.559 EUR | valor 63.526.855 EUR | machine | pujas 0 | caduca 26/8/26, 12:46
-- DEL Peque | precio 2.628.990 EUR | valor 2.626.538 EUR | machine | pujas 0 | caduca 26/8/26, 12:46
+- DEL Peque | precio 2.628.990 EUR | valor 2.626.538 EUR | machine | pujas 1 | caduca 26/8/26, 12:46
 - DEF Valentini | precio 965.525 EUR | valor 965.300 EUR | machine | pujas 0 | caduca 26/8/26, 12:46
 - DEF Eric | precio 49.036.895 EUR | valor 48.988.995 EUR | machine | pujas 1 | caduca 26/8/26, 12:46
 - DEL Umaru | precio 678.390 EUR | valor 678.166 EUR | machine | pujas 0 | caduca 26/8/26, 12:46
@@ -74,8 +74,8 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - DEF Valentini | precio 965.525 EUR | valor 965.300 EUR | machine | pujas 0 | caduca 26/8/26, 12:46
 - DEF Saba Sazonov | precio 994.889 EUR | valor 994.326 EUR | machine | pujas 0 | caduca 26/8/26, 12:46
 - CEN H. González | precio 1.245.640 EUR | valor 1.245.342 EUR | machine | pujas 0 | caduca 26/8/26, 12:46
-- CEN Sergio | precio 1.314.482 EUR | valor 1.312.515 EUR | machine | pujas 1 | caduca 26/8/26, 12:46
-- DEL Peque | precio 2.628.990 EUR | valor 2.626.538 EUR | machine | pujas 0 | caduca 26/8/26, 12:46
+- CEN Sergio | precio 1.314.482 EUR | valor 1.312.515 EUR | machine | pujas 2 | caduca 26/8/26, 12:46
+- DEL Peque | precio 2.628.990 EUR | valor 2.626.538 EUR | machine | pujas 1 | caduca 26/8/26, 12:46
 
 #### Premium a revisar
 
@@ -167,8 +167,8 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - Saldo: 9.590.829 EUR
 - Valor plantilla: 230.163.650 EUR
 - Jugadores plantilla: 12
-- Mercado jugable: 11
-- Entrenadores ignorados: 2
+- Mercado jugable: 12
+- Entrenadores ignorados: 1
 - Estrategia: Solucionar porteria y tercer defensa, manteniendo un centro del campo barato y muy util; cazar gangas antes que perseguir nombres caros.
 
 #### Plantilla
@@ -188,32 +188,35 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 #### Mercado que caduca antes
 
-- DEL Bardghji | precio 2.267.159 EUR | valor 2.197.205 EUR | machine | pujas 0 | caduca 25/8/26, 22:10 | estado injured
-- CEN P. Martínez | precio 7.813.597 EUR | valor 7.608.711 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
-- DEF Cardoso | precio 711.418 EUR | valor 697.929 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
-- DEL Dubasin | precio 12.784.410 EUR | valor 12.432.713 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
-- DEF Barzic | precio 690.831 EUR | valor 678.166 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
-- CEN F. De Jong | precio 20.285.760 EUR | valor 19.651.386 EUR | machine | pujas 0 | caduca 25/8/26, 22:10 | estado injured
-- DEF Nuñez | precio 5.606.954 EUR | valor 5.925.483 EUR | machine | pujas 2 | caduca 25/8/26, 22:10
-- DEL Alexis Ciria | precio 898.091 EUR | valor 877.135 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
-- DEL Iñaki Williams | precio 26.965.234 EUR | valor 26.680.359 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
-- DEF V. Chust | precio 5.620.791 EUR | valor 5.691.155 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
-- DEF Bartra | precio 27.720.326 EUR | valor 28.485.752 EUR | machine | pujas 1 | caduca 25/8/26, 22:10
+- CEN Buonanotte | precio 5.613.729 EUR | valor 5.613.729 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
+- POR Leo Román | precio 40.472.701 EUR | valor 40.472.701 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
+- DEF Dela | precio 11.251.772 EUR | valor 11.251.772 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
+- DEF Costa | precio 1.008.872 EUR | valor 1.008.872 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
+- DEF Yoel Lago | precio 677.391 EUR | valor 677.391 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
+- DEL Gordon | precio 66.795.866 EUR | valor 66.795.866 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
+- POR A. Fortuño | precio 492.645 EUR | valor 492.645 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
+- DEL Abdelkarim | precio 3.801.390 EUR | valor 3.801.390 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
+- CEN Barrios | precio 47.420.966 EUR | valor 47.420.966 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
+- CEN Guridi | precio 6.986.094 EUR | valor 6.986.094 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
+- DEF Mantilla | precio 2.424.504 EUR | valor 2.424.504 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
+- DEF Beitia | precio 492.587 EUR | valor 492.587 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
 
 #### Baratos a revisar
 
-- DEF Barzic | precio 690.831 EUR | valor 678.166 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
-- DEF Cardoso | precio 711.418 EUR | valor 697.929 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
-- DEL Alexis Ciria | precio 898.091 EUR | valor 877.135 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
+- DEF Beitia | precio 492.587 EUR | valor 492.587 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
+- POR A. Fortuño | precio 492.645 EUR | valor 492.645 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
+- DEF Yoel Lago | precio 677.391 EUR | valor 677.391 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
+- DEF Costa | precio 1.008.872 EUR | valor 1.008.872 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
+- DEF Mantilla | precio 2.424.504 EUR | valor 2.424.504 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
+- DEL Abdelkarim | precio 3.801.390 EUR | valor 3.801.390 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
 
 #### Premium a revisar
 
-- DEF Bartra | precio 27.720.326 EUR | valor 28.485.752 EUR | machine | pujas 1 | caduca 25/8/26, 22:10
-- DEL Iñaki Williams | precio 26.965.234 EUR | valor 26.680.359 EUR | machine | pujas 0 | caduca 25/8/26, 22:10
+- DEL Gordon | precio 66.795.866 EUR | valor 66.795.866 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
+- CEN Barrios | precio 47.420.966 EUR | valor 47.420.966 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
+- POR Leo Román | precio 40.472.701 EUR | valor 40.472.701 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
 
 #### Alertas
 
-- Bardghji: estado injured en mercado.
-- F. De Jong: estado injured en mercado.
-- Hay 2 entrenadores en mercado: ignorar por funcion Premium bloqueada.
+- Hay 1 entrenadores en mercado: ignorar por funcion Premium bloqueada.
 
