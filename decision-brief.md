@@ -1,6 +1,6 @@
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-25T20:40:06.621Z
+Datos API: 2026-08-25T21:38:24.490Z
 Semana actual: 3
 
 ## Objetivo
@@ -167,7 +167,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - Saldo: 9.590.829 EUR
 - Valor plantilla: 230.163.650 EUR
 - Jugadores plantilla: 12
-- Mercado jugable: 12
+- Mercado jugable: 15
 - Entrenadores ignorados: 1
 - Estrategia: Solucionar porteria y tercer defensa, manteniendo un centro del campo barato y muy util; cazar gangas antes que perseguir nombres caros.
 
@@ -190,9 +190,9 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 - CEN Buonanotte | precio 5.613.729 EUR | valor 5.613.729 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
 - POR Leo Román | precio 40.472.701 EUR | valor 40.472.701 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
-- DEF Dela | precio 11.251.772 EUR | valor 11.251.772 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
+- DEF Dela | precio 11.251.772 EUR | valor 11.251.772 EUR | machine | pujas 1 | caduca 26/8/26, 22:10
 - DEF Costa | precio 1.008.872 EUR | valor 1.008.872 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
-- DEF Yoel Lago | precio 677.391 EUR | valor 677.391 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
+- DEF Yoel Lago | precio 677.391 EUR | valor 677.391 EUR | machine | pujas 1 | caduca 26/8/26, 22:10
 - DEL Gordon | precio 66.795.866 EUR | valor 66.795.866 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
 - POR A. Fortuño | precio 492.645 EUR | valor 492.645 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
 - DEL Abdelkarim | precio 3.801.390 EUR | valor 3.801.390 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
@@ -205,16 +205,18 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 - DEF Beitia | precio 492.587 EUR | valor 492.587 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
 - POR A. Fortuño | precio 492.645 EUR | valor 492.645 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
-- DEF Yoel Lago | precio 677.391 EUR | valor 677.391 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
+- DEF Yoel Lago | precio 677.391 EUR | valor 677.391 EUR | machine | pujas 1 | caduca 26/8/26, 22:10
 - DEF Costa | precio 1.008.872 EUR | valor 1.008.872 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
 - DEF Mantilla | precio 2.424.504 EUR | valor 2.424.504 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
 - DEL Abdelkarim | precio 3.801.390 EUR | valor 3.801.390 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
+- DEF C. Puga | precio 4.908.305 EUR | valor 4.908.305 EUR | rival | ofertas 0 | vende Ramounsitou | caduca 28/8/26, 23:13
 
 #### Premium a revisar
 
 - DEL Gordon | precio 66.795.866 EUR | valor 66.795.866 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
 - CEN Barrios | precio 47.420.966 EUR | valor 47.420.966 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
 - POR Leo Román | precio 40.472.701 EUR | valor 40.472.701 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
+- CEN Germán V. | precio 20.542.089 EUR | valor 20.542.089 EUR | rival | ofertas 0 | vende Ramounsitou | caduca 28/8/26, 23:22
 
 #### Alertas
 
