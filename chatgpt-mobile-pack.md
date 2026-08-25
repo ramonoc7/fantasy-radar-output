@@ -1,10 +1,10 @@
 # ChatGPT Mobile Pack - Ligas Fantasy
 
-Actualizado: 2026-08-25T03:08:55.552Z
+Actualizado: 2026-08-25T04:49:23.953Z
 
 ## Fuente de verdad para informes
 
-Datos Fantasy actuales: 2026-08-25T03:08:55.552Z
+Datos Fantasy actuales: 2026-08-25T04:49:23.953Z
 
 Reglas obligatorias para ChatGPT:
 - Plantilla, saldo, mercado, pujas, actividad y once guardado actuales salen de este pack/radar, no de capturas antiguas ni memoria de conversaciones.
@@ -54,8 +54,8 @@ Cambios frente al once guardado:
 
 Mercado, mirar primero:
 - FICHAR YA: CEN Marc Roca | 5.609.002 EUR | 0 pujas | puja 5.620.221 EUR, max 5.724.835 EUR
-- SOLO SI ES CLARO: DEF Gerard Martín | 39.508.746 EUR | 1 pujas | puja 40.101.378 EUR, max 41.089.096 EUR
 - SOLO SI ESTA BARATO: CEN Francho | 2.641.403 EUR | 0 pujas | puja 2.646.686 EUR, max 2.681.025 EUR
+- SOLO SI ES CLARO: DEF Gerard Martín | 39.508.746 EUR | 2 pujas | puja 40.101.378 EUR, max 41.089.096 EUR
 - SOLO SI ES CLARO: DEF Rüdiger | 29.476.040 EUR | 0 pujas | puja 29.534.993 EUR, max 29.918.181 EUR
 - MIRAR: POR Sergio Herrera | 36.946.516 EUR | 0 pujas | puja 37.020.410 EUR, max 37.500.714 EUR
 
@@ -230,7 +230,7 @@ Prioridades:
 
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-25T03:08:55.552Z
+Datos API: 2026-08-25T04:49:23.953Z
 Semana actual: 3
 
 ## Objetivo
@@ -287,7 +287,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - POR Marrero | precio 943.972 EUR | valor 922.063 EUR | machine | pujas 0 | caduca 25/8/26, 12:46
 - CEN Marc Roca | precio 5.609.002 EUR | valor 5.841.668 EUR | machine | pujas 0 | caduca 25/8/26, 12:46
 - POR Sergio Herrera | precio 36.946.516 EUR | valor 36.501.615 EUR | machine | pujas 0 | caduca 25/8/26, 12:46
-- DEF Gerard Martín | precio 39.508.746 EUR | valor 40.297.824 EUR | machine | pujas 1 | caduca 25/8/26, 12:46
+- DEF Gerard Martín | precio 39.508.746 EUR | valor 40.297.824 EUR | machine | pujas 2 | caduca 25/8/26, 12:46
 - POR Swiderski | precio 543.485 EUR | valor 536.806 EUR | machine | pujas 0 | caduca 25/8/26, 12:46
 - CEN D. Villares | precio 2.079.968 EUR | valor 2.027.430 EUR | machine | pujas 0 | caduca 25/8/26, 12:46
 - CEN Francho | precio 2.641.403 EUR | valor 2.664.617 EUR | machine | pujas 0 | caduca 25/8/26, 12:46
@@ -310,7 +310,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 - CEN Valverde | precio 72.882.912 EUR | valor 72.843.452 EUR | machine | pujas 1 | caduca 25/8/26, 12:46
 - CEN Moleiro | precio 62.002.118 EUR | valor 61.004.721 EUR | machine | pujas 0 | caduca 25/8/26, 12:46
-- DEF Gerard Martín | precio 39.508.746 EUR | valor 40.297.824 EUR | machine | pujas 1 | caduca 25/8/26, 12:46
+- DEF Gerard Martín | precio 39.508.746 EUR | valor 40.297.824 EUR | machine | pujas 2 | caduca 25/8/26, 12:46
 - POR Sergio Herrera | precio 36.946.516 EUR | valor 36.501.615 EUR | machine | pujas 0 | caduca 25/8/26, 12:46
 - DEF Rüdiger | precio 29.476.040 EUR | valor 28.861.713 EUR | machine | pujas 0 | caduca 25/8/26, 12:46
 
@@ -450,8 +450,8 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 # Cola diaria de noticias y titularidad
 
-Generada: 25/8/26, 5:08
-Datos Fantasy: 25/8/26, 5:08
+Generada: 25/8/26, 6:49
+Datos Fantasy: 25/8/26, 6:49
 
 Uso: esta es la lista corta que ChatGPT/Codex debe verificar en internet antes de cerrar pujas fuertes o el once. El radar solo aconseja; Ramon ejecuta todo manualmente.
 
@@ -462,15 +462,15 @@ Situacion: puesto 4/12, a 6 del lider.
 - POR Sergio Herrera (sin equipo): MIRAR por 36.946.516 EUR; Ya hay portero fiable; solo interesa si quieres segundo portero.
   Precio: 36.946.516 EUR | valor: 36.501.615 EUR | score interno: 84.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Sergio Herrera para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
-- DEF Gerard Martín (sin equipo): SOLO SI ES CLARO por 39.508.746 EUR; Consume demasiado saldo para una recomendacion automatica.
-  Precio: 39.508.746 EUR | valor: 40.297.824 EUR | score interno: 75.
-  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Gerard Martín para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
 - CEN Marc Roca (sin equipo): FICHAR YA por 5.609.002 EUR; Buen encaje por precio, necesidad y datos internos.
   Precio: 5.609.002 EUR | valor: 5.841.668 EUR | score interno: 86.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Marc Roca para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
 - CEN Valverde (sin equipo): MIRAR por 72.882.912 EUR; No entra en saldo actual sin ventas.
   Precio: 72.882.912 EUR | valor: 72.843.452 EUR | score interno: 72.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Valverde para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
+- DEF Gerard Martín (sin equipo): SOLO SI ES CLARO por 39.508.746 EUR; Consume demasiado saldo para una recomendacion automatica.
+  Precio: 39.508.746 EUR | valor: 40.297.824 EUR | score interno: 71.
+  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Gerard Martín para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
 - CEN Francho (sin equipo): SOLO SI ESTA BARATO por 2.641.403 EUR; Interesante, pero conviene verificar titularidad.
   Precio: 2.641.403 EUR | valor: 2.664.617 EUR | score interno: 74.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Francho para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
@@ -581,8 +581,8 @@ Usa esta cola. Busca en internet noticias recientes, onces probables, rol previs
 
 # Informe Inteligente Ligas Fantasy
 
-Generado: 25/8/26, 5:08
-Datos API: 25/8/26, 5:08
+Generado: 25/8/26, 6:49
+Datos API: 25/8/26, 6:49
 Semana actual: 3
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -651,8 +651,8 @@ Formacion: 4-4-2 | puntuacion interna 871
 
 ### Solo Si Esta Barato
 
-- SOLO SI ES CLARO: DEF Gerard Martín | score 75 | precio 39.508.746 EUR | valor 40.297.824 EUR | puja 40.101.378 EUR | max 41.089.096 EUR | pujas 1 | caduca 25/8/26, 12:46 | base: pts actuales 10 (peso bajo), media 10, pts temp ant 161, valor 40.297.824 EUR | Consume demasiado saldo para una recomendacion automatica
 - SOLO SI ESTA BARATO: CEN Francho | score 74 | precio 2.641.403 EUR | valor 2.664.617 EUR | puja 2.646.686 EUR | max 2.681.025 EUR | pujas 0 | caduca 25/8/26, 12:46 | base: pts actuales 6 (peso bajo), media 6, valor 2.664.617 EUR | Interesante, pero conviene verificar titularidad
+- SOLO SI ES CLARO: DEF Gerard Martín | score 71 | precio 39.508.746 EUR | valor 40.297.824 EUR | puja 40.101.378 EUR | max 41.089.096 EUR | pujas 2 | caduca 25/8/26, 12:46 | base: pts actuales 10 (peso bajo), media 10, pts temp ant 161, valor 40.297.824 EUR | Consume demasiado saldo para una recomendacion automatica
 - SOLO SI ES CLARO: DEF Rüdiger | score 51 | precio 29.476.040 EUR | valor 28.861.713 EUR | puja 29.534.993 EUR | max 29.918.181 EUR | pujas 0 | caduca 25/8/26, 12:46 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 93, valor 28.861.713 EUR | Consume demasiado saldo para una recomendacion automatica
 
 ### Vigilar

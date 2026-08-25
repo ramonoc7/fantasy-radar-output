@@ -1,7 +1,7 @@
 # Cola diaria de noticias y titularidad
 
-Generada: 25/8/26, 5:08
-Datos Fantasy: 25/8/26, 5:08
+Generada: 25/8/26, 6:49
+Datos Fantasy: 25/8/26, 6:49
 
 Uso: esta es la lista corta que ChatGPT/Codex debe verificar en internet antes de cerrar pujas fuertes o el once. El radar solo aconseja; Ramon ejecuta todo manualmente.
 
@@ -12,15 +12,15 @@ Situacion: puesto 4/12, a 6 del lider.
 - POR Sergio Herrera (sin equipo): MIRAR por 36.946.516 EUR; Ya hay portero fiable; solo interesa si quieres segundo portero.
   Precio: 36.946.516 EUR | valor: 36.501.615 EUR | score interno: 84.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Sergio Herrera para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
-- DEF Gerard Martín (sin equipo): SOLO SI ES CLARO por 39.508.746 EUR; Consume demasiado saldo para una recomendacion automatica.
-  Precio: 39.508.746 EUR | valor: 40.297.824 EUR | score interno: 75.
-  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Gerard Martín para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
 - CEN Marc Roca (sin equipo): FICHAR YA por 5.609.002 EUR; Buen encaje por precio, necesidad y datos internos.
   Precio: 5.609.002 EUR | valor: 5.841.668 EUR | score interno: 86.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Marc Roca para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
 - CEN Valverde (sin equipo): MIRAR por 72.882.912 EUR; No entra en saldo actual sin ventas.
   Precio: 72.882.912 EUR | valor: 72.843.452 EUR | score interno: 72.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Valverde para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
+- DEF Gerard Martín (sin equipo): SOLO SI ES CLARO por 39.508.746 EUR; Consume demasiado saldo para una recomendacion automatica.
+  Precio: 39.508.746 EUR | valor: 40.297.824 EUR | score interno: 71.
+  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Gerard Martín para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
 - CEN Francho (sin equipo): SOLO SI ESTA BARATO por 2.641.403 EUR; Interesante, pero conviene verificar titularidad.
   Precio: 2.641.403 EUR | valor: 2.664.617 EUR | score interno: 74.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Francho para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.

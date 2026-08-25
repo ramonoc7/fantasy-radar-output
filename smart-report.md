@@ -1,7 +1,7 @@
 # Informe Inteligente Ligas Fantasy
 
-Generado: 25/8/26, 5:08
-Datos API: 25/8/26, 5:08
+Generado: 25/8/26, 6:49
+Datos API: 25/8/26, 6:49
 Semana actual: 3
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -70,8 +70,8 @@ Formacion: 4-4-2 | puntuacion interna 871
 
 ### Solo Si Esta Barato
 
-- SOLO SI ES CLARO: DEF Gerard Martín | score 75 | precio 39.508.746 EUR | valor 40.297.824 EUR | puja 40.101.378 EUR | max 41.089.096 EUR | pujas 1 | caduca 25/8/26, 12:46 | base: pts actuales 10 (peso bajo), media 10, pts temp ant 161, valor 40.297.824 EUR | Consume demasiado saldo para una recomendacion automatica
 - SOLO SI ESTA BARATO: CEN Francho | score 74 | precio 2.641.403 EUR | valor 2.664.617 EUR | puja 2.646.686 EUR | max 2.681.025 EUR | pujas 0 | caduca 25/8/26, 12:46 | base: pts actuales 6 (peso bajo), media 6, valor 2.664.617 EUR | Interesante, pero conviene verificar titularidad
+- SOLO SI ES CLARO: DEF Gerard Martín | score 71 | precio 39.508.746 EUR | valor 40.297.824 EUR | puja 40.101.378 EUR | max 41.089.096 EUR | pujas 2 | caduca 25/8/26, 12:46 | base: pts actuales 10 (peso bajo), media 10, pts temp ant 161, valor 40.297.824 EUR | Consume demasiado saldo para una recomendacion automatica
 - SOLO SI ES CLARO: DEF Rüdiger | score 51 | precio 29.476.040 EUR | valor 28.861.713 EUR | puja 29.534.993 EUR | max 29.918.181 EUR | pujas 0 | caduca 25/8/26, 12:46 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 93, valor 28.861.713 EUR | Consume demasiado saldo para una recomendacion automatica
 
 ### Vigilar

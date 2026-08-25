@@ -1,6 +1,6 @@
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-25T03:08:55.552Z
+Datos API: 2026-08-25T04:49:23.953Z
 Semana actual: 3
 
 ## Objetivo
@@ -57,7 +57,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - POR Marrero | precio 943.972 EUR | valor 922.063 EUR | machine | pujas 0 | caduca 25/8/26, 12:46
 - CEN Marc Roca | precio 5.609.002 EUR | valor 5.841.668 EUR | machine | pujas 0 | caduca 25/8/26, 12:46
 - POR Sergio Herrera | precio 36.946.516 EUR | valor 36.501.615 EUR | machine | pujas 0 | caduca 25/8/26, 12:46
-- DEF Gerard Martín | precio 39.508.746 EUR | valor 40.297.824 EUR | machine | pujas 1 | caduca 25/8/26, 12:46
+- DEF Gerard Martín | precio 39.508.746 EUR | valor 40.297.824 EUR | machine | pujas 2 | caduca 25/8/26, 12:46
 - POR Swiderski | precio 543.485 EUR | valor 536.806 EUR | machine | pujas 0 | caduca 25/8/26, 12:46
 - CEN D. Villares | precio 2.079.968 EUR | valor 2.027.430 EUR | machine | pujas 0 | caduca 25/8/26, 12:46
 - CEN Francho | precio 2.641.403 EUR | valor 2.664.617 EUR | machine | pujas 0 | caduca 25/8/26, 12:46
@@ -80,7 +80,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 - CEN Valverde | precio 72.882.912 EUR | valor 72.843.452 EUR | machine | pujas 1 | caduca 25/8/26, 12:46
 - CEN Moleiro | precio 62.002.118 EUR | valor 61.004.721 EUR | machine | pujas 0 | caduca 25/8/26, 12:46
-- DEF Gerard Martín | precio 39.508.746 EUR | valor 40.297.824 EUR | machine | pujas 1 | caduca 25/8/26, 12:46
+- DEF Gerard Martín | precio 39.508.746 EUR | valor 40.297.824 EUR | machine | pujas 2 | caduca 25/8/26, 12:46
 - POR Sergio Herrera | precio 36.946.516 EUR | valor 36.501.615 EUR | machine | pujas 0 | caduca 25/8/26, 12:46
 - DEF Rüdiger | precio 29.476.040 EUR | valor 28.861.713 EUR | machine | pujas 0 | caduca 25/8/26, 12:46
 
