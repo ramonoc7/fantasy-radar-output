@@ -1,7 +1,7 @@
 # Cola diaria de noticias y titularidad
 
-Generada: 25/8/26, 1:31
-Datos Fantasy: 25/8/26, 1:31
+Generada: 25/8/26, 3:48
+Datos Fantasy: 25/8/26, 3:48
 
 Uso: esta es la lista corta que ChatGPT/Codex debe verificar en internet antes de cerrar pujas fuertes o el once. El radar solo aconseja; Ramon ejecuta todo manualmente.
 
@@ -100,12 +100,12 @@ Situacion: puesto 4/10, a 20 del lider.
 - DEL Alexis Ciria (sin equipo): VIGILAR por 898.091 EUR; Puede servir si mejora titularidad/precio.
   Precio: 898.091 EUR | valor: 877.360 EUR | score interno: 62.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Alexis Ciria para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Mastuerzos. No ejecutes acciones: solo aconseja.
+- DEF Nuñez (sin equipo): MIRAR por 5.606.954 EUR; No entra en saldo actual sin ventas.
+  Precio: 5.606.954 EUR | valor: 5.933.780 EUR | score interno: 55.
+  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Nuñez para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Mastuerzos. No ejecutes acciones: solo aconseja.
 - DEL Dubasin (sin equipo): MIRAR por 12.784.410 EUR; No entra en saldo actual sin ventas.
   Precio: 12.784.410 EUR | valor: 12.435.123 EUR | score interno: 51.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Dubasin para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Mastuerzos. No ejecutes acciones: solo aconseja.
-- DEF Nuñez (sin equipo): MIRAR por 5.606.954 EUR; No entra en saldo actual sin ventas.
-  Precio: 5.606.954 EUR | valor: 5.933.780 EUR | score interno: 59.
-  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Nuñez para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Mastuerzos. No ejecutes acciones: solo aconseja.
 - DEF Cardoso (sin equipo): VIGILAR por 711.418 EUR; Puede servir si mejora titularidad/precio.
   Precio: 711.418 EUR | valor: 698.154 EUR | score interno: 57.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Cardoso para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Mastuerzos. No ejecutes acciones: solo aconseja.

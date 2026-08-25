@@ -1,8 +1,8 @@
 # Informe Inteligente Ligas Fantasy
 
-Generado: 25/8/26, 1:31
-Datos API: 25/8/26, 1:31
-Semana actual: 2
+Generado: 25/8/26, 3:48
+Datos API: 25/8/26, 3:48
+Semana actual: 3
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
 > Criterio: los puntos actuales pesan poco. Un 0 actual no basta para vender a un jugador con buen precio, rol, memoria o titularidad esperada.
@@ -107,6 +107,7 @@ Formacion: 4-4-2 | puntuacion interna 871
 ### Alertas
 
 - Isi en plantilla aparece como injured.
+- 12 jugador(es) jugables caducan en menos de 8 horas.
 - 1 entrenador(es) ignorados por Premium.
 
 ### Situacion
@@ -254,9 +255,9 @@ Formacion: 4-4-2 | puntuacion interna 860
 - MIRAR: DEL Iñaki Williams | score 72 | precio 26.965.234 EUR | valor 26.691.201 EUR | puja 27.019.165 EUR | max 27.369.713 EUR | pujas 0 | caduca 25/8/26, 22:10 | base: pts actuales 4 (peso bajo), media 4, pts temp ant 132, valor 26.691.201 EUR | No entra en saldo actual sin ventas
 - MIRAR: DEF Bartra | score 69 | precio 27.720.326 EUR | valor 28.514.361 EUR | puja 27.775.767 EUR | max 28.136.131 EUR | pujas 0 | caduca 25/8/26, 22:10 | base: pts actuales 10 (peso bajo), media 10, pts temp ant 140, valor 28.514.361 EUR | No entra en saldo actual sin ventas
 - VIGILAR: DEL Alexis Ciria | score 62 | precio 898.091 EUR | valor 877.360 EUR | puja 899.888 EUR | max 911.563 EUR | pujas 0 | caduca 25/8/26, 22:10 | base: pts actuales 0 (peso bajo), media 0, valor 877.360 EUR | Puede servir si mejora titularidad/precio
-- MIRAR: DEF Nuñez | score 59 | precio 5.606.954 EUR | valor 5.933.780 EUR | puja 5.618.168 EUR | max 5.815.105 EUR | pujas 0 | caduca 25/8/26, 22:10 | base: pts actuales 13 (peso bajo), media 6.5, pts temp ant 48, valor 5.933.780 EUR | No entra en saldo actual sin ventas
 - VIGILAR: DEF Cardoso | score 57 | precio 711.418 EUR | valor 698.154 EUR | puja 712.841 EUR | max 722.090 EUR | pujas 0 | caduca 25/8/26, 22:10 | base: pts actuales 0 (peso bajo), media 0, pts temp ant 20, valor 698.154 EUR | Puede servir si mejora titularidad/precio
 - VIGILAR: DEF Barzic | score 55 | precio 690.831 EUR | valor 678.390 EUR | puja 692.213 EUR | max 701.194 EUR | pujas 0 | caduca 25/8/26, 22:10 | base: pts actuales 0 (peso bajo), media 0, valor 678.390 EUR | Puede servir si mejora titularidad/precio
+- MIRAR: DEF Nuñez | score 55 | precio 5.606.954 EUR | valor 5.933.780 EUR | puja 5.803.198 EUR | max 6.055.511 EUR | pujas 1 | caduca 25/8/26, 22:10 | base: pts actuales 13 (peso bajo), media 6.5, pts temp ant 48, valor 5.933.780 EUR | No entra en saldo actual sin ventas
 - MIRAR: DEL Dubasin | score 51 | precio 12.784.410 EUR | valor 12.435.123 EUR | puja 12.809.979 EUR | max 12.976.177 EUR | pujas 0 | caduca 25/8/26, 22:10 | base: pts actuales 2 (peso bajo), media 2, valor 12.435.123 EUR | No entra en saldo actual sin ventas
 - MIRAR: DEF V. Chust | score 51 | precio 5.620.791 EUR | valor 5.695.688 EUR | puja 5.632.033 EUR | max 5.705.103 EUR | pujas 0 | caduca 25/8/26, 22:10 | base: pts actuales 3 (peso bajo), media 1.5, pts temp ant 96, valor 5.695.688 EUR | No entra en saldo actual sin ventas
 
