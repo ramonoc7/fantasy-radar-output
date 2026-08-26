@@ -1,6 +1,6 @@
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-26T10:47:23.736Z
+Datos API: 2026-08-26T11:39:14.058Z
 Semana actual: 3
 
 ## Objetivo
@@ -30,7 +30,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - Saldo: -32.946.402 EUR
 - Valor plantilla: 281.574.239 EUR
 - Jugadores plantilla: 16
-- Mercado jugable: 20
+- Mercado jugable: 17
 - Entrenadores ignorados: 1
 - Estrategia: Arreglar porteria y defensa sin desmontar activos caros; convertir dinero concentrado en titulares baratos utiles.
 
@@ -61,20 +61,20 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - CEN Requena | precio 1.612.539 EUR | valor 1.612.539 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
 - DEF Gayá | precio 10.466.363 EUR | valor 10.466.363 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
 - CEN Guillén | precio 3.862.148 EUR | valor 3.862.148 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
-- CEN O. Rey | precio 849.670 EUR | valor 849.670 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
+- CEN O. Rey | precio 849.670 EUR | valor 849.670 EUR | machine | pujas 1 | caduca 27/8/26, 12:46
 - DEL Gorka Carrera | precio 664.893 EUR | valor 664.893 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
-- DEL Arnau Ortiz | precio 1.236.545 EUR | valor 1.236.545 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
+- DEL Arnau Ortiz | precio 1.236.545 EUR | valor 1.236.545 EUR | machine | pujas 1 | caduca 27/8/26, 12:46
 - DEL Julián Alvarez | precio 62.517.017 EUR | valor 62.517.017 EUR | machine | pujas 0 | caduca 27/8/26, 12:46 | estado doubtful
 - POR Gulácsi | precio 3.633.550 EUR | valor 3.633.550 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
-- CEN Kang-In Lee | precio 48.966.230 EUR | valor 48.966.230 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
+- CEN Kang-In Lee | precio 48.966.230 EUR | valor 48.966.230 EUR | machine | pujas 1 | caduca 27/8/26, 12:46
 
 #### Baratos a revisar
 
 - DEL Gorka Carrera | precio 664.893 EUR | valor 664.893 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
-- CEN O. Rey | precio 849.670 EUR | valor 849.670 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
+- CEN O. Rey | precio 849.670 EUR | valor 849.670 EUR | machine | pujas 1 | caduca 27/8/26, 12:46
 - DEL Marcos | precio 1.082.525 EUR | valor 1.082.525 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
 - CEN Gerenabarrena | precio 1.149.297 EUR | valor 1.149.297 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
-- DEL Arnau Ortiz | precio 1.236.545 EUR | valor 1.236.545 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
+- DEL Arnau Ortiz | precio 1.236.545 EUR | valor 1.236.545 EUR | machine | pujas 1 | caduca 27/8/26, 12:46
 - CEN Requena | precio 1.612.539 EUR | valor 1.612.539 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
 - CEN Herrera | precio 3.323.516 EUR | valor 3.323.516 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
 - POR Gulácsi | precio 3.633.550 EUR | valor 3.633.550 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
@@ -82,7 +82,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 #### Premium a revisar
 
-- CEN Kang-In Lee | precio 48.966.230 EUR | valor 48.966.230 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
+- CEN Kang-In Lee | precio 48.966.230 EUR | valor 48.966.230 EUR | machine | pujas 1 | caduca 27/8/26, 12:46
 - CEN Kubo | precio 27.842.322 EUR | valor 27.986.814 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 29/8/26, 0:14
 - CEN Guido Rodríguez | precio 24.019.590 EUR | valor 24.520.433 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 29/8/26, 0:14
 
@@ -90,9 +90,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 - Saldo negativo: hay que volver a positivo antes del inicio de jornada.
 - Julián Alvarez: estado doubtful en mercado.
-- Vivian: estado injured en mercado.
 - V. Rosier: estado injured en mercado.
-- Manuel Fernández: estado out_of_league en mercado.
 - Hay 1 entrenadores en mercado: ignorar por funcion Premium bloqueada.
 
 ### Fantasmas League

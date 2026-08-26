@@ -1,7 +1,7 @@
 # Cola diaria de noticias y titularidad
 
-Generada: 26/8/26, 12:47
-Datos Fantasy: 26/8/26, 12:47
+Generada: 26/8/26, 13:39
+Datos Fantasy: 26/8/26, 13:39
 
 Uso: esta es la lista corta que ChatGPT/Codex debe verificar en internet antes de cerrar pujas fuertes o el once. El radar solo aconseja; Ramon ejecuta todo manualmente.
 
@@ -16,17 +16,17 @@ Situacion: puesto 4/12, a 6 del lider.
   Precio: 12.329.561 EUR | valor: 12.329.561 EUR | score interno: 66.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Fran García Real Betis para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
 - CEN Kang-In Lee (sin equipo): SOLO SI ES CLARO por 48.966.230 EUR; Consume demasiado saldo para una recomendacion automatica.
-  Precio: 48.966.230 EUR | valor: 48.966.230 EUR | score interno: 62.
+  Precio: 48.966.230 EUR | valor: 48.966.230 EUR | score interno: 58.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Kang-In Lee para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
 - DEF Gayá (sin equipo): SOLO SI ES CLARO por 10.466.363 EUR; Consume demasiado saldo para una recomendacion automatica.
   Precio: 10.466.363 EUR | valor: 10.466.363 EUR | score interno: 60.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Gayá para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
+- CEN Guido Rodríguez (sin equipo): SOLO SI ES CLARO por 24.019.590 EUR; Consume demasiado saldo para una recomendacion automatica.
+  Precio: 24.019.590 EUR | valor: 24.520.433 EUR | score interno: 53.
+  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Guido Rodríguez para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
 - CEN O. Rey (sin equipo): SOLO SI ES CLARO por 849.670 EUR; Consume demasiado saldo para una recomendacion automatica.
-  Precio: 849.670 EUR | valor: 849.670 EUR | score interno: 56.
+  Precio: 849.670 EUR | valor: 849.670 EUR | score interno: 52.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de O. Rey para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
-- DEL Arnau Ortiz (sin equipo): SOLO SI ES CLARO por 1.236.545 EUR; Consume demasiado saldo para una recomendacion automatica.
-  Precio: 1.236.545 EUR | valor: 1.236.545 EUR | score interno: 55.
-  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Arnau Ortiz para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
 - CEN Herrera (sin equipo): SOLO SI ES CLARO por 3.323.516 EUR; Consume demasiado saldo para una recomendacion automatica.
   Precio: 3.323.516 EUR | valor: 3.323.516 EUR | score interno: 55.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Herrera para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
