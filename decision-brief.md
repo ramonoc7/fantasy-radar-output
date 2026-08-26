@@ -1,6 +1,6 @@
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-26T11:39:14.058Z
+Datos API: 2026-08-26T13:11:25.862Z
 Semana actual: 3
 
 ## Objetivo
@@ -98,7 +98,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - Saldo: 26.224.320 EUR
 - Valor plantilla: 220.497.914 EUR
 - Jugadores plantilla: 15
-- Mercado jugable: 24
+- Mercado jugable: 25
 - Entrenadores ignorados: 2
 - Estrategia: Construir un equipo ganador priorizando 11 titulares reales, gangas de mercado y revalorizacion.
 
@@ -150,6 +150,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 #### Premium a revisar
 
 - DEL Lamine Yamal | precio 160.000.000 EUR | valor 126.467.655 EUR | rival | ofertas 1 | vende West Jamon C.F.D. | caduca 28/8/26, 0:28
+- DEL Mbappé | precio 129.980.560 EUR | valor 129.980.560 EUR | rival | ofertas 0 | vende Dynamo de Maghreb FC | caduca 29/8/26, 13:50
 - DEL Mikautadze | precio 68.270.452 EUR | valor 69.651.107 EUR | rival | ofertas 0 | vende Mynavo Kyiv | caduca 28/8/26, 17:05
 - DEL Oyarzabal | precio 61.029.593 EUR | valor 61.029.593 EUR | machine | pujas 0 | caduca 27/8/26, 10:53
 - DEL Yeremay | precio 60.000.000 EUR | valor 40.811.902 EUR | rival | ofertas 1 | vende West Jamon C.F.D. | caduca 28/8/26, 20:12

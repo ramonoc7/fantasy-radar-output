@@ -1,7 +1,7 @@
 # Informe Inteligente Ligas Fantasy
 
-Generado: 26/8/26, 13:39
-Datos API: 26/8/26, 13:39
+Generado: 26/8/26, 15:11
+Datos API: 26/8/26, 15:11
 Semana actual: 3
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -106,7 +106,7 @@ Formacion: 4-4-2 | puntuacion interna 901
 - Liga: puesto 3/10, 79 puntos, a 34 del lider (Mynavo Kyiv)
 - Ranking por valor de plantilla: 4/10
 - Plantilla: 15 jugadores
-- Mercado jugable: 24
+- Mercado jugable: 25
 
 ### Alertas
 
@@ -204,6 +204,7 @@ Formacion: 4-4-2 | puntuacion interna 831
 
 ### Alertas
 
+- 12 jugador(es) jugables caducan en menos de 8 horas.
 - 1 entrenador(es) ignorados por Premium.
 
 ### Situacion

@@ -1,10 +1,10 @@
 # ChatGPT Mobile Pack - Ligas Fantasy
 
-Actualizado: 2026-08-26T11:39:14.058Z
+Actualizado: 2026-08-26T13:11:25.862Z
 
 ## Fuente de verdad para informes
 
-Datos Fantasy actuales: 2026-08-26T11:39:14.058Z
+Datos Fantasy actuales: 2026-08-26T13:11:25.862Z
 
 Reglas obligatorias para ChatGPT:
 - Plantilla, saldo, mercado, pujas, actividad y once guardado actuales salen de este pack/radar, no de capturas antiguas ni memoria de conversaciones.
@@ -32,7 +32,7 @@ Formato obligatorio de cada informe de liga:
 
 Estado actual detectado por liga:
 - Los Primacos (los-primacos): saldo -32.946.402 EUR | valor 281.574.239 EUR | plantilla 16 | mercado jugable 17 | ENT ignorados 1
-- Fantasmas League (fantasmas-league): saldo 26.224.320 EUR | valor 220.497.914 EUR | plantilla 15 | mercado jugable 24 | pujas/inversion detectada 9.222.988 EUR | ENT ignorados 2
+- Fantasmas League (fantasmas-league): saldo 26.224.320 EUR | valor 220.497.914 EUR | plantilla 15 | mercado jugable 25 | pujas/inversion detectada 9.222.988 EUR | ENT ignorados 2
 - Los Mastuerzos (los-mastuerzos): saldo 9.590.829 EUR | valor 229.695.839 EUR | plantilla 12 | mercado jugable 15 | pujas/inversion detectada 11.929.178 EUR | ENT ignorados 1
 
 ## Resumen movil de 10 minutos
@@ -88,7 +88,7 @@ Ventas / huecos:
 
 ### Fantasmas League
 
-Saldo 26.224.320 EUR | plantilla 15 | mercado 24 | puesto 3/10, a 34 del lider
+Saldo 26.224.320 EUR | plantilla 15 | mercado 25 | puesto 3/10, a 34 del lider
 Alertas: Isi en plantilla aparece como injured. / 2 entrenador(es) ignorados por Premium.
 
 Once recomendado:
@@ -120,6 +120,7 @@ Mercado completo detectado:
 - CEN Iker Muñoz | precio 1.167.383 EUR | valor 1.194.987 EUR | VIGILAR | 2 ofertas | estado ok | max 1.314.486 EUR
 - DEL Etta Eyong | precio 22.549.120 EUR | valor 21.384.105 EUR | SOLO SI ES CLARO | 1 ofertas | estado ok | max 23.522.516 EUR
 - POR Gulácsi | precio 3.633.550 EUR | valor 3.633.550 EUR | VIGILAR | 0 pujas | estado ok | max 3.688.054 EUR
+- DEL Mbappé | precio 129.980.560 EUR | valor 129.980.560 EUR | MIRAR | 0 ofertas | estado ok | max 131.930.269 EUR
 - DEF Salinas | precio 886.022 EUR | valor 886.022 EUR | VIGILAR | 0 pujas | estado ok | max 899.313 EUR
 - DEL Oyarzabal | precio 61.029.593 EUR | valor 61.029.593 EUR | MIRAR | 0 pujas | estado ok | max 61.945.037 EUR
 - DEF Xanet Olaiz | precio 529.715 EUR | valor 529.715 EUR | VIGILAR | 0 pujas | estado ok | max 537.661 EUR
@@ -142,7 +143,7 @@ Ventas / huecos:
 ### Los Mastuerzos
 
 Saldo 9.590.829 EUR | plantilla 12 | mercado 15 | puesto 4/10, a 20 del lider
-Alertas: 1 entrenador(es) ignorados por Premium.
+Alertas: 12 jugador(es) jugables caducan en menos de 8 horas. / 1 entrenador(es) ignorados por Premium.
 
 Once recomendado:
 4-4-2: POR David Soria / DEF Sergio Gómez / DEF C. Puga / DEF Javi Rodríguez / DEF Koski / CEN Javi Guerra / CEN Valverde / CEN R. Terrats / CEN Germán V. / DEL Hugo Duro / DEL Chupe
@@ -297,7 +298,7 @@ Prioridades:
 
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-26T11:39:14.058Z
+Datos API: 2026-08-26T13:11:25.862Z
 Semana actual: 3
 
 ## Objetivo
@@ -395,7 +396,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - Saldo: 26.224.320 EUR
 - Valor plantilla: 220.497.914 EUR
 - Jugadores plantilla: 15
-- Mercado jugable: 24
+- Mercado jugable: 25
 - Entrenadores ignorados: 2
 - Estrategia: Construir un equipo ganador priorizando 11 titulares reales, gangas de mercado y revalorizacion.
 
@@ -447,6 +448,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 #### Premium a revisar
 
 - DEL Lamine Yamal | precio 160.000.000 EUR | valor 126.467.655 EUR | rival | ofertas 1 | vende West Jamon C.F.D. | caduca 28/8/26, 0:28
+- DEL Mbappé | precio 129.980.560 EUR | valor 129.980.560 EUR | rival | ofertas 0 | vende Dynamo de Maghreb FC | caduca 29/8/26, 13:50
 - DEL Mikautadze | precio 68.270.452 EUR | valor 69.651.107 EUR | rival | ofertas 0 | vende Mynavo Kyiv | caduca 28/8/26, 17:05
 - DEL Oyarzabal | precio 61.029.593 EUR | valor 61.029.593 EUR | machine | pujas 0 | caduca 27/8/26, 10:53
 - DEL Yeremay | precio 60.000.000 EUR | valor 40.811.902 EUR | rival | ofertas 1 | vende West Jamon C.F.D. | caduca 28/8/26, 20:12
@@ -526,8 +528,8 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 # Cola diaria de noticias y titularidad
 
-Generada: 26/8/26, 13:39
-Datos Fantasy: 26/8/26, 13:39
+Generada: 26/8/26, 15:11
+Datos Fantasy: 26/8/26, 15:11
 
 Uso: esta es la lista corta que ChatGPT/Codex debe verificar en internet antes de cerrar pujas fuertes o el once. El radar solo aconseja; Ramon ejecuta todo manualmente.
 
@@ -648,8 +650,8 @@ Usa esta cola. Busca en internet noticias recientes, onces probables, rol previs
 
 # Informe Inteligente Ligas Fantasy
 
-Generado: 26/8/26, 13:39
-Datos API: 26/8/26, 13:39
+Generado: 26/8/26, 15:11
+Datos API: 26/8/26, 15:11
 Semana actual: 3
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -754,7 +756,7 @@ Formacion: 4-4-2 | puntuacion interna 901
 - Liga: puesto 3/10, 79 puntos, a 34 del lider (Mynavo Kyiv)
 - Ranking por valor de plantilla: 4/10
 - Plantilla: 15 jugadores
-- Mercado jugable: 24
+- Mercado jugable: 25
 
 ### Alertas
 
@@ -852,6 +854,7 @@ Formacion: 4-4-2 | puntuacion interna 831
 
 ### Alertas
 
+- 12 jugador(es) jugables caducan en menos de 8 horas.
 - 1 entrenador(es) ignorados por Premium.
 
 ### Situacion
