@@ -1,10 +1,10 @@
 # ChatGPT Mobile Pack - Ligas Fantasy
 
-Actualizado: 2026-08-26T08:57:25.129Z
+Actualizado: 2026-08-26T09:53:17.313Z
 
 ## Fuente de verdad para informes
 
-Datos Fantasy actuales: 2026-08-26T08:57:25.129Z
+Datos Fantasy actuales: 2026-08-26T09:53:17.313Z
 
 Reglas obligatorias para ChatGPT:
 - Plantilla, saldo, mercado, pujas, actividad y once guardado actuales salen de este pack/radar, no de capturas antiguas ni memoria de conversaciones.
@@ -56,17 +56,17 @@ Cambios frente al once guardado:
 
 Mercado, mirar primero:
 - SOLO SI ES CLARO: DEL Pepe | 63.583.559 EUR | 0 pujas | puja 63.710.727 EUR, max 64.537.313 EUR
-- SOLO SI ES CLARO: DEF Eric | 49.036.895 EUR | 1 pujas | puja 49.772.449 EUR, max 50.998.371 EUR
-- SOLO SI ES CLARO: DEL Peque | 2.628.990 EUR | 1 pujas | puja 2.786.730 EUR, max 2.943.843 EUR
+- SOLO SI ES CLARO: DEF Eric | 49.036.895 EUR | 2 pujas | puja 49.772.449 EUR, max 50.998.371 EUR
 - SOLO SI ES CLARO: DEF Fran García | 11.655.177 EUR | 0 ofertas | puja 11.678.488 EUR, max 12.082.970 EUR
 - SOLO SI ES CLARO: CEN Bellingham | 94.508.594 EUR | 0 pujas | puja 94.697.612 EUR, max 95.926.223 EUR
+- SOLO SI ES CLARO: DEL Peque | 2.628.990 EUR | 2 pujas | puja 2.786.730 EUR, max 2.943.843 EUR
 
 Mercado completo detectado:
 - DEL Pepe | precio 63.583.559 EUR | valor 64.607.793 EUR | SOLO SI ES CLARO | 0 pujas | estado ok | max 64.537.313 EUR
-- DEF Eric | precio 49.036.895 EUR | valor 50.306.563 EUR | SOLO SI ES CLARO | 1 pujas | estado ok | max 50.998.371 EUR
-- DEL Peque | precio 2.628.990 EUR | valor 2.676.220 EUR | SOLO SI ES CLARO | 1 pujas | estado ok | max 2.943.843 EUR
+- DEF Eric | precio 49.036.895 EUR | valor 50.306.563 EUR | SOLO SI ES CLARO | 2 pujas | estado ok | max 50.998.371 EUR
 - DEF Fran García | precio 11.655.177 EUR | valor 12.329.561 EUR | SOLO SI ES CLARO | 0 ofertas | estado ok | max 12.082.970 EUR
 - CEN Bellingham | precio 94.508.594 EUR | valor 95.316.537 EUR | SOLO SI ES CLARO | 0 pujas | estado ok | max 95.926.223 EUR
+- DEL Peque | precio 2.628.990 EUR | valor 2.676.220 EUR | SOLO SI ES CLARO | 2 pujas | estado ok | max 2.943.843 EUR
 - DEF Carreira | precio 6.426.769 EUR | valor 6.477.723 EUR | SOLO SI ES CLARO | 1 pujas | estado ok | max 6.940.911 EUR
 - CEN Kubo | precio 27.842.322 EUR | valor 27.986.814 EUR | SOLO SI ES CLARO | 0 ofertas | estado ok | max 28.259.957 EUR
 - CEN Rioja | precio 9.458.824 EUR | valor 9.263.485 EUR | SOLO SI ES CLARO | 0 ofertas | estado ok | max 9.600.707 EUR
@@ -300,7 +300,7 @@ Prioridades:
 
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-26T08:57:25.129Z
+Datos API: 2026-08-26T09:53:17.313Z
 Semana actual: 3
 
 ## Objetivo
@@ -361,9 +361,9 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - DEF Carreira | precio 6.426.769 EUR | valor 6.477.723 EUR | machine | pujas 1 | caduca 26/8/26, 12:46
 - DEF Saba Sazonov | precio 994.889 EUR | valor 1.003.694 EUR | machine | pujas 0 | caduca 26/8/26, 12:46
 - DEL Pepe | precio 63.583.559 EUR | valor 64.607.793 EUR | machine | pujas 0 | caduca 26/8/26, 12:46
-- DEL Peque | precio 2.628.990 EUR | valor 2.676.220 EUR | machine | pujas 1 | caduca 26/8/26, 12:46
+- DEL Peque | precio 2.628.990 EUR | valor 2.676.220 EUR | machine | pujas 2 | caduca 26/8/26, 12:46
 - DEF Valentini | precio 965.525 EUR | valor 941.285 EUR | machine | pujas 0 | caduca 26/8/26, 12:46
-- DEF Eric | precio 49.036.895 EUR | valor 50.306.563 EUR | machine | pujas 1 | caduca 26/8/26, 12:46
+- DEF Eric | precio 49.036.895 EUR | valor 50.306.563 EUR | machine | pujas 2 | caduca 26/8/26, 12:46
 - DEL Umaru | precio 678.390 EUR | valor 665.637 EUR | machine | pujas 0 | caduca 26/8/26, 12:46
 - DEL Kike García | precio 2.637.726 EUR | valor 2.552.741 EUR | machine | pujas 0 | caduca 26/8/26, 12:46 | estado injured
 - DEF V. Rosier | precio 5.000.000 EUR | valor 4.101.506 EUR | rival | ofertas 1 | vende leomaldonado10 | caduca 28/8/26, 10:25 | estado injured
@@ -375,13 +375,13 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - DEF Saba Sazonov | precio 994.889 EUR | valor 1.003.694 EUR | machine | pujas 0 | caduca 26/8/26, 12:46
 - CEN H. González | precio 1.245.640 EUR | valor 1.215.845 EUR | machine | pujas 0 | caduca 26/8/26, 12:46
 - CEN Sergio | precio 1.314.482 EUR | valor 1.410.523 EUR | machine | pujas 2 | caduca 26/8/26, 12:46
-- DEL Peque | precio 2.628.990 EUR | valor 2.676.220 EUR | machine | pujas 1 | caduca 26/8/26, 12:46
+- DEL Peque | precio 2.628.990 EUR | valor 2.676.220 EUR | machine | pujas 2 | caduca 26/8/26, 12:46
 
 #### Premium a revisar
 
 - CEN Bellingham | precio 94.508.594 EUR | valor 95.316.537 EUR | machine | pujas 0 | caduca 26/8/26, 12:46
 - DEL Pepe | precio 63.583.559 EUR | valor 64.607.793 EUR | machine | pujas 0 | caduca 26/8/26, 12:46
-- DEF Eric | precio 49.036.895 EUR | valor 50.306.563 EUR | machine | pujas 1 | caduca 26/8/26, 12:46
+- DEF Eric | precio 49.036.895 EUR | valor 50.306.563 EUR | machine | pujas 2 | caduca 26/8/26, 12:46
 - CEN Kubo | precio 27.842.322 EUR | valor 27.986.814 EUR | rival | ofertas 0 | vende Ramounsitou | caduca 29/8/26, 0:14
 - CEN Guido Rodríguez | precio 24.019.590 EUR | valor 24.520.433 EUR | rival | ofertas 0 | vende Ramounsitou | caduca 29/8/26, 0:14
 
@@ -531,8 +531,8 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 # Cola diaria de noticias y titularidad
 
-Generada: 26/8/26, 10:57
-Datos Fantasy: 26/8/26, 10:57
+Generada: 26/8/26, 11:53
+Datos Fantasy: 26/8/26, 11:53
 
 Uso: esta es la lista corta que ChatGPT/Codex debe verificar en internet antes de cerrar pujas fuertes o el once. El radar solo aconseja; Ramon ejecuta todo manualmente.
 
@@ -547,7 +547,7 @@ Situacion: puesto 4/12, a 6 del lider.
   Precio: 12.329.561 EUR | valor: 12.329.561 EUR | score interno: 66.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Fran García Real Betis para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
 - DEF Eric (sin equipo): SOLO SI ES CLARO por 49.036.895 EUR; Consume demasiado saldo para una recomendacion automatica.
-  Precio: 49.036.895 EUR | valor: 50.306.563 EUR | score interno: 71.
+  Precio: 49.036.895 EUR | valor: 50.306.563 EUR | score interno: 67.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Eric para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
 - DEL Pepe (sin equipo): SOLO SI ES CLARO por 63.583.559 EUR; Consume demasiado saldo para una recomendacion automatica.
   Precio: 63.583.559 EUR | valor: 64.607.793 EUR | score interno: 72.
@@ -556,7 +556,7 @@ Situacion: puesto 4/12, a 6 del lider.
   Precio: 94.508.594 EUR | valor: 95.316.537 EUR | score interno: 61.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Bellingham para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
 - DEL Peque (sin equipo): SOLO SI ES CLARO por 2.628.990 EUR; Consume demasiado saldo para una recomendacion automatica.
-  Precio: 2.628.990 EUR | valor: 2.676.220 EUR | score interno: 64.
+  Precio: 2.628.990 EUR | valor: 2.676.220 EUR | score interno: 60.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Peque para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
 - DEF Carreira (sin equipo): SOLO SI ES CLARO por 6.426.769 EUR; Consume demasiado saldo para una recomendacion automatica.
   Precio: 6.426.769 EUR | valor: 6.477.723 EUR | score interno: 59.
@@ -650,8 +650,8 @@ Usa esta cola. Busca en internet noticias recientes, onces probables, rol previs
 
 # Informe Inteligente Ligas Fantasy
 
-Generado: 26/8/26, 10:57
-Datos API: 26/8/26, 10:57
+Generado: 26/8/26, 11:53
+Datos API: 26/8/26, 11:53
 Semana actual: 3
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -724,10 +724,10 @@ Formacion: 4-4-2 | puntuacion interna 901
 ### Solo Si Esta Barato
 
 - SOLO SI ES CLARO: DEL Pepe | score 72 | precio 63.583.559 EUR | valor 64.607.793 EUR | puja 63.710.727 EUR | max 64.537.313 EUR | pujas 0 | caduca 26/8/26, 12:46 | base: pts actuales 19 (peso bajo), media 9.5, valor 64.607.793 EUR | Consume demasiado saldo para una recomendacion automatica
-- SOLO SI ES CLARO: DEF Eric | score 71 | precio 49.036.895 EUR | valor 50.306.563 EUR | puja 49.772.449 EUR | max 50.998.371 EUR | pujas 1 | caduca 26/8/26, 12:46 | base: pts actuales 11 (peso bajo), media 11, pts temp ant 201, valor 50.306.563 EUR | Consume demasiado saldo para una recomendacion automatica
-- SOLO SI ES CLARO: DEL Peque | score 64 | precio 2.628.990 EUR | valor 2.676.220 EUR | puja 2.786.730 EUR | max 2.943.843 EUR | pujas 1 | caduca 26/8/26, 12:46 | base: pts actuales 9 (peso bajo), media 4.5, pts temp ant 72, valor 2.676.220 EUR | Consume demasiado saldo para una recomendacion automatica
+- SOLO SI ES CLARO: DEF Eric | score 67 | precio 49.036.895 EUR | valor 50.306.563 EUR | puja 49.772.449 EUR | max 50.998.371 EUR | pujas 2 | caduca 26/8/26, 12:46 | base: pts actuales 11 (peso bajo), media 11, pts temp ant 201, valor 50.306.563 EUR | Consume demasiado saldo para una recomendacion automatica
 - SOLO SI ES CLARO: DEF Fran García | score 62 | precio 11.655.177 EUR | valor 12.329.561 EUR | puja 11.678.488 EUR | max 12.082.970 EUR | ofertas 0 | vende Ramounsitou | caduca 29/8/26, 0:14 | base: pts actuales 16 (peso bajo), media 8, pts temp ant 57, valor 12.329.561 EUR | Consume demasiado saldo para una recomendacion automatica
 - SOLO SI ES CLARO: CEN Bellingham | score 61 | precio 94.508.594 EUR | valor 95.316.537 EUR | puja 94.697.612 EUR | max 95.926.223 EUR | pujas 0 | caduca 26/8/26, 12:46 | base: pts actuales 13 (peso bajo), media 13, valor 95.316.537 EUR | Consume demasiado saldo para una recomendacion automatica
+- SOLO SI ES CLARO: DEL Peque | score 60 | precio 2.628.990 EUR | valor 2.676.220 EUR | puja 2.786.730 EUR | max 2.943.843 EUR | pujas 2 | caduca 26/8/26, 12:46 | base: pts actuales 9 (peso bajo), media 4.5, pts temp ant 72, valor 2.676.220 EUR | Consume demasiado saldo para una recomendacion automatica
 - SOLO SI ES CLARO: DEF Carreira | score 59 | precio 6.426.769 EUR | valor 6.477.723 EUR | puja 6.651.706 EUR | max 6.940.911 EUR | pujas 1 | caduca 26/8/26, 12:46 | base: pts actuales 6 (peso bajo), media 6, pts temp ant 130, valor 6.477.723 EUR | Consume demasiado saldo para una recomendacion automatica
 - SOLO SI ES CLARO: CEN Kubo | score 59 | precio 27.842.322 EUR | valor 27.986.814 EUR | puja 27.898.007 EUR | max 28.259.957 EUR | ofertas 0 | vende Ramounsitou | caduca 29/8/26, 0:14 | base: pts actuales 4 (peso bajo), media 4, pts temp ant 122, valor 27.986.814 EUR | Consume demasiado saldo para una recomendacion automatica
 - SOLO SI ES CLARO: CEN Rioja | score 57 | precio 9.458.824 EUR | valor 9.263.485 EUR | puja 9.477.742 EUR | max 9.600.707 EUR | ofertas 0 | vende Rubio 05 | caduca 28/8/26, 18:34 | base: pts actuales 3 (peso bajo), media 3, pts temp ant 191, valor 9.263.485 EUR | Consume demasiado saldo para una recomendacion automatica

@@ -1,7 +1,7 @@
 # Informe Inteligente Ligas Fantasy
 
-Generado: 26/8/26, 10:57
-Datos API: 26/8/26, 10:57
+Generado: 26/8/26, 11:53
+Datos API: 26/8/26, 11:53
 Semana actual: 3
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -74,10 +74,10 @@ Formacion: 4-4-2 | puntuacion interna 901
 ### Solo Si Esta Barato
 
 - SOLO SI ES CLARO: DEL Pepe | score 72 | precio 63.583.559 EUR | valor 64.607.793 EUR | puja 63.710.727 EUR | max 64.537.313 EUR | pujas 0 | caduca 26/8/26, 12:46 | base: pts actuales 19 (peso bajo), media 9.5, valor 64.607.793 EUR | Consume demasiado saldo para una recomendacion automatica
-- SOLO SI ES CLARO: DEF Eric | score 71 | precio 49.036.895 EUR | valor 50.306.563 EUR | puja 49.772.449 EUR | max 50.998.371 EUR | pujas 1 | caduca 26/8/26, 12:46 | base: pts actuales 11 (peso bajo), media 11, pts temp ant 201, valor 50.306.563 EUR | Consume demasiado saldo para una recomendacion automatica
-- SOLO SI ES CLARO: DEL Peque | score 64 | precio 2.628.990 EUR | valor 2.676.220 EUR | puja 2.786.730 EUR | max 2.943.843 EUR | pujas 1 | caduca 26/8/26, 12:46 | base: pts actuales 9 (peso bajo), media 4.5, pts temp ant 72, valor 2.676.220 EUR | Consume demasiado saldo para una recomendacion automatica
+- SOLO SI ES CLARO: DEF Eric | score 67 | precio 49.036.895 EUR | valor 50.306.563 EUR | puja 49.772.449 EUR | max 50.998.371 EUR | pujas 2 | caduca 26/8/26, 12:46 | base: pts actuales 11 (peso bajo), media 11, pts temp ant 201, valor 50.306.563 EUR | Consume demasiado saldo para una recomendacion automatica
 - SOLO SI ES CLARO: DEF Fran García | score 62 | precio 11.655.177 EUR | valor 12.329.561 EUR | puja 11.678.488 EUR | max 12.082.970 EUR | ofertas 0 | vende Ramounsitou | caduca 29/8/26, 0:14 | base: pts actuales 16 (peso bajo), media 8, pts temp ant 57, valor 12.329.561 EUR | Consume demasiado saldo para una recomendacion automatica
 - SOLO SI ES CLARO: CEN Bellingham | score 61 | precio 94.508.594 EUR | valor 95.316.537 EUR | puja 94.697.612 EUR | max 95.926.223 EUR | pujas 0 | caduca 26/8/26, 12:46 | base: pts actuales 13 (peso bajo), media 13, valor 95.316.537 EUR | Consume demasiado saldo para una recomendacion automatica
+- SOLO SI ES CLARO: DEL Peque | score 60 | precio 2.628.990 EUR | valor 2.676.220 EUR | puja 2.786.730 EUR | max 2.943.843 EUR | pujas 2 | caduca 26/8/26, 12:46 | base: pts actuales 9 (peso bajo), media 4.5, pts temp ant 72, valor 2.676.220 EUR | Consume demasiado saldo para una recomendacion automatica
 - SOLO SI ES CLARO: DEF Carreira | score 59 | precio 6.426.769 EUR | valor 6.477.723 EUR | puja 6.651.706 EUR | max 6.940.911 EUR | pujas 1 | caduca 26/8/26, 12:46 | base: pts actuales 6 (peso bajo), media 6, pts temp ant 130, valor 6.477.723 EUR | Consume demasiado saldo para una recomendacion automatica
 - SOLO SI ES CLARO: CEN Kubo | score 59 | precio 27.842.322 EUR | valor 27.986.814 EUR | puja 27.898.007 EUR | max 28.259.957 EUR | ofertas 0 | vende Ramounsitou | caduca 29/8/26, 0:14 | base: pts actuales 4 (peso bajo), media 4, pts temp ant 122, valor 27.986.814 EUR | Consume demasiado saldo para una recomendacion automatica
 - SOLO SI ES CLARO: CEN Rioja | score 57 | precio 9.458.824 EUR | valor 9.263.485 EUR | puja 9.477.742 EUR | max 9.600.707 EUR | ofertas 0 | vende Rubio 05 | caduca 28/8/26, 18:34 | base: pts actuales 3 (peso bajo), media 3, pts temp ant 191, valor 9.263.485 EUR | Consume demasiado saldo para una recomendacion automatica

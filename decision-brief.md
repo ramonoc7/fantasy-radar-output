@@ -1,6 +1,6 @@
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-26T08:57:25.129Z
+Datos API: 2026-08-26T09:53:17.313Z
 Semana actual: 3
 
 ## Objetivo
@@ -61,9 +61,9 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - DEF Carreira | precio 6.426.769 EUR | valor 6.477.723 EUR | machine | pujas 1 | caduca 26/8/26, 12:46
 - DEF Saba Sazonov | precio 994.889 EUR | valor 1.003.694 EUR | machine | pujas 0 | caduca 26/8/26, 12:46
 - DEL Pepe | precio 63.583.559 EUR | valor 64.607.793 EUR | machine | pujas 0 | caduca 26/8/26, 12:46
-- DEL Peque | precio 2.628.990 EUR | valor 2.676.220 EUR | machine | pujas 1 | caduca 26/8/26, 12:46
+- DEL Peque | precio 2.628.990 EUR | valor 2.676.220 EUR | machine | pujas 2 | caduca 26/8/26, 12:46
 - DEF Valentini | precio 965.525 EUR | valor 941.285 EUR | machine | pujas 0 | caduca 26/8/26, 12:46
-- DEF Eric | precio 49.036.895 EUR | valor 50.306.563 EUR | machine | pujas 1 | caduca 26/8/26, 12:46
+- DEF Eric | precio 49.036.895 EUR | valor 50.306.563 EUR | machine | pujas 2 | caduca 26/8/26, 12:46
 - DEL Umaru | precio 678.390 EUR | valor 665.637 EUR | machine | pujas 0 | caduca 26/8/26, 12:46
 - DEL Kike García | precio 2.637.726 EUR | valor 2.552.741 EUR | machine | pujas 0 | caduca 26/8/26, 12:46 | estado injured
 - DEF V. Rosier | precio 5.000.000 EUR | valor 4.101.506 EUR | rival | ofertas 1 | vende leomaldonado10 | caduca 28/8/26, 10:25 | estado injured
@@ -75,13 +75,13 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - DEF Saba Sazonov | precio 994.889 EUR | valor 1.003.694 EUR | machine | pujas 0 | caduca 26/8/26, 12:46
 - CEN H. González | precio 1.245.640 EUR | valor 1.215.845 EUR | machine | pujas 0 | caduca 26/8/26, 12:46
 - CEN Sergio | precio 1.314.482 EUR | valor 1.410.523 EUR | machine | pujas 2 | caduca 26/8/26, 12:46
-- DEL Peque | precio 2.628.990 EUR | valor 2.676.220 EUR | machine | pujas 1 | caduca 26/8/26, 12:46
+- DEL Peque | precio 2.628.990 EUR | valor 2.676.220 EUR | machine | pujas 2 | caduca 26/8/26, 12:46
 
 #### Premium a revisar
 
 - CEN Bellingham | precio 94.508.594 EUR | valor 95.316.537 EUR | machine | pujas 0 | caduca 26/8/26, 12:46
 - DEL Pepe | precio 63.583.559 EUR | valor 64.607.793 EUR | machine | pujas 0 | caduca 26/8/26, 12:46
-- DEF Eric | precio 49.036.895 EUR | valor 50.306.563 EUR | machine | pujas 1 | caduca 26/8/26, 12:46
+- DEF Eric | precio 49.036.895 EUR | valor 50.306.563 EUR | machine | pujas 2 | caduca 26/8/26, 12:46
 - CEN Kubo | precio 27.842.322 EUR | valor 27.986.814 EUR | rival | ofertas 0 | vende Ramounsitou | caduca 29/8/26, 0:14
 - CEN Guido Rodríguez | precio 24.019.590 EUR | valor 24.520.433 EUR | rival | ofertas 0 | vende Ramounsitou | caduca 29/8/26, 0:14
 

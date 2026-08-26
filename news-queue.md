@@ -1,7 +1,7 @@
 # Cola diaria de noticias y titularidad
 
-Generada: 26/8/26, 10:57
-Datos Fantasy: 26/8/26, 10:57
+Generada: 26/8/26, 11:53
+Datos Fantasy: 26/8/26, 11:53
 
 Uso: esta es la lista corta que ChatGPT/Codex debe verificar en internet antes de cerrar pujas fuertes o el once. El radar solo aconseja; Ramon ejecuta todo manualmente.
 
@@ -16,7 +16,7 @@ Situacion: puesto 4/12, a 6 del lider.
   Precio: 12.329.561 EUR | valor: 12.329.561 EUR | score interno: 66.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Fran García Real Betis para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
 - DEF Eric (sin equipo): SOLO SI ES CLARO por 49.036.895 EUR; Consume demasiado saldo para una recomendacion automatica.
-  Precio: 49.036.895 EUR | valor: 50.306.563 EUR | score interno: 71.
+  Precio: 49.036.895 EUR | valor: 50.306.563 EUR | score interno: 67.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Eric para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
 - DEL Pepe (sin equipo): SOLO SI ES CLARO por 63.583.559 EUR; Consume demasiado saldo para una recomendacion automatica.
   Precio: 63.583.559 EUR | valor: 64.607.793 EUR | score interno: 72.
@@ -25,7 +25,7 @@ Situacion: puesto 4/12, a 6 del lider.
   Precio: 94.508.594 EUR | valor: 95.316.537 EUR | score interno: 61.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Bellingham para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
 - DEL Peque (sin equipo): SOLO SI ES CLARO por 2.628.990 EUR; Consume demasiado saldo para una recomendacion automatica.
-  Precio: 2.628.990 EUR | valor: 2.676.220 EUR | score interno: 64.
+  Precio: 2.628.990 EUR | valor: 2.676.220 EUR | score interno: 60.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Peque para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
 - DEF Carreira (sin equipo): SOLO SI ES CLARO por 6.426.769 EUR; Consume demasiado saldo para una recomendacion automatica.
   Precio: 6.426.769 EUR | valor: 6.477.723 EUR | score interno: 59.
