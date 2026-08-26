@@ -1,7 +1,7 @@
 # Cola diaria de noticias y titularidad
 
-Generada: 26/8/26, 11:53
-Datos Fantasy: 26/8/26, 11:53
+Generada: 26/8/26, 12:47
+Datos Fantasy: 26/8/26, 12:47
 
 Uso: esta es la lista corta que ChatGPT/Codex debe verificar en internet antes de cerrar pujas fuertes o el once. El radar solo aconseja; Ramon ejecuta todo manualmente.
 
@@ -15,21 +15,24 @@ Situacion: puesto 4/12, a 6 del lider.
 - DEF Fran García (Real Betis): Entra en el once recomendado pero no esta guardado ahora.
   Precio: 12.329.561 EUR | valor: 12.329.561 EUR | score interno: 66.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Fran García Real Betis para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
-- DEF Eric (sin equipo): SOLO SI ES CLARO por 49.036.895 EUR; Consume demasiado saldo para una recomendacion automatica.
-  Precio: 49.036.895 EUR | valor: 50.306.563 EUR | score interno: 67.
-  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Eric para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
-- DEL Pepe (sin equipo): SOLO SI ES CLARO por 63.583.559 EUR; Consume demasiado saldo para una recomendacion automatica.
-  Precio: 63.583.559 EUR | valor: 64.607.793 EUR | score interno: 72.
-  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Pepe para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
-- CEN Bellingham (sin equipo): SOLO SI ES CLARO por 94.508.594 EUR; Consume demasiado saldo para una recomendacion automatica.
-  Precio: 94.508.594 EUR | valor: 95.316.537 EUR | score interno: 61.
-  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Bellingham para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
-- DEL Peque (sin equipo): SOLO SI ES CLARO por 2.628.990 EUR; Consume demasiado saldo para una recomendacion automatica.
-  Precio: 2.628.990 EUR | valor: 2.676.220 EUR | score interno: 60.
-  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Peque para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
-- DEF Carreira (sin equipo): SOLO SI ES CLARO por 6.426.769 EUR; Consume demasiado saldo para una recomendacion automatica.
-  Precio: 6.426.769 EUR | valor: 6.477.723 EUR | score interno: 59.
-  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Carreira para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
+- CEN Kang-In Lee (sin equipo): SOLO SI ES CLARO por 48.966.230 EUR; Consume demasiado saldo para una recomendacion automatica.
+  Precio: 48.966.230 EUR | valor: 48.966.230 EUR | score interno: 62.
+  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Kang-In Lee para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
+- DEF Gayá (sin equipo): SOLO SI ES CLARO por 10.466.363 EUR; Consume demasiado saldo para una recomendacion automatica.
+  Precio: 10.466.363 EUR | valor: 10.466.363 EUR | score interno: 60.
+  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Gayá para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
+- CEN O. Rey (sin equipo): SOLO SI ES CLARO por 849.670 EUR; Consume demasiado saldo para una recomendacion automatica.
+  Precio: 849.670 EUR | valor: 849.670 EUR | score interno: 56.
+  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de O. Rey para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
+- DEL Arnau Ortiz (sin equipo): SOLO SI ES CLARO por 1.236.545 EUR; Consume demasiado saldo para una recomendacion automatica.
+  Precio: 1.236.545 EUR | valor: 1.236.545 EUR | score interno: 55.
+  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Arnau Ortiz para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
+- CEN Herrera (sin equipo): SOLO SI ES CLARO por 3.323.516 EUR; Consume demasiado saldo para una recomendacion automatica.
+  Precio: 3.323.516 EUR | valor: 3.323.516 EUR | score interno: 55.
+  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Herrera para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
+- DEL Marcos (sin equipo): SOLO SI ES CLARO por 1.082.525 EUR; Consume demasiado saldo para una recomendacion automatica.
+  Precio: 1.082.525 EUR | valor: 1.082.525 EUR | score interno: 53.
+  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Marcos para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
 
 ## Fantasmas League
 
@@ -39,7 +42,7 @@ Situacion: puesto 3/10, a 34 del lider.
   Precio: 12.329.561 EUR | valor: 12.329.561 EUR | score interno: 66.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Fran García Real Betis para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
 - DEL Mikautadze (sin equipo): MIRAR por 68.270.452 EUR; No entra en saldo actual sin ventas.
-  Precio: 68.270.452 EUR | valor: 69.651.107 EUR | score interno: 79.
+  Precio: 68.270.452 EUR | valor: 69.651.107 EUR | score interno: 83.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Mikautadze para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
 - DEL T. Morente (Elche CF): Entra en el once recomendado pero no esta guardado ahora.
   Precio: 1.531.691 EUR | valor: 1.531.691 EUR | score interno: 61.
@@ -56,12 +59,12 @@ Situacion: puesto 3/10, a 34 del lider.
 - CEN Agoumé (sin equipo): VIGILAR por 5.902.209 EUR; Puede servir si mejora titularidad/precio.
   Precio: 5.902.209 EUR | valor: 6.066.565 EUR | score interno: 64.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Agoumé para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
-- DEF Mandi (sin equipo): SOLO SI ESTA BARATO por 8.055.512 EUR; Interesante, pero conviene verificar titularidad.
-  Precio: 8.055.512 EUR | valor: 8.055.512 EUR | score interno: 68.
-  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Mandi para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
 - CEN Iker Muñoz (sin equipo): VIGILAR por 1.167.383 EUR; Puede servir si mejora titularidad/precio.
   Precio: 1.167.383 EUR | valor: 1.194.987 EUR | score interno: 60.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Iker Muñoz para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
+- DEF Mandi (sin equipo): VIGILAR por 8.055.512 EUR; Puede servir si mejora titularidad/precio.
+  Precio: 8.055.512 EUR | valor: 8.055.512 EUR | score interno: 60.
+  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Mandi para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
 - CEN Sucic (sin equipo): VIGILAR por 3.547.132 EUR; Puede servir si mejora titularidad/precio.
   Precio: 3.547.132 EUR | valor: 3.547.132 EUR | score interno: 65.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Sucic para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.

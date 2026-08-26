@@ -1,18 +1,18 @@
 {
-  "publishedAt": "2026-08-26T09:53:17.614Z",
-  "apiSyncedAt": "2026-08-26T09:53:17.313Z",
+  "publishedAt": "2026-08-26T10:47:24.031Z",
+  "apiSyncedAt": "2026-08-26T10:47:23.736Z",
   "leagues": [
     {
       "id": "los-primacos",
       "name": "Los Primacos",
       "players": 16,
-      "marketPlayers": 19
+      "marketPlayers": 20
     },
     {
       "id": "fantasmas-league",
       "name": "Fantasmas League",
       "players": 15,
-      "marketPlayers": 25
+      "marketPlayers": 24
     },
     {
       "id": "los-mastuerzos",
