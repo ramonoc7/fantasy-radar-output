@@ -1,6 +1,6 @@
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-26T05:45:17.519Z
+Datos API: 2026-08-26T07:04:05.440Z
 Semana actual: 3
 
 ## Objetivo

@@ -1,7 +1,7 @@
 # Informe Inteligente Ligas Fantasy
 
-Generado: 26/8/26, 7:45
-Datos API: 26/8/26, 7:45
+Generado: 26/8/26, 9:04
+Datos API: 26/8/26, 9:04
 Semana actual: 3
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -32,15 +32,15 @@ Semana actual: 3
 
 ### Once Actual Detectado
 
-Formacion guardada: 4-3-3
+Formacion guardada: 3-4-3
 - POR Á. Valles
 - DEF Javi Rodríguez
 - DEF Koski
 - DEF Nuñez
-- DEF Fran García
 - CEN Guido Rodríguez
 - CEN Ibañez
-- CEN Kubo
+- CEN Mikel Rodriguez
+- CEN Valverde
 - DEL Dolan
 - DEL Hugo Duro
 - DEL Oyarzabal
@@ -62,7 +62,9 @@ Formacion: 4-4-2 | puntuacion interna 901
 
 ### Cambios De Once
 
-- Entra: CEN Valverde
+- Entra: DEF Fran García
+- Entra: CEN Kubo
+- Sale: CEN Mikel Rodriguez
 - Sale: DEL Oyarzabal
 
 ### Fichar Ya
