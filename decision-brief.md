@@ -1,6 +1,6 @@
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-26T13:11:25.862Z
+Datos API: 2026-08-26T14:56:51.122Z
 Semana actual: 3
 
 ## Objetivo
@@ -56,7 +56,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 #### Mercado que caduca antes
 
 - CEN Gerenabarrena | precio 1.149.297 EUR | valor 1.149.297 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
-- CEN Herrera | precio 3.323.516 EUR | valor 3.323.516 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
+- CEN Herrera | precio 3.323.516 EUR | valor 3.323.516 EUR | machine | pujas 1 | caduca 27/8/26, 12:46
 - DEL Marcos | precio 1.082.525 EUR | valor 1.082.525 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
 - CEN Requena | precio 1.612.539 EUR | valor 1.612.539 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
 - DEF Gayá | precio 10.466.363 EUR | valor 10.466.363 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
@@ -76,7 +76,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - CEN Gerenabarrena | precio 1.149.297 EUR | valor 1.149.297 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
 - DEL Arnau Ortiz | precio 1.236.545 EUR | valor 1.236.545 EUR | machine | pujas 1 | caduca 27/8/26, 12:46
 - CEN Requena | precio 1.612.539 EUR | valor 1.612.539 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
-- CEN Herrera | precio 3.323.516 EUR | valor 3.323.516 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
+- CEN Herrera | precio 3.323.516 EUR | valor 3.323.516 EUR | machine | pujas 1 | caduca 27/8/26, 12:46
 - POR Gulácsi | precio 3.633.550 EUR | valor 3.633.550 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
 - CEN Guillén | precio 3.862.148 EUR | valor 3.862.148 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
 

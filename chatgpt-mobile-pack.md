@@ -1,10 +1,10 @@
 # ChatGPT Mobile Pack - Ligas Fantasy
 
-Actualizado: 2026-08-26T13:11:25.862Z
+Actualizado: 2026-08-26T14:56:51.122Z
 
 ## Fuente de verdad para informes
 
-Datos Fantasy actuales: 2026-08-26T13:11:25.862Z
+Datos Fantasy actuales: 2026-08-26T14:56:51.122Z
 
 Reglas obligatorias para ChatGPT:
 - Plantilla, saldo, mercado, pujas, actividad y once guardado actuales salen de este pack/radar, no de capturas antiguas ni memoria de conversaciones.
@@ -58,18 +58,18 @@ Mercado, mirar primero:
 - SOLO SI ES CLARO: DEF Gayá | 10.466.363 EUR | 0 pujas | puja 10.487.296 EUR, max 10.623.359 EUR
 - SOLO SI ES CLARO: CEN Kang-In Lee | 48.966.230 EUR | 1 pujas | puja 49.700.724 EUR, max 50.924.880 EUR
 - SOLO SI ES CLARO: DEF Fran García | 11.655.177 EUR | 1 ofertas | puja 12.063.109 EUR, max 12.587.592 EUR
-- SOLO SI ES CLARO: CEN Herrera | 3.323.516 EUR | 0 pujas | puja 3.330.164 EUR, max 3.373.369 EUR
 - SOLO SI ES CLARO: CEN Kubo | 27.842.322 EUR | 1 ofertas | puja 28.816.804 EUR, max 30.069.708 EUR
+- SOLO SI ES CLARO: DEL Marcos | 1.082.525 EUR | 0 pujas | puja 1.084.691 EUR, max 1.098.763 EUR
 
 Mercado completo detectado:
 - DEF Gayá | precio 10.466.363 EUR | valor 10.466.363 EUR | SOLO SI ES CLARO | 0 pujas | estado ok | max 10.623.359 EUR
 - CEN Kang-In Lee | precio 48.966.230 EUR | valor 48.966.230 EUR | SOLO SI ES CLARO | 1 pujas | estado ok | max 50.924.880 EUR
 - DEF Fran García | precio 11.655.177 EUR | valor 12.329.561 EUR | SOLO SI ES CLARO | 1 ofertas | estado ok | max 12.587.592 EUR
-- CEN Herrera | precio 3.323.516 EUR | valor 3.323.516 EUR | SOLO SI ES CLARO | 0 pujas | estado ok | max 3.373.369 EUR
 - CEN Kubo | precio 27.842.322 EUR | valor 27.986.814 EUR | SOLO SI ES CLARO | 1 ofertas | estado ok | max 30.069.708 EUR
 - DEL Marcos | precio 1.082.525 EUR | valor 1.082.525 EUR | SOLO SI ES CLARO | 0 pujas | estado ok | max 1.098.763 EUR
 - CEN Guido Rodríguez | precio 24.019.590 EUR | valor 24.520.433 EUR | SOLO SI ES CLARO | 1 ofertas | estado ok | max 25.941.158 EUR
 - CEN O. Rey | precio 849.670 EUR | valor 849.670 EUR | SOLO SI ES CLARO | 1 pujas | estado ok | max 934.638 EUR
+- CEN Herrera | precio 3.323.516 EUR | valor 3.323.516 EUR | SOLO SI ES CLARO | 1 pujas | estado ok | max 3.655.868 EUR
 - DEL Arnau Ortiz | precio 1.236.545 EUR | valor 1.236.545 EUR | SOLO SI ES CLARO | 1 pujas | estado ok | max 1.360.200 EUR
 - DEL Gorka Carrera | precio 664.893 EUR | valor 664.893 EUR | SOLO SI ES CLARO | 0 pujas | estado ok | max 674.867 EUR
 - DEF Javi Rodríguez | precio 12.000.000 EUR | valor 9.903.779 EUR | SOLO SI ES CLARO | 1 ofertas | estado ok | max 12.420.000 EUR
@@ -298,7 +298,7 @@ Prioridades:
 
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-26T13:11:25.862Z
+Datos API: 2026-08-26T14:56:51.122Z
 Semana actual: 3
 
 ## Objetivo
@@ -354,7 +354,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 #### Mercado que caduca antes
 
 - CEN Gerenabarrena | precio 1.149.297 EUR | valor 1.149.297 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
-- CEN Herrera | precio 3.323.516 EUR | valor 3.323.516 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
+- CEN Herrera | precio 3.323.516 EUR | valor 3.323.516 EUR | machine | pujas 1 | caduca 27/8/26, 12:46
 - DEL Marcos | precio 1.082.525 EUR | valor 1.082.525 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
 - CEN Requena | precio 1.612.539 EUR | valor 1.612.539 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
 - DEF Gayá | precio 10.466.363 EUR | valor 10.466.363 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
@@ -374,7 +374,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - CEN Gerenabarrena | precio 1.149.297 EUR | valor 1.149.297 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
 - DEL Arnau Ortiz | precio 1.236.545 EUR | valor 1.236.545 EUR | machine | pujas 1 | caduca 27/8/26, 12:46
 - CEN Requena | precio 1.612.539 EUR | valor 1.612.539 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
-- CEN Herrera | precio 3.323.516 EUR | valor 3.323.516 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
+- CEN Herrera | precio 3.323.516 EUR | valor 3.323.516 EUR | machine | pujas 1 | caduca 27/8/26, 12:46
 - POR Gulácsi | precio 3.633.550 EUR | valor 3.633.550 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
 - CEN Guillén | precio 3.862.148 EUR | valor 3.862.148 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
 
@@ -528,8 +528,8 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 # Cola diaria de noticias y titularidad
 
-Generada: 26/8/26, 15:11
-Datos Fantasy: 26/8/26, 15:11
+Generada: 26/8/26, 16:56
+Datos Fantasy: 26/8/26, 16:56
 
 Uso: esta es la lista corta que ChatGPT/Codex debe verificar en internet antes de cerrar pujas fuertes o el once. El radar solo aconseja; Ramon ejecuta todo manualmente.
 
@@ -556,7 +556,7 @@ Situacion: puesto 4/12, a 6 del lider.
   Precio: 849.670 EUR | valor: 849.670 EUR | score interno: 52.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de O. Rey para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
 - CEN Herrera (sin equipo): SOLO SI ES CLARO por 3.323.516 EUR; Consume demasiado saldo para una recomendacion automatica.
-  Precio: 3.323.516 EUR | valor: 3.323.516 EUR | score interno: 55.
+  Precio: 3.323.516 EUR | valor: 3.323.516 EUR | score interno: 51.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Herrera para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
 - DEL Marcos (sin equipo): SOLO SI ES CLARO por 1.082.525 EUR; Consume demasiado saldo para una recomendacion automatica.
   Precio: 1.082.525 EUR | valor: 1.082.525 EUR | score interno: 53.
@@ -650,8 +650,8 @@ Usa esta cola. Busca en internet noticias recientes, onces probables, rol previs
 
 # Informe Inteligente Ligas Fantasy
 
-Generado: 26/8/26, 15:11
-Datos API: 26/8/26, 15:11
+Generado: 26/8/26, 16:56
+Datos API: 26/8/26, 16:56
 Semana actual: 3
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -725,11 +725,11 @@ Formacion: 4-4-2 | puntuacion interna 901
 - SOLO SI ES CLARO: DEF Gayá | score 60 | precio 10.466.363 EUR | valor 10.466.363 EUR | puja 10.487.296 EUR | max 10.623.359 EUR | pujas 0 | caduca 27/8/26, 12:46 | base: pts actuales 7 (peso bajo), media 3.5, pts temp ant 135, valor 10.466.363 EUR | Consume demasiado saldo para una recomendacion automatica
 - SOLO SI ES CLARO: CEN Kang-In Lee | score 58 | precio 48.966.230 EUR | valor 48.966.230 EUR | puja 49.700.724 EUR | max 50.924.880 EUR | pujas 1 | caduca 27/8/26, 12:46 | base: pts actuales 16 (peso bajo), media 8, valor 48.966.230 EUR | Consume demasiado saldo para una recomendacion automatica
 - SOLO SI ES CLARO: DEF Fran García | score 58 | precio 11.655.177 EUR | valor 12.329.561 EUR | puja 12.063.109 EUR | max 12.587.592 EUR | ofertas 1 | vende Ramounsitou | caduca 29/8/26, 0:14 | base: pts actuales 16 (peso bajo), media 8, pts temp ant 57, valor 12.329.561 EUR | Consume demasiado saldo para una recomendacion automatica
-- SOLO SI ES CLARO: CEN Herrera | score 55 | precio 3.323.516 EUR | valor 3.323.516 EUR | puja 3.330.164 EUR | max 3.373.369 EUR | pujas 0 | caduca 27/8/26, 12:46 | base: pts actuales 6 (peso bajo), media 6, pts temp ant 18, valor 3.323.516 EUR | Consume demasiado saldo para una recomendacion automatica
 - SOLO SI ES CLARO: CEN Kubo | score 55 | precio 27.842.322 EUR | valor 27.986.814 EUR | puja 28.816.804 EUR | max 30.069.708 EUR | ofertas 1 | vende Ramounsitou | caduca 29/8/26, 0:14 | base: pts actuales 4 (peso bajo), media 4, pts temp ant 122, valor 27.986.814 EUR | Consume demasiado saldo para una recomendacion automatica
 - SOLO SI ES CLARO: DEL Marcos | score 53 | precio 1.082.525 EUR | valor 1.082.525 EUR | puja 1.084.691 EUR | max 1.098.763 EUR | pujas 0 | caduca 27/8/26, 12:46 | base: pts actuales 2 (peso bajo), media 1, valor 1.082.525 EUR | Consume demasiado saldo para una recomendacion automatica
 - SOLO SI ES CLARO: CEN Guido Rodríguez | score 53 | precio 24.019.590 EUR | valor 24.520.433 EUR | puja 24.860.276 EUR | max 25.941.158 EUR | ofertas 1 | vende Ramounsitou | caduca 29/8/26, 0:14 | base: pts actuales 14 (peso bajo), media 7, valor 24.520.433 EUR | Consume demasiado saldo para una recomendacion automatica
 - SOLO SI ES CLARO: CEN O. Rey | score 52 | precio 849.670 EUR | valor 849.670 EUR | puja 900.651 EUR | max 934.638 EUR | pujas 1 | caduca 27/8/26, 12:46 | base: pts actuales 9 (peso bajo), media 4.5, pts temp ant 61, valor 849.670 EUR | Consume demasiado saldo para una recomendacion automatica
+- SOLO SI ES CLARO: CEN Herrera | score 51 | precio 3.323.516 EUR | valor 3.323.516 EUR | puja 3.522.927 EUR | max 3.655.868 EUR | pujas 1 | caduca 27/8/26, 12:46 | base: pts actuales 6 (peso bajo), media 6, pts temp ant 18, valor 3.323.516 EUR | Consume demasiado saldo para una recomendacion automatica
 
 ### Vigilar
 

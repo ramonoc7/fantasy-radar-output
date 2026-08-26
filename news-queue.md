@@ -1,7 +1,7 @@
 # Cola diaria de noticias y titularidad
 
-Generada: 26/8/26, 15:11
-Datos Fantasy: 26/8/26, 15:11
+Generada: 26/8/26, 16:56
+Datos Fantasy: 26/8/26, 16:56
 
 Uso: esta es la lista corta que ChatGPT/Codex debe verificar en internet antes de cerrar pujas fuertes o el once. El radar solo aconseja; Ramon ejecuta todo manualmente.
 
@@ -28,7 +28,7 @@ Situacion: puesto 4/12, a 6 del lider.
   Precio: 849.670 EUR | valor: 849.670 EUR | score interno: 52.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de O. Rey para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
 - CEN Herrera (sin equipo): SOLO SI ES CLARO por 3.323.516 EUR; Consume demasiado saldo para una recomendacion automatica.
-  Precio: 3.323.516 EUR | valor: 3.323.516 EUR | score interno: 55.
+  Precio: 3.323.516 EUR | valor: 3.323.516 EUR | score interno: 51.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Herrera para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Los Primacos. No ejecutes acciones: solo aconseja.
 - DEL Marcos (sin equipo): SOLO SI ES CLARO por 1.082.525 EUR; Consume demasiado saldo para una recomendacion automatica.
   Precio: 1.082.525 EUR | valor: 1.082.525 EUR | score interno: 53.
