@@ -1,10 +1,10 @@
 # ChatGPT Mobile Pack - Ligas Fantasy
 
-Actualizado: 2026-08-26T01:54:06.890Z
+Actualizado: 2026-08-26T03:15:12.873Z
 
 ## Fuente de verdad para informes
 
-Datos Fantasy actuales: 2026-08-26T01:54:06.890Z
+Datos Fantasy actuales: 2026-08-26T03:15:12.873Z
 
 Reglas obligatorias para ChatGPT:
 - Plantilla, saldo, mercado, pujas, actividad y once guardado actuales salen de este pack/radar, no de capturas antiguas ni memoria de conversaciones.
@@ -43,7 +43,7 @@ Regla: el radar no ejecuta acciones. Los puntos actuales pesan poco; un 0 no es 
 ### Los Primacos
 
 Saldo -32.946.402 EUR | plantilla 16 | mercado 19 | puesto 4/12, a 6 del lider
-Alertas: Saldo negativo: hay que vender antes del inicio de jornada. / 2 entrenador(es) ignorados por Premium.
+Alertas: Saldo negativo: hay que vender antes del inicio de jornada. / 11 jugador(es) jugables caducan en menos de 8 horas. / 2 entrenador(es) ignorados por Premium.
 
 Once recomendado:
 4-4-2: POR Á. Valles / DEF Javi Rodríguez / DEF Koski / DEF Fran García / DEF Nuñez / CEN Ibañez / CEN Kubo / CEN Guido Rodríguez / CEN Valverde / DEL Dolan / DEL Hugo Duro
@@ -89,7 +89,7 @@ Ventas / huecos:
 ### Fantasmas League
 
 Saldo 39.904.117 EUR | plantilla 14 | mercado 26 | puesto 3/10, a 34 del lider
-Alertas: Isi en plantilla aparece como injured. / 11 jugador(es) jugables caducan en menos de 8 horas. / 2 entrenador(es) ignorados por Premium.
+Alertas: Isi en plantilla aparece como injured. / 12 jugador(es) jugables caducan en menos de 8 horas. / 2 entrenador(es) ignorados por Premium.
 
 Once recomendado:
 3-5-2: POR Remiro / DEF Huijsen / DEF Djene / DEF Koski / CEN Mario Soriano / CEN Izan M. / CEN Germán V. / CEN Agoumé / CEN R. Terrats / DEL Ángel Pérez / DEL T. Morente
@@ -296,7 +296,7 @@ Prioridades:
 
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-26T01:54:06.890Z
+Datos API: 2026-08-26T03:15:12.873Z
 Semana actual: 3
 
 ## Objetivo
@@ -527,8 +527,8 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 # Cola diaria de noticias y titularidad
 
-Generada: 26/8/26, 3:54
-Datos Fantasy: 26/8/26, 3:54
+Generada: 26/8/26, 5:15
+Datos Fantasy: 26/8/26, 5:15
 
 Uso: esta es la lista corta que ChatGPT/Codex debe verificar en internet antes de cerrar pujas fuertes o el once. El radar solo aconseja; Ramon ejecuta todo manualmente.
 
@@ -649,8 +649,8 @@ Usa esta cola. Busca en internet noticias recientes, onces probables, rol previs
 
 # Informe Inteligente Ligas Fantasy
 
-Generado: 26/8/26, 3:54
-Datos API: 26/8/26, 3:54
+Generado: 26/8/26, 5:15
+Datos API: 26/8/26, 5:15
 Semana actual: 3
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -670,6 +670,7 @@ Semana actual: 3
 ### Alertas
 
 - Saldo negativo: hay que vender antes del inicio de jornada.
+- 11 jugador(es) jugables caducan en menos de 8 horas.
 - 2 entrenador(es) ignorados por Premium.
 
 ### Situacion
@@ -761,7 +762,7 @@ Formacion: 4-4-2 | puntuacion interna 901
 ### Alertas
 
 - Isi en plantilla aparece como injured.
-- 11 jugador(es) jugables caducan en menos de 8 horas.
+- 12 jugador(es) jugables caducan en menos de 8 horas.
 - 2 entrenador(es) ignorados por Premium.
 
 ### Situacion

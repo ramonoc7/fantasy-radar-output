@@ -1,7 +1,7 @@
 # Informe Inteligente Ligas Fantasy
 
-Generado: 26/8/26, 3:54
-Datos API: 26/8/26, 3:54
+Generado: 26/8/26, 5:15
+Datos API: 26/8/26, 5:15
 Semana actual: 3
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -21,6 +21,7 @@ Semana actual: 3
 ### Alertas
 
 - Saldo negativo: hay que vender antes del inicio de jornada.
+- 11 jugador(es) jugables caducan en menos de 8 horas.
 - 2 entrenador(es) ignorados por Premium.
 
 ### Situacion
@@ -112,7 +113,7 @@ Formacion: 4-4-2 | puntuacion interna 901
 ### Alertas
 
 - Isi en plantilla aparece como injured.
-- 11 jugador(es) jugables caducan en menos de 8 horas.
+- 12 jugador(es) jugables caducan en menos de 8 horas.
 - 2 entrenador(es) ignorados por Premium.
 
 ### Situacion
