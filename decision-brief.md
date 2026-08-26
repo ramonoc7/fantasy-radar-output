@@ -1,7 +1,7 @@
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-26T18:31:33.404Z
-Semana actual: 3
+Datos API: 2026-08-19T11:39:05.743Z
+Semana actual: 1
 
 ## Objetivo
 
@@ -27,202 +27,213 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 ### Los Primacos
 
-- Saldo: -32.946.402 EUR
-- Valor plantilla: 281.564.571 EUR
-- Jugadores plantilla: 16
+- Saldo: 56.578.353 EUR
+- Valor plantilla: 174.616.285 EUR
+- Jugadores plantilla: 20
 - Mercado jugable: 17
-- Entrenadores ignorados: 1
+- Entrenadores ignorados: 2
 - Estrategia: Arreglar porteria y defensa sin desmontar activos caros; convertir dinero concentrado en titulares baratos utiles.
 
 #### Plantilla
 
-- POR Á. Valles | Real Betis | 37.086.219 EUR
-- DEF Nuñez | RCD Espanyol | 6.216.925 EUR
-- DEF Koski | Deportivo Alavés | 1.989.948 EUR
-- DEF Fran García | Real Betis | 12.328.936 EUR
-- DEF Javi Rodríguez | Celta | 9.903.176 EUR
-- CEN Kubo | Real Sociedad | 27.986.125 EUR
-- CEN Guido Rodríguez | Valencia CF | 24.519.633 EUR
-- CEN Mikel Rodriguez | Deportivo Alavés | 1.745.916 EUR
-- CEN Martim Neto | Elche CF | 1.624.626 EUR
-- CEN Ibañez | Deportivo Alavés | 4.387.569 EUR
-- CEN Valverde | Real Madrid | 72.386.574 EUR
-- CEN Iker Muñoz | C.A. Osasuna | 1.194.923 EUR
-- DEL Dolan | RCD Espanyol | 9.577.160 EUR
-- DEL R. Brugué | Levante UD | 1.705.063 EUR
-- DEL Oyarzabal | Real Sociedad | 61.028.823 EUR
-- DEL Hugo Duro | Valencia CF | 7.882.955 EUR
+- POR Á. Valles | Real Betis | 33.742.174 EUR
+- DEF Koski | Deportivo Alavés | 1.038.751 EUR
+- DEF Javi Rodríguez | Celta | 9.065.805 EUR
+- DEF Nuñez | RCD Espanyol | 4.224.428 EUR
+- DEF Trent | Real Madrid | 22.349.536 EUR
+- DEF Riedel | RCD Espanyol | 4.781.700 EUR
+- DEF Suazo | Sevilla FC | 5.212.434 EUR
+- DEF Davinchi | Getafe CF | 2.992.753 EUR
+- DEF Javi Rueda | Celta | 4.382.431 EUR
+- CEN D. Villares | RC Deportivo | 2.329.238 EUR
+- CEN Kubo | Real Sociedad | 25.271.514 EUR
+- CEN Maguette | R. Racing Club | 3.805.951 EUR
+- CEN Guido Rodríguez | Valencia CF | 24.458.876 EUR
+- CEN Mikel Rodriguez | Deportivo Alavés | 933.372 EUR
+- CEN Gorrotxa | Real Sociedad | 5.731.847 EUR
+- CEN Ibañez | Deportivo Alavés | 3.412.482 EUR
+- DEL Dolan | RCD Espanyol | 6.702.093 EUR
+- DEL Rodrygo | Real Madrid | 2.794.611 EUR | estado injured
+- DEL Hugo Duro | Valencia CF | 8.513.114 EUR
+- DEL Miguel Rodríguez | Deportivo Alavés | 2.873.175 EUR
 
 #### Mercado que caduca antes
 
-- CEN Gerenabarrena | precio 1.149.297 EUR | valor 1.149.277 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
-- CEN Herrera | precio 3.323.516 EUR | valor 3.323.385 EUR | machine | pujas 1 | caduca 27/8/26, 12:46
-- DEL Marcos | precio 1.082.525 EUR | valor 1.082.516 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
-- CEN Requena | precio 1.612.539 EUR | valor 1.612.531 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
-- DEF Gayá | precio 10.466.363 EUR | valor 10.466.044 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
-- CEN Guillén | precio 3.862.148 EUR | valor 3.862.124 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
-- CEN O. Rey | precio 849.670 EUR | valor 849.631 EUR | machine | pujas 1 | caduca 27/8/26, 12:46
-- DEL Gorka Carrera | precio 664.893 EUR | valor 664.885 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
-- DEL Arnau Ortiz | precio 1.236.545 EUR | valor 1.236.529 EUR | machine | pujas 1 | caduca 27/8/26, 12:46
-- DEL Julián Alvarez | precio 62.517.017 EUR | valor 62.516.430 EUR | machine | pujas 0 | caduca 27/8/26, 12:46 | estado doubtful
-- POR Gulácsi | precio 3.633.550 EUR | valor 3.633.514 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
-- CEN Kang-In Lee | precio 48.966.230 EUR | valor 48.964.158 EUR | machine | pujas 1 | caduca 27/8/26, 12:46
+- DEF Vivian | precio 10.512.541 EUR | valor 9.620.708 EUR | rival | ofertas 1 | vende Rubio 05 | caduca 19/8/26, 20:35 | estado injured
+- DEL Budimir | precio 51.852.202 EUR | valor 51.850.909 EUR | machine | pujas 0 | caduca 20/8/26, 12:46
+- DEF Lejeune | precio 36.749.815 EUR | valor 36.749.699 EUR | machine | pujas 0 | caduca 20/8/26, 12:46
+- DEL Nico Williams | precio 61.686.109 EUR | valor 61.685.833 EUR | machine | pujas 0 | caduca 20/8/26, 12:46
+- DEF Catena | precio 32.979.197 EUR | valor 32.979.053 EUR | machine | pujas 0 | caduca 20/8/26, 12:46
+- CEN Comesaña | precio 32.971.145 EUR | valor 32.971.086 EUR | machine | pujas 0 | caduca 20/8/26, 12:46
+- DEF Timera | precio 642.097 EUR | valor 642.095 EUR | machine | pujas 0 | caduca 20/8/26, 12:46
+- CEN Carlos Macià | precio 776.030 EUR | valor 776.009 EUR | machine | pujas 0 | caduca 20/8/26, 12:46
+- DEF Novoa | precio 856.469 EUR | valor 856.467 EUR | machine | pujas 0 | caduca 20/8/26, 12:46
+- CEN C. Soler | precio 32.756.916 EUR | valor 32.756.677 EUR | machine | pujas 0 | caduca 20/8/26, 12:46
+- DEL Oyarzabal | precio 63.342.611 EUR | valor 63.339.794 EUR | machine | pujas 0 | caduca 20/8/26, 12:46
+- DEF Fran García | precio 9.399.804 EUR | valor 9.398.165 EUR | machine | pujas 0 | caduca 20/8/26, 12:46
 
 #### Baratos a revisar
 
-- DEL Gorka Carrera | precio 664.893 EUR | valor 664.885 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
-- CEN O. Rey | precio 849.670 EUR | valor 849.631 EUR | machine | pujas 1 | caduca 27/8/26, 12:46
-- DEL Marcos | precio 1.082.525 EUR | valor 1.082.516 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
-- CEN Gerenabarrena | precio 1.149.297 EUR | valor 1.149.277 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
-- DEL Arnau Ortiz | precio 1.236.545 EUR | valor 1.236.529 EUR | machine | pujas 1 | caduca 27/8/26, 12:46
-- CEN Requena | precio 1.612.539 EUR | valor 1.612.531 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
-- CEN Herrera | precio 3.323.516 EUR | valor 3.323.385 EUR | machine | pujas 1 | caduca 27/8/26, 12:46
-- POR Gulácsi | precio 3.633.550 EUR | valor 3.633.514 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
-- CEN Guillén | precio 3.862.148 EUR | valor 3.862.124 EUR | machine | pujas 0 | caduca 27/8/26, 12:46
+- DEF Timera | precio 642.097 EUR | valor 642.095 EUR | machine | pujas 0 | caduca 20/8/26, 12:46
+- CEN Carlos Macià | precio 776.030 EUR | valor 776.009 EUR | machine | pujas 0 | caduca 20/8/26, 12:46
+- DEF Novoa | precio 856.469 EUR | valor 856.467 EUR | machine | pujas 0 | caduca 20/8/26, 12:46
+- POR A. Ferllo | precio 4.483.208 EUR | valor 4.353.524 EUR | rival | ofertas 1 | vende Rubio 05 | caduca 21/8/26, 18:36
+- DEF Riedel | precio 4.582.772 EUR | valor 4.781.700 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 21/8/26, 1:11
 
 #### Premium a revisar
 
-- CEN Kang-In Lee | precio 48.966.230 EUR | valor 48.964.158 EUR | machine | pujas 1 | caduca 27/8/26, 12:46
-- CEN Kubo | precio 27.842.322 EUR | valor 27.986.125 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 29/8/26, 0:14
-- CEN Guido Rodríguez | precio 24.019.590 EUR | valor 24.519.633 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 29/8/26, 0:14
+- DEL Oyarzabal | precio 63.342.611 EUR | valor 63.339.794 EUR | machine | pujas 0 | caduca 20/8/26, 12:46
+- DEL Nico Williams | precio 61.686.109 EUR | valor 61.685.833 EUR | machine | pujas 0 | caduca 20/8/26, 12:46
+- DEL Budimir | precio 51.852.202 EUR | valor 51.850.909 EUR | machine | pujas 0 | caduca 20/8/26, 12:46
+- DEF Lejeune | precio 36.749.815 EUR | valor 36.749.699 EUR | machine | pujas 0 | caduca 20/8/26, 12:46
+- DEF Catena | precio 32.979.197 EUR | valor 32.979.053 EUR | machine | pujas 0 | caduca 20/8/26, 12:46
+- CEN Comesaña | precio 32.971.145 EUR | valor 32.971.086 EUR | machine | pujas 0 | caduca 20/8/26, 12:46
+- CEN C. Soler | precio 32.756.916 EUR | valor 32.756.677 EUR | machine | pujas 0 | caduca 20/8/26, 12:46
+- DEF Trent | precio 22.364.018 EUR | valor 22.349.536 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 22/8/26, 9:53
 
 #### Alertas
 
-- Saldo negativo: hay que volver a positivo antes del inicio de jornada.
-- Julián Alvarez: estado doubtful en mercado.
-- V. Rosier: estado injured en mercado.
-- Hay 1 entrenadores en mercado: ignorar por funcion Premium bloqueada.
+- Vivian: estado injured en mercado.
+- Rodrygo: estado injured en mercado.
+- Rioja: estado injured en mercado.
+- Hay 2 entrenadores en mercado: ignorar por funcion Premium bloqueada.
 
 ### Fantasmas League
 
-- Saldo: 26.224.320 EUR
-- Valor plantilla: 220.491.948 EUR
-- Jugadores plantilla: 15
-- Mercado jugable: 27
+- Saldo: -6.893.472 EUR
+- Valor plantilla: 238.800.161 EUR
+- Jugadores plantilla: 19
+- Mercado jugable: 22
 - Entrenadores ignorados: 2
 - Estrategia: Construir un equipo ganador priorizando 11 titulares reales, gangas de mercado y revalorizacion.
 
 #### Plantilla
 
-- POR Remiro | Real Sociedad | 40.005.929 EUR
-- DEF Djene | Getafe CF | 10.922.775 EUR
-- DEF Huijsen | Real Madrid | 40.850.969 EUR
-- DEF Koski | Deportivo Alavés | 1.989.948 EUR
-- DEF Fran García | Real Betis | 12.328.936 EUR
-- CEN Mario Soriano | RC Deportivo | 28.627.016 EUR
-- CEN D. Villares | RC Deportivo | 1.983.085 EUR
-- CEN Izan M. | Málaga CF | 5.290.343 EUR
-- CEN Germán V. | Elche CF | 20.153.565 EUR
-- CEN R. Terrats | Getafe CF | 3.940.650 EUR
-- CEN Agoumé | Sevilla FC | 6.066.831 EUR
-- DEL Ángel Pérez | Deportivo Alavés | 7.399.321 EUR
-- DEL T. Morente | Elche CF | 1.531.675 EUR
-- DEL Iñigo Vicente | R. Racing Club | 21.209.482 EUR
-- DEL Isi | Rayo Vallecano | 18.191.423 EUR | estado injured
+- POR Remiro | Real Sociedad | 41.758.197 EUR
+- DEF Djene | Getafe CF | 9.149.126 EUR
+- DEF Kumbulla | Rayo Vallecano | 5.114.695 EUR | estado doubtful
+- DEF Koski | Deportivo Alavés | 1.038.751 EUR
+- DEF Huijsen | Real Madrid | 35.005.150 EUR
+- DEF Álex Balde | FC Barcelona | 23.653.326 EUR
+- CEN Moi Gómez | C.A. Osasuna | 1.875.959 EUR
+- CEN Germán V. | Elche CF | 22.495.449 EUR
+- CEN Izan M. | Málaga CF | 6.013.254 EUR
+- CEN Mario Soriano | RC Deportivo | 27.522.850 EUR
+- CEN D. Villares | RC Deportivo | 2.329.238 EUR
+- CEN O. Rey | Levante UD | 737.289 EUR
+- CEN Riquelme | Real Betis | 4.303.296 EUR
+- CEN R. Terrats | Getafe CF | 3.183.959 EUR
+- DEL Ángel Pérez | Deportivo Alavés | 6.419.899 EUR
+- DEL Isi | Rayo Vallecano | 20.451.145 EUR
+- DEL T. Morente | Elche CF | 1.769.342 EUR
+- DEL Iñigo Vicente | R. Racing Club | 19.826.992 EUR
+- DEL Isaac | Sevilla FC | 6.152.244 EUR
 
 #### Mercado que caduca antes
 
-- DEF Aihen | precio 1.104.624 EUR | valor 1.104.612 EUR | machine | pujas 0 | caduca 27/8/26, 10:53
-- DEF Yeray | precio 5.791.820 EUR | valor 5.791.533 EUR | machine | pujas 2 | caduca 27/8/26, 10:53
-- CEN Francho | precio 2.708.372 EUR | valor 2.708.395 EUR | machine | pujas 1 | caduca 27/8/26, 10:53
-- CEN Moleiro | precio 59.912.184 EUR | valor 59.911.108 EUR | machine | pujas 0 | caduca 27/8/26, 10:53
-- DEF Mandi | precio 8.055.512 EUR | valor 8.055.251 EUR | machine | pujas 3 | caduca 27/8/26, 10:53
-- DEF Cabrera | precio 13.056.216 EUR | valor 13.056.116 EUR | machine | pujas 0 | caduca 27/8/26, 10:53 | estado suspended
-- DEF Salinas | precio 886.022 EUR | valor 886.014 EUR | machine | pujas 0 | caduca 27/8/26, 10:53
-- DEF Xanet Olaiz | precio 529.715 EUR | valor 529.707 EUR | machine | pujas 0 | caduca 27/8/26, 10:53
-- DEL Oyarzabal | precio 61.029.593 EUR | valor 61.028.823 EUR | machine | pujas 0 | caduca 27/8/26, 10:53
-- POR Gulácsi | precio 3.633.550 EUR | valor 3.633.514 EUR | machine | pujas 0 | caduca 27/8/26, 10:53
-- CEN Sucic | precio 3.547.132 EUR | valor 3.547.032 EUR | machine | pujas 1 | caduca 27/8/26, 10:53
-- POR Lunin | precio 1.872.911 EUR | valor 1.807.989 EUR | rival | ofertas 1 | vende Rafishh | caduca 27/8/26, 15:33
+- DEL Marcos | precio 1.292.281 EUR | valor 1.292.276 EUR | machine | pujas 0 | caduca 20/8/26, 10:53
+- POR A. Iturbe | precio 766.234 EUR | valor 766.232 EUR | machine | pujas 0 | caduca 20/8/26, 10:53
+- DEL Guedes | precio 30.273.901 EUR | valor 30.273.859 EUR | machine | pujas 0 | caduca 20/8/26, 10:53 | estado injured
+- DEL Lamine Yamal | precio 126.108.531 EUR | valor 126.107.285 EUR | machine | pujas 0 | caduca 20/8/26, 10:53
+- CEN Carlos Macià | precio 776.030 EUR | valor 776.009 EUR | machine | pujas 0 | caduca 20/8/26, 10:53
+- CEN Marín | precio 1.417.543 EUR | valor 1.417.541 EUR | machine | pujas 0 | caduca 20/8/26, 10:53
+- DEF Gerard Martín | precio 37.347.615 EUR | valor 37.346.512 EUR | machine | pujas 0 | caduca 20/8/26, 10:53
+- DEF Nacho Perez | precio 572.258 EUR | valor 572.248 EUR | machine | pujas 0 | caduca 20/8/26, 10:53
+- DEL Lookman | precio 72.745.938 EUR | valor 72.745.670 EUR | machine | pujas 0 | caduca 20/8/26, 10:53
+- DEF Mantilla | precio 2.698.134 EUR | valor 2.698.125 EUR | machine | pujas 0 | caduca 20/8/26, 10:53
+- CEN Fermín | precio 69.369.236 EUR | valor 69.368.610 EUR | machine | pujas 1 | caduca 20/8/26, 10:53
+- DEL Isaac | precio 6.443.426 EUR | valor 6.152.244 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 20/8/26, 10:53
 
 #### Baratos a revisar
 
-- DEF Xanet Olaiz | precio 529.715 EUR | valor 529.707 EUR | machine | pujas 0 | caduca 27/8/26, 10:53
-- DEF Salinas | precio 886.022 EUR | valor 886.014 EUR | machine | pujas 0 | caduca 27/8/26, 10:53
-- DEF Aihen | precio 1.104.624 EUR | valor 1.104.612 EUR | machine | pujas 0 | caduca 27/8/26, 10:53
-- CEN Iker Muñoz | precio 1.167.383 EUR | valor 1.194.923 EUR | rival | ofertas 2 | vende Mynavo Kyiv | caduca 28/8/26, 17:03
-- DEL T. Morente | precio 1.566.110 EUR | valor 1.531.675 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 28/8/26, 23:47
-- POR Lunin | precio 1.872.911 EUR | valor 1.807.989 EUR | rival | ofertas 1 | vende Rafishh | caduca 27/8/26, 15:33
-- CEN Francho | precio 2.708.372 EUR | valor 2.708.395 EUR | machine | pujas 1 | caduca 27/8/26, 10:53
-- CEN Sucic | precio 3.547.132 EUR | valor 3.547.032 EUR | machine | pujas 1 | caduca 27/8/26, 10:53
-- POR Gulácsi | precio 3.633.550 EUR | valor 3.633.514 EUR | machine | pujas 0 | caduca 27/8/26, 10:53
+- DEF Nacho Perez | precio 572.258 EUR | valor 572.248 EUR | machine | pujas 0 | caduca 20/8/26, 10:53
+- CEN O. Rey | precio 737.289 EUR | valor 737.289 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 22/8/26, 11:05
+- POR A. Iturbe | precio 766.234 EUR | valor 766.232 EUR | machine | pujas 0 | caduca 20/8/26, 10:53
+- CEN Carlos Macià | precio 776.030 EUR | valor 776.009 EUR | machine | pujas 0 | caduca 20/8/26, 10:53
+- POR Marrero | precio 1.042.937 EUR | valor 1.042.934 EUR | rival | ofertas 0 | vende Mynavo Kyiv | caduca 22/8/26, 11:09
+- DEL Marcos | precio 1.292.281 EUR | valor 1.292.276 EUR | machine | pujas 0 | caduca 20/8/26, 10:53
+- CEN Iker Muñoz | precio 1.293.450 EUR | valor 1.293.442 EUR | rival | ofertas 0 | vende Mynavo Kyiv | caduca 22/8/26, 11:09
+- CEN Marín | precio 1.417.543 EUR | valor 1.417.541 EUR | machine | pujas 0 | caduca 20/8/26, 10:53
+- DEF Mantilla | precio 2.698.134 EUR | valor 2.698.125 EUR | machine | pujas 0 | caduca 20/8/26, 10:53
 
 #### Premium a revisar
 
-- DEL Lamine Yamal | precio 160.000.000 EUR | valor 126.465.255 EUR | rival | ofertas 1 | vende West Jamon C.F.D. | caduca 28/8/26, 0:28
-- DEL Mbappé | precio 129.980.560 EUR | valor 129.977.728 EUR | rival | ofertas 0 | vende Dynamo de Maghreb FC | caduca 29/8/26, 13:50
-- DEL Mikautadze | precio 68.270.452 EUR | valor 69.648.856 EUR | rival | ofertas 1 | vende Mynavo Kyiv | caduca 28/8/26, 17:05
-- DEL Oyarzabal | precio 61.029.593 EUR | valor 61.028.823 EUR | machine | pujas 0 | caduca 27/8/26, 10:53
-- DEL Yeremay | precio 60.000.000 EUR | valor 40.811.508 EUR | rival | ofertas 1 | vende West Jamon C.F.D. | caduca 28/8/26, 20:12
-- CEN Moleiro | precio 59.912.184 EUR | valor 59.911.108 EUR | machine | pujas 0 | caduca 27/8/26, 10:53
-- DEL Etta Eyong | precio 22.549.120 EUR | valor 21.383.955 EUR | rival | ofertas 1 | vende Rafishh | caduca 27/8/26, 16:01
-- CEN Germán V. | precio 20.542.089 EUR | valor 20.153.565 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 28/8/26, 23:46
+- DEL Lamine Yamal | precio 126.108.531 EUR | valor 126.107.285 EUR | machine | pujas 0 | caduca 20/8/26, 10:53
+- DEL Lookman | precio 72.745.938 EUR | valor 72.745.670 EUR | machine | pujas 0 | caduca 20/8/26, 10:53
+- CEN Fermín | precio 69.369.236 EUR | valor 69.368.610 EUR | machine | pujas 1 | caduca 20/8/26, 10:53
+- DEF Eric | precio 44.561.543 EUR | valor 44.708.338 EUR | rival | ofertas 1 | vende alemois | caduca 20/8/26, 14:03
+- DEF Gerard Martín | precio 37.347.615 EUR | valor 37.346.512 EUR | machine | pujas 0 | caduca 20/8/26, 10:53
+- DEF Llorente  | precio 25.000.000 EUR | valor 13.021.989 EUR | rival | ofertas 0 | vende West Jamon C.F.D. | caduca 22/8/26, 10:59
 
 #### Alertas
 
+- Saldo negativo: hay que volver a positivo antes del inicio de jornada.
+- Guedes: estado injured en mercado.
+- R.P. Bigas: estado doubtful en mercado.
+- E. Militão: estado injured en mercado.
+- Purić: estado out_of_league en mercado.
 - Cabrera: estado suspended en mercado.
-- Isi: estado injured en mercado.
-- Asencio: estado injured en mercado.
-- Sorloth: estado injured en mercado.
 - Hay 2 entrenadores en mercado: ignorar por funcion Premium bloqueada.
 
 ### Los Mastuerzos
 
-- Saldo: 9.590.829 EUR
-- Valor plantilla: 229.689.982 EUR
-- Jugadores plantilla: 12
-- Mercado jugable: 15
-- Entrenadores ignorados: 1
+- Saldo: 67.282.931 EUR
+- Valor plantilla: 168.630.222 EUR
+- Jugadores plantilla: 15
+- Mercado jugable: 13
+- Entrenadores ignorados: 2
 - Estrategia: Solucionar porteria y tercer defensa, manteniendo un centro del campo barato y muy util; cazar gangas antes que perseguir nombres caros.
 
 #### Plantilla
 
-- POR David Soria | Getafe CF | 25.897.575 EUR
-- DEF Sergio Gómez | Real Sociedad | 16.387.388 EUR
-- DEF Javi Rodríguez | Celta | 9.903.176 EUR
-- DEF C. Puga | Málaga CF | 4.914.391 EUR
-- DEF Pablo Ramón | R. Racing Club | 868.488 EUR
-- DEF Koski | Deportivo Alavés | 1.989.948 EUR
-- CEN Germán V. | Elche CF | 20.153.565 EUR
-- CEN Javi Guerra | Valencia CF | 24.116.431 EUR
-- CEN R. Terrats | Getafe CF | 3.940.650 EUR
-- CEN Valverde | Real Madrid | 72.386.574 EUR
-- DEL Chupe | Málaga CF | 41.248.841 EUR
-- DEL Hugo Duro | Valencia CF | 7.882.955 EUR
+- POR David Soria | Getafe CF | 21.482.951 EUR
+- DEF C. Puga | Málaga CF | 5.010.157 EUR
+- DEF Pablo Ramón | R. Racing Club | 546.278 EUR
+- DEF Koski | Deportivo Alavés | 1.038.751 EUR
+- DEF Sergio Gómez | Real Sociedad | 17.699.193 EUR
+- CEN Pedro Díaz | Rayo Vallecano | 1.722.667 EUR
+- CEN R. Terrats | Getafe CF | 3.183.959 EUR
+- CEN Javi Guerra | Valencia CF | 24.545.512 EUR
+- CEN D. Villares | RC Deportivo | 2.329.238 EUR
+- CEN Maguette | R. Racing Club | 3.805.951 EUR
+- CEN Germán V. | Elche CF | 22.495.449 EUR
+- CEN Iker Muñoz | C.A. Osasuna | 1.293.442 EUR
+- DEL Chupe | Málaga CF | 47.830.671 EUR
+- DEL Villalibre | R. Racing Club | 7.132.889 EUR
+- DEL Hugo Duro | Valencia CF | 8.513.114 EUR
 
 #### Mercado que caduca antes
 
-- CEN Buonanotte | precio 5.613.729 EUR | valor 5.480.720 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
-- POR Leo Román | precio 40.472.701 EUR | valor 40.296.105 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
-- DEF Dela | precio 11.251.772 EUR | valor 11.239.950 EUR | machine | pujas 1 | caduca 26/8/26, 22:10
-- DEF Costa | precio 1.008.872 EUR | valor 983.106 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
-- DEF Yoel Lago | precio 677.391 EUR | valor 770.434 EUR | machine | pujas 1 | caduca 26/8/26, 22:10
-- DEL Gordon | precio 66.795.866 EUR | valor 66.712.842 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
-- POR A. Fortuño | precio 492.645 EUR | valor 487.528 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
-- DEL Abdelkarim | precio 3.801.390 EUR | valor 3.808.087 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
-- CEN Barrios | precio 47.420.966 EUR | valor 47.910.198 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
-- CEN Guridi | precio 6.986.094 EUR | valor 7.095.558 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
-- DEF Mantilla | precio 2.424.504 EUR | valor 2.379.827 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
-- DEF Beitia | precio 492.587 EUR | valor 487.473 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
+- DEL Joaquín | precio 6.704.555 EUR | valor 6.334.354 EUR | rival | ofertas 1 | vende JoseJa94 | caduca 19/8/26, 19:23
+- POR Swiderski | precio 584.074 EUR | valor 573.948 EUR | machine | pujas 0 | caduca 19/8/26, 22:10
+- CEN Pol Lozano | precio 2.183.973 EUR | valor 2.137.439 EUR | machine | pujas 1 | caduca 19/8/26, 22:10
+- DEF J. Vázquez | precio 1.696.069 EUR | valor 1.675.986 EUR | machine | pujas 0 | caduca 19/8/26, 22:10
+- CEN Prados | precio 1.365.124 EUR | valor 1.332.505 EUR | machine | pujas 1 | caduca 19/8/26, 22:10
+- DEL B. Mayoral | precio 2.854.940 EUR | valor 2.800.731 EUR | machine | pujas 0 | caduca 19/8/26, 22:10
+- DEL Osorio | precio 1.361.883 EUR | valor 1.320.644 EUR | machine | pujas 0 | caduca 19/8/26, 22:10
+- DEF J. Ives Valou | precio 583.389 EUR | valor 573.290 EUR | machine | pujas 0 | caduca 19/8/26, 22:10
+- CEN Diatta | precio 537.940 EUR | valor 529.659 EUR | machine | pujas 0 | caduca 19/8/26, 22:10 | estado suspended
+- CEN Manel Usedo | precio 761.846 EUR | valor 744.609 EUR | machine | pujas 0 | caduca 19/8/26, 22:10
+- DEF Javi Rodríguez | precio 9.059.783 EUR | valor 9.065.805 EUR | machine | pujas 0 | caduca 19/8/26, 22:10
+- DEL Etta Eyong | precio 25.480.174 EUR | valor 24.961.008 EUR | machine | pujas 0 | caduca 19/8/26, 22:10
 
 #### Baratos a revisar
 
-- DEF Beitia | precio 492.587 EUR | valor 487.473 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
-- POR A. Fortuño | precio 492.645 EUR | valor 487.528 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
-- DEF Yoel Lago | precio 677.391 EUR | valor 770.434 EUR | machine | pujas 1 | caduca 26/8/26, 22:10
-- DEF Costa | precio 1.008.872 EUR | valor 983.106 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
-- DEF Mantilla | precio 2.424.504 EUR | valor 2.379.827 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
-- DEL Abdelkarim | precio 3.801.390 EUR | valor 3.808.087 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
-- DEF C. Puga | precio 4.908.305 EUR | valor 4.914.391 EUR | rival | ofertas 0 | vende Ramounsitou | caduca 28/8/26, 23:13
+- DEF J. Ives Valou | precio 583.389 EUR | valor 573.290 EUR | machine | pujas 0 | caduca 19/8/26, 22:10
+- POR Swiderski | precio 584.074 EUR | valor 573.948 EUR | machine | pujas 0 | caduca 19/8/26, 22:10
+- CEN Manel Usedo | precio 761.846 EUR | valor 744.609 EUR | machine | pujas 0 | caduca 19/8/26, 22:10
+- DEL Osorio | precio 1.361.883 EUR | valor 1.320.644 EUR | machine | pujas 0 | caduca 19/8/26, 22:10
+- CEN Prados | precio 1.365.124 EUR | valor 1.332.505 EUR | machine | pujas 1 | caduca 19/8/26, 22:10
+- DEF J. Vázquez | precio 1.696.069 EUR | valor 1.675.986 EUR | machine | pujas 0 | caduca 19/8/26, 22:10
+- CEN Pol Lozano | precio 2.183.973 EUR | valor 2.137.439 EUR | machine | pujas 1 | caduca 19/8/26, 22:10
+- DEL B. Mayoral | precio 2.854.940 EUR | valor 2.800.731 EUR | machine | pujas 0 | caduca 19/8/26, 22:10
 
 #### Premium a revisar
 
-- DEL Gordon | precio 66.795.866 EUR | valor 66.712.842 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
-- CEN Barrios | precio 47.420.966 EUR | valor 47.910.198 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
-- POR Leo Román | precio 40.472.701 EUR | valor 40.296.105 EUR | machine | pujas 0 | caduca 26/8/26, 22:10
-- CEN Germán V. | precio 20.542.089 EUR | valor 20.153.565 EUR | rival | ofertas 0 | vende Ramounsitou | caduca 28/8/26, 23:22
+- DEL Etta Eyong | precio 25.480.174 EUR | valor 24.961.008 EUR | machine | pujas 0 | caduca 19/8/26, 22:10
 
 #### Alertas
 
-- Hay 1 entrenadores en mercado: ignorar por funcion Premium bloqueada.
+- Diatta: estado suspended en mercado.
+- Hay 2 entrenadores en mercado: ignorar por funcion Premium bloqueada.
 
