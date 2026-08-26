@@ -1,10 +1,10 @@
 # ChatGPT Mobile Pack - Ligas Fantasy
 
-Actualizado: 2026-08-25T23:33:53.402Z
+Actualizado: 2026-08-26T01:54:06.890Z
 
 ## Fuente de verdad para informes
 
-Datos Fantasy actuales: 2026-08-25T23:33:53.402Z
+Datos Fantasy actuales: 2026-08-26T01:54:06.890Z
 
 Reglas obligatorias para ChatGPT:
 - Plantilla, saldo, mercado, pujas, actividad y once guardado actuales salen de este pack/radar, no de capturas antiguas ni memoria de conversaciones.
@@ -32,7 +32,7 @@ Formato obligatorio de cada informe de liga:
 
 Estado actual detectado por liga:
 - Los Primacos (los-primacos): saldo -32.946.402 EUR | valor 281.574.239 EUR | plantilla 16 | mercado jugable 19 | ENT ignorados 2
-- Fantasmas League (fantasmas-league): saldo 39.904.117 EUR | valor 208.168.353 EUR | plantilla 14 | mercado jugable 28 | pujas/inversion detectada 15.378.885 EUR | ENT ignorados 2
+- Fantasmas League (fantasmas-league): saldo 39.904.117 EUR | valor 208.168.353 EUR | plantilla 14 | mercado jugable 26 | pujas/inversion detectada 15.378.885 EUR | ENT ignorados 2
 - Los Mastuerzos (los-mastuerzos): saldo 9.590.829 EUR | valor 229.695.839 EUR | plantilla 12 | mercado jugable 15 | pujas/inversion detectada 11.929.178 EUR | ENT ignorados 1
 
 ## Resumen movil de 10 minutos
@@ -88,8 +88,8 @@ Ventas / huecos:
 
 ### Fantasmas League
 
-Saldo 39.904.117 EUR | plantilla 14 | mercado 28 | puesto 3/10, a 34 del lider
-Alertas: Isi en plantilla aparece como injured. / 2 entrenador(es) ignorados por Premium.
+Saldo 39.904.117 EUR | plantilla 14 | mercado 26 | puesto 3/10, a 34 del lider
+Alertas: Isi en plantilla aparece como injured. / 11 jugador(es) jugables caducan en menos de 8 horas. / 2 entrenador(es) ignorados por Premium.
 
 Once recomendado:
 3-5-2: POR Remiro / DEF Huijsen / DEF Djene / DEF Koski / CEN Mario Soriano / CEN Izan M. / CEN Germán V. / CEN Agoumé / CEN R. Terrats / DEL Ángel Pérez / DEL T. Morente
@@ -100,18 +100,18 @@ Cambios frente al once guardado:
 
 Mercado, mirar primero:
 - SOLO SI ESTA BARATO: DEF Fran García | 11.671.750 EUR | 4 pujas | puja 12.080.262 EUR, max 12.605.490 EUR
-- SOLO SI ESTA BARATO: CEN Agoumé | 5.902.209 EUR | 0 ofertas | puja 5.914.014 EUR, max 5.990.743 EUR
 - SOLO SI ESTA BARATO: DEL Arnau Ortiz | 1.257.953 EUR | 0 pujas | puja 1.260.469 EUR, max 1.276.823 EUR
 - SOLO SI ESTA BARATO: DEL Iago Aspas | 6.529.303 EUR | 1 ofertas | puja 6.757.829 EUR, max 6.910.502 EUR
+- SOLO SI ESTA BARATO: CEN Agoumé | 5.902.209 EUR | 1 ofertas | puja 6.108.787 EUR, max 6.374.386 EUR
 - SOLO SI ESTA BARATO: DEL T. Morente | 1.566.110 EUR | 0 ofertas | puja 1.569.243 EUR, max 1.589.602 EUR
 
 Mercado completo detectado:
 - POR Ionut Radu | precio 35.842.835 EUR | valor 35.752.569 EUR | MIRAR | 1 pujas | estado ok | max 37.182.672 EUR
 - DEL Mikautadze | precio 68.270.452 EUR | valor 69.651.107 EUR | MIRAR | 0 ofertas | estado ok | max 69.294.509 EUR
 - DEF Fran García | precio 11.671.750 EUR | valor 12.329.561 EUR | SOLO SI ESTA BARATO | 4 pujas | estado ok | max 12.605.490 EUR
-- CEN Agoumé | precio 5.902.209 EUR | valor 6.066.565 EUR | SOLO SI ESTA BARATO | 0 ofertas | estado ok | max 5.990.743 EUR
 - DEL Arnau Ortiz | precio 1.257.953 EUR | valor 1.236.545 EUR | SOLO SI ESTA BARATO | 0 pujas | estado ok | max 1.276.823 EUR
 - DEL Iago Aspas | precio 6.529.303 EUR | valor 6.282.274 EUR | SOLO SI ESTA BARATO | 1 ofertas | estado ok | max 6.910.502 EUR
+- CEN Agoumé | precio 5.902.209 EUR | valor 6.066.565 EUR | SOLO SI ESTA BARATO | 1 ofertas | estado ok | max 6.374.386 EUR
 - DEL T. Morente | precio 1.566.110 EUR | valor 1.531.691 EUR | SOLO SI ESTA BARATO | 0 ofertas | estado ok | max 1.589.602 EUR
 - DEF D. Martínez | precio 532.266 EUR | valor 543.098 EUR | SOLO SI ESTA BARATO | 2 pujas | estado ok | max 597.408 EUR
 - DEL Nordin Al-Lal | precio 470.333 EUR | valor 465.901 EUR | VIGILAR | 0 pujas | estado ok | max 477.388 EUR
@@ -123,7 +123,6 @@ Mercado completo detectado:
 - POR Galdin | precio 590.150 EUR | valor 580.925 EUR | VIGILAR | 0 pujas | estado ok | max 599.003 EUR
 - POR Courtois | precio 79.000.000 EUR | valor 66.206.568 EUR | MIRAR | 0 ofertas | estado ok | max 79.158.000 EUR
 - POR Marrero | precio 922.063 EUR | valor 900.039 EUR | VIGILAR | 0 pujas | estado ok | max 935.894 EUR
-- POR Szczesny | precio 1.942.994 EUR | valor 1.858.670 EUR | VIGILAR | 1 ofertas | estado ok | max 2.059.574 EUR
 - POR Lunin | precio 1.872.911 EUR | valor 1.808.011 EUR | VIGILAR | 1 ofertas | estado ok | max 1.988.813 EUR
 - CEN Germán V. | precio 20.542.089 EUR | valor 20.154.034 EUR | VIGILAR | 0 ofertas | estado ok | max 20.850.221 EUR
 - DEL Gordon | precio 66.803.630 EUR | valor 66.714.260 EUR | MIRAR | 0 pujas | estado ok | max 67.805.685 EUR
@@ -133,7 +132,6 @@ Mercado completo detectado:
 - DEL Yeremay | precio 60.000.000 EUR | valor 40.811.902 EUR | EVITAR | 0 ofertas | estado ok
 - DEF F. Calero | precio 2.177.410 EUR | valor 2.109.840 EUR | EVITAR | 0 pujas | estado injured
 - DEL Isi | precio 18.753.529 EUR | valor 18.191.526 EUR | EVITAR | 0 ofertas | estado injured
-- DEF De Haas | precio 8.362.260 EUR | valor 7.835.484 EUR | EVITAR | 1 ofertas | estado injured
 
 Ventas / huecos:
 - VENDER SI NO COMPENSA ESPERAR: DEL Isi | 18.191.526 EUR
@@ -298,7 +296,7 @@ Prioridades:
 
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-25T23:33:53.402Z
+Datos API: 2026-08-26T01:54:06.890Z
 Semana actual: 3
 
 ## Objetivo
@@ -397,7 +395,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - Saldo: 39.904.117 EUR
 - Valor plantilla: 208.168.353 EUR
 - Jugadores plantilla: 14
-- Mercado jugable: 28
+- Mercado jugable: 26
 - Entrenadores ignorados: 2
 - Estrategia: Construir un equipo ganador priorizando 11 titulares reales, gangas de mercado y revalorizacion.
 
@@ -445,7 +443,6 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - DEF Johaneko | precio 1.308.444 EUR | valor 1.270.487 EUR | machine | pujas 0 | caduca 26/8/26, 10:53
 - DEL T. Morente | precio 1.566.110 EUR | valor 1.531.691 EUR | rival | ofertas 0 | vende Ramounsitou | caduca 28/8/26, 23:47
 - POR Lunin | precio 1.872.911 EUR | valor 1.808.011 EUR | rival | ofertas 1 | vende Rafishh | caduca 27/8/26, 15:33
-- POR Szczesny | precio 1.942.994 EUR | valor 1.858.670 EUR | rival | ofertas 1 | vende Rafishh | caduca 27/8/26, 15:33
 
 #### Premium a revisar
 
@@ -461,7 +458,6 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 #### Alertas
 
 - F. Calero: estado injured en mercado.
-- De Haas: estado injured en mercado.
 - Isi: estado injured en mercado.
 - Hay 2 entrenadores en mercado: ignorar por funcion Premium bloqueada.
 
@@ -531,8 +527,8 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 # Cola diaria de noticias y titularidad
 
-Generada: 26/8/26, 1:33
-Datos Fantasy: 26/8/26, 1:33
+Generada: 26/8/26, 3:54
+Datos Fantasy: 26/8/26, 3:54
 
 Uso: esta es la lista corta que ChatGPT/Codex debe verificar en internet antes de cerrar pujas fuertes o el once. El radar solo aconseja; Ramon ejecuta todo manualmente.
 
@@ -588,7 +584,7 @@ Situacion: puesto 3/10, a 34 del lider.
   Precio: 6.529.303 EUR | valor: 6.282.274 EUR | score interno: 70.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Iago Aspas para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
 - CEN Agoumé (sin equipo): SOLO SI ESTA BARATO por 5.902.209 EUR; Interesante, pero conviene verificar titularidad.
-  Precio: 5.902.209 EUR | valor: 6.066.565 EUR | score interno: 72.
+  Precio: 5.902.209 EUR | valor: 6.066.565 EUR | score interno: 68.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Agoumé para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
 - DEF D. Martínez (sin equipo): SOLO SI ESTA BARATO por 532.266 EUR; Interesante, pero conviene verificar titularidad.
   Precio: 532.266 EUR | valor: 543.098 EUR | score interno: 67.
@@ -653,8 +649,8 @@ Usa esta cola. Busca en internet noticias recientes, onces probables, rol previs
 
 # Informe Inteligente Ligas Fantasy
 
-Generado: 26/8/26, 1:33
-Datos API: 26/8/26, 1:33
+Generado: 26/8/26, 3:54
+Datos API: 26/8/26, 3:54
 Semana actual: 3
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -760,11 +756,12 @@ Formacion: 4-4-2 | puntuacion interna 901
 - Liga: puesto 3/10, 79 puntos, a 34 del lider (Mynavo Kyiv)
 - Ranking por valor de plantilla: 6/10
 - Plantilla: 14 jugadores
-- Mercado jugable: 28
+- Mercado jugable: 26
 
 ### Alertas
 
 - Isi en plantilla aparece como injured.
+- 11 jugador(es) jugables caducan en menos de 8 horas.
 - 2 entrenador(es) ignorados por Premium.
 
 ### Situacion
@@ -815,9 +812,9 @@ Formacion: 3-5-2 | puntuacion interna 826
 ### Solo Si Esta Barato
 
 - SOLO SI ESTA BARATO: DEF Fran García | score 72 | precio 11.671.750 EUR | valor 12.329.561 EUR | puja 12.080.262 EUR | max 12.605.490 EUR | pujas 4 | caduca 26/8/26, 10:53 | base: pts actuales 16 (peso bajo), media 8, pts temp ant 57, valor 12.329.561 EUR | Interesante, pero conviene verificar titularidad
-- SOLO SI ESTA BARATO: CEN Agoumé | score 72 | precio 5.902.209 EUR | valor 6.066.565 EUR | puja 5.914.014 EUR | max 5.990.743 EUR | ofertas 0 | vende Ramounsitou | caduca 28/8/26, 23:47 | base: pts actuales 10 (peso bajo), media 5, pts temp ant 133, valor 6.066.565 EUR | Interesante, pero conviene verificar titularidad
 - SOLO SI ESTA BARATO: DEL Arnau Ortiz | score 71 | precio 1.257.953 EUR | valor 1.236.545 EUR | puja 1.260.469 EUR | max 1.276.823 EUR | pujas 0 | caduca 26/8/26, 10:53 | base: pts actuales 4 (peso bajo), media 2, valor 1.236.545 EUR | Interesante, pero conviene verificar titularidad
 - SOLO SI ESTA BARATO: DEL Iago Aspas | score 70 | precio 6.529.303 EUR | valor 6.282.274 EUR | puja 6.757.829 EUR | max 6.910.502 EUR | ofertas 1 | vende Rafishh | caduca 27/8/26, 16:01 | base: pts actuales 2 (peso bajo), media 2, pts temp ant 141, valor 6.282.274 EUR | Interesante, pero conviene verificar titularidad
+- SOLO SI ESTA BARATO: CEN Agoumé | score 68 | precio 5.902.209 EUR | valor 6.066.565 EUR | puja 6.108.787 EUR | max 6.374.386 EUR | ofertas 1 | vende Ramounsitou | caduca 28/8/26, 23:47 | base: pts actuales 10 (peso bajo), media 5, pts temp ant 133, valor 6.066.565 EUR | Interesante, pero conviene verificar titularidad
 - SOLO SI ESTA BARATO: DEL T. Morente | score 68 | precio 1.566.110 EUR | valor 1.531.691 EUR | puja 1.569.243 EUR | max 1.589.602 EUR | ofertas 0 | vende Ramounsitou | caduca 28/8/26, 23:47 | base: pts actuales 3 (peso bajo), media 1.5, pts temp ant 56, valor 1.531.691 EUR | Interesante, pero conviene verificar titularidad
 - SOLO SI ESTA BARATO: DEF D. Martínez | score 67 | precio 532.266 EUR | valor 543.098 EUR | puja 564.202 EUR | max 597.408 EUR | pujas 2 | caduca 26/8/26, 10:53 | base: pts actuales 8 (peso bajo), media 4, pts temp ant -1, valor 543.098 EUR | Interesante, pero conviene verificar titularidad
 - SOLO SI ES CLARO: DEL Etta Eyong | score 64 | precio 22.549.120 EUR | valor 21.384.105 EUR | puja 23.338.340 EUR | max 23.522.516 EUR | ofertas 1 | vende Rafishh | caduca 27/8/26, 16:01 | base: pts actuales 2 (peso bajo), media 1, pts temp ant 133, valor 21.384.105 EUR | Consume demasiado saldo para una recomendacion automatica
@@ -839,7 +836,6 @@ Formacion: 3-5-2 | puntuacion interna 826
 - EVITAR: DEL Yeremay | score 28 | precio 60.000.000 EUR | valor 40.811.902 EUR | No pujar salvo que lo revisemos manualmente | ofertas 0 | vende West Jamon C.F.D. | caduca 28/8/26, 20:12 | base: pts actuales 2 (peso bajo), media 2, valor 40.811.902 EUR | Sobreprecio del 47%
 - EVITAR: DEF F. Calero | score 13 | precio 2.177.410 EUR | valor 2.109.840 EUR | No pujar: injured | pujas 0 | caduca 26/8/26, 10:53 | injured | base: pts actuales 0 (peso bajo), media 0, pts temp ant 121, valor 2.109.840 EUR, estado injured | Estado injured
 - EVITAR: DEL Isi | score 13 | precio 18.753.529 EUR | valor 18.191.526 EUR | No pujar: injured | ofertas 0 | vende Ramounsitou | caduca 28/8/26, 23:55 | injured | base: pts actuales 5 (peso bajo), media 2.5, pts temp ant 139, valor 18.191.526 EUR, estado injured | Estado injured
-- EVITAR: DEF De Haas | score 10 | precio 8.362.260 EUR | valor 7.835.484 EUR | No pujar: injured | ofertas 1 | vende Rafishh | caduca 27/8/26, 15:31 | injured | base: pts actuales 1 (peso bajo), media 1, valor 7.835.484 EUR, estado injured | Estado injured
 
 ### Vender O Liberar Hueco
 

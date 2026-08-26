@@ -1,6 +1,6 @@
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-25T23:33:53.402Z
+Datos API: 2026-08-26T01:54:06.890Z
 Semana actual: 3
 
 ## Objetivo
@@ -99,7 +99,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - Saldo: 39.904.117 EUR
 - Valor plantilla: 208.168.353 EUR
 - Jugadores plantilla: 14
-- Mercado jugable: 28
+- Mercado jugable: 26
 - Entrenadores ignorados: 2
 - Estrategia: Construir un equipo ganador priorizando 11 titulares reales, gangas de mercado y revalorizacion.
 
@@ -147,7 +147,6 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - DEF Johaneko | precio 1.308.444 EUR | valor 1.270.487 EUR | machine | pujas 0 | caduca 26/8/26, 10:53
 - DEL T. Morente | precio 1.566.110 EUR | valor 1.531.691 EUR | rival | ofertas 0 | vende Ramounsitou | caduca 28/8/26, 23:47
 - POR Lunin | precio 1.872.911 EUR | valor 1.808.011 EUR | rival | ofertas 1 | vende Rafishh | caduca 27/8/26, 15:33
-- POR Szczesny | precio 1.942.994 EUR | valor 1.858.670 EUR | rival | ofertas 1 | vende Rafishh | caduca 27/8/26, 15:33
 
 #### Premium a revisar
 
@@ -163,7 +162,6 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 #### Alertas
 
 - F. Calero: estado injured en mercado.
-- De Haas: estado injured en mercado.
 - Isi: estado injured en mercado.
 - Hay 2 entrenadores en mercado: ignorar por funcion Premium bloqueada.
 

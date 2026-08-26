@@ -1,7 +1,7 @@
 # Informe Inteligente Ligas Fantasy
 
-Generado: 26/8/26, 1:33
-Datos API: 26/8/26, 1:33
+Generado: 26/8/26, 3:54
+Datos API: 26/8/26, 3:54
 Semana actual: 3
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -107,11 +107,12 @@ Formacion: 4-4-2 | puntuacion interna 901
 - Liga: puesto 3/10, 79 puntos, a 34 del lider (Mynavo Kyiv)
 - Ranking por valor de plantilla: 6/10
 - Plantilla: 14 jugadores
-- Mercado jugable: 28
+- Mercado jugable: 26
 
 ### Alertas
 
 - Isi en plantilla aparece como injured.
+- 11 jugador(es) jugables caducan en menos de 8 horas.
 - 2 entrenador(es) ignorados por Premium.
 
 ### Situacion
@@ -162,9 +163,9 @@ Formacion: 3-5-2 | puntuacion interna 826
 ### Solo Si Esta Barato
 
 - SOLO SI ESTA BARATO: DEF Fran García | score 72 | precio 11.671.750 EUR | valor 12.329.561 EUR | puja 12.080.262 EUR | max 12.605.490 EUR | pujas 4 | caduca 26/8/26, 10:53 | base: pts actuales 16 (peso bajo), media 8, pts temp ant 57, valor 12.329.561 EUR | Interesante, pero conviene verificar titularidad
-- SOLO SI ESTA BARATO: CEN Agoumé | score 72 | precio 5.902.209 EUR | valor 6.066.565 EUR | puja 5.914.014 EUR | max 5.990.743 EUR | ofertas 0 | vende Ramounsitou | caduca 28/8/26, 23:47 | base: pts actuales 10 (peso bajo), media 5, pts temp ant 133, valor 6.066.565 EUR | Interesante, pero conviene verificar titularidad
 - SOLO SI ESTA BARATO: DEL Arnau Ortiz | score 71 | precio 1.257.953 EUR | valor 1.236.545 EUR | puja 1.260.469 EUR | max 1.276.823 EUR | pujas 0 | caduca 26/8/26, 10:53 | base: pts actuales 4 (peso bajo), media 2, valor 1.236.545 EUR | Interesante, pero conviene verificar titularidad
 - SOLO SI ESTA BARATO: DEL Iago Aspas | score 70 | precio 6.529.303 EUR | valor 6.282.274 EUR | puja 6.757.829 EUR | max 6.910.502 EUR | ofertas 1 | vende Rafishh | caduca 27/8/26, 16:01 | base: pts actuales 2 (peso bajo), media 2, pts temp ant 141, valor 6.282.274 EUR | Interesante, pero conviene verificar titularidad
+- SOLO SI ESTA BARATO: CEN Agoumé | score 68 | precio 5.902.209 EUR | valor 6.066.565 EUR | puja 6.108.787 EUR | max 6.374.386 EUR | ofertas 1 | vende Ramounsitou | caduca 28/8/26, 23:47 | base: pts actuales 10 (peso bajo), media 5, pts temp ant 133, valor 6.066.565 EUR | Interesante, pero conviene verificar titularidad
 - SOLO SI ESTA BARATO: DEL T. Morente | score 68 | precio 1.566.110 EUR | valor 1.531.691 EUR | puja 1.569.243 EUR | max 1.589.602 EUR | ofertas 0 | vende Ramounsitou | caduca 28/8/26, 23:47 | base: pts actuales 3 (peso bajo), media 1.5, pts temp ant 56, valor 1.531.691 EUR | Interesante, pero conviene verificar titularidad
 - SOLO SI ESTA BARATO: DEF D. Martínez | score 67 | precio 532.266 EUR | valor 543.098 EUR | puja 564.202 EUR | max 597.408 EUR | pujas 2 | caduca 26/8/26, 10:53 | base: pts actuales 8 (peso bajo), media 4, pts temp ant -1, valor 543.098 EUR | Interesante, pero conviene verificar titularidad
 - SOLO SI ES CLARO: DEL Etta Eyong | score 64 | precio 22.549.120 EUR | valor 21.384.105 EUR | puja 23.338.340 EUR | max 23.522.516 EUR | ofertas 1 | vende Rafishh | caduca 27/8/26, 16:01 | base: pts actuales 2 (peso bajo), media 1, pts temp ant 133, valor 21.384.105 EUR | Consume demasiado saldo para una recomendacion automatica
@@ -186,7 +187,6 @@ Formacion: 3-5-2 | puntuacion interna 826
 - EVITAR: DEL Yeremay | score 28 | precio 60.000.000 EUR | valor 40.811.902 EUR | No pujar salvo que lo revisemos manualmente | ofertas 0 | vende West Jamon C.F.D. | caduca 28/8/26, 20:12 | base: pts actuales 2 (peso bajo), media 2, valor 40.811.902 EUR | Sobreprecio del 47%
 - EVITAR: DEF F. Calero | score 13 | precio 2.177.410 EUR | valor 2.109.840 EUR | No pujar: injured | pujas 0 | caduca 26/8/26, 10:53 | injured | base: pts actuales 0 (peso bajo), media 0, pts temp ant 121, valor 2.109.840 EUR, estado injured | Estado injured
 - EVITAR: DEL Isi | score 13 | precio 18.753.529 EUR | valor 18.191.526 EUR | No pujar: injured | ofertas 0 | vende Ramounsitou | caduca 28/8/26, 23:55 | injured | base: pts actuales 5 (peso bajo), media 2.5, pts temp ant 139, valor 18.191.526 EUR, estado injured | Estado injured
-- EVITAR: DEF De Haas | score 10 | precio 8.362.260 EUR | valor 7.835.484 EUR | No pujar: injured | ofertas 1 | vende Rafishh | caduca 27/8/26, 15:31 | injured | base: pts actuales 1 (peso bajo), media 1, valor 7.835.484 EUR, estado injured | Estado injured
 
 ### Vender O Liberar Hueco
 

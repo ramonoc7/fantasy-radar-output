@@ -1,7 +1,7 @@
 # Cola diaria de noticias y titularidad
 
-Generada: 26/8/26, 1:33
-Datos Fantasy: 26/8/26, 1:33
+Generada: 26/8/26, 3:54
+Datos Fantasy: 26/8/26, 3:54
 
 Uso: esta es la lista corta que ChatGPT/Codex debe verificar en internet antes de cerrar pujas fuertes o el once. El radar solo aconseja; Ramon ejecuta todo manualmente.
 
@@ -57,7 +57,7 @@ Situacion: puesto 3/10, a 34 del lider.
   Precio: 6.529.303 EUR | valor: 6.282.274 EUR | score interno: 70.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Iago Aspas para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
 - CEN Agoumé (sin equipo): SOLO SI ESTA BARATO por 5.902.209 EUR; Interesante, pero conviene verificar titularidad.
-  Precio: 5.902.209 EUR | valor: 6.066.565 EUR | score interno: 72.
+  Precio: 5.902.209 EUR | valor: 6.066.565 EUR | score interno: 68.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Agoumé para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
 - DEF D. Martínez (sin equipo): SOLO SI ESTA BARATO por 532.266 EUR; Interesante, pero conviene verificar titularidad.
   Precio: 532.266 EUR | valor: 543.098 EUR | score interno: 67.
