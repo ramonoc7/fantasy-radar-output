@@ -1,6 +1,6 @@
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-29T18:23:03.840Z
+Datos API: 2026-08-29T21:40:48.564Z
 Semana actual: 3
 
 ## Objetivo
@@ -97,7 +97,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - Saldo: 38.165.550 EUR
 - Valor plantilla: 213.461.197 EUR
 - Jugadores plantilla: 12
-- Mercado jugable: 36
+- Mercado jugable: 35
 - Entrenadores ignorados: 1
 - Estrategia: Construir un equipo ganador priorizando 11 titulares reales, gangas de mercado y revalorizacion.
 
@@ -166,11 +166,11 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 ### Los Mastuerzos
 
-- Saldo: 3.002.705 EUR
-- Valor plantilla: 237.434.250 EUR
-- Jugadores plantilla: 12
+- Saldo: 864.906 EUR
+- Valor plantilla: 239.571.977 EUR
+- Jugadores plantilla: 13
 - Mercado jugable: 14
-- Entrenadores ignorados: 1
+- Entrenadores ignorados: 2
 - Estrategia: Solucionar porteria y tercer defensa, manteniendo un centro del campo barato y muy util; cazar gangas antes que perseguir nombres caros.
 
 #### Plantilla
@@ -181,47 +181,47 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - DEF Dela | Levante UD | 11.324.956 EUR
 - DEF Pablo Ramón | R. Racing Club | 1.164.864 EUR
 - DEF Koski | Deportivo Alavés | 2.427.588 EUR
-- CEN R. Terrats | Getafe CF | 4.531.203 EUR
 - CEN Germán V. | Elche CF | 19.145.412 EUR
 - CEN Javi Guerra | Valencia CF | 24.740.500 EUR
+- CEN R. Terrats | Getafe CF | 4.531.203 EUR
 - CEN Valverde | Real Madrid | 72.407.429 EUR
+- CEN Mikel Rodriguez | Deportivo Alavés | 2.137.727 EUR
 - DEL Chupe | Málaga CF | 39.657.785 EUR
 - DEL Hugo Duro | Valencia CF | 7.477.092 EUR
 
 #### Mercado que caduca antes
 
-- CEN M. Casadó | precio 1.397.197 EUR | valor 1.370.870 EUR | machine | pujas 0 | caduca 29/8/26, 22:10
-- DEF Hancko | precio 44.110.889 EUR | valor 44.062.913 EUR | machine | pujas 0 | caduca 29/8/26, 22:10
-- CEN Bardeli | precio 3.224.036 EUR | valor 3.217.312 EUR | machine | pujas 0 | caduca 29/8/26, 22:10
-- POR Diego Conde | precio 2.267.385 EUR | valor 2.207.285 EUR | machine | pujas 0 | caduca 29/8/26, 22:10 | estado injured
-- DEL Gorka Carrera | precio 643.470 EUR | valor 633.983 EUR | machine | pujas 0 | caduca 29/8/26, 22:10
-- CEN Hugo Pérez | precio 1.106.237 EUR | valor 1.078.240 EUR | machine | pujas 0 | caduca 29/8/26, 22:10
-- CEN Mikel Rodriguez | precio 1.995.480 EUR | valor 2.137.727 EUR | machine | pujas 2 | caduca 29/8/26, 22:10
-- POR Szczesny | precio 1.783.232 EUR | valor 1.745.466 EUR | machine | pujas 0 | caduca 29/8/26, 22:10
-- DEF Areso | precio 2.689.202 EUR | valor 2.636.912 EUR | machine | pujas 0 | caduca 29/8/26, 22:10
-- CEN Risco | precio 579.866 EUR | valor 572.924 EUR | machine | pujas 0 | caduca 29/8/26, 22:10
-- DEF Adama | precio 450.013 EUR | valor 448.265 EUR | machine | pujas 0 | caduca 29/8/26, 22:10
-- CEN Caste | precio 566.085 EUR | valor 559.694 EUR | machine | pujas 0 | caduca 29/8/26, 22:10
+- DEL Hugo Duro | precio 7.882.955 EUR | valor 7.477.092 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 30/8/26, 0:11
+- POR P. Campos | precio 797.141 EUR | valor 797.141 EUR | machine | pujas 0 | caduca 30/8/26, 22:10
+- DEF Marcos Alonso | precio 29.396.494 EUR | valor 29.396.494 EUR | machine | pujas 0 | caduca 30/8/26, 22:10 | estado suspended
+- DEF Fran García | precio 14.582.255 EUR | valor 14.582.255 EUR | machine | pujas 0 | caduca 30/8/26, 22:10
+- DEF Boyomo | precio 23.814.409 EUR | valor 23.814.409 EUR | machine | pujas 0 | caduca 30/8/26, 22:10
+- DEL Nteka | precio 1.349.506 EUR | valor 1.349.506 EUR | machine | pujas 0 | caduca 30/8/26, 22:10
+- DEL Giuliano | precio 43.375.972 EUR | valor 43.375.972 EUR | machine | pujas 0 | caduca 30/8/26, 22:10
+- DEF Lozano | precio 559.694 EUR | valor 559.694 EUR | machine | pujas 0 | caduca 30/8/26, 22:10
+- CEN Alberto Calatrava | precio 764.155 EUR | valor 764.155 EUR | machine | pujas 0 | caduca 30/8/26, 22:10
+- CEN H. González | precio 1.141.290 EUR | valor 1.141.290 EUR | machine | pujas 0 | caduca 30/8/26, 22:10
+- DEF Luiz Felipe | precio 2.552.732 EUR | valor 2.552.732 EUR | machine | pujas 0 | caduca 30/8/26, 22:10 | estado injured
+- DEL Rodrygo | precio 2.307.797 EUR | valor 2.307.797 EUR | machine | pujas 0 | caduca 30/8/26, 22:10 | estado injured
 
 #### Baratos a revisar
 
-- DEF Adama | precio 450.013 EUR | valor 448.265 EUR | machine | pujas 0 | caduca 29/8/26, 22:10
-- CEN Caste | precio 566.085 EUR | valor 559.694 EUR | machine | pujas 0 | caduca 29/8/26, 22:10
-- CEN Risco | precio 579.866 EUR | valor 572.924 EUR | machine | pujas 0 | caduca 29/8/26, 22:10
-- DEL Gorka Carrera | precio 643.470 EUR | valor 633.983 EUR | machine | pujas 0 | caduca 29/8/26, 22:10
-- CEN Hugo Pérez | precio 1.106.237 EUR | valor 1.078.240 EUR | machine | pujas 0 | caduca 29/8/26, 22:10
-- CEN M. Casadó | precio 1.397.197 EUR | valor 1.370.870 EUR | machine | pujas 0 | caduca 29/8/26, 22:10
-- POR Szczesny | precio 1.783.232 EUR | valor 1.745.466 EUR | machine | pujas 0 | caduca 29/8/26, 22:10
-- CEN Mikel Rodriguez | precio 1.995.480 EUR | valor 2.137.727 EUR | machine | pujas 2 | caduca 29/8/26, 22:10
-- DEF Areso | precio 2.689.202 EUR | valor 2.636.912 EUR | machine | pujas 0 | caduca 29/8/26, 22:10
-- CEN Bardeli | precio 3.224.036 EUR | valor 3.217.312 EUR | machine | pujas 0 | caduca 29/8/26, 22:10
+- DEF Lozano | precio 559.694 EUR | valor 559.694 EUR | machine | pujas 0 | caduca 30/8/26, 22:10
+- CEN Alberto Calatrava | precio 764.155 EUR | valor 764.155 EUR | machine | pujas 0 | caduca 30/8/26, 22:10
+- POR P. Campos | precio 797.141 EUR | valor 797.141 EUR | machine | pujas 0 | caduca 30/8/26, 22:10
+- CEN H. González | precio 1.141.290 EUR | valor 1.141.290 EUR | machine | pujas 0 | caduca 30/8/26, 22:10
+- DEL Nteka | precio 1.349.506 EUR | valor 1.349.506 EUR | machine | pujas 0 | caduca 30/8/26, 22:10
 
 #### Premium a revisar
 
-- DEF Hancko | precio 44.110.889 EUR | valor 44.062.913 EUR | machine | pujas 0 | caduca 29/8/26, 22:10
+- DEL Giuliano | precio 43.375.972 EUR | valor 43.375.972 EUR | machine | pujas 0 | caduca 30/8/26, 22:10
+- DEF Boyomo | precio 23.814.409 EUR | valor 23.814.409 EUR | machine | pujas 0 | caduca 30/8/26, 22:10
 
 #### Alertas
 
-- Diego Conde: estado injured en mercado.
-- Hay 1 entrenadores en mercado: ignorar por funcion Premium bloqueada.
+- Marcos Alonso: estado suspended en mercado.
+- Luiz Felipe: estado injured en mercado.
+- Rodrygo: estado injured en mercado.
+- A. Batalla: estado injured en mercado.
+- Hay 2 entrenadores en mercado: ignorar por funcion Premium bloqueada.
 
