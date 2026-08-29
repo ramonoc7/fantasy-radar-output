@@ -1,6 +1,6 @@
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-29T14:32:21.134Z
+Datos API: 2026-08-29T18:23:03.840Z
 Semana actual: 3
 
 ## Objetivo
@@ -27,10 +27,10 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 ### Los Primacos
 
-- Saldo: 13.467.507 EUR
-- Valor plantilla: 240.635.577 EUR
-- Jugadores plantilla: 16
-- Mercado jugable: 15
+- Saldo: 21.315.207 EUR
+- Valor plantilla: 233.158.485 EUR
+- Jugadores plantilla: 15
+- Mercado jugable: 16
 - Entrenadores ignorados: 1
 - Estrategia: Arreglar porteria y defensa sin desmontar activos caros; convertir dinero concentrado en titulares baratos utiles.
 
@@ -51,11 +51,9 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - DEL Dolan | RCD Espanyol | 10.708.881 EUR
 - DEL R. Brugué | Levante UD | 1.691.985 EUR
 - DEL Oyarzabal | Real Sociedad | 58.543.160 EUR
-- DEL Hugo Duro | Valencia CF | 7.477.092 EUR
 
 #### Mercado que caduca antes
 
-- DEL Hugo Duro | precio 7.882.955 EUR | valor 7.477.092 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 30/8/26, 0:14
 - CEN A. Osambela | precio 480.112 EUR | valor 480.112 EUR | machine | pujas 0 | caduca 30/8/26, 12:46
 - POR Dmitrovic | precio 41.631.576 EUR | valor 41.631.576 EUR | machine | pujas 0 | caduca 30/8/26, 12:46
 - DEL Raba | precio 1.131.405 EUR | valor 1.131.405 EUR | machine | pujas 0 | caduca 30/8/26, 12:46
@@ -66,7 +64,8 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - CEN Larrubia | precio 39.710.796 EUR | valor 39.710.796 EUR | machine | pujas 0 | caduca 30/8/26, 12:46
 - CEN Zakharyan | precio 763.669 EUR | valor 763.669 EUR | machine | pujas 0 | caduca 30/8/26, 12:46
 - DEL Satriano | precio 24.597.725 EUR | valor 24.597.725 EUR | machine | pujas 0 | caduca 30/8/26, 12:46
-- CEN R. Mendoza | precio 1.136.124 EUR | valor 1.136.124 EUR | machine | pujas 0 | caduca 30/8/26, 12:46
+- CEN R. Mendoza | precio 1.136.124 EUR | valor 1.136.124 EUR | machine | pujas 1 | caduca 30/8/26, 12:46
+- DEL Niño | precio 1.707.781 EUR | valor 1.707.781 EUR | machine | pujas 0 | caduca 30/8/26, 12:46 | estado injured
 
 #### Baratos a revisar
 
@@ -74,10 +73,12 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - DEF Barzic | precio 634.642 EUR | valor 634.642 EUR | machine | pujas 0 | caduca 30/8/26, 12:46
 - CEN Zakharyan | precio 763.669 EUR | valor 763.669 EUR | machine | pujas 0 | caduca 30/8/26, 12:46
 - DEL Raba | precio 1.131.405 EUR | valor 1.131.405 EUR | machine | pujas 0 | caduca 30/8/26, 12:46
-- CEN R. Mendoza | precio 1.136.124 EUR | valor 1.136.124 EUR | machine | pujas 0 | caduca 30/8/26, 12:46
+- CEN R. Mendoza | precio 1.136.124 EUR | valor 1.136.124 EUR | machine | pujas 1 | caduca 30/8/26, 12:46
+- CEN Martim Neto | precio 1.567.416 EUR | valor 1.567.416 EUR | rival | ofertas 0 | vende Ramounsitou | caduca 1/9/26, 16:38
 - DEF Vanja Drkusic | precio 2.880.840 EUR | valor 2.880.840 EUR | machine | pujas 0 | caduca 30/8/26, 12:46
 - POR J. Musso | precio 3.430.544 EUR | valor 3.276.811 EUR | rival | ofertas 1 | vende leomaldonado10 | caduca 30/8/26, 14:39
 - DEF Diego Rico | precio 3.867.915 EUR | valor 3.867.915 EUR | machine | pujas 0 | caduca 30/8/26, 12:46
+- DEF Javi Rueda | precio 3.909.409 EUR | valor 3.909.409 EUR | rival | ofertas 0 | vende Ramounsitou | caduca 1/9/26, 16:42
 - CEN Matteo Prati | precio 4.742.544 EUR | valor 4.742.544 EUR | machine | pujas 0 | caduca 30/8/26, 12:46
 
 #### Premium a revisar
@@ -96,7 +97,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - Saldo: 38.165.550 EUR
 - Valor plantilla: 213.461.197 EUR
 - Jugadores plantilla: 12
-- Mercado jugable: 37
+- Mercado jugable: 36
 - Entrenadores ignorados: 1
 - Estrategia: Construir un equipo ganador priorizando 11 titulares reales, gangas de mercado y revalorizacion.
 
@@ -117,35 +118,36 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 #### Mercado que caduca antes
 
-- DEF Asencio | precio 7.999.999 EUR | valor 3.103.061 EUR | rival | ofertas 1 | vende Gabriele28 | caduca 29/8/26, 17:26 | estado injured
-- DEL Sorloth | precio 39.999.999 EUR | valor 15.620.090 EUR | rival | ofertas 1 | vende Gabriele28 | caduca 29/8/26, 17:28 | estado injured
 - CEN D. Villares | precio 1.983.085 EUR | valor 1.887.010 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 30/8/26, 0:07
-- DEL Danjuma | precio 5.235.075 EUR | valor 5.347.215 EUR | rival | ofertas 1 | vende Archiking | caduca 30/8/26, 1:55
 - CEN Blanco | precio 15.048.694 EUR | valor 15.030.616 EUR | rival | ofertas 1 | vende Archiking | caduca 30/8/26, 1:55
-- CEN Marc Roca | precio 10.000.000 EUR | valor 6.430.739 EUR | rival | ofertas 1 | vende West Jamon C.F.D. | caduca 30/8/26, 4:45
 - CEN Dotor | precio 4.177.749 EUR | valor 4.177.749 EUR | machine | pujas 1 | caduca 30/8/26, 10:53
 - CEN Hugo Sotelo | precio 1.246.370 EUR | valor 1.246.370 EUR | machine | pujas 0 | caduca 30/8/26, 10:53
 - DEL Kevin | precio 705.075 EUR | valor 705.075 EUR | machine | pujas 0 | caduca 30/8/26, 10:53
 - DEL Gerard | precio 27.780.049 EUR | valor 27.780.049 EUR | machine | pujas 2 | caduca 30/8/26, 10:53
-- DEF Recio | precio 935.600 EUR | valor 935.600 EUR | machine | pujas 0 | caduca 30/8/26, 10:53
+- DEF Recio | precio 935.600 EUR | valor 935.600 EUR | machine | pujas 2 | caduca 30/8/26, 10:53
 - DEF Areso | precio 2.636.912 EUR | valor 2.636.912 EUR | machine | pujas 0 | caduca 30/8/26, 10:53
+- DEF Junior | precio 2.590.677 EUR | valor 2.590.677 EUR | machine | pujas 0 | caduca 30/8/26, 10:53 | estado injured
+- DEF Murillo | precio 1.371.790 EUR | valor 1.371.790 EUR | machine | pujas 0 | caduca 30/8/26, 10:53 | estado injured
+- DEL Paco Cortes | precio 640.542 EUR | valor 640.542 EUR | machine | pujas 0 | caduca 30/8/26, 10:53
+- CEN Koke | precio 18.877.844 EUR | valor 18.877.844 EUR | machine | pujas 1 | caduca 30/8/26, 10:53
 
 #### Baratos a revisar
 
 - DEL Paco Cortes | precio 640.542 EUR | valor 640.542 EUR | machine | pujas 0 | caduca 30/8/26, 10:53
 - DEL Kevin | precio 705.075 EUR | valor 705.075 EUR | machine | pujas 0 | caduca 30/8/26, 10:53
-- DEF Recio | precio 935.600 EUR | valor 935.600 EUR | machine | pujas 0 | caduca 30/8/26, 10:53
+- DEF Recio | precio 935.600 EUR | valor 935.600 EUR | machine | pujas 2 | caduca 30/8/26, 10:53
+- CEN Carlos Macià | precio 1.000.000 EUR | valor 819.300 EUR | rival | ofertas 0 | vende West Jamon C.F.D. | caduca 1/9/26, 18:56
 - CEN Hugo Sotelo | precio 1.246.370 EUR | valor 1.246.370 EUR | machine | pujas 0 | caduca 30/8/26, 10:53
 - CEN D. Villares | precio 1.983.085 EUR | valor 1.887.010 EUR | rival | ofertas 1 | vende Ramounsitou | caduca 30/8/26, 0:07
 - DEF H. Rincón | precio 2.460.291 EUR | valor 2.460.291 EUR | machine | pujas 0 | caduca 30/8/26, 10:53
 - DEF Areso | precio 2.636.912 EUR | valor 2.636.912 EUR | machine | pujas 0 | caduca 30/8/26, 10:53
 - CEN Dotor | precio 4.177.749 EUR | valor 4.177.749 EUR | machine | pujas 1 | caduca 30/8/26, 10:53
-- DEF Bright Ede | precio 4.500.000 EUR | valor 3.529.185 EUR | rival | ofertas 1 | vende West Jamon C.F.D. | caduca 30/8/26, 18:19
 - CEN Francho | precio 4.700.000 EUR | valor 2.827.683 EUR | rival | ofertas 1 | vende Gabriele28 | caduca 30/8/26, 12:00
 
 #### Premium a revisar
 
 - DEL Lamine Yamal | precio 160.000.000 EUR | valor 124.144.127 EUR | rival | ofertas 1 | vende West Jamon C.F.D. | caduca 30/8/26, 18:22
+- DEL Mikautadze | precio 72.969.361 EUR | valor 72.969.361 EUR | rival | ofertas 0 | vende Mynavo Kyiv | caduca 1/9/26, 17:33
 - POR Dmitrovic | precio 43.000.000 EUR | valor 41.631.576 EUR | rival | ofertas 0 | vende Mynavo Kyiv | caduca 31/8/26, 12:18
 - POR Sergio Herrera | precio 35.924.225 EUR | valor 35.924.225 EUR | rival | ofertas 0 | vende Mynavo Kyiv | caduca 1/9/26, 12:38
 - CEN Kubo | precio 34.900.000 EUR | valor 28.068.098 EUR | rival | ofertas 0 | vende Gabriele28 | caduca 1/9/26, 2:05
@@ -160,7 +162,6 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - Asencio: estado injured en mercado.
 - Sorloth: estado injured en mercado.
 - Gattoni: estado out_of_league en mercado.
-- Andrés Martín: estado injured en mercado.
 - Hay 1 entrenadores en mercado: ignorar por funcion Premium bloqueada.
 
 ### Los Mastuerzos
@@ -195,7 +196,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - POR Diego Conde | precio 2.267.385 EUR | valor 2.207.285 EUR | machine | pujas 0 | caduca 29/8/26, 22:10 | estado injured
 - DEL Gorka Carrera | precio 643.470 EUR | valor 633.983 EUR | machine | pujas 0 | caduca 29/8/26, 22:10
 - CEN Hugo Pérez | precio 1.106.237 EUR | valor 1.078.240 EUR | machine | pujas 0 | caduca 29/8/26, 22:10
-- CEN Mikel Rodriguez | precio 1.995.480 EUR | valor 2.137.727 EUR | machine | pujas 1 | caduca 29/8/26, 22:10
+- CEN Mikel Rodriguez | precio 1.995.480 EUR | valor 2.137.727 EUR | machine | pujas 2 | caduca 29/8/26, 22:10
 - POR Szczesny | precio 1.783.232 EUR | valor 1.745.466 EUR | machine | pujas 0 | caduca 29/8/26, 22:10
 - DEF Areso | precio 2.689.202 EUR | valor 2.636.912 EUR | machine | pujas 0 | caduca 29/8/26, 22:10
 - CEN Risco | precio 579.866 EUR | valor 572.924 EUR | machine | pujas 0 | caduca 29/8/26, 22:10
@@ -211,7 +212,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 - CEN Hugo Pérez | precio 1.106.237 EUR | valor 1.078.240 EUR | machine | pujas 0 | caduca 29/8/26, 22:10
 - CEN M. Casadó | precio 1.397.197 EUR | valor 1.370.870 EUR | machine | pujas 0 | caduca 29/8/26, 22:10
 - POR Szczesny | precio 1.783.232 EUR | valor 1.745.466 EUR | machine | pujas 0 | caduca 29/8/26, 22:10
-- CEN Mikel Rodriguez | precio 1.995.480 EUR | valor 2.137.727 EUR | machine | pujas 1 | caduca 29/8/26, 22:10
+- CEN Mikel Rodriguez | precio 1.995.480 EUR | valor 2.137.727 EUR | machine | pujas 2 | caduca 29/8/26, 22:10
 - DEF Areso | precio 2.689.202 EUR | valor 2.636.912 EUR | machine | pujas 0 | caduca 29/8/26, 22:10
 - CEN Bardeli | precio 3.224.036 EUR | valor 3.217.312 EUR | machine | pujas 0 | caduca 29/8/26, 22:10
 
