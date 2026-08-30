@@ -1,10 +1,10 @@
 # ChatGPT Mobile Pack - Ligas Fantasy
 
-Actualizado: 2026-08-30T00:12:18.642Z
+Actualizado: 2026-08-30T06:33:53.126Z
 
 ## Fuente de verdad para informes
 
-Datos Fantasy actuales: 2026-08-30T00:12:18.642Z
+Datos Fantasy actuales: 2026-08-30T06:33:53.126Z
 
 Reglas obligatorias para ChatGPT:
 - Plantilla, saldo, mercado, pujas, actividad y once guardado actuales salen de este pack/radar, no de capturas antiguas ni memoria de conversaciones.
@@ -32,7 +32,7 @@ Formato obligatorio de cada informe de liga:
 
 Estado actual detectado por liga:
 - Los Primacos (los-primacos): saldo 21.315.207 EUR | valor 236.448.740 EUR | plantilla 15 | mercado jugable 16 | ENT ignorados 1
-- Fantasmas League (fantasmas-league): saldo 38.165.550 EUR | valor 215.316.240 EUR | plantilla 12 | mercado jugable 33 | pujas/inversion detectada 20.694.509 EUR | ENT ignorados 1
+- Fantasmas League (fantasmas-league): saldo 38.165.550 EUR | valor 215.316.240 EUR | plantilla 12 | mercado jugable 33 | pujas/inversion detectada 21.325.899 EUR | ENT ignorados 1
 - Los Mastuerzos (los-mastuerzos): saldo 864.906 EUR | valor 240.678.698 EUR | plantilla 13 | mercado jugable 14 | ENT ignorados 2
 
 ## Resumen movil de 10 minutos
@@ -43,7 +43,7 @@ Regla: el radar no ejecuta acciones. Los puntos actuales pesan poco; un 0 no es 
 ### Los Primacos
 
 Saldo 21.315.207 EUR | plantilla 15 | mercado 16 | puesto 1/12, a 0 del lider
-Alertas: 1 entrenador(es) ignorados por Premium.
+Alertas: 14 jugador(es) jugables caducan en menos de 8 horas. / 1 entrenador(es) ignorados por Premium.
 
 Once recomendado:
 4-3-3: POR Á. Valles / DEF Javi Rodríguez / DEF Javi Rueda / DEF Koski / DEF Nuñez / CEN Ibañez / CEN Valverde / CEN Mikel Rodriguez / DEL Dolan / DEL R. Brugué / DEL Oyarzabal
@@ -86,7 +86,7 @@ Ventas / huecos:
 ### Fantasmas League
 
 Saldo 38.165.550 EUR | plantilla 12 | mercado 33 | puesto 3/10, a 34 del lider
-Alertas: Isi en plantilla aparece como injured. / 1 entrenador(es) ignorados por Premium.
+Alertas: Isi en plantilla aparece como injured. / 14 jugador(es) jugables caducan en menos de 8 horas. / 1 entrenador(es) ignorados por Premium.
 
 Once recomendado:
 3-5-2: POR Remiro / DEF Huijsen / DEF Djene / DEF Fran García / CEN Mario Soriano / CEN Germán V. / CEN Izan M. / CEN Agoumé / CEN R. Terrats / DEL Iñigo Vicente / DEL Isi
@@ -299,7 +299,7 @@ Prioridades:
 
 # Brief Diario Ligas Fantasy
 
-Datos API: 2026-08-30T00:12:18.642Z
+Datos API: 2026-08-30T06:33:53.126Z
 Semana actual: 3
 
 ## Objetivo
@@ -530,8 +530,8 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 # Cola diaria de noticias y titularidad
 
-Generada: 30/8/26, 2:12
-Datos Fantasy: 30/8/26, 2:12
+Generada: 30/8/26, 8:33
+Datos Fantasy: 30/8/26, 8:33
 
 Uso: esta es la lista corta que ChatGPT/Codex debe verificar en internet antes de cerrar pujas fuertes o el once. El radar solo aconseja; Ramon ejecuta todo manualmente.
 
@@ -607,12 +607,12 @@ Situacion: puesto 3/10, a 34 del lider.
 - DEF Areso (sin equipo): SOLO SI ESTA BARATO por 2.636.912 EUR; Interesante, pero conviene verificar titularidad.
   Precio: 2.636.912 EUR | valor: 2.569.893 EUR | score interno: 68.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Areso para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
+- CEN G. Villar (sin equipo): VIGILAR por 8.376.400 EUR; Puede servir si mejora titularidad/precio.
+  Precio: 8.376.400 EUR | valor: 8.925.102 EUR | score interno: 66.
+  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de G. Villar para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
 - DEL Kevin (sin equipo): VIGILAR por 705.075 EUR; Puede servir si mejora titularidad/precio.
   Precio: 705.075 EUR | valor: 695.785 EUR | score interno: 66.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Kevin para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
-- DEF Lejeune (sin equipo): SOLO SI ES CLARO por 32.402.143 EUR; Consume demasiado saldo para una recomendacion automatica.
-  Precio: 32.402.143 EUR | valor: 31.243.647 EUR | score interno: 56.
-  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Lejeune para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
 
 ## Los Mastuerzos
 
@@ -661,8 +661,8 @@ Usa esta cola. Busca en internet noticias recientes, onces probables, rol previs
 
 # Informe Inteligente Ligas Fantasy
 
-Generado: 30/8/26, 2:12
-Datos API: 30/8/26, 2:12
+Generado: 30/8/26, 8:33
+Datos API: 30/8/26, 8:33
 Semana actual: 3
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -681,6 +681,7 @@ Semana actual: 3
 
 ### Alertas
 
+- 14 jugador(es) jugables caducan en menos de 8 horas.
 - 1 entrenador(es) ignorados por Premium.
 
 ### Situacion
@@ -760,7 +761,7 @@ Formacion: 4-3-3 | puntuacion interna 849
 
 - Saldo: 38.165.550 EUR
 - Valor plantilla: 215.316.240 EUR
-- Inversion/pujas comprometidas detectadas: 20.694.509 EUR
+- Inversion/pujas comprometidas detectadas: 21.325.899 EUR
 - Liga: puesto 3/10, 110 puntos, a 34 del lider (Archiking)
 - Ranking por valor de plantilla: 4/10
 - Plantilla: 12 jugadores
@@ -769,6 +770,7 @@ Formacion: 4-3-3 | puntuacion interna 849
 ### Alertas
 
 - Isi en plantilla aparece como injured.
+- 14 jugador(es) jugables caducan en menos de 8 horas.
 - 1 entrenador(es) ignorados por Premium.
 
 ### Situacion

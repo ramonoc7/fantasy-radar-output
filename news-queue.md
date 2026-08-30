@@ -1,7 +1,7 @@
 # Cola diaria de noticias y titularidad
 
-Generada: 30/8/26, 2:12
-Datos Fantasy: 30/8/26, 2:12
+Generada: 30/8/26, 8:33
+Datos Fantasy: 30/8/26, 8:33
 
 Uso: esta es la lista corta que ChatGPT/Codex debe verificar en internet antes de cerrar pujas fuertes o el once. El radar solo aconseja; Ramon ejecuta todo manualmente.
 
@@ -77,12 +77,12 @@ Situacion: puesto 3/10, a 34 del lider.
 - DEF Areso (sin equipo): SOLO SI ESTA BARATO por 2.636.912 EUR; Interesante, pero conviene verificar titularidad.
   Precio: 2.636.912 EUR | valor: 2.569.893 EUR | score interno: 68.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Areso para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
+- CEN G. Villar (sin equipo): VIGILAR por 8.376.400 EUR; Puede servir si mejora titularidad/precio.
+  Precio: 8.376.400 EUR | valor: 8.925.102 EUR | score interno: 66.
+  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de G. Villar para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
 - DEL Kevin (sin equipo): VIGILAR por 705.075 EUR; Puede servir si mejora titularidad/precio.
   Precio: 705.075 EUR | valor: 695.785 EUR | score interno: 66.
   Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Kevin para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
-- DEF Lejeune (sin equipo): SOLO SI ES CLARO por 32.402.143 EUR; Consume demasiado saldo para una recomendacion automatica.
-  Precio: 32.402.143 EUR | valor: 31.243.647 EUR | score interno: 56.
-  Buscar: Busca noticias recientes, lesion, sancion, once probable, rol previsto, competencia directa, minutos y titularidades de la temporada pasada de Lejeune para LALIGA Fantasy. Devuelve: titularidad probable de esta jornada, titularidad esperada a largo plazo, riesgo, y si conviene fichar/alinear en Fantasmas League. No ejecutes acciones: solo aconseja.
 
 ## Los Mastuerzos
 

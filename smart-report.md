@@ -1,7 +1,7 @@
 # Informe Inteligente Ligas Fantasy
 
-Generado: 30/8/26, 2:12
-Datos API: 30/8/26, 2:12
+Generado: 30/8/26, 8:33
+Datos API: 30/8/26, 8:33
 Semana actual: 3
 
 > Modo: CONSEJO SOLO. El radar nunca compra, vende, puja ni cambia el once por si mismo; Ramon confirma todo manualmente en Fantasy.
@@ -20,6 +20,7 @@ Semana actual: 3
 
 ### Alertas
 
+- 14 jugador(es) jugables caducan en menos de 8 horas.
 - 1 entrenador(es) ignorados por Premium.
 
 ### Situacion
@@ -99,7 +100,7 @@ Formacion: 4-3-3 | puntuacion interna 849
 
 - Saldo: 38.165.550 EUR
 - Valor plantilla: 215.316.240 EUR
-- Inversion/pujas comprometidas detectadas: 20.694.509 EUR
+- Inversion/pujas comprometidas detectadas: 21.325.899 EUR
 - Liga: puesto 3/10, 110 puntos, a 34 del lider (Archiking)
 - Ranking por valor de plantilla: 4/10
 - Plantilla: 12 jugadores
@@ -108,6 +109,7 @@ Formacion: 4-3-3 | puntuacion interna 849
 ### Alertas
 
 - Isi en plantilla aparece como injured.
+- 14 jugador(es) jugables caducan en menos de 8 horas.
 - 1 entrenador(es) ignorados por Premium.
 
 ### Situacion
