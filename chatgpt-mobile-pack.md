@@ -542,7 +542,7 @@ Separa claramente Los Primacos, Fantasmas League y Los Mastuerzos.
 
 # Cola diaria de noticias y titularidad
 
-Generada: 18/9/26, 16:24
+Generada: 18/9/26, 20:21
 Datos Fantasy: 19/8/26, 13:39
 
 Uso: esta es la lista corta que ChatGPT/Codex debe verificar en internet antes de cerrar pujas fuertes o el once. El radar solo aconseja; Ramon ejecuta todo manualmente.
@@ -683,7 +683,7 @@ Usa esta cola. Busca en internet noticias recientes, onces probables, rol previs
 
 # Informe Inteligente Ligas Fantasy
 
-Generado: 18/9/26, 16:24
+Generado: 18/9/26, 20:21
 Datos API: 19/8/26, 13:39
 Semana actual: 1
 
