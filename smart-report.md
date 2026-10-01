@@ -1,6 +1,6 @@
 # Informe Inteligente Ligas Fantasy
 
-Generado: 1/10/26, 1:42
+Generado: 1/10/26, 7:41
 Datos API: 19/8/26, 13:39
 Semana actual: 1
 
