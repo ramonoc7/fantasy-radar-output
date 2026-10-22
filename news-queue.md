@@ -1,6 +1,6 @@
 # Cola diaria de noticias y titularidad
 
-Generada: 22/10/26, 6:32
+Generada: 22/10/26, 12:03
 Datos Fantasy: 19/8/26, 13:39
 
 Uso: esta es la lista corta que ChatGPT/Codex debe verificar en internet antes de cerrar pujas fuertes o el once. El radar solo aconseja; Ramon ejecuta todo manualmente.
