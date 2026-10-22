@@ -1,7 +1,7 @@
 # Estado radar cloud
 
 - Estado: error
-- Momento: 2026-10-21T23:14:11Z
+- Momento: 2026-10-22T04:32:28Z
 - Datos privados Fantasy: no actualizados.
 - Motivo probable: la sesión privada de Fantasy ha caducado o sus credenciales ya no son válidas.
 - Acción necesaria: recapturar la sesión desde el iPhone y actualizar el secreto FANTASY_API_SESSION_JSON.
